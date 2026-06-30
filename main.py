@@ -3,10 +3,10 @@ import requests
 import feedparser
 import json
 import re
-import urllib.parse  # 修正ポイント：URLの変換用に追加
+import urllib.parse
+from datetime import datetime
 from google import genai
 
-# 1. ニュースを集めたい4つのカテゴリと検索キーワード
 CATEGORIES = {
     "広告": "広告 マーケティング ブランディング",
     "経済": "経済 景気 金利 為替",
@@ -15,13 +15,11 @@ CATEGORIES = {
 }
 
 def fetch_news(query):
-    # 修正ポイント：キーワードの間のスペースをURLで使える形に安全に変換します
     encoded_query = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={encoded_query}&hl=ja&gl=JP&ceid=JP:ja"
     feed = feedparser.parse(url)
     articles = []
-    # 各カテゴリ最新10件を取得してAIに渡す
-    for entry in feed.entries[:10]:
+    for entry in feed.entries[:8]:
         articles.append({
             "title": entry.title,
             "link": entry.link
@@ -34,16 +32,10 @@ def main():
         articles = fetch_news(query)
         if not articles:
             continue
-        
         all_news_text += f"\n【カテゴリ: {category}】\n"
         for a in articles:
             all_news_text += f"- タイトル: {a['title']}\n  URL: {a['link']}\n"
 
-    if not all_news_text:
-        print("ニュースデータを取得できませんでした。")
-        return
-
-    # 2. Gemini APIの準備
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Gemini APIキーが設定されていません。")
@@ -51,63 +43,113 @@ def main():
         
     client = genai.Client(api_key=api_key)
 
-    # 3. Geminiへの指示（プロンプト）の作成
     prompt = f"""
-以下のニュース情報を元に、情報収集のための厳選ニュースまとめを作成してください。
+以下のニュース情報から、各カテゴリごとに重要なニュースを最大3つ厳選し、3行の箇条書きで要約してください。
+出力は、必ず以下の構造のJSON形式（リスト）のみにしてください。他の解説は一切含めないでください。
 
-ターゲットカテゴリ：
-- 広告
-- 経済
-- 世界企業情勢
-- 世界情勢
-
-【条件】
-1. 上記の4つのカテゴリごとに、特に重要だと思われるニュースを最大3つずつ厳選してください。
-2. 厳選した各ニュースについて、「元のタイトルを分かりやすく補正したタイトル」「ニュースの重要なポイント3行（箇条書き）」「元のURL」を整理してください。
-3. 出力は必ず以下のJSONフォーマットのみにしてください。それ以外の挨拶や解説のテキストは一切含めないでください。出力は ```json と ``` で囲んでください。
-
-{{
-  "slack": "Slackに投稿する用のテキスト。Markdown形式を使い、見出し（*や_など）や絵文字なども適度に入れて読みやすくスタイリッシュに装飾してください。",
-  "html": "GitHub Pagesとして公開する用の、完全なHTMLコード。<!DOCTYPE html>から始めてください。Bootstrap5のCDNリンクを読み込み、ダークモード風（背景が暗め）の非常に見やすくオシャレなダッシュボード風デザインにしてください。ニュースのタイトルは元のURLへのリンク（<a>タグ、target='_blank'付き）にしてください。"
-}}
+[
+  {{
+    "category": "カテゴリ名",
+    "title": "分かりやすく書き直したタイトル",
+    "url": "元のURL",
+    "summary": [
+      "要約ポイント1",
+      "要約ポイント2",
+      "要約ポイント3"
+    ]
+  }}
+]
 
 【ニュース元データ】
 {all_news_text}
 """
 
-    # 4. Geminiに要約とHTMLの生成を依頼
     response = client.models.generate_content(
         model='gemini-2.5-flash',
         contents=prompt
     )
     
     response_text = response.text
-
-    # 5. 生成されたJSONデータを解析
     match = re.search(r'```json\s*(.*?)\s*```', response_text, re.DOTALL)
     json_str = match.group(1) if match else response_text
     
     try:
-        data = json.loads(json_str)
-        slack_text = data.get("slack", "")
-        html_text = data.get("html", "")
+        new_stories = json.loads(json_str)
+        today_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+        for story in new_stories:
+            story["date"] = today_str
+            story["id"] = urllib.parse.quote(story["url"])[-20:] 
+
+        # 既存の蓄積データを読み込み
+        history_file = "news_data.json"
+        if os.path.exists(history_file):
+            with open(history_file, "r", encoding="utf-8") as f:
+                try:
+                    history_data = json.load(f)
+                except:
+                    history_data = []
+        else:
+            history_data = []
+            
+        # 重複排除しながら先頭（最新）に追加
+        existing_urls = {story["url"] for story in history_data}
+        added_count = 0
+        newly_added_stories = []
+        for story in new_stories:
+            if story["url"] not in existing_urls:
+                history_data.insert(0, story)
+                newly_added_stories.append(story)
+                added_count += 1
+                
+        # 溜まりすぎ防止（最新150件まで保持）
+        history_data = history_data[:150]
         
-        # Slackへ通知
-        slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
-        if slack_webhook_url and slack_text:
-            payload = {"text": slack_text}
-            requests.post(slack_webhook_url, json=payload)
-            print("Slackへの通知が完了しました。")
+        with open(history_file, "w", encoding="utf-8") as f:
+            json.dump(history_data, f, ensure_ascii=False, indent=2)
             
-        # HTMLファイルとして保存
-        if html_text:
-            with open("index.html", "w", encoding="utf-8") as f:
-                f.write(html_text)
-            print("index.htmlの保存が完了しました。")
-            
+        print(f"新着ニュースを {added_count} 件蓄積しました。")
+        
+        # 【復活！】新着ニュースがある場合のみ、綺麗に装飾してSlackに送信
+        if added_count > 0:
+            slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
+            if slack_webhook_url:
+                slack_text = "📢 *【本日の厳選ニュースサマリー】* 📢\n━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+                
+                # カテゴリごとに分類
+                cat_stories = {}
+                for story in newly_added_stories:
+                    cat = story["category"]
+                    if cat not in cat_stories:
+                        cat_stories[cat] = []
+                    cat_stories[cat].append(story)
+                
+                emojis = {"広告": "🎨", "経済": "📈", "世界企業情勢": "🌐", "世界情勢": "🌍"}
+                
+                for cat, stories in cat_stories.items():
+                    emoji = emojis.get(cat, "📄")
+                    slack_text += f"\n{emoji} *{cat}*\n"
+                    for idx, story in enumerate(stories, 1):
+                        slack_text += f"{idx}. *{story['title']}*\n"
+                        for s in story["summary"]:
+                            slack_text += f"   • {s}\n"
+                        slack_text += f"   🔗 <{story['url']}|記事を詳しく読む>\n"
+                
+                slack_text += "\n━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 *マイニュースルームWebサイト（お気に入り・既読機能付き）も更新されました！*"
+                
+                payload = {"text": slack_text}
+                response_slack = requests.post(slack_webhook_url, json=payload)
+                if response_slack.status_code == 200:
+                    print("Slackへの通知が完了しました。")
+                else:
+                    print(f"Slack送信エラー: {response_slack.status_code} - {response_slack.text}")
+            else:
+                print("SLACK_WEBHOOK_URL が設定されていません。")
+        else:
+            print("新着ニュースがなかったため、Slack通知はスキップされました。")
+        
     except Exception as e:
-        print("JSONの解析、または処理中にエラーが発生しました:", e)
-        print("Geminiの生応答:", response_text)
+        print("処理中にエラーが発生しました:", e)
+        print("生応答:", response_text)
 
 if __name__ == "__main__":
     main()
