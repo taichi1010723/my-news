@@ -102,44 +102,7 @@ def main():
         with open(history_file, "w", encoding="utf-8") as f:
             json.dump(history_data, f, ensure_ascii=False, indent=2)
             
-        print(f"新着ニュースを {added_count} 件蓄積しました。")
-        
-        # 【テスト用修正】：新着が0件でも、今回取得したニュースを強制的にSlackへ送る
-        slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
-        if slack_webhook_url:
-            slack_text = "📢 *【URLテスト：強制ニュース通知】* 📢\n━━━━━━━━━━━━━━━━━━━━━━━━━\n"
-            if added_count == 0:
-                slack_text += "⚠️ _※新着ニュースはありませんが、URLテストのため強制送信しています。_\n"
-            
-            cat_stories = {}
-            for story in new_stories: # 全件送る
-                cat = story["category"]
-                if cat not in cat_stories:
-                    cat_stories[cat] = []
-                cat_stories[cat].append(story)
-            
-            emojis = {"広告": "🎨", "経済": "📈", "世界企業情勢": "🌐", "世界情勢": "🌍"}
-            
-            for cat, stories in cat_stories.items():
-                emoji = emojis.get(cat, "📄")
-                slack_text += f"\n{emoji} *{cat}*\n"
-                for idx, story in enumerate(stories, 1):
-                    slack_text += f"{idx}. *{story['title']}*\n"
-                    for s in story["summary"]:
-                        slack_text += f"   • {s}\n"
-                    slack_text += f"   🔗 <{story['url']}|記事を詳しく読む>\n"
-            
-            slack_text += "\n━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 *マイニュースルームWebサイトも更新されました！*"
-            
-            payload = {"text": slack_text}
-            response_slack = requests.post(slack_webhook_url, json=payload)
-            if response_slack.status_code == 200:
-                print("Slackへの通知が成功しました！")
-            else:
-                print(f"Slack送信エラーが発生しました。ステータスコード: {response_slack.status_code}")
-                print(f"エラー内容: {response_slack.text}")
-        else:
-            print("エラー：SLACK_WEBHOOK_URL がGitHubのSettingsに登録されていないか、名前が間違っています。")
+        print(f"新着ニュースを {added_count} 件蓄積しました。ニュースサイトが自動更新されます。")
         
     except Exception as e:
         print("処理中にエラーが発生しました:", e)
