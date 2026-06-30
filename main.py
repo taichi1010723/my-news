@@ -80,7 +80,6 @@ def main():
             story["date"] = today_str
             story["id"] = urllib.parse.quote(story["url"])[-20:] 
 
-        # 既存の蓄積データを読み込み
         history_file = "news_data.json"
         if os.path.exists(history_file):
             with open(history_file, "r", encoding="utf-8") as f:
@@ -91,17 +90,13 @@ def main():
         else:
             history_data = []
             
-        # 重複排除しながら先頭（最新）に追加
         existing_urls = {story["url"] for story in history_data}
         added_count = 0
-        newly_added_stories = []
         for story in new_stories:
             if story["url"] not in existing_urls:
                 history_data.insert(0, story)
-                newly_added_stories.append(story)
                 added_count += 1
                 
-        # 溜まりすぎ防止（最新150件まで保持）
         history_data = history_data[:150]
         
         with open(history_file, "w", encoding="utf-8") as f:
@@ -109,47 +104,45 @@ def main():
             
         print(f"新着ニュースを {added_count} 件蓄積しました。")
         
-        # 【復活！】新着ニュースがある場合のみ、綺麗に装飾してSlackに送信
-        if added_count > 0:
-            slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
-            if slack_webhook_url:
-                slack_text = "📢 *【本日の厳選ニュースサマリー】* 📢\n━━━━━━━━━━━━━━━━━━━━━━━━━\n"
-                
-                # カテゴリごとに分類
-                cat_stories = {}
-                for story in newly_added_stories:
-                    cat = story["category"]
-                    if cat not in cat_stories:
-                        cat_stories[cat] = []
-                    cat_stories[cat].append(story)
-                
-                emojis = {"広告": "🎨", "経済": "📈", "世界企業情勢": "🌐", "世界情勢": "🌍"}
-                
-                for cat, stories in cat_stories.items():
-                    emoji = emojis.get(cat, "📄")
-                    slack_text += f"\n{emoji} *{cat}*\n"
-                    for idx, story in enumerate(stories, 1):
-                        slack_text += f"{idx}. *{story['title']}*\n"
-                        for s in story["summary"]:
-                            slack_text += f"   • {s}\n"
-                        slack_text += f"   🔗 <{story['url']}|記事を詳しく読む>\n"
-                
-                slack_text += "\n━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 *マイニュースルームWebサイト（お気に入り・既読機能付き）も更新されました！*"
-                
-                payload = {"text": slack_text}
-                response_slack = requests.post(slack_webhook_url, json=payload)
-                if response_slack.status_code == 200:
-                    print("Slackへの通知が完了しました。")
-                else:
-                    print(f"Slack送信エラー: {response_slack.status_code} - {response_slack.text}")
+        # 【テスト用修正】：新着が0件でも、今回取得したニュースを強制的にSlackへ送る
+        slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
+        if slack_webhook_url:
+            slack_text = "📢 *【URLテスト：強制ニュース通知】* 📢\n━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+            if added_count == 0:
+                slack_text += "⚠️ _※新着ニュースはありませんが、URLテストのため強制送信しています。_\n"
+            
+            cat_stories = {}
+            for story in new_stories: # 全件送る
+                cat = story["category"]
+                if cat not in cat_stories:
+                    cat_stories[cat] = []
+                cat_stories[cat].append(story)
+            
+            emojis = {"広告": "🎨", "経済": "📈", "世界企業情勢": "🌐", "世界情勢": "🌍"}
+            
+            for cat, stories in cat_stories.items():
+                emoji = emojis.get(cat, "📄")
+                slack_text += f"\n{emoji} *{cat}*\n"
+                for idx, story in enumerate(stories, 1):
+                    slack_text += f"{idx}. *{story['title']}*\n"
+                    for s in story["summary"]:
+                        slack_text += f"   • {s}\n"
+                    slack_text += f"   🔗 <{story['url']}|記事を詳しく読む>\n"
+            
+            slack_text += "\n━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 *マイニュースルームWebサイトも更新されました！*"
+            
+            payload = {"text": slack_text}
+            response_slack = requests.post(slack_webhook_url, json=payload)
+            if response_slack.status_code == 200:
+                print("Slackへの通知が成功しました！")
             else:
-                print("SLACK_WEBHOOK_URL が設定されていません。")
+                print(f"Slack送信エラーが発生しました。ステータスコード: {response_slack.status_code}")
+                print(f"エラー内容: {response_slack.text}")
         else:
-            print("新着ニュースがなかったため、Slack通知はスキップされました。")
+            print("エラー：SLACK_WEBHOOK_URL がGitHubのSettingsに登録されていないか、名前が間違っています。")
         
     except Exception as e:
         print("処理中にエラーが発生しました:", e)
-        print("生応答:", response_text)
 
 if __name__ == "__main__":
     main()
