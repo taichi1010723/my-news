@@ -2,9 +2,8 @@ name: Auto News Summary
 
 on:
   schedule:
-    # 毎日日本時間の朝7時（UTC時間の前日22:00）に自動実行
     - cron: '0 22 * * *'
-  workflow_dispatch: # ボタンを押して手動で今すぐ実行することもできるようにします
+  workflow_dispatch:
 
 jobs:
   build:
@@ -26,13 +25,11 @@ jobs:
     - name: Run script
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
       run: python main.py
 
     - name: Commit and Push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add index.html
-        # 変更がある場合のみサイトを更新
-        git diff --cached --quiet || (git commit -m "Update news site" && git push)
+        git add news_data.json
+        git diff --cached --quiet || (git commit -m "Update news database" && git push)
