@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>厳選ニュースダッシュボード</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3wL+4Wq3jJc4Nq3N8Zc7E3O4vWzG2V1qA3q5l1N0qC+2+2+6+6/lPz/3n1qV4Jd5VzK6gX6d3C/pG+xQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body {
+            background-color: #1a1a2e;
+            color: #e0e0e0;
+        }
+        .navbar {
+            background-color: #0f3460;
+        }
+        .card {
+            background-color: #0f3460;
+            border: 1px solid #16213e;
+            transition: transform 0.2s ease-in-out;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+        }
+        .card-header {
+            background-color: #16213e;
+            border-bottom: 1px solid #0a1128;
+        }
+        .card-title a {
+            color: #d1d1e0;
+            text-decoration: none;
+        }
+        .card-title a:hover {
+            color: #92a4ff;
+            text-decoration: underline;
+        }
+        .list-unstyled li {
+            margin-bottom: 5px;
+        }
+        .list-unstyled li::before {
+            content: '•';
+            color: #53d3e6; /* Accent color */
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+    </style>
+</head>
+<body data-bs-theme="dark">
+
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#"><i class="fas fa-globe-americas me-2"></i>厳選ニュースダッシュボード</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#広告"><i class="fas fa-bullhorn me-1"></i>広告</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#経済"><i class="fas fa-chart-line me-1"></i>経済</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#世界企業情勢"><i class="fas fa-building me-1"></i>世界企業情勢</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#世界情勢"><i class="fas fa-earth-africa me-1"></i>世界情勢</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container my-5">
+        <h2 class="text-center mb-5 text-primary">厳選ニュースまとめ (2026年5月29日時点)</h2>
+
+        <section id="広告" class="mb-5">
+            <div class="card-header bg-darker-blue py-3 mb-4 rounded-3">
+                <h4 class="mb-0 text-white-50"><i class="fas fa-bullhorn me-2 text-info"></i>広告カテゴリ</h4>
+            </div>
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVdjdua281ZHhValp6QWxKdmhFNmwyTVFtTUs5OWRwei1rN0ZlU05tTFRhN1k5YXVLTWk2TnE3TkhmWDhCeVQzUV95TE8tc3BUd2lIS010WDF2OGpEWFBDVS1hRktzQQ?oc=5" target="_blank" rel="noopener noreferrer">現代ブランドマーケティングの課題：広告専任体制が引き起こす歪み</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>広告専門部署がブランド戦略全体を俯瞰できないことによる問題点を指摘。</li>
+                                <li>商品開発から広報まで一貫したブランド体験設計の重要性を強調。</li>
+                                <li>企業全体の組織体制と視点の変革が、ブランド価値向上に不可欠。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE10eS1iWms2UklvZldveUZxcXN0V1A2YUJ2UTk5ejJRQmtPa3ZVRVBPU3AyQmpwZFV4X19RU2wxU1duNnd3VUR1eGQ5YzZDYk5qTVhv?oc=5" target="_blank" rel="noopener noreferrer">TikTokが描く2026年戦略：ブランディング、コマース、リード獲得、アプリ広告に注力</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>TikTokがブランディング広告からコマース、リード獲得、アプリ広告へと事業領域を拡大。</li>
+                                <li>短尺動画プラットフォームとしての多様なビジネス活用を推進。</li>
+                                <li>2026年に向けた具体的な成長戦略と、広告主への価値提供を強化。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5tQmxzblBJUHV1b0VueG4tSlFNT0t4ZWEtR3RjSkZqTzBORTZFSGg1blJ6eEdzN19DMXNqTVg1RGZvaGRDYVROejFEOHU4UDZDSzI2elF5dmVQaEZDdEhYbk45OVNDb2s5OWYwVjZCc0Y?oc=5" target="_blank" rel="noopener noreferrer">AI時代におけるブランド価値向上の5原則：アドテック東京2025基調講演より</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>AI活用が進むマーケティングにおいて、ブランド価値向上に不可欠な5つの原則を提示。</li>
+                                <li>データ分析とパーソナライゼーションが、顧客エンゲージメントの鍵となる。</li>
+                                <li>倫理的AI利用と透明性の確保が、ブランド信頼性を築く上で重要。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="経済" class="mb-5">
+            <div class="card-header bg-darker-blue py-3 mb-4 rounded-3">
+                <h4 class="mb-0 text-white-50"><i class="fas fa-chart-line me-2 text-success"></i>経済カテゴリ</h4>
+            </div>
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aVDExVGRPMXZzZG0yRDQwWTZCQmRYdVZ5MTBtTFB6VEZYaWdHQmxSZUFvaGJPQVJwUTRZdWg5SFhPN0ROcDZSa2hsVVE2Nk5UaFo1aDhodkZoTkd6TmlfUGs0OE9aSnM?oc=5" target="_blank" rel="noopener noreferrer">日銀の利上げ0.75%と副作用：元審議委員が語る「円安と物価上昇の非連動性」</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>日銀が政策金利を0.75%に引き上げたが、その副作用への懸念が浮上。</li>
+                                <li>元審議委員は、円安と物価上昇が必ずしも直接連動しないとの見解を示す。</li>
+                                <li>今後の金融政策運営において、多角的な視点での経済状況判断の重要性が増す。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNlpoQkFmU1JFR0RzeWVENlhsTkpkbG5CVnB6LVZ5OWhLa182T1NIdzk1S25INVBYOWlsV1BpXy1ORFNnZlZDbGsxdnBHUW1rYUJyRdIBV0FVX3lxTE9kblZBZHZuR2trUXRZQl8tVElKWnpPdXVnWDNLQWV4cHFWcjF5Z0VrTl9sMkVZZGlVVUIzNTEzTV9wc1dLOXV5NWlINU50YUJnODJJRzI0VQ?oc=5" target="_blank" rel="noopener noreferrer">円安トレンド転換の鍵：強すぎるアメリカ経済の終わりと日本経済への影響</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>長期化する円安は、アメリカ経済の強い成長が背景にあると分析。</li>
+                                <li>米経済の勢いが失速した場合、円安トレンドが転換する可能性を指摘。</li>
+                                <li>日本経済が円安の恩恵を受けつつも、輸入物価上昇の側面で課題を抱える。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWNzNoQ0ZzeFBJbTVGX091bmhmUU9pd3Z1cjAxhYlsWTFTU0lnRERpZmlRakxjcEM5Q1dTLXNNczZhemdhWjN3OUE5MjlOcy1NNEg5QU1wX0IyU00?oc=5" target="_blank" rel="noopener noreferrer">物価高と賃上げ時代の投資戦略：金利ある世界で成功するためのポイント</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>物価上昇と賃金上昇が継続する「金利のある世界」における投資環境を解説。</li>
+                                <li>金利上昇局面で有利な資産と、注意すべきリスクを明確化。</li>
+                                <li>ポートフォリオの見直しや分散投資の重要性が高まると提言。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="世界企業情勢" class="mb-5">
+            <div class="card-header bg-darker-blue py-3 mb-4 rounded-3">
+                <h4 class="mb-0 text-white-50"><i class="fas fa-building me-2 text-warning"></i>世界企業情勢カテゴリ</h4>
+            </div>
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE82RFRBekNBZHY3THJlQWZEOVR1NWdTdVl2czhnVi10NExIN3U4cTdmM0JnbDFZVVRYV0tUMGQ2WkNJRXZwT3dEa2VkOW9oMzFGM2t6UGN3ZnNKTmpmN25KRm1WZXhmelJlNllyZUtnMVVvajhKd01SYkF3NGVIN2s?oc=5" target="_blank" rel="noopener noreferrer">米国で加速する「国家対巨大IT企業」の反独占訴訟：その背景と影響</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>米国司法省と州政府が、GoogleやAmazonなどの巨大IT企業に対し反独占訴訟を強化。</li>
+                                <li>プラットフォームの市場支配力と競争阻害行為が問題視されている。</li>
+                                <li>テクノロジー企業の事業モデルや市場環境に大きな変化をもたらす可能性。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVjRIcXZUTkh3Z3NUWkRQOWV2N2tZQzFJVXhnNWZJYWJsSm13ckNQdUYzbDBkVHN6QnNhOGxLQXVCTk92aWN5NF9WcTLSAU9BVV95cUxOSzhzMGhxdnpkMG95VzBDQXc0cXFEd2tmS1ZvS0swb3Z4cXpCYTFxY091V2RzbVJ4U3ZaNzlPcVpCMzdjRWFEV21uTkZNSjQ0?oc=5" target="_blank" rel="noopener noreferrer">売上40兆円アマゾン、驚異の37.6%成長を支える戦略と成功要因</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>アマゾンが巨大企業規模にもかかわらず高成長を維持するメカニズムを分析。</li>
+                                <li>クラウド事業（AWS）や広告事業の拡大が、EC事業の成長鈍化を補完。</li>
+                                <li>顧客中心主義と絶え間ないイノベーションが高成長の源泉。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XOWp1dmdkRVZrRG5JVXFnOUJEcWJDLVd1YmU3YXF2Q0VzRWlVSm1raTV0OGw1UHNNQXFBamhma3B6OC00b3pRSVc5Yk5fOVppR3p5cw?oc=5" target="_blank" rel="noopener noreferrer">デジタル経済時代のGAFA課税問題：24兆円の税負担回避とその解決策</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>GAFAなどの巨大IT企業による国境を越えた「税負担回避」が世界的な問題に。</li>
+                                <li>デジタル経済への公平な課税を目指し、国際的なルール作りが進行中。</li>
+                                <li>各国の税収確保と、競争条件の公平化が主要な課題。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="世界情勢" class="mb-5">
+            <div class="card-header bg-darker-blue py-3 mb-4 rounded-3">
+                <h4 class="mb-0 text-white-50"><i class="fas fa-earth-africa me-2 text-danger"></i>世界情勢カテゴリ</h4>
+            </div>
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1ZHdYX0MxT1luUW5iNnpLRlJWbWE0TWFmOEVQYjd6WFZtZDEtM3JHOFFiZ3E4TzFjaUN3dXZRVExIaGtDSnI4U2VkTG52cXFjcHlGRkNsZFV1U1k?oc=5" target="_blank" rel="noopener noreferrer">トランプ氏再登板の波紋：欧州の対応、日本の役割、G7が直面する地政学的リスク</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>トランプ氏の外交政策への欧州首脳の警戒と、日本の高市首相のG7での立ち位置を分析。</li>
+                                <li>ウクライナ、イラン、中国を巡るG7内の意見の相違と国際協調の難しさ。</li>
+                                <li>世界のパワーバランスが変動する中での各国の外交戦略と課題を浮き彫りに。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeWdHdUpDYkdsYTRZaFJnX0dHNHNwdC1TQk9uVVU2aEI3OGp4UWdGVlg5RWpubXVpQ1dQN1JiYlZ6VDZJQ0lkNF9MdGxTbnJpNFhMRS1CSENhckpveFlR0gFkQVVfeXFMT1VsYnR3WTdLaUJKck8wZzB6MlFrUjVUTjQ1QW92TktkWHUybGY1RnRvczVBVVRaeGdjU18xRGlIMTQyb1d0LS01Q0hwTU9ELWd5MXRaVFM5UXZTSHFwZ0d6ZXh4dA?oc=5" target="_blank" rel="noopener noreferrer">イラン外相が米国との交渉を否定：トランプ氏の日本などへの海峡護衛要請と中東情勢の緊迫化</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>イラン外相が米国との直接交渉を否定し、中東情勢の緊張が続く。</li>
+                                <li>トランプ氏が日本を含む同盟国に対し、ホルムズ海峡の護衛艦派遣を要求。</li>
+                                <li>米国の外交政策の不安定さが、中東地域の安全保障に不確実性をもたらす。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Q0tlY3RlUk54MGZ5cHQyWUxzV00wWmk3S2RMUU5zdThPN0VoalphTzNraW5GbzZ0TkRSZ2hpVVQ5STlvaTByRFA4SkNmeHRNdVZkQmVBdGFkZlhlRXJhdllmYUpRWklFMWVRV2RDcDBIbnc?oc=5" target="_blank" rel="noopener noreferrer">欧州首脳が中国に急接近：変化する米中関係と日本の外交戦略の行方</a></h5>
+                            <ul class="list-unstyled small">
+                                <li>欧州各国首脳が経済的利益を求め、中国への接近を強めている現状。</li>
+                                <li>米国と中国の関係性にも変化の兆しが見られ、新たな国際秩序形成の動き。</li>
+                                <li>日本は、欧米と中国の動向を見極めつつ、バランスの取れた外交戦略が求められる。</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <footer class="footer mt-auto py-3 bg-dark text-white-50">
+        <div class="container text-center">
+            <small>&copy; 2026 厳選ニュースまとめ. All rights reserved.</small>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
