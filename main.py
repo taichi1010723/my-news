@@ -3,6 +3,7 @@ import requests
 import feedparser
 import json
 import re
+import urllib.parse  # 修正ポイント：URLの変換用に追加
 from google import genai
 
 # 1. ニュースを集めたい4つのカテゴリと検索キーワード
@@ -14,8 +15,9 @@ CATEGORIES = {
 }
 
 def fetch_news(query):
-    # GoogleニュースのRSSフィードURL（日本語、日本地域向け）
-    url = f"https://news.google.com/rss/search?q={query}&hl=ja&gl=JP&ceid=JP:ja"
+    # 修正ポイント：キーワードの間のスペースをURLで使える形に安全に変換します
+    encoded_query = urllib.parse.quote(query)
+    url = f"https://news.google.com/rss/search?q={encoded_query}&hl=ja&gl=JP&ceid=JP:ja"
     feed = feedparser.parse(url)
     articles = []
     # 各カテゴリ最新10件を取得してAIに渡す
