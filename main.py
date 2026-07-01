@@ -35,14 +35,30 @@ def create_summary_image(stories, output_path):
     img = Image.new('RGB', (800, 1000), color='#1e1e2e')
     draw = ImageDraw.Draw(img)
     
-    # フォントの設定（Linuxの標準日本語フォントを指定、なければデフォルト）
-    font_paths = ["/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc", "/usr/share/fonts/truetype/fonts-japanese-gothic.ttf"]
+    # エラー回避のため、確実な日本語フォントのURLから自動調達する
+    font_url = "https://raw.githubusercontent.com/shogo82148/fonts-noto-sans-jp/master/NotoSansJP-Regular.ttf"
+    font_path = "NotoSansJP-Regular.ttf"
+    
     font_main = None
-    for p in font_paths:
-        if os.path.exists(p):
-            font_main = ImageFont.truetype(p, 18)
-            font_title = ImageFont.truetype(p, 28)
-            break
+    font_title = None
+    
+    if not os.path.exists(font_path):
+        try:
+            print("日本語フォントを自動ダウンロード中...")
+            r = requests.get(font_url, timeout=15)
+            if r.status_code == 200:
+                with open(font_path, 'wb') as f:
+                    f.write(r.content)
+        except Exception as e:
+            print(f"フォントダウンロードエラー: {e}")
+
+    if os.path.exists(font_path):
+        try:
+            font_main = ImageFont.truetype(font_path, 18)
+            font_title = ImageFont.truetype(font_path, 28)
+        except:
+            pass
+
     if not font_main:
         font_main = ImageFont.load_default()
         font_title = ImageFont.load_default()
@@ -60,21 +76,17 @@ def create_summary_image(stories, output_path):
         important_stories = stories[:6]
         
     for idx, story in enumerate(important_stories, 1):
-        # 枠線
         draw.rectangle([40, y_offset, 760, y_offset + 120], outline='#44475a', width=1)
-        # バッジ
         imp = story.get("importance", "A")
         badge_color = '#ff5555' if imp == "S" else '#ffb86c'
         draw.rectangle([50, y_offset + 15, 140, y_offset + 40], fill=badge_color)
         draw.text((60, y_offset + 18), f"重要度 {imp}", fill='#1e1e2e', font=font_main)
         draw.text((155, y_offset + 18), f"[{story['category']}]", fill='#8be9fd', font=font_main)
         
-        # タイトル (長い場合はカット)
         title_text = story['title']
         if len(title_text) > 32: title_text = title_text[:32] + "..."
         draw.text((50, y_offset + 55), f"{idx}. {title_text}", fill='#f8f8f2', font=font_main)
         
-        # 最初の要約1行だけ
         sum_text = story['summary'][0] if story['summary'] else ""
         if len(sum_text) > 38: sum_text = sum_text[:38] + "..."
         draw.text((50, y_offset + 85), f"• {sum_text}", fill='#bd93f9', font=font_main)
@@ -186,15 +198,15 @@ def main():
             time_tag, subject_title, image_path = "夜刊", "🌙【夜刊】今日の重要ニュースまとめ＆明日の展望", None
 
         # メール本文のHTML組み立て
-        email_body = f"<h2>{subject_title}</h2><p>配信時刻: {today_str}</p><hr>"
+        email_body = f"{subject_title}配信時刻: {today_str}"
         for story in new_stories:
             if story.get("importance") in ["S", "A", "B"]:
                 imp_emoji = "🔥 [S級]" if story['importance'] == "S" else "⭐ [A級]" if story['importance'] == "A" else "📌 [B級]"
-                email_body += f"<div style='margin-bottom:15px;'><b>{imp_emoji} [{story['category']}] {story['title']}</b><br>"
-                email_body += "<ul>" + "".join([f"<li>{s}</li>" for s in story['summary']]) + "</ul>"
-                email_body += f"<a href='{story['url']}'>👉 記事を読む</a></div>"
+                email_body += f"{imp_emoji} [{story['category']}] {story['title']}"
+                email_body += "" + "".join([f"{s}" for s in story['summary']]) + ""
+                email_body += f"👉 記事を読む"
         
-        email_body += "<br><hr><p>💡 全ジャンルの閲覧・お気に入り管理はこちらから：<br><a href='https://taichi1010723.github.io/my-news/'>マイニュースルーム公式サイト</a></p>"
+        email_body += "💡 全ジャンルの閲覧・お気に入り管理はこちらから：マイニュースルーム公式サイト"
 
         send_gmail(f"{subject_title} ({today_str})", email_body, image_path)
             
