@@ -2,7 +2,8 @@ name: Auto News Summary
 
 on:
   schedule:
-    - cron: '0 22 * * *'
+    # 日本時間 朝7:00 (22:00 UTC), 昼12:00 (3:00 UTC), 夜21:00 (12:00 UTC) に自動実行
+    - cron: '0 22,3,12 * * *'
   workflow_dispatch:
 
 jobs:
