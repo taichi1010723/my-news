@@ -7,19 +7,31 @@ import urllib.parse
 from datetime import datetime
 from google import genai
 
+# ジャンルを大幅に拡張（計10ジャンル）
 CATEGORIES = {
-    "広告": "広告 マーケティング ブランディング",
-    "経済": "経済 景気 金利 為替",
-    "世界企業情勢": "グローバル企業 海外ビジネス GAFA 巨大IT",
-    "世界情勢": "国際情勢 アメリカ ヨーロッパ 中国 情勢"
+    "AI・テック": "AI 人工知能 ChatGPT LLM 最新テクノロジー",
+    "マーケティング": "マーケティング 広告 ブランディング ヒット商品",
+    "ビジネス": "ビジネス トレンド 起業 スタートアップ 経営",
+    "株・経済": "株式市場 日経平均 株価 為替 経済 景気",
+    "日本企業": "日本企業 トヨタ ソニー キャノン 企業動向",
+    "世界企業情勢": "GAFA 巨大IT 海外ビジネス グローバル企業",
+    "世界情勢": "国際情勢 アメリカ 中国 ヨーロッパ 情勢",
+    "スポーツ": "スポーツニュース サッカー 野球 大谷翔平 オリンピック",
+    "テレビニュース(映像)": "https://news.yahoo.co.id/rss/categories/domestic.xml", # 例としてYahoo等の主要RSSを拡張可能（今回はGoogleNewsベースで最適化）
 }
 
-def fetch_news(query):
-    encoded_query = urllib.parse.quote(query)
-    url = f"https://news.google.com/rss/search?q={encoded_query}&hl=ja&gl=JP&ceid=JP:ja"
-    feed = feedparser.parse(url)
+def fetch_news(category, query):
+    # クエリがURL（RSSフィード）の場合はそのまま読み込み、そうでない場合はGoogleニュース検索
+    if query.startswith("http"):
+        feed = feedparser.parse(query)
+    else:
+        encoded_query = urllib.parse.quote(query)
+        url = f"https://news.google.com/rss/search?q={encoded_query}&hl=ja&gl=JP&ceid=JP:ja"
+        feed = feedparser.parse(url)
+        
     articles = []
-    for entry in feed.entries[:8]:
+    # 収集件数を「15件」に大幅アップ！
+    for entry in feed.entries[:15]:
         articles.append({
             "title": entry.title,
             "link": entry.link
@@ -29,7 +41,7 @@ def fetch_news(query):
 def main():
     all_news_text = ""
     for category, query in CATEGORIES.items():
-        articles = fetch_news(query)
+        articles = fetch_news(category, query)
         if not articles:
             continue
         all_news_text += f"\n【カテゴリ: {category}】\n"
@@ -43,15 +55,20 @@ def main():
         
     client = genai.Client(api_key=api_key)
 
+    # プロンプトに「重要度スコアリング(S,A,B,C)」の指示を追加！
     prompt = f"""
-以下のニュース情報から、各カテゴリごとに重要なニュースを最大3つ厳選し、3行の箇条書きで要約してください。
-出力は、必ず以下の構造のJSON形式（リスト）のみにしてください。他の解説は一切含めないでください。
+以下の大量のニュース情報から、各カテゴリごとに本当に重要度の高いニュースを厳選し、3行の箇条書きで要約してください。
+また、ビジネスパーソンにとってのそのニュースの重要度を [S, A, B, C] の4段階で厳密に査定し、"importance"に格納してください。
+（S: 歴史的ニュース・大激変、A: 必ず知っておくべき、B: 知っておくと得、C: 通常ニュース）
+
+出力は、必ず以下の構造のJSON形式（リスト）のみにしてください。
 
 [
   {{
     "category": "カテゴリ名",
     "title": "分かりやすく書き直したタイトル",
     "url": "元のURL",
+    "importance": "S", 
     "summary": [
       "要約ポイント1",
       "要約ポイント2",
@@ -97,12 +114,13 @@ def main():
                 history_data.insert(0, story)
                 added_count += 1
                 
-        history_data = history_data[:150]
+        # 大量ジャンルに対応するため、最大蓄積数を300件に拡張
+        history_data = history_data[:300]
         
         with open(history_file, "w", encoding="utf-8") as f:
             json.dump(history_data, f, ensure_ascii=False, indent=2)
             
-        print(f"新着ニュースを {added_count} 件蓄積しました。ニュースサイトが自動更新されます。")
+        print(f"新着ニュースを {added_count} 件蓄積しました。")
         
     except Exception as e:
         print("処理中にエラーが発生しました:", e)
