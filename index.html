@@ -91,3 +91,242 @@
         }
         @keyframes pulse-border {
             0% { box-shadow: 0 0 10px rgba(220, 53, 69, 0.1); border-color: rgba(220, 53, 69, 0.3); }
+            100% { box-shadow: 0 0 20px rgba(220, 53, 69, 0.3); border-color: rgba(220, 53, 69, 0.6); }
+        }
+
+        .news-card.read {
+            opacity: 0.35;
+            transform: none !important;
+            box-shadow: none !important;
+        }
+
+        /* 各種重要度バッジ */
+        .badge-s { background: linear-gradient(45deg, #dc3545, #ff5555); color: white; font-weight: bold; }
+        .badge-a { background: linear-gradient(45deg, #fd7e14, #ffb86c); color: white; }
+        .badge-b { background: linear-gradient(45deg, #0dcaf0, #8be9fd); color: #1e1e2e; }
+        .badge-c { background: rgba(108, 117, 125, 0.4); color: white; }
+
+        /* スクロール可能なオシャレなタブ */
+        .custom-nav-pills .nav-link {
+            color: var(--bs-secondary-color);
+            border-radius: 20px;
+            padding: 8px 16px;
+            transition: all 0.2s;
+            border: 1px solid transparent;
+            font-size: 0.9rem;
+        }
+        .custom-nav-pills .nav-link.active {
+            background: linear-gradient(45deg, var(--neon-blue), var(--neon-purple)) !important;
+            color: white !important;
+            font-weight: bold;
+            box-shadow: 0 4px 10px rgba(0, 242, 254, 0.2);
+        }
+        .custom-nav-pills .nav-link:hover:not(.active) {
+            background: rgba(255, 255, 255, 0.05);
+            border-color: rgba(255, 255, 255, 0.1);
+        }
+
+        /* 検索ヒット時のハイライト */
+        .highlight {
+            background-color: rgba(0, 242, 254, 0.3);
+            color: inherit;
+            border-radius: 2px;
+            padding: 0 2px;
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-cyber sticky-top py-3">
+        <div class="container border-0">
+            <span class="navbar-brand mb-0 h1 brand-logo">
+                <i class="bi bi-terminal-split me-2"></i>NEWSROOM PRO
+            </span>
+            <button class="btn btn-sm btn-link text-body border-0 p-0 fs-4" id="themeToggle">
+                <i class="bi bi-sun-fill" id="themeIcon"></i>
+            </button>
+        </div>
+    </nav>
+
+    <div class="container my-4">
+        <div class="row mb-4">
+            <div class="col-12 col-md-8 mx-auto">
+                <div class="input-group">
+                    <span class="input-group-text bg-transparent border-end-0 search-box text-muted">
+                        <i class="bi bi-search"></i>
+                    </span>
+                    <input type="text" id="searchInput" class="form-control border-start-0 search-box py-2.5" placeholder="タイトルや要約のキーワードから爆速検索...">
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-3 d-flex align-items-center gap-2 flex-wrap">
+            <span class="text-muted small"><i class="bi bi-sliders me-1"></i>重要度:</span>
+            <div class="btn-group btn-group-sm" role="group" id="importanceFilter">
+                <button type="button" class="btn btn-outline-secondary active rounded-pill px-3 me-1" data-imp="all">すべて</button>
+                <button type="button" class="btn btn-outline-danger rounded-pill px-3 me-1" data-imp="S">🔥 S級最重要</button>
+                <button type="button" class="btn btn-outline-warning rounded-pill px-3 me-1" data-imp="A">A級</button>
+                <button type="button" class="btn btn-outline-info rounded-pill px-3 me-1" data-imp="B">B級</button>
+                <button type="button" class="btn btn-outline-light rounded-pill px-3" data-imp="C">C級</button>
+            </div>
+        </div>
+
+        <div class="overflow-x-auto text-nowrap pb-3 mb-4 border-bottom border-secondary border-opacity-10">
+            <ul class="nav nav-pills custom-nav-pills gap-2" id="categoryTabs">
+                <li class="nav-item"><a class="nav-link active" data-category="all"><i class="bi bi-grid-1x2-fill me-1"></i>全ジャンル</a></li>
+                <li class="nav-item"><a class="nav-link" data-category="AI・テック"><i class="bi bi-cpu me-1"></i>AI・テック</a></li>
+                <li class="nav-item"><a class="nav-link" data-category="マーケティング"><i class="bi bi-megaphone me-1"></i>マーケティング</a></li>
+                <li class="nav-item"><a class="nav-link" data-category="ビジネス"><i class="bi bi-briefcase me-1"></i>ビジネス</a></li>
+                <li class="nav-item"><a class="nav-link" data-category="株・経済"><i class="bi bi-graph-up-arrow me-1"></i>株・経済</a></li>
+                <li class="nav-item"><a class="nav-link" data-category="日本企業"><i class="bi bi-building me-1"></i>日本企業</a></li>
+                <li class="nav-item"><a class="nav-link" data-category="世界企業情勢"><i class="bi bi-globe me-1"></i>世界企業</a></li>
+                <li class="nav-item"><a class="nav-link" data-category="世界情勢"><i class="bi bi-flag me-1"></i>世界情勢</a></li>
+                <li class="nav-item"><a class="nav-link" data-category="スポーツ"><i class="bi bi-trophy me-1"></i>スポーツ</a></li>
+                <li class="nav-item"><a class="nav-link text-warning" data-category="favorite"><i class="bi bi-star-fill me-1"></i>お気に入り</a></li>
+            </ul>
+        </div>
+
+        <div id="newsContainer" class="row g-3">
+            <div class="text-center py-5">
+                <div class="spinner-border text-info" role="status"></div>
+                <p class="mt-2 text-muted">プレミアムデータベースを同期中...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let newsData = [];
+        let reads = JSON.parse(localStorage.getItem('news_reads') || '[]');
+        let favorites = JSON.parse(localStorage.getItem('news_favorites') || '[]');
+        let currentCategory = 'all';
+        let currentImportance = 'all';
+        let currentSearchText = '';
+
+        // テーマ切替
+        const htmlTag = document.documentElement;
+        const themeToggle = document.getElementById('themeToggle');
+        const themeIcon = document.getElementById('themeIcon');
+        
+        if (localStorage.getItem('theme') === 'light') {
+            htmlTag.setAttribute('data-bs-theme', 'light');
+            themeIcon.className = 'bi bi-moon-fill';
+        }
+
+        themeToggle.addEventListener('click', () => {
+            if (htmlTag.getAttribute('data-bs-theme') === 'dark') {
+                htmlTag.setAttribute('data-bs-theme', 'light');
+                themeIcon.className = 'bi bi-moon-fill';
+                localStorage.setItem('theme', 'light');
+            } else {
+                htmlTag.setAttribute('data-bs-theme', 'dark');
+                themeIcon.className = 'bi bi-sun-fill';
+                localStorage.setItem('theme', 'dark');
+            }
+        });
+
+        // データ読み込み
+        fetch('./news_data.json')
+            .then(res => res.json())
+            .then(data => { newsData = data; renderNews(); })
+            .catch(err => {
+                document.getElementById('newsContainer').innerHTML = `
+                    <div class="col-12 text-center py-5">
+                        <div class="alert alert-warning d-inline-block">データとの同期に一時的なタイムラグがあります。Actionsから再実行するか数分お待ちください。</div>
+                    </div>`;
+            });
+
+        // 検索キーワードをハイライトする関数
+        function highlightText(text, keyword) {
+            if (!keyword) return text;
+            const regex = new RegExp(`(${keyword.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')})`, 'gi');
+            return text.replace(regex, '<mark class="highlight">$1</mark>');
+        }
+
+        // ニュースレンダリング（リアルタイム検索・複合フィルター対応）
+        function renderNews() {
+            const container = document.getElementById('newsContainer');
+            container.innerHTML = '';
+
+            const filtered = newsData.filter(item => {
+                const matchCat = currentCategory === 'all' ? true : (currentCategory === 'favorite' ? favorites.includes(item.id) : item.category === currentCategory);
+                const matchImp = currentImportance === 'all' ? true : item.importance === currentImportance;
+                
+                const searchTarget = (item.title + item.category + item.summary.join(' ')).toLowerCase();
+                const matchSearch = currentSearchText === '' ? true : searchTarget.includes(currentSearchText);
+                
+                return matchCat && matchImp && matchSearch;
+            });
+
+            if (filtered.length === 0) {
+                container.innerHTML = `<div class="col-12 text-center text-muted py-5"><i class="bi bi-search-heart fs-2 d-block mb-2"></i>一致するニュースはありません。</div>`;
+                return;
+            }
+
+            filtered.forEach(item => {
+                const isRead = reads.includes(item.id);
+                const isFav = favorites.includes(item.id);
+                const imp = item.importance || 'C';
+                const impClass = `badge-${imp.toLowerCase()}`;
+                const sTierClass = imp === 'S' ? 'card-s-tier' : '';
+                
+                const highlightedTitle = highlightText(item.title, currentSearchText);
+                const highlightedSummary = item.summary.map(s => `<li>${highlightText(s, currentSearchText)}</li>`).join('');
+
+                const card = document.createElement('div');
+                card.className = 'col-12';
+                card.innerHTML = `
+                    <div class="card news-card ${sTierClass} ${isRead ? 'read' : ''} mb-3 border-opacity-10">
+                        <div class="card-body p-4">
+                            <div class="d-flex justify-content-between align-items-center mb-3">
+                                <div class="d-flex align-items-center gap-2">
+                                    <span class="badge ${impClass} px-2.5 py-1.5 rounded-pill small">重要度 ${imp}</span>
+                                    <span class="badge bg-secondary bg-opacity-20 text-body border border-secondary border-opacity-20 px-2.5 py-1.5 rounded-pill small">${item.category}</span>
+                                </div>
+                                <small class="text-muted small"><i class="bi bi-clock me-1"></i>${item.date || ''}</small>
+                            </div>
+                            <h5 class="card-title h6 fw-bold lh-base mb-3">
+                                <a href="${item.url}" target="_blank" class="text-decoration-none text-body" onclick="markAsRead('${item.id}')">${highlightedTitle}</a>
+                            </h5>
+                            <ul class="text-secondary ps-3 small mb-3 lh-lg">
+                                ${highlightedSummary}
+                            </ul>
+                            <div class="d-flex justify-content-end gap-3 border-top border-secondary border-opacity-10 pt-3 mt-2">
+                                <button class="btn btn-sm btn-link text-decoration-none p-0 text-secondary me-auto small" onclick="toggleRead('${item.id}')">
+                                    <i class="bi ${isRead ? 'bi-check-circle-fill text-success' : 'bi-circle'} me-1"></i>${isRead ? '既読' : '未読にする'}
+                                </button>
+                                <button class="btn btn-sm p-0 border-0 text-warning fs-5" onclick="toggleFav('${item.id}')">
+                                    <i class="bi ${isFav ? 'bi-star-fill' : 'bi-star'}"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function markAsRead(id) { if (!reads.includes(id)) { reads.push(id); save(); renderNews(); } }
+        function toggleRead(id) { const i = reads.indexOf(id); if (i > -1) reads.splice(i, 1); else reads.push(id); save(); renderNews(); }
+        function toggleFav(id) { const i = favorites.indexOf(id); if (i > -1) favorites.splice(i, 1); else favorites.push(id); save(); renderNews(); }
+        function save() { localStorage.setItem('news_reads', JSON.stringify(reads)); localStorage.setItem('news_favorites', JSON.stringify(favorites)); }
+
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            currentSearchText = e.target.value.toLowerCase().trim();
+            renderNews();
+        });
+
+        document.getElementById('categoryTabs').addEventListener('click', (e) => {
+            const a = e.target.closest('a'); if (!a) return;
+            document.querySelectorAll('#categoryTabs .nav-link').forEach(el => el.classList.remove('active'));
+            a.classList.add('active'); currentCategory = a.getAttribute('data-category'); renderNews();
+        });
+
+        document.getElementById('importanceFilter').addEventListener('click', (e) => {
+            const b = e.target.closest('button'); if (!b) return;
+            document.querySelectorAll('#importanceFilter .btn').forEach(el => el.classList.remove('active'));
+            b.classList.add('active'); currentImportance = b.getAttribute('data-imp'); renderNews();
+        });
+    </script>
+</body>
+</html>
+                    
