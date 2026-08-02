@@ -1,5 +1,109 @@
 [
   {
+    "category": "環境・社会（ESG）",
+    "title": "再生可能エネルギー投資が過去最高を更新、世界的な脱炭素化が加速",
+    "url": "https://example.com/esg/renewable-investment",
+    "importance": "A",
+    "summary": [
+      "2023年の再生可能エネルギー分野への世界投資額が過去最高を更新。",
+      "太陽光・風力発電が牽引し、技術革新と政策支援が投資拡大の主要因。",
+      "エネルギー転換と脱炭素化の動きが加速し、広範な産業に影響を与える。"
+    ],
+    "date": "2026-08-02 15:07",
+    "id": "renewable-investment"
+  },
+  {
+    "category": "環境・社会（ESG）",
+    "title": "EU、炭素国境調整メカニズム(CBAM)の適用範囲拡大を検討",
+    "url": "https://example.com/esg/eu-cbam",
+    "importance": "A",
+    "summary": [
+      "EUがCBAMの対象品目を化学品やアルミニウム製品に拡大する可能性を検討。",
+      "域内外の炭素排出規制の公平性確保が目的で、輸入製品に炭素価格を課す。",
+      "対象産業の企業は生産プロセスにおける炭素排出量削減への対応が急務となる。"
+    ],
+    "date": "2026-08-02 15:07",
+    "id": "mple.com/esg/eu-cbam"
+  },
+  {
+    "category": "企業動向",
+    "title": "大手小売A社、AI活用でサプライチェーンを最適化しDX推進",
+    "url": "https://example.com/company/retail-digital",
+    "importance": "B",
+    "summary": [
+      "大手小売A社がAI導入によるサプライチェーンマネジメント強化を発表。",
+      "需要予測の精度向上、在庫最適化、物流コスト削減により業務効率化を目指す。",
+      "顧客体験向上と競争力強化を図る、小売業界のデジタル変革事例として注目。"
+    ],
+    "date": "2026-08-02 15:07",
+    "id": "mpany/retail-digital"
+  },
+  {
+    "category": "企業動向",
+    "title": "トヨタ、EV戦略を加速し2030年までに新型車30車種を投入へ",
+    "url": "https://example.com/company/toyota-ev",
+    "importance": "A",
+    "summary": [
+      "トヨタ自動車が電気自動車(EV)戦略を大幅強化、2030年までにEV30車種投入を計画。",
+      "年間販売目標350万台を設定し、バッテリーやEV専用プラットフォームに巨額投資。",
+      "自動車業界全体のサプライヤーや競合に大きな影響を与え、市場競争を激化させる。"
+    ],
+    "date": "2026-08-02 15:07",
+    "id": "om/company/toyota-ev"
+  },
+  {
+    "category": "経済",
+    "title": "日本銀行、マイナス金利解除後初の会合で政策金利を据え置き",
+    "url": "https://example.com/economy/boj-meeting",
+    "importance": "B",
+    "summary": [
+      "日本銀行がマイナス金利解除後の金融政策決定会合で政策金利の維持を決定。",
+      "物価目標の持続的な達成を見極める姿勢を継続し、市場の追加利上げ期待は後退。",
+      "当面低金利環境が続く見通しで、企業や個人の資金調達環境に影響。"
+    ],
+    "date": "2026-08-02 15:07",
+    "id": "/economy/boj-meeting"
+  },
+  {
+    "category": "経済",
+    "title": "世界銀行、2024年世界経済成長率予測を上方修正し景気回復に期待",
+    "url": "https://example.com/economy/worldbank-outlook",
+    "importance": "A",
+    "summary": [
+      "世界銀行が2024年の世界経済成長率予測を3.0%に上方修正した。",
+      "主要中銀の利上げ一巡とインフレ圧力緩和が予測修正の主因。",
+      "地政学的リスクや新興国債務問題は残るものの、企業活動に前向きな兆候。"
+    ],
+    "date": "2026-08-02 15:07",
+    "id": "my/worldbank-outlook"
+  },
+  {
+    "category": "テクノロジー",
+    "title": "OpenAI、GPT-4.5ベータ版でマルチモーダルAI機能を大幅強化",
+    "url": "https://example.com/tech/openai-gpt4-5",
+    "importance": "A",
+    "summary": [
+      "OpenAIが最新AIモデル「GPT-4.5」のベータ版を一部企業に公開開始。",
+      "テキストに加え画像や音声も同時処理可能なマルチモーダル機能が強化。",
+      "カスタマーサポートやコンテンツ生成など、多様なビジネスアプリでの活用が期待される。"
+    ],
+    "date": "2026-08-02 15:07",
+    "id": "m/tech/openai-gpt4-5"
+  },
+  {
+    "category": "テクノロジー",
+    "title": "Google、量子コンピューター新プロセッサで演算性能を飛躍的に向上",
+    "url": "https://example.com/tech/google-quantum-processor",
+    "importance": "S",
+    "summary": [
+      "Googleが量子コンピューター向け新プロセッサ「Sycamore-2」を発表。",
+      "演算速度が従来比100倍に向上し、新素材開発や創薬など多分野での応用を加速。",
+      "競合他社との開発競争が激化し、未来技術の産業実装を促進する可能性。"
+    ],
+    "date": "2026-08-02 15:07",
+    "id": "le-quantum-processor"
+  },
+  {
     "category": "スポーツ",
     "title": "大谷翔平の野球カードが約17.3億円で取引：スポーツトレーディングカード市場の熱狂",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOV9qVWF4T253VzVoU19Ua1ZMR252RV9WTE1hRUdnOHR4emFpNWhLN3A2Y253dzF2N05IdE1DYVBqM2FyclVSQXlGemhESEY2UFZwQ0l4SENXOFhhOXBXQUFaQk16Q0ZkTG1FbTdtYUdycEJ4TU5KMnZTbmxVblI4WUEyS2TSAYoBQVVfeXFMTU0xcFY0N0pPYjkwNmRyaHFiY0tsajExUF8yaTJ0NEZFb2dZLV9LLXIxaFVHdUh4TmNIMm9pMzJvbnJSX3R3anN3RnJWaHh6cXI5a1c1NFdKNlN3Mk9Kb1hDT1d4emRlTjk5STV6NUVNWklMNEJBQmdLRTlhcWl3RWJZQ1Jja2NVZC13?oc=5",
