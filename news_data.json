@@ -1,5 +1,70 @@
 [
   {
+    "category": "世界情勢",
+    "title": "イラン情勢と日本の観光戦略：中東リスクが経済に与える影響",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXBuaVlHZ1JWajlzLV9nUGFqbnEyZi1BWllYLVJDUW84aFpUQWswVXpET2ZYWXpuSFhHMEVuaWZfZHdEd3BTekozWGtwOUFEWGp6czRFS1FtVDhPX0ptWDBBeUZQcEY5bWliUE9GU2hxRlNlaEtWQjJqQmFHY2FLUVJ0OHoxbnEt?oc=5",
+    "importance": "A",
+    "summary": [
+      "イランの軍事行動による中東情勢の緊迫化は、原油価格上昇や物流混乱を通じて世界経済に大きな影響を与えています。",
+      "日本人観光客減少の穴埋めを期待していた中東諸国からの観光客が、イラン攻撃により減少する可能性があり、日本の観光戦略に新たな不安が生じています。",
+      "米トランプ氏が日本などに海峡護衛の艦船派遣を呼びかけるなど、日本も中東情勢への関与を迫られる可能性があります。"
+    ],
+    "date": "2026-08-03 15:28",
+    "id": "VJ0OHoxbnEt%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "巨大テック企業の雇用戦略変化：GAFAの出社回帰とリモートワークの終焉",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wbVFUa1Uwc3pFNkRRcGk0S2NNSzVhWlF6QVVrbmtaUG5RZlNCM29ESzE3bEFaQTdhSVRuNmUxMWEtQ1VLWEtfZzdldVFLVERlUFRRYlpHRFNVZw?oc=5",
+    "importance": "A",
+    "summary": [
+      "GAFAをはじめとする巨大IT企業で「出社ガチ勢」化が進み、リモートワークからオフィス回帰へのシフトが加速しています。",
+      "一部の経営者からは「テレワークは道徳的に間違っている」との発言も出ており、従業員の働き方に大きな影響を与えています。",
+      "この変化は、企業文化、生産性、イノベーション促進への考え方の見直しと、オフィス空間の再定義を迫るものです。"
+    ],
+    "date": "2026-08-03 15:28",
+    "id": "RYlpHRFNVZw%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均史上初の5万円台へ：円安継続と今後の株価予測2025-2026",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZMjVFSWNKWUt4c0Znc2N4eHNlT0VKVnFBcjBBZWNqVEtXSW9ZclYzWFlIUE0xaGR0LTM5aFQxeEVHM2RzR2F0MExOTF9sN3BFOHJBOWhnWGVWUWRjSlZqZ1cycw?oc=5",
+    "importance": "S",
+    "summary": [
+      "専門家は、日本経済のファンダメンタルズ分析に基づき、日経平均株価が史上初の5万円台に到達する可能性を指摘しています。",
+      "円安傾向は継続すると見られており、輸出関連企業の業績に好影響を与えることで株価をさらに押し上げる要因となります。",
+      "2025年以降の中期的な株・債券・為替市場の見通しでは、投資環境がさらに多様化し、慎重なポートフォリオ戦略が求められます。"
+    ],
+    "date": "2026-08-03 15:28",
+    "id": "jSlZqZ1cycw%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "AI時代のBtoBマーケティング変革：新戦略とブランディングの再定義",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXNmNxODRyOWx4UlFMclNuQlF1V0xSd0V4eVhKV0Zua0otbXhsTjNocXkyYmhKWTV6Umc4SWpUOHhVV1ZMbVVETGJqcTNlRkpKQXlOV084Y01JVUFFSFJLMUlSS2ktTHJQU1E?oc=5",
+    "importance": "A",
+    "summary": [
+      "AI技術の進化がBtoBマーケティングに大きな変革をもたらしており、新たな戦略構築が求められています。",
+      "ブランディングは単なる目的ではなく、企業価値や顧客体験を向上させるための重要な戦術と再定義されています。",
+      "広告による差別化が困難な時代において、顧客との深い関係性を築くUGC（ユーザー生成コンテンツ）戦略が成功の鍵となります。"
+    ],
+    "date": "2026-08-03 15:28",
+    "id": "S2ktTHJQU1E%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIブームの現実：GPT-5失敗と成果出ない企業が95%の転換期",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5eDVDVkNHS1Y5ZEZDS1F0OWlIU3hjNklRQzNQUFoiOEg1X2ZjOFd2dzVwWGY?oc=5",
+    "importance": "S",
+    "summary": [
+      "AI技術の最前線であるGPT-5のローンチが失敗し、AIブームが現実的な転換期を迎えています。",
+      "企業の95%が生成AI導入から具体的な成果を上げられていないことが判明し、導入戦略の見直しが急務です。",
+      "これはAI導入における過度な期待と現実のギャップを示しており、実用性とROIを重視したアプローチが求められます。"
+    ],
+    "date": "2026-08-03 15:28",
+    "id": "OFd2dzVwWGY%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "青少年の好きなスポーツ選手ランキング：大谷翔平が4回連続1位を記録",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDVudHhWZU14dnN3UGZteDR4VHdhTnBPUHR5M1FYdWNaV3k0WlFZbzlKYWoxc1ZxVktybmhIN18wM2dBU0NCR3MtdkFnVllPY2xrTWI3eGR2MUJNblFOR1prLVZkNDNCNjlTSnQtMEVzcmIxd1NzdWJwQ2wtTUQwME1RcU42M2NKRnM0eDByc0xVelo5VEE?oc=5",
