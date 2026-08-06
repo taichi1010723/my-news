@@ -1,5 +1,122 @@
 [
   {
+    "category": "世界情勢",
+    "title": "BBC編集長が警告「2025年のような年は見たことがない」：未曾有の不安定さ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DQ3BIclNubVJBdWw0QkJmeVpPNkxaNHpUQ05TQlc4LXFIN0dmMjd3SGdHbUtkLWxndkdmTzVOb3BPdFFkbUF5ZjFidzJmUmhhTkRzb0NidUxrWU13bUtJ0gFkQVVfeXFMTWREUnFSOFlpZzhmOXZ6MWRBZnByOUlGeW5BTWpnNVowemgzb3lOcWJsbGgxd2lRRmZYRjhyUHJJRjk4M2UybnVjQW52dFJFbGM1cFBVcHoyWW1tZGY0TjdwTFYwUg?oc=5",
+    "importance": "S",
+    "summary": [
+      "BBC世界情勢編集長が2025年の国際情勢を「40年以上の取材で見たことがない」と評し、未曾有の不安定さを指摘。",
+      "地政学的リスクの増大が、世界の経済、社会、企業のサプライチェーンに深刻な影響を与える可能性。",
+      "企業はカントリーリスク評価の見直しや、事業継続計画（BCP）の強化が急務となる。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "0TjdwTFYwUg%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "公正取引委員会前委員長が提言「データは公共財と捉えるべきだ」",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rcnlURzE2TmZIOHpyWE53alZWUU9oNV9yX0VBRi15ZVY1ZzlleGhkWjFQME1vc29SRHJGWk11akw4YzN0VzdFejZJNHkySzZkSnY3QV9kMjdUY0duWFpPbWx4YmhhSG8?oc=5",
+    "importance": "S",
+    "summary": [
+      "公正取引委員会の杉本前委員長が、「データは公共財と捉えるべきだ」と提言。",
+      "巨大IT企業によるデータ独占の問題を指摘し、データの公正な利用と共有を促進する重要性を強調。",
+      "デジタルプラットフォーム企業やデータ活用を基盤とする全ての企業に、新たな規制とビジネスモデルの変革を促す。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "bWx4YmhhSG8%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAに迫る「デジタル税」：国際課税の動向と企業への影響",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNDdFbHlRSXZ6VWtHaXBnVVMxYjhaSjhSMF9LMTBydUpYLVZ5emJRRDVoMy1mX21ZdTkwWGRqYV9zSW1uSGpNN3hYYTJiYWhXZ3c?oc=5",
+    "importance": "S",
+    "summary": [
+      "GAFAなどの巨大IT企業に課される「デジタル税」の動向と、その国際的な議論を解説。",
+      "課税逃れ問題に対応し、各国の税収確保と公平な競争環境の実現を目指す動き。",
+      "多国籍企業やデジタルサービスを提供する企業は、新たな国際課税ルールへの対応が急務となる。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "YTJiYWhXZ3c%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "「壊れた」相場、嵐は去らず：米景気動向で市場変動大きく",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uNEVYUWZKd04tN21wbGtQVXpEa0k4SmJqZlJQOC1NRnlTdkR4VHF1Ukthd21XOFJpMjFENkkzM0VIaXJRa1kyam9haVZ0Zy1KbEFvbGhEY1JpU3Jpc1J1TmhDVXg0alNVZHdscQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "米国景気の不確実性が続き、世界的な株式市場が「壊れた」相場と表現されるほど変動が大きい。",
+      "米国の金融政策、インフレ動向、雇用統計などが市場の動揺を招いている。",
+      "企業はグローバルな経済動向を常に監視し、不測の事態に備えたリスクマネジメントを強化する必要がある。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "0alNVZHdscQ%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "中小企業がデジタル技術で新たなビジネス機会を創出するポイント",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySDVyOUhwNlpoUnFNSmMxRnJCSFI1bkNPN0dOWjNBRkliWGdOaUd6ckhSRURacUVNU3J2aHVLVThfOFZ0cFBScExfUXBTbUR0TjVGbUtDQmswS25aTWc?oc=5",
+    "importance": "A",
+    "summary": [
+      "中堅・中小企業がデジタル技術を活用し、新たなビジネス機会を創出するポイントを解説。",
+      "DX推進における具体的なステップや、AI・IoTなどの導入による生産性向上と新サービス開発を提示。",
+      "限られたリソースの中小企業がデジタル変革を成功させ、競争力を高めるための実践的ガイド。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "QmswS25aTWc%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "2025年、経営リーダーが導入する20のビジネス開発トレンド",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ac1dXOU5ZS0dienpLLXsaWjhJSTAzQ1JVY2JqazhRWks4RG02dFF5N3FzXzA4SjFLVDFTM3pWM0dybEd3RGlxTHVsR2RHN1ZhOFRVVnpjSFY?oc=5",
+    "importance": "S",
+    "summary": [
+      "Forbes JAPANが、2025年に経営リーダーが注力すべき20のビジネス開発トレンドを発表。",
+      "AI活用、サステナビリティ、顧客体験（CX）強化など、多角的な視点から未来の事業機会を提示。",
+      "企業の成長戦略を加速させるための具体的なアクションプラン策定に役立つ情報源。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "OFRVVnpjSFY%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "ユニクロの成功とコーラの失敗から学ぶ：ブランディングを“目的”にするな",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PdmNjeWkyTzVPTlNPSDRhRDdWZ2d0YXlyQkw4NWtVZVUtekNrdWg0NlVvMXgxbE5HLUpzZnBrMVNlWVh3YDBGTTFYMkR5RksyLVhzRTREd3hlT0dpS0pwVVZiN2E?oc=5",
+    "importance": "A",
+    "summary": [
+      "ユニクロの成功とコカ・コーラの過去の失敗事例を分析し、ブランディングの本質を解説。",
+      "「ブランディング自体を目的」とせず、事業戦略や顧客価値の実現手段と捉える重要性を強調。",
+      "企業のブランド戦略立案において、陥りがちな誤解を避け、持続的な成長に繋げる指針が示された。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "S0pwVVZiN2E%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "有望技術ランキング：AI以外に脱炭素やエレクトロニクスが注目株",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45TmdEblJzMXVRODAxcTR2ZmNxUklxR0FwZ0lwc0FvZWtaTm5sYWZjbEVXUnBwMXJOazBMTFRGUkRiSm1CR0swamdNa2FJcmRDbTJyRVpaSWFoeW9ZWnZkUTRKY0tYMFhTaGc?oc=5",
+    "importance": "A",
+    "summary": [
+      "最新の有望技術ランキングでAIはトップを維持しつつ、脱炭素やエレクトロニクス関連技術も存在感を増す。",
+      "再生可能エネルギー、次世代半導体技術などが注目され、持続可能な社会実現に向けた投資が加速。",
+      "企業はAIだけでなく、広範な技術トレンドを捉え、多角的なR&D投資や事業ポートフォリオ戦略を検討すべき。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "Y0tYMFhTaGc%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "総務省分析：生成AIの急速な進化と普及が社会にもたらす影響",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWN2OW9EV2NpMzlKMXN6MkZvNTMwcVFhQS10QWVYLVQ2Y1NGeHBTMTdNb2EtUHQ0M0lVQ0RvQkN4VWZZVVlyMFJVT25DUlZuMGhmb01odUFWTk1kQWNzY050TnlXckJxclVUaVlsRUVIYi14Z241b0ZMcUJmTzhXcVN3?oc=5",
+    "importance": "A",
+    "summary": [
+      "総務省が生成AIの急速な進化と社会への普及状況について詳細な分析を発表。",
+      "AIが経済・社会構造にもたらす変化と、それに伴う新たな政策課題を提示。",
+      "政府のAI戦略や規制動向を理解し、企業のAI事業戦略に影響を与える重要な資料となる。"
+    ],
+    "date": "2026-08-06 14:56",
+    "id": "UJmTzhXcVN3%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "大谷翔平選手の「神格化」が示す社会現象とメディアの役割",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FdjZNOFl5V3RYTDJnVG1TUFZ6UVlzODc5eDR4YTJ4ZjdiUHk2TmJnVXpjZ0NpWVBOMTNISkdMakdkY2tXLXJFNTRrUWxTYVFrQUJoeVBfZW5EZkU?oc=5",
