@@ -1,5 +1,70 @@
 [
   {
+    "category": "世界企業情勢",
+    "title": "グローバル企業がインドにイノベーション拠点を置く理由",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53dVJZN0t1bkRfVzdqOXhyX090WGN2NTZiLWFmYWs4OVhXaEllM0NEaEZ5dnlkc1hTT1Bzb3lneUl2VmM4LURGaGlJbHdUQkRYWGFkQjRn?oc=5",
+    "importance": "A",
+    "summary": [
+      "多くのグローバル企業がインドにイノベーション拠点を設置しており、その背景には豊富な人材と巨大な市場がある。",
+      "インドの技術開発能力と新興市場としての成長性が、新たなビジネス創出のハブとなっている。",
+      "企業はインド市場の潜在力を活用し、現地でのイノベーション創出を通じてグローバル競争力を強化すべきである。"
+    ],
+    "date": "2026-08-11 22:14",
+    "id": "kRYWGFkQjRn%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "総裁選と日本株：次期総理次第で日経平均5万円も視野",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzVWRJN29JN1JCTjQ5dFdiWks4YUMwb1VGYi1tWWhZMEQ0dnFYQWhYR0dqNGJNcVFpRWYxdGJSbEtLaDU3WDRna3ZVa3U5Z3U1cnBCdTYzcEpjZw?oc=5",
+    "importance": "A",
+    "summary": [
+      "自民党総裁選の結果が日本株に与える影響が大きく、次期総理の政策次第で日経平均5万円も現実的になるとの予測。",
+      "政治の安定性や経済政策への期待感が市場のセンチメントを大きく左右する要因となる。",
+      "投資家は政治動向を注視し、政策変更が企業業績や市場全体に与える影響を詳細に分析することが求められる。"
+    ],
+    "date": "2026-08-11 22:14",
+    "id": "CdTYzcEpjZw%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "AI株から読み解くグローバル株式市場の動向：モーニングサテライト解説",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkFldHU1ZDVzdjZkMjk5MHJmTmY3WUFMd0psTnRLSWJOS3l0bVFoY1VZelZjMlM3bHdWNkJfQzd1VHgxeFFkdUZjTlk3MU5scndfZ0VnS2hoT1Atb2hQQVVsVXRVbmlaNzJJWWIyMTJ5a1VsTXcyMlkxbWdJSFNBWXpEY0hLTzl4M0F3N0h3cnBlQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "AI関連株がグローバル株式市場を強力に牽引しており、その動向が市場全体に大きな影響を与えている。",
+      "AI技術の進化と普及は、新たな投資機会を創出すると同時に、市場の変動要因ともなっている。",
+      "投資家はAI分野の成長性と潜在リスクを正確に評価し、ポートフォリオ戦略に適切に組み込む必要がある。"
+    ],
+    "date": "2026-08-11 22:14",
+    "id": "3N0h3cnBlQQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIエージェントによる「利用から共生へ」：人工知能との新しい関係性",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qZFhFcVk3a1NHbzdnMjgtTU9LTldHenNadFVCWWFxVTA4NzRRWmlSSmdWZW5WYTVuem42aEtWcy1kTUdvSFd3dngzR3NHU1N2a2s1WkJwVQ?oc=5",
+    "importance": "B",
+    "summary": [
+      "AIエージェントの登場により、人間とAIの関係が単なる「利用」から「共生」へと進化する可能性が指摘。",
+      "AIが自律的にタスクを遂行し、人間の意思決定を高度にサポートする新たなビジネスモデルが期待される。",
+      "企業はAIエージェントの導入を見据え、組織構造や業務プロセスの再構築を検討する必要がある。"
+    ],
+    "date": "2026-08-11 22:14",
+    "id": "2a2s1WkJwVQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの「誇大広告」に注意：IBMが冷静なAI戦略を提言",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVhRMW1vYmNydjlKVkt6TTRwTUQ0ZDNwMHZRVkRXd0NWeFk?oc=5",
+    "importance": "A",
+    "summary": [
+      "IBMが生成AIに関する「誇大広告」や「反誇大広告」に惑わされず、冷静な判断を促す。",
+      "企業はAI技術の本質を見極め、自社のビジネス課題にどう貢献するかを現実的に評価する必要がある。",
+      "信頼できる情報に基づき、地に足の着いたAI導入戦略と投資判断が成功への鍵となる。"
+    ],
+    "date": "2026-08-11 22:14",
+    "id": "VkRXd0NWeFk%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "日本スポーツ市場の構造：大谷翔平の影響とサッカー人気拡大の可能性",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdW9BSF9uWnA5Vk9CSlhQcEZXOE8ySmZKdmd1cmVyZTgySlpuaFZwNEJVMEJDbWFlc2I3aXJCWDU0TzlIZHdIeTl2Vmg3S1hPenl6Y1Etc0RtLVVYUGIxVEhSX2ZJMExOZXgya3NpSS1xdmFSLXF3YXAwLUVHUEtwV1Rva1ZDQWhaQkhRSXdzOXNIUmlLbGF2MTdEWVhvZ9IBowFBVV95cUxPOGVTcW51STEzUm9nSVNsZzMzNFh4SEJVakpnTmtnTVNsR3A3TGFWUGpLU0pMYXQ2LXltRXhaNnB1cTNsa3M5cC11SS1qM3BEeUV6MEZXczdwdGN6Mjhab1NIZmV0RFVGRC1Id2JSZVVuRGFSY1U0bWd6RDVnUFFicjliQUM5WUVLcXpZcjFtTy1rOWZqU05EWGpCTXZkSXV3THBn?oc=5",
