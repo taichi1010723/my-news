@@ -1,5 +1,57 @@
 [
   {
+    "category": "株・経済",
+    "title": "AI株が牽引するグローバル株式市場：AI関連銘柄から読み解くトレンド",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkFldHU1ZDVzdjZkMjU5MHJmTmY3WUFMd0psTnRLSWJOS3l0bVFoY1VZelZjMlM3bHdWNkJfQzd1VHgxeFFkdUZjTlk3MU5scndfZ0VnS2hoT1Atb2hQQVVsVXRVbklaNzJJWWIyMTJ5a1VsTXcyMlkxbWdJSFNBWXpEY0hLTzl4M0F3N0h3cnBlQQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "AI関連銘柄の動向がグローバル株式市場全体に大きな影響を与え、市場の主要テーマとなっている。",
+      "AI技術の進化は半導体、ソフトウェア、クラウドサービスなど関連産業の成長を強力に牽引。",
+      "投資家はAI株の特性とリスクを深く理解し、今後の市場トレンドを読み解く戦略が極めて重要となる。"
+    ],
+    "date": "2026-08-16 07:27",
+    "id": "3N0h3cnBlQQ%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "キリン流マーケティングの本質：顧客「インサイト」と「ニーズ」を見極め、ヒット商品創出",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhN1pYUEhTMDhLMjNpMmQyNFBoSE0tN3YzallRZkJQWjI3bXN0ZFdxb0ZpNlBUdU5vRWtfbVFMVXlra2dxZkdNR3JybC1IUWhHQjI3OVNraXVYLXBaUTVwYjlUa0JOZw?oc=5",
+    "importance": "A",
+    "summary": [
+      "キリンが実践する、顧客の深層心理「インサイト」と表層的な「ニーズ」を明確に区別するマーケティング手法を解説。",
+      "表面的なニーズだけでなく、顧客自身も気づいていない深層心理（インサイト）の把握がヒット商品創出の鍵。",
+      "本質的な顧客理解に基づくマーケティング戦略は、競合との差別化と持続的なブランド成長に不可欠。"
+    ],
+    "date": "2026-08-16 07:27",
+    "id": "wYjlUa0JOZw%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの「誇大広告」に注意：冷静な技術評価とビジネス価値の見極め",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVFMWTFTb2JjcnY5SlZLM1U0cE00ZDN4d1FyVkRXd0NWeFk?oc=5",
+    "importance": "B",
+    "summary": [
+      "生成AIに関する過度な期待や誤解、誇大広告が市場に蔓延している現状を指摘。",
+      "技術の真の能力と限界を冷静に見極め、現実的なビジネス価値を評価する重要性を強調。",
+      "AI関連投資や製品・サービス開発において、健全な判断基準を持ち、顧客への誠実な情報提供が求められる。"
+    ],
+    "date": "2026-08-16 07:27",
+    "id": "VkRXd0NWeFk%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIの父が指摘：ChatGPTなど大規模言語モデル（LLM）の限界と現実的活用",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYnFaaFJRNFIzUnNEbFJWUl85SXkyYUYxVU1fWGE1TFFxeVA3SU9wd2phRU9XemM4Y3lrc3drbWRLU291dFRweTh0OExIX1NMYlB4SG93ZTViR19jd1RCSjBhdEYyQ19odUdLR1ZYUkpNWDlEb0MxZzZzeUhNaFVlQWxnVTFHVGMxWkxCREl2MXVIMnUyTVhN?oc=5",
+    "importance": "A",
+    "summary": [
+      "AIの権威がChatGPTをはじめとする大規模言語モデル（LLM）の現在の限界点を指摘した。",
+      "現状のLLMは推論能力や常識的理解に課題があり、幻覚や事実誤認のリスクがあることを強調。",
+      "ビジネスでのAI導入において、過度な期待を排し、現実的な応用範囲とリスク管理の徹底が必須。"
+    ],
+    "date": "2026-08-16 07:27",
+    "id": "XVIMnUyTVhN%3Foc%3D5"
+  },
+  {
     "category": "AI・テック",
     "title": "企業向けAI活用最前線：ChatGPTのセキュリティとLLMのパフォーマンス改善",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcTdvTkt3eW83aXE1OXhfVUNNMllBeGNHeE9UcnhtVzJuVWt3WkF0TGxjVXduNjdIU2taUGliMHgzZngtbjh0VEVlUnJYV0t0dVZfRF92ZnJaX3BKZGQycUJEMkJVLW9kMFl4cmVyU0V5UQ?oc=5",
