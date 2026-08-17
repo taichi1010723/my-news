@@ -1,5 +1,18 @@
 [
   {
+    "category": "情報",
+    "title": "ニュース元データが提供されていません",
+    "url": "",
+    "importance": "C",
+    "summary": [
+      "指示された「ニュース元データ」が提供されていないため、",
+      "各カテゴリごとにニュースを厳選し、要約するタスクを実行できませんでした。",
+      "ニュースデータをご提供いただければ、処理を実行いたします。"
+    ],
+    "date": "2026-08-17 12:54",
+    "id": ""
+  },
+  {
     "category": "世界情勢",
     "title": "BBC編集長が警鐘：2025年は過去に例を見ない混迷の年となる可能性",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DQ3BIclNubVJBdWw0QkJmeVpPNkxaNHpUQ05TQlc4LXFIN0dmMjd3SGdHbUtkLWxndkdmTzVOb3BPdFFkbUF5ZjFidzJmUmhhTkRzb0NidUxrWU13bUtJ0gFkQVVfeXFMTWREUnFSOFlpZzhmOXZ2MWRBZnByOUlGeW5BTWpnNVowemgzb3lOcWJsbGgxd2lRRmZYRjhyUHJJRjk4M2UybnVjQW52dFJFbGM1ZFBVcHoyWW1tZGY0TjdwUFYwUg?oc=5",
