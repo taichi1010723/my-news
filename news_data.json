@@ -1,5 +1,31 @@
 [
   {
+    "category": "マーケティング",
+    "title": "花王に学ぶ、成熟ブランドのマーケティング4P再定義",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WUTJNZFk1dENsbXFwTkR6QkJPY180TUNlMVhWY0NJVmt4Xy1RalpwRjlPWjJPSXJHQzRyTGpORVhNU1ZBWUlwekl1a2FXaWFxN3BMN0M1QXZ3Qy1lQXNlVEU5RU5sQQ?oc=5",
+    "importance": "B",
+    "summary": [
+      "成熟ブランドを持つ花王が、マーケティングの4P（製品、価格、流通、プロモーション）をいかに再定義し、市場での競争力を維持しているかを解説。",
+      "特に広告と流通戦略の見直しが、既存ブランドの活性化に貢献していると分析。",
+      "長期的なブランド育成における戦略的アプローチの重要性を示す事例として注目される。"
+    ],
+    "date": "2026-08-20 21:56",
+    "id": "lVEU5RU5sQQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの誇大広告に警鐘：冷静な導入戦略を",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVF1QzBtZGNydjlKVkt6TTRwTUQ0ZDNod1FyVkRXd0NWeFk?oc=5",
+    "importance": "B",
+    "summary": [
+      "IBMが、生成AIに関する過度な期待や悲観論に惑わされず、冷静な視点を持つことの重要性を強調。",
+      "実用的なAI導入には技術の限界と現実的な課題理解が不可欠であると指摘。",
+      "企業は具体的なユースケースと費用対効果（ROI）に基づき、戦略的にAI活用を進めるべきであると提言。"
+    ],
+    "date": "2026-08-20 21:56",
+    "id": "VkRXd0NWeFk%3Foc%3D5"
+  },
+  {
     "category": "世界情勢",
     "title": "トランプ氏のNATO離脱発言が世界を翻弄：日本の防衛・外交戦略再構築が急務",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yN3owRDd0eVlZSHBfbGJVRTVHX0U5SzN2YmJ2cTg2Y09pZk1qRHFOS1Y3LTktdE4tX1hOMVY1SkxESFBMbDRHZ05jTGVzLUdPVXc5d0xiTTkzQkc0VHhJ?oc=5",
@@ -3859,29 +3885,5 @@
     ],
     "date": "2026-06-30 06:32",
     "id": "UGs0OE9aSnM%3Foc%3D5"
-  },
-  {
-    "category": "経済",
-    "title": "野村證券が衆院選結果で日本経済・市場見通しを修正",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ENDdRVnF3TGN0YldjSVJpd0pIOTdvMy1GZ2gyTnFlc3pGbENpdE1lajNpMUFFODN4M2FpTEl1OE9mdlhhT0lWYkRiM25LdFVnQXRUQ25sSVNtV2hyTG9r?oc=5",
-    "summary": [
-      "野村證券が衆院選の結果を受けて、日本経済、金利、為替、株式市場の見通しを修正。",
-      "政策の不確実性が減少したことで、市場の安定化に繋がる可能性を指摘。",
-      "主要経済指標や金融政策への影響を分析し、新たな市場予測を発表しています。"
-    ],
-    "date": "2026-06-30 06:32",
-    "id": "VNtV2hyTG9r%3Foc%3D5"
-  },
-  {
-    "category": "広告",
-    "title": "AI時代のマーケティング：ブランド価値向上への5原則",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tQmxzblBJUHV1b0VueG4tSlFNT0t4ZWEtR3RjSkZqTzBORTZFSGg1blJ6eEdzN19DMXNqTVg1RGZvaGRDYVROejFEOHU4UDZDSzI2elF5dmVQaEZDdEhYbk45OVNDb2s5OW9WNkJjc0Y?oc=5",
-    "summary": [
-      "アドテック東京2025の基調講演から、AI時代におけるマーケティングの新たな原則が示されました。",
-      "AI技術の進化がブランド価値向上に与える影響と、その活用方法について議論。",
-      "顧客体験のパーソナライズ、データドリブンな意思決定など、5つの重要な原則が提示されています。"
-    ],
-    "date": "2026-06-30 06:32",
-    "id": "OW9WNkJjc0Y%3Foc%3D5"
   }
 ]
