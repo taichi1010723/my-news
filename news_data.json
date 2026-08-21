@@ -1,6 +1,32 @@
 [
   {
     "category": "世界企業情勢",
+    "title": "GAFAがデータセンター建設を加速：生成AIが生む新たなインフラ投資競争",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UbXpiNDliR3M5dllZYVBWOGViSUdvMGpEcjR2cXhGc21YZW1NTW9PQ3BzZndPTU5PSWxGWGR5eWZZb1F0NUY2WlFZWXU5dkNfZ2w3c3lDeWRmOEQwWVRsTTV0T2Rrem8?oc=5",
+    "importance": "S",
+    "summary": [
+      "GAFAをはじめとする巨大IT企業が、生成AIの需要拡大に対応するためデータセンター建設を急ピッチで進めている。",
+      "JERAが首都圏で火力発電一体型のデータセンター計画を発表するなど、エネルギー供給と連携した動きが活発化。",
+      "AIの発展が新たな大規模インフラ投資競争を生み出し、関連産業に大きな経済効果をもたらす。"
+    ],
+    "date": "2026-08-21 21:54",
+    "id": "TTV0T2Rrem8%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIエージェントがもたらす新しい関係性：利用から共生へ",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qZFhFcVk3a1NHbzdnMjgtTU9LTldHenNadFVCWWFxVTA4NzRRWmlSSmdWZW5WYTVuem42aEtWcy1kTUdvSFd3dngzR2NHU1N2a2s1WkJwVQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "AIエージェントの進化により、人間とAIの関係が「利用」から「共生」へと変化する可能性を提示。",
+      "AIが自律的に目標を設定し実行する能力を持ち、ビジネスプロセスや意思決定に深く関与。",
+      "企業はAIとの協働を前提とした組織改革や人材育成の重要性が増すことを示唆。"
+    ],
+    "date": "2026-08-21 21:54",
+    "id": "2a2s1WkJwVQ%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
     "title": "巨大IT企業への規制強化：米国で相次ぐ反独占訴訟の背景と影響",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RFRBekNBZHY3THJlQWZEOVR1NWdTdVl2czhnVi10NExIN3U4cTdmM0JnbDFZVVRYV0tUMGQ2WkNJRXZwT3dEa2VkOW9oMzFGM2t6UGN3ZnNKTmpmN25KRm1WZXhmelJlNllyZUtnMVVvajhKd01SYkF3NGVIN2s?oc=5",
     "importance": "S",
@@ -3865,29 +3891,5 @@
     ],
     "date": "2026-06-30 06:32",
     "id": "RkNsZFV1U1k%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "混迷する国際情勢：欧州の中国接近と日本の外交課題",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Q0tlY3RlUk54MGZ5cHQyWUxzV00wWmk3S2RMUU5zdThPN0VoalphTzNraW5GbzZ0TkRSZ2hpVVQ5STlvaTByRFA4SkNmeHRNdVZkQmVBdGFkZlhlRXJhdllmYUpRWklFMWVRV2RDcDBIbnc?oc=5",
-    "summary": [
-      "国際情勢が混迷を深める中、欧州首脳らが中国への急接近を見せています。",
-      "米中関係の微妙な変化も指摘され、日本外交は多角的な視点での対応が求められています。",
-      "G7の結束や、ウクライナ・イラン情勢など、複数の地政学的リスクへの対応が課題です。"
-    ],
-    "date": "2026-06-30 06:32",
-    "id": "V2RDcDBIbnc%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NECが高年収で新卒採用：グローバル人材獲得競争の激化",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "summary": [
-      "NECが新入社員に年収1000万円以上を提示し、グローバルな人材獲得競争への焦りを示しています。",
-      "国内外の企業間で優秀なIT人材の獲得競争が激化しており、給与水準も高騰しています。",
-      "日本企業も国際的な競争力を維持するため、待遇改善や多様な働き方の導入が求められています。"
-    ],
-    "date": "2026-06-30 06:32",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
   }
 ]
