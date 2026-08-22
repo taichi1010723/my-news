@@ -1,5 +1,70 @@
 [
   {
+    "category": "世界情勢",
+    "title": "BBC世界情勢編集長が警告：「2025年は未曾有の年」40以上の戦争取材経験から",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DQ3BIclNubVJBdWw0QkJmeVpPNkxaNHpUQ05TQlc4LXFIN0dmMjd3SGdHbUtkLWxndkdmTzVOb3BPdFFkbUF5ZjFidzJmUmhhTkRzb0NidUxrWU13bUtJ0gFkQVVfeXFMTWREUnFSOFlpZzhmOXZ6MWRBZnByOUlGeW5BTWpnNVowemgzb3lOcWJsbGgxd2lRRmZYRjhyUHJJRjk4M2UybnVjQW52dFJFbGM1ZFBVcHoyWW1tZGY0TjdwUFYwUg?oc=5",
+    "importance": "S",
+    "summary": [
+      "BBC世界情勢編集長が、40以上の戦争取材経験から「2025年は未曾有の年になる」と強い警告を発する。",
+      "世界的な地政学的緊張、経済の不安定化、紛争の多発により、国際情勢が極めて流動的。",
+      "企業はサプライチェーン、投資戦略、安全保障など、広範なリスクに備える必要がある。"
+    ],
+    "date": "2026-08-23 07:26",
+    "id": "0TjdwUFYwUg%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAが急ぐデータセンター建設：電力需要増と「発電所一体型」の展開",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yMlFBWmF1cjhBajJ4UUFSZjZ1X2ZPbllzak5iMXZIeHJuY1g4eUFiR2o5WENPR3pBZExzRVk1MkhsSGoyUDljMFBTSDBoandxNlF2QW4xQVRBNFNGemJVRDJhTDE?oc=5",
+    "importance": "S",
+    "summary": [
+      "GAFAなどの巨大IT企業が、データセンター建設を世界規模で加速。",
+      "AIやクラウドサービスの需要増で電力消費が急増し、「発電所一体型」のデータセンター展開も進む。",
+      "この動きはエネルギー供給、インフラ、環境問題に多大な影響を与え、新たなビジネス機会も創出。"
+    ],
+    "date": "2026-08-23 07:26",
+    "id": "emJVRDJhTDE%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価、過去最大の4451円安：企業を揺さぶる米景気減速リスク",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxYWhFMWF5TnFBZFBGVjQtNE9qY2RTNUdBeEpTTFc2cnZxS3ZVWGRaeFoeMXRqZFdNSGw5cnhlZi1rZ0NoU05HVllpVm9LUHYzQll5blMxWWhQMWNhY3c3TktEQkppd2c?oc=5",
+    "importance": "S",
+    "summary": [
+      "日経平均株価が過去最大の4451円安を記録し、市場に大きな衝撃。",
+      "主要因は米国の景気減速懸念であり、これが世界経済全体に波及するリスクが指摘される。",
+      "企業はサプライチェーンや需要の変動に備え、リスク管理体制を強化する必要がある。"
+    ],
+    "date": "2026-08-23 07:26",
+    "id": "TktEQkppd2c%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "経営哲学の真髄：近藤太香巳氏が語る「商売は課題解決、利益は笑顔の数」",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lWEZ1SUVDdm85THZ1ME9WdEJuWi1IOXFYbEFCVFdlVE9MOEJObjhXemlNdDdqamM5THVVOWcxQXdYcFBMRkF0ME5XQVlPZDdNSXBTZmRPUS1KSmZyQ3RF?oc=5",
+    "importance": "A",
+    "summary": [
+      "近藤太香巳氏が、商売の本質は顧客の課題解決にあるという経営哲学を提唱。",
+      "「利益は笑顔の数」と語り、顧客満足度を追求することが持続的な成長に繋がることを強調。",
+      "利益追求だけでなく、社会貢献と顧客への価値提供を重視するビジネスモデル論を展開している。"
+    ],
+    "date": "2026-08-23 07:26",
+    "id": "S1KSmZyQ3RF%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIブラウザーの台頭とセキュリティリスク：専門家が課題と対策を解説",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMWdieEhPSUxXdEVNRGlncFNHRUlJaWZhT09QTVdyRGFtTVNJVVdXMVlPd3VxVDRWWkdWNkN2NWhuM2lfNkF2ODJhTmR5R0Z3R3gw?oc=5",
+    "importance": "A",
+    "summary": [
+      "AI機能を搭載したブラウザーが普及する中、新たなセキュリティリスクが浮上。",
+      "専門家はデータプライバシー侵害やAIによる誤情報生成の危険性を指摘。",
+      "企業はAIブラウザー活用にあたり、情報漏洩対策や適切な利用ポリシーの策定が不可欠となる。"
+    ],
+    "date": "2026-08-23 07:26",
+    "id": "mR5R0Z3R3gw%3Foc%3D5"
+  },
+  {
     "category": "マーケティング",
     "title": "資生堂の巨額赤字から学ぶ、マーケティング戦略の見直しとV字回復への課題",
     "url": "https://news.google.com/rss/articles/CBMiW1FVX3lxTFA1bVRwbm1QX1huZXpmYW1ON2RBLVRrNDNaUmFSOF9SWjJFSFpSbjlVbmxtdW1TUWpvODR4N19jSHhRRDBFWktpckxHaWlBM0U4VUJsajJPb094UTA?oc=5",
@@ -3833,65 +3898,5 @@
     ],
     "date": "2026-07-01 04:23",
     "id": "hXy1JRFhZZw%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "イラン情勢の緊迫化とトランプ氏による日本への艦船派遣要請",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeWdHdUpDYkdsYTRZaFJnX0dHNHNwdC1TQk9uVVU2aEI3OGp4UWdGVlg5RWpubXVpQ1dQN1JiYlZ6VDZJQ0lkNF9MdGxTbnJpNFhMRS1CSENhckpveFlR0gFkQVVfeXFMT1VsYnR3WTdLaUJKck8wZzB6MlFrUjVUTjQ1QW92TktkWHUybGY1RnRvczVBVVRaeGdjU18xRGlIMTQyb1d0LS01Q0hwTU9ELWd5MXRaVFM5UXZTSHFwZ0d6ZXh4dA?oc=5",
-    "summary": [
-      "イラン外相は米国との交渉を否定し、中東情勢の緊迫化が続いています。",
-      "トランプ氏は日本を含む同盟国に対し、ホルムズ海峡護衛のための艦船派遣を呼びかけました。",
-      "日本は米国からの要請に対し、慎重な対応を迫られる可能性があります。"
-    ],
-    "date": "2026-06-30 06:36",
-    "id": "wZ0d6ZXh4dA%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "GAFAの租税回避とデジタル経済への課税問題",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XOWp1dmdkRVZrRG5JVXFnOUJEcWJDLVd1YmU3YXF2Q0VzRWlVSm1raTV0OGw1UHNNQXFBamhma3B6OC00b3pRSVc5Yk5fOVppR3p5cw?oc=5",
-    "summary": [
-      "GAFAなどの巨大IT企業が年間24兆円もの法人税を回避していると指摘されています。",
-      "デジタル経済の特性に合わせた国際的な課税ルール構築が喫緊の課題となっています。",
-      "各国は連携し、多国籍企業の租税回避を防ぐ新たな枠組みを模索しています。"
-    ],
-    "date": "2026-06-30 06:36",
-    "id": "fOVppR3p5cw%3Foc%3D5"
-  },
-  {
-    "category": "経済",
-    "title": "2025～2035年度の中期経済見通し",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNVZqdHN3Qjl4ZkhHaVZKOVhhMjZrMll4SDN4V1UwM2dabmJSdXFiR0N6em9VemlLWFUxcVowNEVxckxoU2txUDU2czBpMkpkQS0wSVBGT25iUE9jOWFwa2o1ZEpDQ0kyempWOWNHUdIBf0FVX3lxTE1KdXp0WXhvX2R1TXZaYjV1bFk2OE54TDIyRE9YZktJb251c3U4bWRJMnRlc1RELVhMYjE1WTh4WjdCcHlsOUdMTngzbXN5TFhMWjFfQ3gwckkyWktRV2JIY29tR3FBSDJ1ZnRtLWdYUFJVUVlxWFlHQjE2cWlJcVU?oc=5",
-    "summary": [
-      "複数の研究機関が2025年度から2035年度にかけての中期経済見通しを発表しています。",
-      "人口減少や技術革新、グローバル経済の変動が日本の経済成長に影響を与える予測です。",
-      "賃金上昇や労働力不足への対応が、今後の日本経済の鍵となると分析されています。"
-    ],
-    "date": "2026-06-30 06:36",
-    "id": "QjE2cWlJcVU%3Foc%3D5"
-  },
-  {
-    "category": "経済",
-    "title": "物価高と金利ある世界での投資戦略",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWNzNoQ0ZzeFBJbTVGX091bmhmUU9pd3Z1cjAxaGNsWTFTU0lnRERpZmlRakxjcEM5Q1dTLXNNczZhemdhWjN3OUE5MjlOcy1NNEg5QU1wX0IyU00?oc=5",
-    "summary": [
-      "物価高が続き、賃金がそれに追いつく「金利のある世界」が到来しつつあります。",
-      "この新たな経済環境下では、従来の投資戦略の見直しが求められます。",
-      "インフレに強い資産や、実質賃金上昇の恩恵を受ける分野への投資がポイントとなります。"
-    ],
-    "date": "2026-06-30 06:36",
-    "id": "QU1wX0IyU00%3Foc%3D5"
-  },
-  {
-    "category": "広告",
-    "title": "2026年ブランド戦略：広告から「ファンづくり」への転換",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OSXAtU0NjLVZNQ0RhbUVnakg1ci1IX3JOU1dNSHItSExwcHgtTXJvMkZweUZjNGV6anlIZHd4UE9BNmtfc3FfM25tbGxzcFBzTENiMUNUa3A3SEJ5ekM5cXJwQ2I3a2JlWEE?oc=5",
-    "summary": [
-      "2026年のブランド戦略として、広告だけではなく顧客を「ファン」に変える重要性が強調されています。",
-      "事業会社マーケター向けの勉強会が開催され、実践的なブランド戦略が議論されます。",
-      "持続的なブランド成長には、顧客との深い関係構築が不可欠であると提唱されています。"
-    ],
-    "date": "2026-06-30 06:36",
-    "id": "Q2I3a2JlWEE%3Foc%3D5"
   }
 ]
