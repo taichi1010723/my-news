@@ -1,5 +1,70 @@
 [
   {
+    "category": "世界企業情勢",
+    "title": "NECが新卒に年収1000万円超：グローバル人材獲得競争の激化",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
+    "importance": "S",
+    "summary": [
+      "NECが新入社員に年収1000万円超を提示するなど、グローバルな人材獲得競争が激化している。",
+      "背景にはAIやDX推進に必要な高度IT人材の不足があり、優秀な人材の囲い込みが急務となっている。",
+      "日本企業は旧来の賃金体系を見直し、国際競争力のある報酬体系を構築することが不可欠となる。"
+    ],
+    "date": "2026-08-24 07:27",
+    "id": "FRoaVJsbzA5%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "Coral Capitalが250億円ファンド組成：次世代の日本代表企業育成へ",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aNm5EMldiZmVnRE84YzRrbFh6LVVmODY5RGczdGFrMkY4TU9wUzZOdm9iWXBPb0Y3ZDhxVWVJcW9RN1JhdHZTbnV1Mnl0RjFYUzRHNmZBZWxFOWpMcHBOZ1dlODh6QnM?oc=5",
+    "importance": "A",
+    "summary": [
+      "Coral Capitalが250億円規模の4号ファンド組成を完了し、日本のスタートアップエコシステムを強化する。",
+      "次世代のソニーやトヨタといったグローバルに通用するイノベーション企業を育成することを目指す。",
+      "スタートアップへの積極的な投資は、日本の産業構造変革と経済成長に貢献する重要な動きとなる。"
+    ],
+    "date": "2026-08-24 07:27",
+    "id": "Z1dlODh6QnM%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "東証株価4万円割れ、米景気悪化懸念と円高進行で市場に動揺",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPa2RpbWJ6YVRJenpMVlZTbzRtaGE3Y2stQ0t0MHJtZXZWZkFsYkVhaV8xZzQ1LTYyMGYwQ3JBQnZ4ZTItaTRRNmVac19HeEtpQUhHazlJcHlTV01hMWRfYjNpcE50Zmc?oc=5",
+    "importance": "A",
+    "summary": [
+      "東証株価が一時4万円を割り込み、市場は米景気悪化懸念と急速な円高進行に動揺した。",
+      "輸出企業を中心に業績への影響が懸念され、企業は為替リスクへの対応強化が急務となる。",
+      "グローバル経済の連動性が高まる中、国内外の経済指標や金融政策の動向を常に把握する必要がある。"
+    ],
+    "date": "2026-08-24 07:27",
+    "id": "YjNpcE50Zmc%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "中川政七商店が語る、良い商品だけでは不達：本質的ブランディングの視点",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCOGdkd0F4X2M1R2FhWk0ya0FfUzBQaTFlUy04SW54UG1Fdm13NTc4WmNqcGV2YkQ0QVVoUXhIb2FmN3gzRGEyX2VsYUthZGpoRmJjYS1iVHNSNGM?oc=5",
+    "importance": "A",
+    "summary": [
+      "中川政七商店のマーケターが、単に高品質な商品だけでは顧客に届かない現代の課題を指摘する。",
+      "商品の背景にある物語や企業の哲学を伝える「意味のブランディング」の重要性を強調。",
+      "顧客との共感を生み出し、長期的な関係性を築くための本質的な視点がマーケティングに不可欠である。"
+    ],
+    "date": "2026-08-24 07:27",
+    "id": "YS1iVHNSNGM%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "最新ビジネス分野調査：AIが牽引、ワーケーションも再浮上",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBldk4zbHl3cjRjMDJMTkp6NXotSDdPcDMzYzFFUTVBcFNzRjRqSWJHS0syNk9HSWFlS1kyVmlQek5mUFhGRnc1T19aOExoNEV2WFN4WDUtcXpBeGtvWWRhXy1JRFhZZw?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経クロストレンドの独自調査で、AI関連ビジネスが引き続き主要な成長分野としてランクインした。",
+      "一方で、ワーケーション関連サービスも再び注目を集め、多様な働き方へのニーズが持続している。",
+      "企業はAI導入だけでなく、従業員体験を向上させるフレキシブルな働き方への対応も重要となる。"
+    ],
+    "date": "2026-08-24 07:27",
+    "id": "hXy1JRFhZZw%3Foc%3D5"
+  },
+  {
     "category": "스포츠",
     "title": "サッカー日本代表MFが「国技化」提言、大谷翔平の野球人気と比較",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSXloaVB4ZzY1X0xpbmQteFo4WVFmZGdkeVYxbWxKWTR6YnhSYzkyT0RSVmx6WXZpbzM3bU5pX3NEeW1ITEZDajRWWjFzTE9OTDRobEJFVDRJaHdUQlYtcFdEaEZVbERQdGMwZUFPX3JobExtSThCU25QOGRwRk0?oc=5",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-07-01 04:23",
     "id": "ZlFGN1JiLTY%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本の技術力再考：半導体復権への道とAI分野の課題",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fMWpZbkU0THh4LWt0NjMzWXQ0RTV1Unhnb01wdVRsNGoxWHF6cGVmbVpZQ2d6dGRQR0c2ZnBZSDd4QXExYWE4VUlPZnZYX1VWRDVVejE4UG1rVDRqSFBfbDJjeFhZVmVj?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本企業の特許ランキングではトヨタやパナソニックが上位を占め、製造業の技術的強みが依然として健在であることを示す。",
-      "しかし、米国の特許登録トップ20に日本企業がわずか3社であることから、AI分野など新領域における日本の技術競争力の弱さが浮き彫りになった。",
-      "次世代半導体開発のRapidusには、トヨタ、ホンダなどが新規出資し、日本が再び半導体大国となるための国家的な取り組みが本格化している。"
-    ],
-    "date": "2026-07-01 04:23",
-    "id": "DJjeFhZVmVj%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本の技術力と産業の未来：半導体戦略とAI競争力",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFeTI2czZGMFpoWFEza2RCdG5xM0JkR3VsaU1FN3dQU3IwT3RreDFiN0JyeHBOeXFwVjJmcFRHbl8wVGctLXpzME43Q0RwZXZQRmFBZ2JWenh0Z2dqSXFSTktQT25EaldaaEVYNA?oc=5",
-    "importance": "A",
-    "summary": [
-      "次世代半導体開発のRapidusには、トヨタ、ホンダ、デンソーを含む20社超の日本企業が新規出資し、半導体産業の復権に向けた国家的な連携が進む。",
-      "日本企業の特許ランキングでは製造業が強みを示す一方、AI分野での特許取得の弱さが明らかになり、技術大国としての日本の将来に課題を投げかけている。",
-      "4000億円の血税が投じられたTSMC熊本工場はソニーに大きな恩恵をもたらしているが、全体としての日本の半導体戦略における「大矛盾」も指摘されている。"
-    ],
-    "date": "2026-07-01 04:23",
-    "id": "EaldaaEVYNA%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本半導体産業の再興と技術競争力：Rapidusの挑戦",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrbWRZS1ZsdEhmRDRnYndSQXZ5MnlFUFZiWDN5UVpzWmJjbVpCUE0tR3llaXA0U0pvMFJidndQTzdwalZhREc3dThkRFZFYlpqTDhYWThEa29kMFgtWkRn?oc=5",
-    "importance": "S",
-    "summary": [
-      "「半導体敗戦国」と呼ばれた日本が、国際連携と10兆円規模の巨額投資を通じて半導体産業の再興に挑む「最後の賭け」に出ている。",
-      "次世代半導体開発企業Rapidusには、ホンダ、トヨタ、デンソーなど国内主要企業に加え、京セラや千葉銀行など20社超が新規出資し、国を挙げた連携が加速している。",
-      "日本の特許ランキングではトヨタやパナソニックが強みを見せる一方で、AI分野での弱さが浮き彫りになり、技術大国としての地位維持に課題が残る。"
-    ],
-    "date": "2026-07-01 04:23",
-    "id": "29kMFgtWkRn%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "市場を揺るがす経済リスクと日経平均の構造的課題",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxYWhFMWF5TnFBZFBGVjQtNE9qY2RTNUdBeEpTTFc2cnZxS3ZVWGRaeWhoMXRqZFdNSGw5cnhlZi1rZ0NoU05HVllpVm9LUHYzQll5blMxWWhQMWNhY3c3TktEQkppd2c?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価が過去最大となる4451円安を記録し、米国景気減速リスクが日本企業の経営を大きく揺さぶる可能性が示された。",
-      "「AI・半導体株だけで日経平均が動く？」という疑問が浮上し、日経平均が日本経済全体の実態を反映しているのかという構造的な課題が議論されている。",
-      "「円高イコール株安」という一般的な認識に対し、真に警戒すべきは円安と逆の状況であると指摘され、為替と株価の複雑な関係性が示唆された。"
-    ],
-    "date": "2026-07-01 04:23",
-    "id": "TktEQkppd2c%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日本株の未来を占う：激動の市場と構造変化",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZaHNpYnhLWEItb1M4OFZOdTNWZGxicUc5SEE2enVsQ0ZhSVdwMjYxSmwtajV1WEVhQ0ZkQVltTlU4bVFxU1FIT2tzMjZteDFMajQ0SUZUd0dPOUNjemRn?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価が過去最大の下げ幅を記録し、米景気減速リスクが日本経済に大きな影響を及ぼしている。",
-      "日経平均はAI・半導体株に牽引される傾向が強く、実体経済との乖離や市場の偏りが議論の対象となっている。",
-      "野村證券は2026年の日本株見通しとして日経平均55,000円をメインシナリオとし、AI、防衛、エネルギーなどのテーマ株に注目が集まる。"
-    ],
-    "date": "2026-07-01 04:23",
-    "id": "0dPOUNjemRn%3Foc%3D5"
   }
 ]
