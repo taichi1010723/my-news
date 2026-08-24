@@ -1,5 +1,44 @@
 [
   {
+    "category": "世界情勢",
+    "title": "イラン戦争が激変させた国際関係：エネルギー市場と各国の戦略転換",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50N1plNU40UjZndGlnV0JTdWM0MXpXR0MyRUozNWl2YWliVmpPOGhoOHhqVW5adWJneHB2aElVYTBvMk1LZnhXMGFKMks5WWROcE52bmpB?oc=5",
+    "importance": "S",
+    "summary": [
+      "イラン戦争の勃発が、米欧中露日間の複雑な五角関係を一層激化させている。",
+      "ロシアの中国依存が高まる中、エネルギー市場の再編と原油・ガス供給の不安定化が懸念される。",
+      "企業はサプライチェーンのリスク評価と、新たなエネルギー調達戦略の構築が急務となる。"
+    ],
+    "date": "2026-08-25 07:30",
+    "id": "WROcE52bmpB%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "令和6年版情報通信白書：生成AIの急速な進化と社会経済への浸透",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWN2OW9EV2NpMzlKMXN6MkZvNTMwcVFhQS10QWVYLVQ2Y1NGeHBTMTdNb2EtUHQ0M0lVQ0RvQkN4VWZZVVlyMFJVT25DUlZuMGhmb01odUFWTk1kQWNzY050TnlXckJxclVUaVlsRUVIYjItZ041b0ZMcUJmTzhXcVN3?oc=5",
+    "importance": "S",
+    "summary": [
+      "情報通信白書が生成AIの急速な進化と、社会経済への多大な影響を報告。",
+      "AI技術がビジネスモデル、働き方、産業構造を大きく変革する可能性を指摘。",
+      "AIの普及に伴う新たな課題と、政策的な対応の重要性が示唆されている。"
+    ],
+    "date": "2026-08-25 07:30",
+    "id": "UJmTzhXcVN3%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIブームの転換期：GPT-5の失敗と企業のAI活用における課題",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5eDVDVkNHS1Y5ZEZDS1F0OWlIU3hjNlFDeUgwOUZtMmJ4NWJ4Mm9GNHlUOWZkMVcw?oc=5",
+    "importance": "A",
+    "summary": [
+      "最新のGPT-5ローンチが失敗し、AIブームが転換期を迎えている。",
+      "企業におけるAI導入の約95%が期待通りの成果を出せておらず、具体的な課題解決が求められている。",
+      "AI活用には誇大広告に惑わされず、戦略的なアプローチと現実的な目標設定が不可欠。"
+    ],
+    "date": "2026-08-25 07:30",
+    "id": "HlUOWZkMVcw%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "大谷翔平やW杯への関心低下？ハワイでの実体験が示すスポーツコンテンツ消費の変化",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlSThtcFVwR0FtcTNOanIzSU5aeTZPSjlDS0xTbm5qeDA1TlUta2tfYVRoTDRKTWJEWWFqMDl3VzZMeU04YXI3MFJfQ3BqOUxyTndUdHlocHVKU2VGc2JRNFBjZDU1MWhxVXluR0xSdVlhdmR5QWNYd2UtSzFBenoxWlFnNjVTdUVGZkNWV2t6dnJFWDR5dEhiSTFCQnJnYVFRQmZITdIBowFBVV95cUxOTHdzd05pYkozaEtISFdyNUs1c1N2OExyb1BiYTdCWnk1WEF0ak0xbGUxYkdoQVR2MnVjN2VQTlNDR3hGUnZFQ01MaHJESUFCYTEyQ1pjZUlQYkVvemJkUS1BSnpqcTRFTVVfb2JsTmtZR0ZxdWVZY1J1Nl8wRmRRQTREZTNNWjQ3UjdPR0xvR21CSl91Mkt4QU9iZWFqNXZTSFNj?oc=5",
@@ -3859,44 +3898,5 @@
     ],
     "date": "2026-07-01 04:45",
     "id": "OTdUdnZ3bnk%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "AI時代のBtoBマーケティング戦略とブランディング",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXNmNxODRyOWx4UlFMclNuQlF1V0xSd0V4ZVhKV0Zua0otbXhsTjNocXkyYmhKWTV6Umc4SWpUOHhVV1ZMbVVETGJqcTNlRkpKQXlOV084Y01JVUFFSFJLMUlSS2ktTHJQU1E?oc=5",
-    "importance": "A",
-    "summary": [
-      "「マーケティングWeek」セミナーが開催され、AI時代のBtoBマーケティング、ブランディング、ヒット商品戦略に焦点。",
-      "AI技術を活用したマーケティング戦略は、新規顧客獲得から売上最大化まで、ビジネスの成長に不可欠な要素となっている。",
-      "商品開発からブランディング、新規顧客獲得までの一貫支援体制を確立し、D2C・通販事業者の売上最大化を狙う動きが活発。"
-    ],
-    "date": "2026-07-01 04:45",
-    "id": "S2ktTHJQU1E%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "日本におけるAI産業の発展と学習環境",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zWVIxVmJjUHhMamo4UC0yN3E4alVCT3JmTUJPVWc4MUhjRW9tczlZelZ5Tk9UOWdqdGxVbmRfRy1aeHZZSDJ1V3pibVVUeVBPZ2IzWU80TTlRQlpaMFpqdGxQNXF5M3U3OXlqTHB6Z3U?oc=5",
-    "importance": "B",
-    "summary": [
-      "日本のAI企業は2025年までに26社が注目され、多岐にわたるサービスや事例を提供しており、産業成長の期待が高まっている。",
-      "東京工科大学が私大最大級のAIスーパーコンピューターを導入し、「AI大学」を標榜するなど、人材育成への投資が活発化。",
-      "AIの基礎となる大規模言語モデル（LLM）の仕組みや活用事例が解説され、ビジネスパーソンがAIを理解し活用するための情報が充実している。"
-    ],
-    "date": "2026-07-01 04:45",
-    "id": "OXlqTHB6Z3U%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "AI生成コンテンツの信頼性と倫理に関する動向",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKRVNYMzZVQjluVi13U1VvcDd0WUFqT3JHZWx1eXlBQWEzWTdKYnYtMWI1WHdPZ3IxUi1WRGFKVk5tSG9ydS1CeGp0Rnd3aWQ5OFE?oc=5",
-    "importance": "A",
-    "summary": [
-      "WikipediaがChatGPTやGeminiなどAI生成コンテンツを原則全面禁止とし、信頼性と正確性を重視する方針を示した。",
-      "AIによる情報生成には、倫理的な問題や誤情報の拡散リスクが伴うため、その利用には慎重な判断が求められる。",
-      "ビジネスにおけるAIコンテンツ活用においても、情報の検証や責任の所在を明確にするためのガイドライン策定が急務となる。"
-    ],
-    "date": "2026-07-01 04:45",
-    "id": "Rnd3aWQ5OFE%3Foc%3D5"
   }
 ]
