@@ -1,6 +1,71 @@
 [
   {
     "category": "世界情勢",
+    "title": "国際政治学者が分析する「2040年の世界地図」：未来のビジネス環境予測",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Yb216aElzaUwtNWdZZUxlNk5xQ2prYWdUSTNNSlFWSjNydFhieTlCb1piYXZKcFB1X1hzOVZVX1dRZUJRbmlRVmxuaGtHaU9LRFFGYVJRZmo?oc=5",
+    "importance": "S",
+    "summary": [
+      "国際政治学の権威が2040年の世界情勢を分析し、地政学的変動、技術革新、環境問題などの主要リスクを提示。",
+      "未来の国際関係や経済構造の変化が、企業の事業展開やサプライチェーンに多大な影響を及ぼす可能性。",
+      "企業経営者は、この長期的な未来予測を基に、リスク管理と新たな成長戦略を構築すべき。"
+    ],
+    "date": "2026-08-25 21:54",
+    "id": "RFFGYVJRZmo%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "デジタル経済への課税課題：GAFAが回避する24兆円の税負担",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XOWp1dmdkRVZrRG5JVXFnOUJEcWJDLVd1YmU3YXF2Q0VzRWlVSm1raTV0OGw1UHNNQXFBamhma3B6OC00b3pRSVc5Yk5fOVppR3p5cw?oc=5",
+    "importance": "S",
+    "summary": [
+      "GAFAをはじめとする巨大IT企業が、国際的な税制の隙間を突き24兆円もの税負担を回避している問題。",
+      "世界各国がデジタル経済への公平な課税を目指し、新たな国際課税ルールの確立を模索。",
+      "多国籍企業の税務戦略や各国の税制動向が、企業経営に直接的な影響を及ぼす重要な課題。"
+    ],
+    "date": "2026-08-25 21:54",
+    "id": "fOVppR3p5cw%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "株価急反発、週内5万5000円台も視野に：景気回復期待が市場を牽引",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PX2J4ZmNZeERjemkzaDA2NS1pWG1DV0hid19OeWwyVjRweUpkb0JOdkdCcXhqT2ZwamR1cGFtTnp0X1NTQU1ROEs2bU05LXhPMHFrR1pvVXg1VlBVVlhoT0lYYVNyd0h2MEU0Xw?oc=5",
+    "importance": "B",
+    "summary": [
+      "日本株が急反発し、市場関係者からは週内にも日経平均株価が5万5000円台に達するとの見方が浮上。",
+      "主要因は、国内外での景気回復に対する強い期待感が市場を力強く支えていること。",
+      "短期的な市場のセンチメントと、その背景にある景気動向を理解する上で重要な情報。"
+    ],
+    "date": "2026-08-25 21:54",
+    "id": "yd0h2MEU0Xw%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "2026年末日経平均株価60,000円見通し：中東情勢と米国景気の楽観シグナル",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kNW4ya1dVWjZKSll5d1plUWd5eFRRckItZXNQeWsxR25TbWc4YlMwTFA4S3VycXdkOHZXZ1h2bWtQS0VlU3REUlFTd1NtWnFKZEtfS3J6bnp6OTlBRk1V?oc=5",
+    "importance": "S",
+    "summary": [
+      "野村證券が、中東情勢の不透明性にもかかわらず、2026年末の日経平均株価60,000円という強気見通しを維持。",
+      "米国の景気に3つの楽観シグナルが見られ、これが世界経済と日本株を支える主要因と分析。",
+      "地政学リスクと主要経済国の動向を総合的に考慮した、中期的な投資戦略の重要な参考情報となる。"
+    ],
+    "date": "2026-08-25 21:54",
+    "id": "np6OTlBRk1V%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "Wikipedia、信頼性確保のためAI生成コンテンツを全面禁止",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKRVNYMzZVQjluVi13U1VvcDd0WUFqT3JHZWx1eXlBQWEzWTdKYnYtMWI1WHdPZ3IxUi1WRGFKVk5tSG9ydS1CeGp0Rnd3aWQ5OFE?oc=5",
+    "importance": "A",
+    "summary": [
+      "オンライン百科事典Wikipediaが、情報源の信頼性維持のためAI生成コンテンツを全面禁止。",
+      "ChatGPTやGeminiなど、主要な大規模言語モデル（LLM）の使用が明確に制限対象に。",
+      "AIの活用とコンテンツの品質・倫理に関する議論が加速し、各業界に影響を及ぼす決定。"
+    ],
+    "date": "2026-08-25 21:54",
+    "id": "Rnd3aWQ5OFE%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
     "title": "イラン紛争激化で世界経済激変：エネルギー市場と主要国の関係",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udDdaZTU0UjZndGlnV0JTdWM0MXpXR0MyRUozNWl2YWliVmpPOGhoOHhqVW5adWJneHB2aElVYTBvMk1LZnhXMGFKMks5WWROcE52bmpB?oc=5",
     "importance": "S",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-07-01 04:45",
     "id": "WaXpzREdjaA%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平の巨額契約が示すスポーツビジネスの変革",
-    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5XeHdadFN0T0F0Z0hfR2xoUGhHUHFDVDlXVU9NOVdRSDlZZWRyVXFZZWJQV25rVld4WVZZTmRfdVBwWUU?oc=5",
-    "importance": "B",
-    "summary": [
-      "大谷翔平選手の“1000億円契約”は、スポーツビジネスにおけるアスリート価値の歴史的転換点を示す。",
-      "この巨額契約が、スポーツを「好きでいること」と「疑うこと」を両立させるかという社会的な議論を提起。",
-      "一流選手が語る衝撃的なプレーやランキングは、選手のブランド価値を高め、エンターテイメント産業に影響を与える。"
-    ],
-    "date": "2026-07-01 04:45",
-    "id": "TmRfdVBwWUU%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "巨大IT企業の雇用動向と新たな働き方の潮流",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40MnJ1VkhrY0VGdnRfVGJzMkFKU09WWkNtQnNYTTgwSmNQUlJqQ2JraXMyZnF6TFVxTHo4bndIM0xYWUpDRzY0bg?oc=5",
-    "importance": "A",
-    "summary": [
-      "欧米の巨大IT企業でレイオフの波が進行し、日本のエンジニア採用市場にも影響を及ぼす可能性が指摘される。",
-      "フェイスブックの成長鈍化に対し、「メタバース」が救世主となるか注目され、企業の事業転換が加速。",
-      "「出社ガチ勢」化する巨大IT企業の動きは、テレワークからオフィス回帰への働き方トレンドの変化を示唆している。"
-    ],
-    "date": "2026-07-01 04:45",
-    "id": "YWUpDRzY0bg%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "主要企業の動向と市場の変化",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UWjJmN3RZdWNMVHdfTThTdHV6cnBfclFWYXFiLWctcTNha29jbGRhQjE5OURCSGJOZmM3ZkZYQ3I5NzM1V1RTM1pEY2psVVN5ZUxtUGV3?oc=5",
-    "importance": "B",
-    "summary": [
-      "TOPIX Core30採用銘柄の変遷から、日本の株式市場で企業の栄枯盛衰が顕著に見られる。",
-      "「電気自動車」テーマ株としてソニー参入やテスラ躍進が注目され、関連銘柄への関心が高まっている。",
-      "トヨタやホンダ、ソニーやパナソニックの平均勤続年数ランキングも公開され、企業文化や人材戦略の差異がうかがえる。"
-    ],
-    "date": "2026-07-01 04:45",
-    "id": "VN5ZUxtUGV3%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "地政学リスクと金融市場への影響",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQlhBeWJxWDZDXzRxUmV3cnNxZ19jVmJZeWFUZHB0c21CTGtGZ0Y1QVZ2NjhEeWE3bkV3TE9WNGh6eXFRdUFsRVVabWdfeTNwaWZrUFhGZWJmOG9rQkQtdEFjeEIzaGF0S01VN2JRNC1Qdl9MaVc5XzNmcGYxQQ?oc=5",
-    "importance": "B",
-    "summary": [
-      "イラン情勢の不透明感が金融市場に影響を与えており、識者による見解が注目される。",
-      "日本株は景気悪化懸念で大幅反落することがあり、地政学的リスクは市場のボラティリティを高める要因。",
-      "首相退陣表明など国内政治動向が東京株を動かす事例もあり、政治と経済の連動性も考慮すべき。"
-    ],
-    "date": "2026-07-01 04:45",
-    "id": "5XzNmcGYxQQ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価の長期予測と資産インフレの到来",
-    "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxNSXlzd0RKNlhHUDVtOGtkNE02cUVrQUpjTFI3enc3VEUxd1NuVEZudG11bFBVOHZWaGtYYmhTSWRLbnl4S3Y3TVVuVkVsZ1VGT0psbXVZc3Rlejc1b3MyU2w0T3kwcDUzTFVIYzNKQ0tmLWFSbTR1eXRYaTVLaTlFczhWUlRhZmZFUG5mZlJYdmZJZmNjM1JsT3AyVjMybkR2YktfdDBOTGJJeFVMdWxreWk4SncyV041MVN2UjRVUEpGT05qc2RKckV3LWtiQmJtWHZxZmU2UWQzZVdfQ3N1amdoclFleTVaVGR1QVlIZHpPYkVDR2FUbVlUa29lbnZSOTlSc21IaTBHOVBMUDhuWTBDSS1JVEZaZVNBTWJfUGFDa2hTUHVCcWl0Z2dVeGtDS0lQWU9tRV9NSmtteEhXR1ZWYzdEVlRGUkdFUVNlQXZubDUwczBFVXZrZkZOTk5xRjdaUGplU3NjbnRyRlc0T1ZLWnlkam9wNHdqN2xwOVhoRWh0RER6SHFtTUR5Um1nT0VSMElXUEt0c21vN0F4UGlGalA0cDFEaWpjX2lDNjJNVzVUaWtuX0xFVWRjS3IyWE1WYWRCeFFPZE1wbXFPc2ZzSUdqZGZKX3VxOTZkT3hRNUVXV2I0TGJWRTItWWNvYVVVQ0thdVI4WWhEVUQ5QWQyeHpjdnphNGdvcmtTZ3ZHVmxq?oc=5",
-    "importance": "A",
-    "summary": [
-      "資産10億円超投資家は「日経平均10万円は必然」と予測し、“資産インフレ”の到来を指摘。",
-      "野村證券ストラテジストも2026年の日本株見通しとして日経平均55,000円をメインシナリオに挙げている。",
-      "過去70年の日経平均株価の歴史から、市場の変動サイクルと長期トレンドを理解することが投資判断に重要。"
-    ],
-    "date": "2026-07-01 04:45",
-    "id": "mtTZ3ZHVmxq%3Foc%3D5"
   }
 ]
