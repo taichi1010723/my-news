@@ -1,6 +1,45 @@
 [
   {
     "category": "スポーツ",
+    "title": "世界アスリート長者番付：大谷翔平の経済価値とサッカー界の巨頭",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RM09WTjZpcy1zakFOVEQ1Q1laRlN1NXdCWlYwSjB5aG12dUZoa0RERUpvY0FWTzRjOXRzOWd1RHJNV3ZveDhSdmlJdkJHSGl4Z0lINHhrOXE0cTdFcldnazRaSW0zSWNVMlhRXzNyelNCSGhGS3lHSnlTaEszVFU?oc=5",
+    "importance": "A",
+    "summary": [
+      "大谷翔平が球界最高額を更新し世界アスリート長者番付でトップ5入り、年収203億円に達した。",
+      "一方、サッカー界のレジェンドが477億円でトップに君臨し、スポーツ種目間の経済規模の差を示す。",
+      "アスリートのブランド価値、スポンサー契約、メディア露出がスポーツビジネスに与える影響は計り知れない。"
+    ],
+    "date": "2026-09-04 01:05",
+    "id": "SnlTaEszVFU%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAが半導体メーカーへ：生成AIがもたらす新市場と日本勢の商機",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zbXRZTkRuUmlERGxsQXl5RTB4SVBDS0lwaERsc1pOdXJQQlR6R1pjZmRXYmphdUtYd1Z2NExPY19lTWUxclF3alVhR2xCLUZiSGJCSWt6WFpjMmNlUzJaMUZCbjVVdW8?oc=5",
+    "importance": "A",
+    "summary": [
+      "GAFAが生成AIの進化を背景に、独自半導体開発を強化し、半導体メーカーとしての側面を強めている。",
+      "これにより、半導体産業のサプライチェーンが再編され、新たな市場と競争環境が生まれる。",
+      "日本企業には、この新しい潮流の中で、特定の技術やニッチ市場での協力・参入の商機が生まれる可能性がある。"
+    ],
+    "date": "2026-09-04 01:05",
+    "id": "MUZCbjVVdW8%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "TSMCが熊本第2工場に巨額投資、トヨタ等との連携で日本ビジネスを強化",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IOFg3cVlHaktzUGhtbWc4MVAwUG1iRWNLakdWTHlwQnlZSVpPbUpiR09jd1FjeE9zM04zMHJ5eXQ4VnhuNzkzUVRmVXjSAU9BVV95cUxOektNRmhIS3BmYktNd0NWVGJuNE1Zcnltd0NNM05iLUZTNjNRa0hEZkxTV0NoNUhVejJ3WnA5X25XTHJhTmR5MHlUVGYxb0Vj?oc=5",
+    "importance": "A",
+    "summary": [
+      "TSMCが熊本第2工場への巨額投資を通じて、日本市場での存在感をさらに拡大。",
+      "トヨタやソニーなど日本大手企業との緊密な連携を深め、日本の半導体サプライチェーンに貢献。",
+      "これにより、日本の自動車産業やエレクトロニクス産業の競争力強化に繋がり、経済効果も期待される。"
+    ],
+    "date": "2026-09-04 01:05",
+    "id": "HlUVGYxb0Vj%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
     "title": "米メディアが大谷翔平を『全スポーツ史上最高』と称賛：グローバルブランド価値の分析",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUERKWHJibTV5MzQ0SjY1Ynl1S3A5RHl5YUxIQ3lVeHNSa19xaDJ6TTBUSTZIZ3ZaMkJDRkRYZ3gwaGVUbkZlTnhnNjRyU3FQcDZoV3diSVN5WkdveHYzN1dQTmN5cGRqZEVtOXIxX2V3dzNvX3RQeVRqVm5rUEE?oc=5",
     "importance": "B",
@@ -3859,44 +3898,5 @@
     ],
     "date": "2026-08-02 15:07",
     "id": "my/worldbank-outlook"
-  },
-  {
-    "category": "テクノロジー",
-    "title": "OpenAI、GPT-4.5ベータ版でマルチモーダルAI機能を大幅強化",
-    "url": "https://example.com/tech/openai-gpt4-5",
-    "importance": "A",
-    "summary": [
-      "OpenAIが最新AIモデル「GPT-4.5」のベータ版を一部企業に公開開始。",
-      "テキストに加え画像や音声も同時処理可能なマルチモーダル機能が強化。",
-      "カスタマーサポートやコンテンツ生成など、多様なビジネスアプリでの活用が期待される。"
-    ],
-    "date": "2026-08-02 15:07",
-    "id": "m/tech/openai-gpt4-5"
-  },
-  {
-    "category": "テクノロジー",
-    "title": "Google、量子コンピューター新プロセッサで演算性能を飛躍的に向上",
-    "url": "https://example.com/tech/google-quantum-processor",
-    "importance": "S",
-    "summary": [
-      "Googleが量子コンピューター向け新プロセッサ「Sycamore-2」を発表。",
-      "演算速度が従来比100倍に向上し、新素材開発や創薬など多分野での応用を加速。",
-      "競合他社との開発競争が激化し、未来技術の産業実装を促進する可能性。"
-    ],
-    "date": "2026-08-02 15:07",
-    "id": "le-quantum-processor"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平の野球カードが約17.3億円で取引：スポーツトレーディングカード市場の熱狂",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOV9qVWF4T253VzVoU19Ua1ZMR252RV9WTE1hRUdnOHR4emFpNWhLN3A2Y253dzF2N05IdE1DYVBqM2FyclVSQXlGemhESEY2UFZwQ0l4SENXOFhhOXBXQUFaQk16Q0ZkTG1FbTdtYUdycEJ4TU5KMnZTbmxVblI4WUEyS2TSAYoBQVVfeXFMTU0xcFY0N0pPYjkwNmRyaHFiY0tsajExUF8yaTJ0NEZFb2dZLV9LLXIxaFVHdUh4TmNIMm9pMzJvbnJSX3R3anN3RnJWaHh6cXI5a1c1NFdKNlN3Mk9Kb1hDT1d4emRlTjk5STV6NUVNWklMNEJBQmdLRTlhcWl3RWJZQ1Jja2NVZC13?oc=5",
-    "importance": "S",
-    "summary": [
-      "大谷翔平選手の野球カードが約17億3000万円という高額で取引され、史上3位の記録を更新。",
-      "これはスポーツ選手のブランド価値が、コレクターズアイテム市場で巨額の経済効果を生むことを示す。",
-      "トレーディングカード市場の活況は、スポーツビジネスにおける新たな収益源としての可能性を提示。"
-    ],
-    "date": "2026-08-02 07:58",
-    "id": "1Jja2NVZC13%3Foc%3D5"
   }
 ]
