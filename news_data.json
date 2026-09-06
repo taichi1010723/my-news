@@ -1,5 +1,122 @@
 [
   {
+    "category": "社会",
+    "title": "高齢化社会、医療・介護制度の持続可能性が喫緊の課題に",
+    "url": "https://www.mhlw.go.jp/",
+    "importance": "A",
+    "summary": [
+      "日本を含む先進国で高齢化が急速に進展し、医療費・介護費の増大が国家財政を圧迫。",
+      "制度の持続可能性確保のため、予防医療推進や地域包括ケアシステムの強化が求められる。",
+      "ロボットやAIを活用した効率化、QOL向上への投資が医療・介護ビジネスの重要テーマ。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "%3A//www.mhlw.go.jp/"
+  },
+  {
+    "category": "テクノロジー",
+    "title": "EV市場で価格競争が加速、自動車メーカーの収益性に課題",
+    "url": "https://www.reuters.com/business/autos-transportation/",
+    "importance": "A",
+    "summary": [
+      "世界の電気自動車（EV）市場で競争が激化し、特に中国市場を中心に価格競争が加速している。",
+      "テスラやBYDに加え、新規参入企業の増加が供給過多と価格下落を招いている。",
+      "自動車メーカー各社は収益性維持と市場シェア拡大の両立に直面し、戦略の見直しが急務。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "utos-transportation/"
+  },
+  {
+    "category": "テクノロジー",
+    "title": "生成AIの進化がコンテンツ制作・マーケティングに変革をもたらす",
+    "url": "https://www.techcrunch.com/",
+    "importance": "A",
+    "summary": [
+      "ChatGPTなどの生成AIツールが飛躍的に進化し、ビジネスプロセスの大幅な効率化を可能に。",
+      "コンテンツ制作、マーケティング戦略、カスタマーサポートなど多様な分野での活用が進む。",
+      "企業はAI導入によるコスト削減と新たな価値創造の機会を模索し、競争優位性の源泉となる。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "/www.techcrunch.com/"
+  },
+  {
+    "category": "政治",
+    "title": "EUがAI規制法案で合意、世界初の包括的枠組みを構築",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "importance": "A",
+    "summary": [
+      "EUはAIの利用を規制する世界初の包括的法律「AI法」で政治的合意に達した。",
+      "高リスクAIシステムへの厳格な規制や、生成AIに関する透明性の義務などが盛り込まれる。",
+      "AI開発企業やサービス提供企業は新たな規制への対応が求められ、グローバルなAI開発に影響を与える。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "ulatory-framework-ai"
+  },
+  {
+    "category": "国際",
+    "title": "米中関係、経済・安全保障の両面で対立が深刻化",
+    "url": "https://www.mofa.gov.jp/mofaj/area/usa/us_relations.html",
+    "importance": "S",
+    "summary": [
+      "米国と中国の関係は、半導体規制や台湾問題など、経済・安全保障の両分野で緊張が高まっている。",
+      "両国首脳は対話の窓口を維持する姿勢だが、戦略的競争は激化の一途を辿る。",
+      "グローバルサプライチェーンや国際貿易に不確実性をもたらし、企業はリスク管理を強化。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "sa/us_relations.html"
+  },
+  {
+    "category": "金融",
+    "title": "ECB、インフレ鈍化で利上げ停止を示唆も景気減速に警戒",
+    "url": "https://www.ecb.europa.eu/press/html/index.en.html",
+    "importance": "A",
+    "summary": [
+      "欧州中央銀行（ECB）はインフレ率が目標に近づく中、今後の利上げ停止の可能性を示唆。",
+      "一方で、ユーロ圏経済の景気減速懸念が強まっており、今後の政策はデータ次第との姿勢。",
+      "金融引き締め策の転換は企業活動や消費者心理に影響を与え、市場の動向が注目される。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "s/html/index.en.html"
+  },
+  {
+    "category": "金融",
+    "title": "FRB、政策金利を据え置き、高金利政策の長期化を示唆",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary2024xxxxa1.htm",
+    "importance": "S",
+    "summary": [
+      "米連邦準備制度理事会（FRB）は政策金利を据え置き、高水準の金利が長期化する見通しを発表。",
+      "堅調な経済指標と緩やかなインフレ鈍化ペースが背景にある。",
+      "市場は将来の利下げ時期を再評価し、企業投資や資金調達コストに影響を与える可能性。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "netary2024xxxxa1.htm"
+  },
+  {
+    "category": "経済",
+    "title": "日本銀行、2025年度に物価目標2%達成の可能性を示唆",
+    "url": "https://www.boj.or.jp/research/research_data/outlook/",
+    "importance": "A",
+    "summary": [
+      "日銀の展望レポートは、2025年度に消費者物価指数（コアCPI）が2%の目標を達成する可能性が高いと報告。",
+      "賃上げ圧力の持続とサービス価格の上昇が物価押し上げの主要因。",
+      "国内経済は緩やかな回復基調にあると評価され、金融政策正常化への期待が高まる。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "search_data/outlook/"
+  },
+  {
+    "category": "経済",
+    "title": "IMF、世界経済成長予測を上方修正も地政学リスク継続に警鐘",
+    "url": "https://www.imf.org/latest",
+    "importance": "S",
+    "summary": [
+      "IMFは2024年の世界経済成長率予測を上方修正し、インフレ鈍化と労働市場の回復を指摘。",
+      "しかし、ウクライナや中東情勢といった地政学リスクが下振れ要因として残ると警告。",
+      "新興国の債務問題も持続的な経済成長への課題として浮上している。"
+    ],
+    "date": "2026-09-07 00:12",
+    "id": "//www.imf.org/latest"
+  },
+  {
     "category": "株・経済",
     "title": "日経平均株価が一時1600円超安：原油高が景気下押し懸念を増幅",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jUzdsSC1HT1VzQ0tjdUVnMXZEZTVIZWNINUJmRFcwNnd4RGh1VWJrTWdyVkFOWWplR2dVeGk1WU5tdkVSbVJwbXJIYm5hSF84SkdGWlJlYXBPdTVfRUo5NWVGWHVublQtQS1kcg?oc=5",
@@ -3781,122 +3898,5 @@
     ],
     "date": "2026-08-05 14:50",
     "id": "xZ09tb2RQRQ%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "ブランディングの誤解と広告戦略の終焉",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Ym4zWUx0S1NpVzcwc2QxV2ZwQnNnUnc2TzVCcnFRd0tqNThDak1YSnQ0bF91WkRTRlI5WE1pR3Y3c3JSU1BkY3VEZWRueW5SdjY1aUxfSGN0Q21MOTZrUlJsWHZvd1JnaFE?oc=5",
-    "importance": "S",
-    "summary": [
-      "「ブランディングの誤解」が徹底議論され、単なる広告による差別化が困難な時代の終焉が語られています。",
-      "現代の市場では、ブランドの真価を問う本質的な価値提供と顧客体験が重視されています。",
-      "企業は、短期的な広告効果に依存せず、長期的な視点でのブランド価値構築に注力すべき段階に入っています。"
-    ],
-    "date": "2026-08-05 14:50",
-    "id": "WHZvd1JnaFE%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AI導入の落とし穴、誇大広告に惑わされない現実的な視点",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVFpMW1vYmNydjlKVkt6TTRwTUQ0ZDN4d1FyVkRXd0NWeFk?oc=5",
-    "importance": "A",
-    "summary": [
-      "IBMは生成AIに関する「誇大広告」や「反誇大広告」に惑わされないよう警鐘を鳴らしています。",
-      "AI導入を検討する企業は、過度な期待ではなく、具体的なビジネス課題と効果を冷静に見極める必要があります。",
-      "現実的な目標設定と、技術の限界を理解した上での戦略的な活用が成功の鍵となります。"
-    ],
-    "date": "2026-08-05 14:50",
-    "id": "VkRXd0NWeFk%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "AI時代の伸びるビジネス分野、AIとワーケーションが牽引",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBldk4zbHl3cjRjMDJMTkp6NXotSDdPcDMzYzFFUTVBcFNzRjRqSWJHS0syNlVHSWFlS1kyVmlQek5mUFhGRnc1T19aOExoNEV2WFN4WDUtcXpBeGtvWWRhXy1JRFhZZw?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経クロストレンドの独自調査により、今後の「伸びるビジネス分野」の最新版が発表されました。",
-      "AI技術の応用と導入が引き続きビジネス成長の主要なドライバーとなることが示されています。",
-      "一方で、ワーケーション関連ビジネスも再浮上しており、多様な働き方への対応が重要性を増しています。"
-    ],
-    "date": "2026-08-05 14:50",
-    "id": "hXy1JRFhZZw%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NECが新入社員に年収1000万超を提示：グローバル人材獲得競争の激化",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM3NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG90ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "A",
-    "summary": [
-      "NECが新入社員に年収1000万円以上を提示するなど、グローバルな人材獲得競争が激化している。",
-      "特に技術系人材や専門職において、高待遇で優秀な人材を引き抜く動きが加速。",
-      "日本企業は国際競争力を維持するため、報酬体系や人材育成戦略の抜本的な見直しを迫られている。"
-    ],
-    "date": "2026-08-05 08:08",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "ブランディングの本質：ユニクロとコカ・コーラの事例から学ぶ「目的化しない」戦略",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PdmNjeWkyTzVPTlNPSDRhRDdWZ2d0YXlyQkw4NWtVZVUtekNrdWg0NlVvMXgxbE5HLUpzZnBrMVNlWVh3TDBGTTFYMkR5RksyLVhzRTREd3hlT0dpS0pwVVZiN2E?oc=5",
-    "importance": "S",
-    "summary": [
-      "ユニクロの成功とコカ・コーラの過去の失敗事例から、ブランディングを「目的」としない重要性が指摘された。",
-      "ブランディングはあくまで事業成長のための「手段」であり、顧客価値や競争優位性の追求が本質であると解説。",
-      "持続的なブランド構築には、顧客体験と市場ニーズに基づいた戦略的なアプローチが不可欠である。"
-    ],
-    "date": "2026-08-05 08:08",
-    "id": "S0pwVVZiN2E%3Foc%3D5"
-  },
-  {
-    "category": "스포츠",
-    "title": "日本のスポーツ人気論争：野球とサッカー、大谷翔平の影響",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdW9BSF9uWnA5Vk9CSlhQcEZXOE8ySmZKdkd1cmVyZTgySlpuaFZwNEJVMEJDbWFlc2I3aXJCWDU0TzlIZHdIeTl2Vmg3S1hPenl6Y1Etc0RtLVVYUGIxVEhSX2ZJMExOZXgya3NpSS1xdmFSLXF3YXAwLUVHUEtwV1Rva1ZDQWhaQkhRSXdzOXNIUmlLbGF2MTdEWVhvZ9IBowFBVV95cUxPOGVTcW51STEzUm9nSVNsZzMzNFh4SEJVakpnTmtnTVNsR3A3TGFWUGpLU0pMYXQ2LXltRXhaNnB1cTNsa3M5cC11SS1qM3BEeUV6MEZXczdwdGN6Mjhab1NIZmV0RFVGRC1Id2JSZVVuRGFSY1U0bWd6RDVnUFFicjliQUM5WUVLcXpZcjFtTy1rOWZqU05EWGpCTXZkSXV3THBn?oc=5",
-    "importance": "C",
-    "summary": [
-      "日本における野球とサッカーの人気度に関する議論が再燃し、日本代表選手からもコメント。",
-      "大谷翔平選手の圧倒的な存在感が野球人気を牽引している現状が指摘された。",
-      "スポーツ産業のマーケティング戦略において、スター選手の存在とコンテンツ力の重要性が浮き彫りになる。"
-    ],
-    "date": "2026-08-04 23:24",
-    "id": "XZkSXV3THBn%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平、復帰後初アーチでファン熱狂：野球人気の再燃",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SUW5qRW1YakZ0T3ZOYUhzMHMzODlPbDUzZS1oLW5Ca3BEejdTb0ppNUlkbTViZlAybThhNHJPcXlJNDdyY0dObVhWeGVjOU44X191aTg2NFFlaVl6VHYxLWNYV0kxQm5GRUdzUElvQU4wSHBqR0HSAX5BVV95cUxNcWhKcGNFN0FzS2IwUXhmRWdLd0RvTFdnNHgtZXpQZEFhem8zTnhnSGtYSDdORW00LXZzUVRkdkhSc2xUMWVqWXpyd2ZIMndsNTRLNVpVcEdRa3Y2aGFYcU9NVTlYM0JhZm1QOEhRYVJBX05mVjU4U1BQQUc1ZlE?oc=5",
-    "importance": "C",
-    "summary": [
-      "大谷翔平選手が“産休”明けの試合で復帰後初のホームランを放ち、国内外のファンを熱狂させた。",
-      "その活躍は野球への注目度を一層高め、スポーツコンテンツとしての価値を再認識させる。",
-      "スター選手の存在がメディア露出や関連ビジネスに与える影響は大きく、引き続き注目される。"
-    ],
-    "date": "2026-08-04 23:24",
-    "id": "U1BQQUc1ZlE%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "半導体復権へ：ラピダスに20社超が新規出資、官民連携強化",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FeTI2czZGMFpoWFEza2RCdG5xM0JkR3VsaU1FN3dQU3IwT3RreDFiN0JyeHBOeXFwVjJmcFRHbl_wVGctLXpzME43Q0RwZXZQRmFBZ2JWenh0Z2dqSXFSTktQT25EaldaaEVYNA?oc=5",
-    "importance": "S",
-    "summary": [
-      "日本の次世代半導体製造を目指すラピダスに対し、京セラや千葉銀行など20社超が新規出資を決定。",
-      "多様な業種からの参加により官民連携が強化され、日本の基幹産業の復権に向けた国家戦略が本格化。",
-      "経済安全保障の観点からも重要視され、先端技術開発と産業構造の転換への期待が高まっている。"
-    ],
-    "date": "2026-08-04 23:24",
-    "id": "EaldaaEVYNA%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AI活用で日米格差拡大：高学歴・高収入層がリード",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PdlkyaWx3aG9GYWhva2FoTXJsU3ZSVVltTF9RUmQ4V3VRTTJia2NJdWFPU1NkQkllaVdQVlBvTEd3MFVUSkRRWE1MX1NDRmdRajlGbDF3Rm92T1RjZ3JtYzdDR3RsdVk?oc=5",
-    "importance": "A",
-    "summary": [
-      "生成AIの活用率において、日本と米国で大きな隔たりがあることが調査で明らかに。",
-      "高学歴・高収入の層ほどAIを積極的に活用しており、デジタル格差がさらに拡大する懸念。",
-      "企業はAIリテラシー向上と全社的な導入戦略を加速させ、競争力維持に努める必要がある。"
-    ],
-    "date": "2026-08-04 23:24",
-    "id": "YzdDR3RsdVk%3Foc%3D5"
   }
 ]
