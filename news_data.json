@@ -1,5 +1,31 @@
 [
   {
+    "category": "株・経済",
+    "title": "日経平均株価が一時1600円超安：原油高が景気下押し懸念を増幅",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jUzdsSC1HT1VzQ0tjdUVnMXZEZTVIZWNINUJmRFcwNnd4RGh1VWJrTWdyVkFOWWplR2dVeGk1WU5tdkVSbVJwbXJIYm5hSF84SkdGWlJlYXBPdTVfRUo5NWVGWHVublQtQS1kcg?oc=5",
+    "importance": "A",
+    "summary": [
+      "原油価格の高騰が景気下押し懸念を強め、日経平均株価が一時1600円超の大幅な下げ幅を記録。",
+      "エネルギーコスト上昇は企業の生産コスト増や消費者の購買力低下に直結し、広範な経済活動に影響。",
+      "企業はサプライチェーンのリスク管理やコスト削減策の強化が喫緊の課題となる。"
+    ],
+    "date": "2026-09-06 16:45",
+    "id": "ublQtQS1kcg%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AI活用率の日米格差が拡大、高学歴・高収入層が主導",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PdlkyaWx3aG9GYWhva2FoTXJsU3ZSVVltTF9RUmQ4V3VRTTJia2NJdWFPU1NkQkllaVdQVlBvTEd3MFVUSkRRWE1MX1NDRmdRajVtYjF3Rm92T1RjZ3JtYzdDR3RsdVk?oc=5",
+    "importance": "S",
+    "summary": [
+      "日米間で生成AIのビジネス活用率に大きな差が生まれ、特に日本は遅れが顕著。",
+      "高学歴・高収入層ほどAIを積極的に活用しており、この格差がさらに拡大する傾向にある。",
+      "日本企業はAI導入への意識改革と戦略的な投資が急務であり、競争力低下のリスクに直面。"
+    ],
+    "date": "2026-09-06 16:45",
+    "id": "YzdDR3RsdVk%3Foc%3D5"
+  },
+  {
     "category": "マーケティング",
     "title": "AI広告利用におけるブランド毀損リスク：プラダの事例から学ぶべき教訓",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nbThNNjNycFFoUzNGVi1TV2JkTC1jM0pSRFhhZm5GY2dMVTEzSk50Qjk0WDUzVFBmRjBpd0pwTERIV3QzaHV2ZFY0LWRvUTEyOFI2R0NlZVBldzZDWVM5TGdzTGo0cEI2S1FN?oc=5",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-08-04 23:24",
     "id": "YzdDR3RsdVk%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "覇権交代の歴史が示唆する世界の未来：米中対立と世界戦争のリスク",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84Q0oyaS1uZHNsVFFSMExsQVhGLU1RYkNlVVZmd2ZLRWxJSURtY3FrNmFGanM3cmFFZURYREE5al9xaDNrOV9VaW5ldFY1Y0FvcXdxSUhkUmZsY3M?oc=5",
-    "importance": "S",
-    "summary": [
-      "イギリスからアメリカ、そして中国へと続く歴史的な覇権交代のサイクルが分析されている。",
-      "現在の米中対立は新たな世界秩序の形成期にあり、世界戦争勃発のリスクを内包していると警鐘を鳴らす。",
-      "経済、軍事、思想といった多角的な側面から、来るべき世界の未来像と地政学的変動の可能性が提示された。"
-    ],
-    "date": "2026-08-04 14:53",
-    "id": "SUhkUmZsY3M%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "製薬業界におけるAI活用で創薬・研究を効率化、実事例から見る未来",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOMlBYb1ZISnJ4QWl2OEduazYtRWVZRWM0SHJuYmFfT0FrUTJvSVdCUVV2blk4aGg4eTdsYTdmX3lXUDZmZUk3c2pEUFA5LXB4OWxnNUYtWlczSGMyYmt3?oc=5",
-    "importance": "A",
-    "summary": [
-      "製薬業界でAIが創薬・研究開発の効率化と自動化に大きく貢献している実事例が紹介。",
-      "AI導入により実験プロセスの最適化や新薬候補の特定が加速し、開発期間の短縮に寄与している。",
-      "今後、AIは製薬ビジネスの競争力を高める上で不可欠な技術となり、さらなる活用が期待される。"
-    ],
-    "date": "2026-08-04 14:53",
-    "id": "lczSGMyYmt3%3Foc%3D5"
   }
 ]
