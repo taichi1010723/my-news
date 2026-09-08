@@ -1,5 +1,57 @@
 [
   {
+    "category": "ビジネス",
+    "title": "中堅・中小企業3300社の声から読み解くビジネストレンドTop5",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zQW5LMDhZMktMNDFOYnpWVmstU3hQNTBGN1xhbUlVQW1ySkZtSk1sNThVSFBocTFUOXQ5NXdtMXJJQThhVGNFVDZkdmNvelRaNW9KYndvRnhQZmd3ZEZYZmlEUFJHTExxZ09tb2RQRQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "Salesforceが中堅・中小企業3300社の調査に基づき、現在のビジネストレンドTop5を発表しました。",
+      "デジタル技術活用、人材育成・確保、事業承継などが主要な課題および成長機会として浮上しています。",
+      "日本経済の根幹を支える中堅・中小企業の動向は、マクロ経済や政策立案にとって重要な情報源です。"
+    ],
+    "date": "2026-09-09 08:57",
+    "id": "xZ09tb2RQRQ%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "ブランド戦略における「3つの誤解」を解消し、一貫したブランド印象を築く重要性",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SkhDRFU4TkUxZmZhYWVSRkNCSnVVZjRfSVVBQllnejIyNGNJTmJScUdpT0lzd05RR056Rk1oMFZyN0RkVHhJOVRjUjlNaHFvekxqWVBITGRvNzdicE5qWWxnRk5MQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "多くの企業がブランド戦略で陥りがちな「3つの誤解」が指摘され、その本質的な理解が促されています。",
+      "ブランドの核となるメッセージやイメージを、あらゆる顧客接点で一貫性をもって伝えることの重要性を強調。",
+      "消費者からの信頼獲得と長期的なブランド価値向上には、戦略的なブランド管理が不可欠です。"
+    ],
+    "date": "2026-09-09 08:57",
+    "id": "qWWxnRk5MQQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "企業が生成AIを導入・活用するための実践手法と注意点",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWk5iakZkRGthY3NPMkNFc0tlbElNMVAyd1RXOVFiLWxuamNQR05QZGxSZjdlNWFxUnp4dzFmdFJYRVdCRGxBdWlUbVk4MEJuWGx0cGoybWFGa0tta0tsRG9CVQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "企業がChatGPTなどの生成AIをビジネスに導入し、事業へ活用するための具体的な手法が紹介されています。",
+      "機密情報の入力制限や大規模言語モデル (LLM) の遅延対策など、実務的な課題への対応策も提示。",
+      "効果的なAI活用は、業務効率化、新規事業創出、顧客体験向上など多岐にわたるメリットをもたらします。"
+    ],
+    "date": "2026-09-09 08:57",
+    "id": "ta0tsRG9CVQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "日本政府、令和6年版情報通信白書で生成AIの急速な進化と普及を詳説",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWN2OW9EV2NpMzlKMXN6MkZvNTMwcVFhQS10QWVYLVQ2Y1NGeHBTMTdNb2EtUHQ0M0lVQ0RvQkN4VWZZVVlyMFJVT25DUlZuMGhmb01odUFWTk1kQWNzY050TnlXckJxclVUaVlsRUVIYi14Z241b0ZMcUJmTzhXcVN3?oc=5",
+    "importance": "S",
+    "summary": [
+      "総務省が令和6年版情報通信白書で、生成AIの技術進化と社会・経済への普及状況を報告しました。",
+      "AI導入がもたらす生産性向上や新たなビジネス機会について詳述し、政策的支援の方向性を示しています。",
+      "政府のAIに関する現状認識と戦略は、企業のAI投資や事業展開の重要な指針となります。"
+    ],
+    "date": "2026-09-09 08:57",
+    "id": "UJmTzhXcVN3%3Foc%3D5"
+  },
+  {
     "category": "世界企業情勢",
     "title": "NECが新入社員に年収1000万超：グローバル人材獲得競争の激化",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfUzhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
@@ -3846,57 +3898,5 @@
     ],
     "date": "2026-08-06 14:56",
     "id": "0TjdwTFYwUg%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "公正取引委員会前委員長が提言「データは公共財と捉えるべきだ」",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rcnlURzE2TmZIOHpyWE53alZWUU9oNV9yX0VBRi15ZVY1ZzlleGhkWjFQME1vc29SRHJGWk11akw4YzN0VzdFejZJNHkySzZkSnY3QV9kMjdUY0duWFpPbWx4YmhhSG8?oc=5",
-    "importance": "S",
-    "summary": [
-      "公正取引委員会の杉本前委員長が、「データは公共財と捉えるべきだ」と提言。",
-      "巨大IT企業によるデータ独占の問題を指摘し、データの公正な利用と共有を促進する重要性を強調。",
-      "デジタルプラットフォーム企業やデータ活用を基盤とする全ての企業に、新たな規制とビジネスモデルの変革を促す。"
-    ],
-    "date": "2026-08-06 14:56",
-    "id": "bWx4YmhhSG8%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "GAFAに迫る「デジタル税」：国際課税の動向と企業への影響",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNDdFbHlRSXZ6VWtHaXBnVVMxYjhaSjhSMF9LMTBydUpYLVZ5emJRRDVoMy1mX21ZdTkwWGRqYV9zSW1uSGpNN3hYYTJiYWhXZ3c?oc=5",
-    "importance": "S",
-    "summary": [
-      "GAFAなどの巨大IT企業に課される「デジタル税」の動向と、その国際的な議論を解説。",
-      "課税逃れ問題に対応し、各国の税収確保と公平な競争環境の実現を目指す動き。",
-      "多国籍企業やデジタルサービスを提供する企業は、新たな国際課税ルールへの対応が急務となる。"
-    ],
-    "date": "2026-08-06 14:56",
-    "id": "YTJiYWhXZ3c%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "「壊れた」相場、嵐は去らず：米景気動向で市場変動大きく",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uNEVYUWZKd04tN21wbGtQVXpEa0k4SmJqZlJQOC1NRnlTdkR4VHF1Ukthd21XOFJpMjFENkkzM0VIaXJRa1kyam9haVZ0Zy1KbEFvbGhEY1JpU3Jpc1J1TmhDVXg0alNVZHdscQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "米国景気の不確実性が続き、世界的な株式市場が「壊れた」相場と表現されるほど変動が大きい。",
-      "米国の金融政策、インフレ動向、雇用統計などが市場の動揺を招いている。",
-      "企業はグローバルな経済動向を常に監視し、不測の事態に備えたリスクマネジメントを強化する必要がある。"
-    ],
-    "date": "2026-08-06 14:56",
-    "id": "0alNVZHdscQ%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "中小企業がデジタル技術で新たなビジネス機会を創出するポイント",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySDVyOUhwNlpoUnFNSmMxRnJCSFI1bkNPN0dOWjNBRkliWGdOaUd6ckhSRURacUVNU3J2aHVLVThfOFZ0cFBScExfUXBTbUR0TjVGbUtDQmswS25aTWc?oc=5",
-    "importance": "A",
-    "summary": [
-      "中堅・中小企業がデジタル技術を活用し、新たなビジネス機会を創出するポイントを解説。",
-      "DX推進における具体的なステップや、AI・IoTなどの導入による生産性向上と新サービス開発を提示。",
-      "限られたリソースの中小企業がデジタル変革を成功させ、競争力を高めるための実践的ガイド。"
-    ],
-    "date": "2026-08-06 14:56",
-    "id": "QmswS25aTWc%3Foc%3D5"
   }
 ]
