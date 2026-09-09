@@ -1,5 +1,31 @@
 [
   {
+    "category": "株・経済",
+    "title": "米国大型ハイテク株が弱気相場入り：世界景気減速懸念が強まる",
+    "url": "https://news.google.com/rss/articles/CBMibEFVUXlxTFBmckhoa1VUc2lBOXpKYVRQNXZ1THc1R1ViN0FRUjJTMVNwZkxoeDIzT1lzQXJvbVNQZ3RURFRjRWlBOVhJYURNVWlGRWprelE1QTVhMXpIR2FhVUtxWExUd2VQcW5kTFZnaDhHcg?oc=5",
+    "importance": "A",
+    "summary": [
+      "米国の大型ハイテク株「FANG」が弱気相場入りし、世界経済の減速懸念が強まっている。",
+      "ハイテク企業の業績悪化は、グローバルサプライチェーンや消費動向に広範な影響を及ぼす。",
+      "日本企業は世界景気の動向を注視し、事業計画やリスクヘッジ戦略を再評価すべき。"
+    ],
+    "date": "2026-09-10 01:14",
+    "id": "kTFZnaDhHcg%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "企業IT投資の実態：DXよりもPC更新が優先される現状",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13di00TFJhWE5lRFVkdnhoVGtwWnprSDdaTTd1WE8ySnU4LWRjUXg2YmZNSkJtUVFsR3hxakJjTEduWE5ZX2h1RENuNGNOTEhHNlA1Q2NoQ0U?oc=5",
+    "importance": "A",
+    "summary": [
+      "企業のIT投資において、DX推進よりも老朽化したPCの更新が9割を占める実態が判明。",
+      "多くの企業でDXへの本格的な投資が遅れており、根本的な意識改革と予算配分が課題。",
+      "経営層は短期的な設備更新だけでなく、長期的な競争力強化に繋がるDX投資を優先すべき。"
+    ],
+    "date": "2026-09-10 01:14",
+    "id": "NlA1Q2NoQ0U%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "日本における野球とサッカーの人気論争：大谷翔平の影響",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kc3MtRFdtNFRGUVM1VEtpbDhzazk4VUEtNTNhT096WkpFNjVYdTJOcW42YkJGVXB5X09wYURZMHlOYVp4RjZHX3NVaDBzM1JUQWZwYlA3WE94b0l0eU85ZGdMM2tXUURIRUZvcUFNcWM4aHNxQkNEd2ZjQWhJMEk?oc=5",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-08-06 23:22",
     "id": "OHhmejREYlk%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NECが新入社員に年収1000万円超：グローバル人材獲得競争の激化と日本企業",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfWjhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "B",
-    "summary": [
-      "NECが新入社員に対して年収1000万円超を提示するなど、グローバルな人材獲得競争が激化している。",
-      "特にAIやデータサイエンス、サイバーセキュリティといった分野で、世界中の優秀な人材を引きつける必要性が高まっている。",
-      "日本企業は、国際競争力を維持・向上させるため、報酬体系や働き方改革を一層推進する必要がある。"
-    ],
-    "date": "2026-08-06 23:22",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "次世代自動車「SDV」が自動車産業の重要テーマに、政府は世界シェア3割目標",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03azU4eTNQdTVQYy1OZjUzTVpXdkh5WGtsUmkxcWhEcnNWcU9ZTGakdmNyYUhveWZOVUVzSDlxRDdkUnIwdllWeDAxXzVmOHJiaW93?oc=5",
-    "importance": "B",
-    "summary": [
-      "次世代自動車の中核となる「SDV（Software Defined Vehicle）」が、自動車産業を支える重要テーマに浮上。",
-      "日本政府は「モビリティDX戦略」でSDVの世界シェア3割獲得を目標に掲げ、関連技術開発を推進。",
-      "SDV関連銘柄は新たな成長機会を秘め、自動車産業の構造変化とビジネスモデル変革を加速させる可能性。"
-    ],
-    "date": "2026-08-06 23:22",
-    "id": "zVmOHJiaW93%3Foc%3D5"
   }
 ]
