@@ -1,5 +1,70 @@
 [
   {
+    "category": "スポーツ",
+    "title": "日本スポーツ界のコンテンツ競争：野球とサッカーの人気格差",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UzZsbDF0UnlTN2prdk1nVzhWdmJSNTVvNi1lSlZnODAtS3cxUXZ2eXZjN2pFRkFCNW1LOEpxbGNMYW01VWNBT0hQWnVnVGNqTWpkd19peTZQa2VFc0ZJLTlZcmthQ0U1eEk5YXpieUFHX2VBNHZyOHhmejREYlk?oc=5",
+    "importance": "A",
+    "summary": [
+      "サッカー日本代表MFが「サッカーを国技に」と提言、野球人気の高さが「障害」との見方も。",
+      "日本国内では大谷翔平選手に代表される野球が圧倒的な人気を誇り、サッカーとの人気格差が顕著。",
+      "スポーツコンテンツ間の競争激化は、各競技団体やメディアの戦略立案に大きな影響を与える。"
+    ],
+    "date": "2026-09-11 16:55",
+    "id": "OHhmejREYlk%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "日本企業の特許ランキング：AI分野の弱さが浮き彫りに",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVVXlxTE5fMWpZbkU0THh4LWt0NjMzWXQ0RTV1Unhnb01wdVRsNGoxWHF6cGVmbVpZQ2d6dGRQR0c2ZnBZSDd4QXExYWE4VUlPZnZYX1VWRDVVejE4UG1rVDRqSFBfbDJjeFhZVmVj?oc=5",
+    "importance": "A",
+    "summary": [
+      "日本企業の特許ランキングで、トヨタやパナソニックが強みを見せる一方、AI分野の弱さが顕著。",
+      "この現状は、日本の将来的な産業競争力に影響を及ぼす可能性が高い。",
+      "AI技術開発への戦略的投資と高度人材育成が、日本企業の持続的成長に不可欠。"
+    ],
+    "date": "2026-09-11 16:55",
+    "id": "DJjeFhZVmVj%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価、米景気懸念と円高で一時2600円安",
+    "url": "https://news.google.com/rss/articles/CBMibEFVVXlxTE5ZaTNLaTR2ZXluN3F1akZ1dFAwbnVRRU5mSEZxSk5Ha1pwd19jcEpCR3RPR2lOd0VwcnhySFdreGJCcXVlSFdnbXVlS2VMSF9BWkhJWkJRRlNjTmJaVGE0N0JmalljZTJwN05qSg?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価が一時2600円を超える大幅な下落を記録、市場に動揺が広がる。",
+      "主要因は米景気の先行き不透明感と急速な円高進行への警戒感。",
+      "日本市場はグローバル経済、特に米国経済の動向に大きく左右される状況が続く。"
+    ],
+    "date": "2026-09-11 16:55",
+    "id": "jZTJwN05qSg%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "米大型ハイテク株「FANG」が弱気相場入り、世界景気減速懸念が強まる",
+    "url": "https://news.google.com/rss/articles/CBMibEFVVXlxTFBmckhoa1VUc2lBOXpKYVRQNXZ1THc1R1ViN0FRUjJTMVNwZkxoeDIzT1lzQXJvbVNQZ3RURFRjRWlBOVhJYURNVWlGRWprelE1QTVhMXpIR2FhVUtxWExUd2VQcW5kTFZnaDhHcg?oc=5",
+    "importance": "S",
+    "summary": [
+      "米国の大型ハイテク株「FANG」が弱気相場入りし、世界景気の減速懸念が強まっている。",
+      "ハイテク企業の業績は広範な産業に波及する可能性があり、市場全体に影響を及ぼす。",
+      "グローバル経済の先行指標として、今後の動向がビジネス戦略に与える影響は大きい。"
+    ],
+    "date": "2026-09-11 16:55",
+    "id": "kTFZnaDhHcg%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "大企業向けWeb広告の限界と新たなPR戦略の台頭",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOURTcE91bEf1LUwxUnhSTDJZYVdTdUY4cVZkaFgtRUkxMlowZDV5SUFhYndQWVVyZFJVWkNmdXEwa3JIaFpMVF94eTJlUFJPRTYwWmNSZExaWk5jNnJmUGEzdEg0QQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "Web広告だけでは大企業開拓に限界が見え、特に広範な認知獲得には課題がある。",
+      "ネットプロテクションズの事例は、PR強化による大手企業との関係構築の成功を示す。",
+      "デジタルとアナログを組み合わせた多角的なアプローチが、現代のマーケティングで成果を出す鍵となる。"
+    ],
+    "date": "2026-09-11 16:55",
+    "id": "mUGEzdEg0QQ%3Foc%3D5"
+  },
+  {
     "category": "世界企業情勢",
     "title": "NEC、新入社員に年収1000万超でグローバル人材獲得競争に挑む",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3nkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-08-09 21:58",
     "id": "SVBxMVVJLWM%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平、年俸外収入で世界トップ：スポーツ選手の経済的影響力とブランド価値",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoaXo3ejB4eUlBWkpCQktVd2VtdmpCcWJKaU9GRmhYeFgwekF3NmdyMlM2dUNBZEhWZmVqMmFIUTJfZC1WcmgxMzlrcloyQTRaU1dVOQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "大谷翔平選手が年俸以外の収入で世界のスポーツ選手中1位となり、総収入でも5位にランクインしました。",
-      "これは、彼が持つ圧倒的なブランド価値と世界的な人気が、肖像権やスポンサー契約を通じて多大な経済効果を生み出していることを示します。",
-      "スポーツ選手が単なる競技者にとどまらず、巨大なビジネス資産となる現代スポーツビジネスの潮流を象徴する出来事です。"
-    ],
-    "date": "2026-08-09 21:58",
-    "id": "yQTRaU1dVOQ%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "ヨーロッパの原発回帰戦略：安定供給と環境の「死角」",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZOGg3SGh1MnhUTnFvTXVlSkZTajVJaEJ4b3ZMaFZwZGJtbkJjS1AxVzJnMFNtYzZvY1hoMnZGSkhpek9hUDBfV2pHVG9MRm9EVGNDTTcxRjBrQmNEa0U4Y0VFekNIXzQ?oc=5",
-    "importance": "B",
-    "summary": [
-      "ヨーロッパ諸国が脱炭素目標とエネルギー安定供給のため、原発回帰の動きを加速。",
-      "しかし、安全性、廃棄物処理、高コスト、地政学的リスクといった「死角」も同時に抱える。",
-      "エネルギー政策の方向性は、関連産業だけでなく、各国の経済全体に大きな影響を与える重要課題。"
-    ],
-    "date": "2026-08-09 13:21",
-    "id": "Y0VFekNIXzQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NEC「新入社員に年収1000万超」：グローバル人材争奪戦の焦り",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfLThKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "B",
-    "summary": [
-      "NECが新入社員に年収1000万円超を提示する動きは、グローバルな優秀人材獲得競争の激化を如実に示す。",
-      "海外企業への人材流出が課題となる中、日本企業も待遇改善や魅力的なキャリアパス提示で対抗。",
-      "DX推進や新規事業創出のため、高度なスキルを持つ人材の確保が企業の競争力に直結する重要課題。"
-    ],
-    "date": "2026-08-09 13:21",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "株式市場が苦手な「9月アノマリー」到来か？",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFWTEzT3k4ejBJTGFCUjRqeEtjeklDTVZzS3lSS3hQc2wxSHRYMW9OYkR2Tm9yMFVwTnRQbnlDcEdsMV9PUXpuamt6aDhKOTgzdmFsRGJlTDRRaUU?oc=5",
-    "importance": "B",
-    "summary": [
-      "歴史的に株式市場が軟調になりやすいとされる「9月アノマリー」が再び市場の注目を集めている。",
-      "機関投資家の決算期末調整や夏の休暇明けによるリスク選好度の低下などが要因として挙げられる。",
-      "過去の傾向を参考に、投資家は短期的な市場の動きに対し慎重なスタンスで臨む可能性が高い。"
-    ],
-    "date": "2026-08-09 13:21",
-    "id": "RGJlTDRRaUU%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "儲かるスモールビジネスの条件とアイデア19選",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EQ0d5UzA1bTRqRUxvekVqYjFxc2xnUHp6UUtJTDZoRFA3cEdjU09nNDhwVDJ2UzAzMXlpelNhR0pKUWctMlJuWHlXOVZpLVYxRmlqQXpmdEdveE1q?oc=5",
-    "importance": "B",
-    "summary": [
-      "起業家や新規事業担当者向けに、儲かるスモールビジネスの4つの条件を具体的に解説。",
-      "低コストで始められ、高利益率が見込め、ニッチな市場で専門性を活かせるビジネスの重要性。",
-      "具体的なスモールビジネスアイデアを19種類紹介し、新たな事業機会の創出を支援する情報。"
-    ],
-    "date": "2026-08-09 13:21",
-    "id": "XpmdEdveE1q%3Foc%3D5"
   }
 ]
