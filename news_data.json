@@ -1,5 +1,31 @@
 [
   {
+    "category": "ビジネス",
+    "title": "中堅・中小企業向け、デジタル技術を活用した新たなビジネス機会創出の要点",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySDVyOUhwNlpoUnFNSmMxRnJCSFI1bkNPN0dOWjNBRkliWGdOaUd6ckhSRURacUVNU3J2aHVLVThfOFZ0cFBScExfUXBTbUR0TjVGbUtDQmswS25aTWc?oc=5",
+    "importance": "A",
+    "summary": [
+      "三菱UFJリサーチ&コンサルティングが、中堅・中小企業がデジタル技術でビジネス機会を創出するポイントを解説。",
+      "DX推進が遅れがちな企業でも、クラウドサービスやAIの活用により競争力を強化できる具体的な方法を提示。",
+      "デジタル化は大手企業だけでなく、中小企業にとっても生き残りと成長のための不可欠な戦略となっている。"
+    ],
+    "date": "2026-09-14 08:58",
+    "id": "QmswS25aTWc%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "企業における生成AI活用、リスク管理と効率化の最新動向",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcTdvTkt3eW83aXE1OXhfVUNNMllBeGNHeE9UcnhtVzJuVWt3WkF0TGxjVXduNjdIU2taUGliMHgzZngtbjh0VEVlUnJYV0t0dVZfRF92ZnJaX3BKZGRycUJEMkJVLW9kMFl4cmVyU0V5UQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "ChatGPTへの入力禁止情報やLLMの遅延対策など、企業での生成AI活用における具体的な課題と対策が注目されている。",
+      "AI Gatewayの導入によるシステム効率化や、データサイエンスの無料学習リソースなど、実務的な活用事例が紹介。",
+      "企業はAI導入に伴う情報漏洩リスクや性能課題を認識し、適切な技術選定と運用ポリシーの策定が急務である。"
+    ],
+    "date": "2026-09-14 08:58",
+    "id": "4cmVyU0V5UQ%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "野球優勢の日本でサッカー選手が提言：競技間の市場戦略と成長の可能性",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdW9BSF9uWnA5Vk9CSlhQcEZXOE8ySmZKdkd1cmVyZTgySlpuaFZwNEJVMEJDbWFlc2I3aXJCWDU0TzlIZHdIeTl2Vmg3S1hPenl6Y1Etc0RtLVVYUGIxVEhSX2ZJMExOZXgya3NpSS1xdmFSLXF3YXAwLUVHUEtwV1Rva1ZDQWhaQkhRSXdzOXNIUmlLbGF2MTdEWVhvZ9IBowFBVV95cUxPOGVTcW51STEzUm9nSVNsZzMzNFh4SEJVakpnTmtnTVNsR3A3TGFWUGpLU0pMYXQ2LXltRXhaNnB1cTNsa3M5cC11SS1qM3BEeUV6MEZXczdwdGN6Mjhab1NIZmV0RFVGRC1Id2JSZVVuRGFSY1U0bWd6RDVnUFFicjliQUM5WUVLcXpZcjFtTy1rOWZqU05EWGpCTXZkSXV3THBn?oc=5",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-08-12 13:51",
     "id": "y1OSzlfV21N%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "世界のAI・半導体市場にバブル崩壊の兆候：日本企業への影響は",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lRnFST2pPMGxQVkNkNTdYQUlSMXI4OTFWNldqd0ZEYjVjdnNEZGwxN3JNTFFEQXFwVmZPMlYtRF9xQ2FCeVRhTk9JYTJJRUVVTHZ1cFhsTQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "一部の専門家が世界のAI・半導体市場にバブル崩壊の兆候があると指摘し始めている。",
-      "過剰な設備投資や需要の減速が重なれば、サプライチェーン全体に大きな影響が及ぶ可能性がある。",
-      "日本の半導体関連企業は、市場の変動リスクに対し、事業戦略の見直しやリスクヘッジを強化する必要がある。"
-    ],
-    "date": "2026-08-12 13:51",
-    "id": "VTHZ1cFhsTQ%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本企業の特許力分析：トヨタ・パナは健在もAI分野の弱点露呈",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fMWpZbkU0THh4LWt0NjMzWXQ0RTV1Unhnb01wdVRsNGoxWHF6cGVmbVpZQ2d6dGRQR0c2ZnBYSDd4QXExYWE4VUlPZnZYX1VWRDVVejE4UG1rVDRqSFBfbDJjeFhZVmVj?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本企業の特許ランキングでトヨタやパナソニックが依然として強さを見せる一方、AI分野での弱さが浮き彫りになった。",
-      "AI関連技術の特許出願数では海外企業に後れを取り、日本の競争力維持に課題を投げかける。",
-      "知的財産戦略の見直しとAI研究開発への積極投資が、今後の国際競争力強化に不可欠である。"
-    ],
-    "date": "2026-08-12 13:51",
-    "id": "DJjeFhZVmVj%3Foc%3D5"
   }
 ]
