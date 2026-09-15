@@ -1,5 +1,18 @@
 [
   {
+    "category": "AI・テック",
+    "title": "生成AI活用におけるリスク管理：誇大広告の排除、内容改変の注意、信頼性確保",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVFMWHlwcmJjcjlKVkt6TTRwTUQ0ZDNkdwNWeFk?oc=5",
+    "importance": "A",
+    "summary": [
+      "生成AIの導入・活用に際しては、その能力に関する誇大広告に惑わされず、現実的な利用可能性を評価することが重要である。",
+      "AIによる文章推敲は、元の意図を著しく改変する研究結果が示されており、内容の正確性維持に細心の注意が必要となる。",
+      "WikipediaがAI生成コンテンツを全面禁止した事例に見るように、情報の信頼性確保と機密情報保護は企業がAIを利用する上での必須リスク管理課題である。"
+    ],
+    "date": "2026-09-15 09:25",
+    "id": "ZDNkdwNWeFk%3Foc%3D5"
+  },
+  {
     "category": "世界企業情勢",
     "title": "GAFAに迫る「デジタル税」：24兆円の負担回避問題と国際課税の新潮流",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XOWp1dmdkRVZrRG5JVXFnOUJEcWJDLVd1YmU3YXF2Q0VzRWlVSm1raTV0OGw1UHNNQXFBamhma3B6OC00b3pRSVc5Yk5fOVppR3p5cw?oc=5",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-08-13 07:46",
     "id": "RGJlTDRRaUU%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価、2026年に60,000円超えの強気見通しと米国債リスク",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamVLUVh5ZHRlY0hwQnkzTkR1RWxmTUVUS1FTaVVRODJ2cUt6MGFVSTBSa2owandIaXZjM2tzdnNyT2hTTFREM1lTWDZPV3pTcG1XVi03TDlNZnAtd0d2cG1ldENBTWJMZnVpWHFKdzh0Nlc3WUJXdWhRM1g2aGJEcXpqY1F6Vko5RVdISDM1QWVHQQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "野村證券ストラテジストは2026年末の日経平均株価を60,000円（一部80,000円予測も）と強気に見通し。",
-      "米国景気の楽観シグナルがある一方で、米国債に潜む危険な兆候が大暴落のきっかけとなるリスクも指摘。",
-      "中東情勢の不透明感を抱えつつも、グローバルな経済動向と地政学リスクが市場に影響を与え続ける。"
-    ],
-    "date": "2026-08-13 07:46",
-    "id": "ISDM1QWVHQQ%3Foc%3D5"
   }
 ]
