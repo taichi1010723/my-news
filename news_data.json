@@ -1,5 +1,57 @@
 [
   {
+    "category": "스포츠",
+    "title": "少子化対策としてのスポーツ界変革：複数競技の経験奨励",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kcTJoTkVyNWc1ejF2R1pocHFkQi05SGZ6T0V6aWhsUVRsd2g3VFhmMHB2dnJ4N3JGU2Q0MElDV2dFRDkza3F5cm81QkNyMHM0WDBzZ085Y1N6LU5xV3RJbWFfWWFnaEdUekUybkdUbXdFWmo0QmdtRlRFVVJ4ZU0?oc=5",
+    "importance": "B",
+    "summary": [
+      "日本のスポーツ界が少子化対策として、単一競技に特化せず複数競技の経験を奨励する方針に転換。",
+      "これは競技人口減少への危機感から、子供たちがスポーツを楽しむ機会を広げることを目的としている。",
+      "スポーツ関連企業は、多様なニーズに応えるプログラム開発や施設提供を通じて、新たな市場開拓の機会を得る。"
+    ],
+    "date": "2026-09-16 17:24",
+    "id": "RlRFVVJ4ZU0%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "EUが米国との貿易協定承認を停止、金融市場に波紋",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzVzB0RXZDOGhYclFtWUVPemNfU3VPVmlKVDJFR18tNC1TZmxoMWdTaDBjcGVRUzN6akZ5ajdyMFlFWjVQM2tPX2R3OUhfTk5HY2hIVlNiOW40aTRJX0530gFkQVVfeXFMTzk1Ymp6bThpSGhNTkVWY1hkMEx1WTNwcjh0YWFieXlJcjlSSWVVNm9ETGVxb2tNdVRzQi16SDZKWUFHX2drNTVlamlRLVppd1RlQzBONEFFT2Q2X1RxVHN4Uzh4YQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "EUが米国との貿易協定承認を停止する決定を下し、金融市場が下落する事態に。",
+      "これは米欧間の貿易摩擦が再燃する可能性を示唆し、グローバル経済に不確実性をもたらす。",
+      "企業は貿易政策の変更による影響を分析し、国際事業戦略におけるリスクマネジメントを強化する必要がある。"
+    ],
+    "date": "2026-09-16 17:24",
+    "id": "xVHN4Uzh4YQ%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "Web広告の限界を乗り越えろ！ネットプロテクションズがPRで大手開拓に成功",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOURTcE91bEg1LUwxUnhSTDJZYVdTdUY4cVZkaFgtRUkxMlowZDV5SUFhYndQWVVyZFJVWkNmdXEwa3JIhFpMVF94eTJlUFJPRTYwWmNSZExaWk5jNnJmUGEzdEgzQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "Web広告だけでは大企業にリーチしにくいという課題が顕在化している。",
+      "ネットプロテクションズはPR戦略を強化し、大企業向けのブランド認知と関係構築に成功。",
+      "現代のマーケティングにおいて、デジタルとアナログ双方の戦略的活用が重要であることを示唆する。"
+    ],
+    "date": "2026-09-16 17:24",
+    "id": "mUGEzdEgzQQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "次世代LLMの鍵を握る「Transformerの限界と4つの新アプローチ」",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYWVoYV9ZOVRfYm9YbEVfT1dmNmpDNnBIQnlwak9hVlBhQXhOSmhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "大規模言語モデル（LLM）の基盤技術Transformerが限界に直面し、新たな技術開発が急務。",
+      "次世代LLMを担う4つの最新アプローチ（MoE、状態空間モデルなど）が注目されている。",
+      "これらの新技術は、より効率的で高性能なAIモデルの実現に寄与し、AI産業の未来を大きく変える可能性を秘める。"
+    ],
+    "date": "2026-09-16 17:24",
+    "id": "wUTBIZXVwSQ%3Foc%3D5"
+  },
+  {
     "category": "世界情勢",
     "title": "米国のNATO離脱リスクと米欧関係：グリーンランド問題から見る亀裂",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fbDNjVEtQZTEzeF85SGxUYnI4QktNblJnMWpPLTBrVUxKbVIwc1Fvd1c1Tm4zZ1FhLWduV3FaYkJ0ZkFaZEd6Wi03NzNaLWlMQ2lPVTBR?oc=5",
@@ -3846,57 +3898,5 @@
     ],
     "date": "2026-08-14 13:53",
     "id": "U25QOGRwRk0%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "混迷する国際情勢：欧州首脳の中国急接近と日本の外交課題",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Q0tlY3RlUk54MGZ5cHQyWUxzV00wWmk3S2RMUU5zdThPN0VoalphTzNraW5GbzZ0TkRSZ2hpVVQ5STlvaTByRFA4SkNmeHRNdVZkQmVBdGFkZlhlRXJhdllmYUpRWklFMWVRV2RDcDBIbnw?oc=5",
-    "importance": "A",
-    "summary": [
-      "混迷する国際情勢下で、欧州首脳らが中国に急接近している状況が報じられている。",
-      "米中関係の変化の可能性も示唆され、これらが日本の外交戦略に与える影響が議論されている。",
-      "主要国の外交動向は、国際ビジネス環境やサプライチェーンに大きな影響を与えるため、注視が必要。"
-    ],
-    "date": "2026-08-14 13:53",
-    "id": "V2RDcDBIbnw%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "サブスクプラットフォームCEOが語る「AI活用で企業成長加速」",
-    "url": "https://news.google.com/rss/articles/CBMibAFBVV95cUxNN0lPSzhac283WVVvMkd2Wm91ekkwZzU4M0hLM3l6R2NtbEhKWGVodmFTZWtSZU8tMklQaEhzMHJXYmtOa0tDamktaHlhUUx3VGFVX0pCNjJpQUlBM2haelNWb193WW9DRTlEcg?oc=5",
-    "importance": "A",
-    "summary": [
-      "米ZuoraのCEOが、AI活用が企業成長を加速させる主要因となると強調している。",
-      "特にサブスクリプションビジネスモデルにおいて、AIが顧客体験向上と収益拡大に貢献する可能性を解説。",
-      "多くの企業がAI導入を検討する中で、具体的な成長モデルを示す重要なメッセージとなる。"
-    ],
-    "date": "2026-08-14 13:53",
-    "id": "3WW9DRTlEcg%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本の半導体復権へ：ラピダスに20社超が出資、官民連携を加速",
-    "url": "https://news.google.com/rss/articles/CBMibAFBVV95cUxPRXkyNnMyRjBaZWhYRDNrZGJ0bnEzQmRHdWLpMUU3d1BTcjBPdGtyMWI3QnJ4cE55cXBWMmZwVEduXzBUZy0zenMwTjdDRHBldlBGZUFnYnZ6dGdnSdlSU05LUE9uRHdaYUhFWDQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "日本の半導体製造の新会社ラピダスに対し、京セラや千葉銀行など20社超が新規出資を決定。",
-      "これは日本の半導体産業復権に向けた官民一体の国家的な取り組みであり、連携が加速している。",
-      "経済安全保障上の重要性が高まる中、先端半導体の国内生産体制強化は日本の産業競争力に直結する。"
-    ],
-    "date": "2026-08-14 13:53",
-    "id": "RHdaYUhFWDQ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価一時2600円安：米景気懸念と円高が売りを加速",
-    "url": "https://news.google.com/rss/articles/CBMibAFBVV95cUxOWWk0SjR2ZXluN3F1akZ1dFAwbnVRRU5mSEZxSk5Ha1pwd19jcEpCR3RPR2lOd0VwcnhySFdreGJCcXVlSFdnbXVlS2VMSF9BWkhJWkJRRlNjTmJaVGE0N0JmalljZTJwN05qSg?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価が一時2600円安と大幅に下落したことを日本経済新聞が報道。",
-      "米国景気への懸念と急激な円高が主な売り材料となり、市場の不安を増幅させている。",
-      "この市場の急落と背景にある要因の分析は、リスク管理と今後の投資判断に重要な示唆を与える。"
-    ],
-    "date": "2026-08-14 13:53",
-    "id": "jZTJwN05qSg%3Foc%3D5"
   }
 ]
