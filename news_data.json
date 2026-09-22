@@ -1,5 +1,57 @@
 [
   {
+    "category": "スポーツ",
+    "title": "アジア大会で発生した運営上の混乱と課題",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGViN0pGLTU4aEwybmplem1KMlNEVUt6TEtWRHQ3eHpOYnBqd1RfdFB6MkpoaHUtTGVBd2NReUVxMzhfVmI0eGpGSURzdng4aGptbEowVjVHZ2hf0B3M3Uwb2Y4T3c4ZFJhVzc2V0U2SmlDRzJZUGp0LTU5NkdsS2phbUNXTXRzVVlHN0FiM3AydHhpVnfSAZsBQVVfeXFMT0p1NUVtTjFHSUR1eGhBTUtWd0ZNVnVwcWFGNzJ2aWtSODVkSWw3WmVOdGxjNk42VjlGcGY0MWQ2RFktQXVYaW5aMW5aNFlCazQ1aHlFY2lqeGdJWHBVV3k2cUtzZjU5aUFpbUlHcnpQaWgzcHhsemdDNmdVcEJuUU5kb2JDblZ5dndoUjJUY2FhR094MHhLb3c?oc=5",
+    "importance": "C",
+    "summary": [
+      "アジア大会で選手村の未整備や不適切な宿泊手配、交通手段の混乱など、運営上の重大な問題が発生した。",
+      "選手は男女同室や自力でのホテル探しを強いられ、競技への集中を妨げられる事態に発展したと報じられている。",
+      "国際的な大規模スポーツイベントを成功させるためには、事前の周到な準備と緊急時の対応計画が不可欠である。"
+    ],
+    "date": "2026-09-22 09:40",
+    "id": "R094MHhLb3c%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "アフリカ市場への日本企業進出動向：増加する拠点数とビジネス機会",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uWXFlNjZ0WHpsUGlNam8yVTNOX2dDZUZNT2Q4WC1XUllvMWpVQ2xES0FiTkJSa1plSGYwcUJwNE94T1phbnlSS3lLZ1JGRGpmT1c4LW1uYkJ3UnkxRlE?oc=5",
+    "importance": "A",
+    "summary": [
+      "アフリカ市場への日本企業の進出が活発化しており、拠点の増加傾向が示されている。",
+      "豊かな天然資源と急成長する人口を背景に、アフリカは新たなフロンティアとしてビジネス機会を拡大している。",
+      "インフラ整備、資源開発、消費財市場など、多岐にわたる分野で日本企業の存在感が高まっていることが確認されている。"
+    ],
+    "date": "2026-09-22 09:40",
+    "id": "YkJ3UnkxRlE%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価の今後の見通し：楽観シナリオと潜在リスク",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kNW4ya1dVWjZKSll5d1plUWd5eFRRckItZXNQeWsxR25TbWc4YlMwTFA4S3VycXdkOHZXZ1h2bWtQS0VlU3REUlFTd1NtWnFKZEtfS3J6bnp6OTlBRk1V?oc=5",
+    "importance": "S",
+    "summary": [
+      "複数の金融機関が日経平均株価の強気な予測を発表しており、2026年末までに55,000円から80,000円到達の可能性が示唆された。",
+      "米国景気の楽観的シグナルや企業業績の堅調さが株価を支える要因として挙げられている。",
+      "しかし、中東情勢の不透明感や円高圧力など、市場には依然として変動要因と潜在的なリスクが存在する。"
+    ],
+    "date": "2026-09-22 09:40",
+    "id": "np6OTlBRk1V%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "日本のAI主権確立へ：政府機関に国産LLM「源内」導入、全府省庁で活用開始",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KTmZ3Wk1pVEdnY0JQVE1EeTVIVDVnanR6b2ZIWjl3RFFtdURGZDBLclRmdzdUbUdSV0NIWGlRQUZwd1l0UjlaSVJhSG9LMjM0M2c?oc=5",
+    "importance": "S",
+    "summary": [
+      "日本政府は全府省庁の職員18万人を対象に、国産の大規模言語モデル（LLM）「源内」を導入する計画を発表した。",
+      "これにより、機密情報の保護とデータ主権の確保を図り、海外AIサービスへの依存を低減することを目指す。",
+      "日本のAI技術開発を加速させ、産業競争力強化とセキュリティ向上を目指す国家戦略の一環となる。"
+    ],
+    "date": "2026-09-22 09:40",
+    "id": "SG9LMjM0M2c%3Foc%3D5"
+  },
+  {
     "category": "世界情勢",
     "title": "イラン戦争で激変する米欧中露日の5極関係、エネルギー市場の動向に注目",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50N1plNU40UjZndGlnV0JTdWM0MXpXR0MyRUozNWl2YWliVmpPOGhoOHhqVW5adWJneHB2aElVYTBvMk1LZnhXMGFKMks5WWROcE52bmpB?oc=5",
@@ -3846,57 +3898,5 @@
     ],
     "date": "2026-08-28 15:06",
     "id": "uejdfYl9Oaw%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "米国経済の深層：K字型経済とアフォーダビリティ問題が示す実態",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DTF80NGN0bUp4MFoycjBFb0V5d3QzbUZnc1hDdlBGcEJMVk1xYWJPcjdoZjBlUlhfdTU3c1daUU5hOEgyZW1WX3VtU3VDLTh0ZlFZRkNIUW9mRXlmYnJJ?oc=5",
-    "importance": "A",
-    "summary": [
-      "米国経済の表面的な底堅さの裏側にある、アフォーダビリティ問題とK字型経済の進行を分析。",
-      "一部富裕層の経済拡大と、大多数の層における生活費負担増大という格差が顕在化している。",
-      "この構造的課題が消費動向や金融政策に与える影響を理解することが、世界経済予測に不可欠である。"
-    ],
-    "date": "2026-08-28 15:06",
-    "id": "W9mRXlmYnJJ%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "国際政治学者が分析する「2040年の世界地図」：未来のビジネス環境予測",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Yb216aElzaUwtNWdZZUxlNk5xQ2prYWdUSTNNSlFWSjNydFhieTlCb1piYXZKcFB1X1hzOVZVX1dRZUJRbmlRVmxuaGtHaU9LRFFGYVJRZmo?oc=5",
-    "importance": "S",
-    "summary": [
-      "国際政治学の権威が2040年の世界情勢を分析し、地政学的変動、技術革新、環境問題などの主要リスクを提示。",
-      "未来の国際関係や経済構造の変化が、企業の事業展開やサプライチェーンに多大な影響を及ぼす可能性。",
-      "企業経営者は、この長期的な未来予測を基に、リスク管理と新たな成長戦略を構築すべき。"
-    ],
-    "date": "2026-08-25 21:54",
-    "id": "RFFGYVJRZmo%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "デジタル経済への課税課題：GAFAが回避する24兆円の税負担",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XOWp1dmdkRVZrRG5JVXFnOUJEcWJDLVd1YmU3YXF2Q0VzRWlVSm1raTV0OGw1UHNNQXFBamhma3B6OC00b3pRSVc5Yk5fOVppR3p5cw?oc=5",
-    "importance": "S",
-    "summary": [
-      "GAFAをはじめとする巨大IT企業が、国際的な税制の隙間を突き24兆円もの税負担を回避している問題。",
-      "世界各国がデジタル経済への公平な課税を目指し、新たな国際課税ルールの確立を模索。",
-      "多国籍企業の税務戦略や各国の税制動向が、企業経営に直接的な影響を及ぼす重要な課題。"
-    ],
-    "date": "2026-08-25 21:54",
-    "id": "fOVppR3p5cw%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "株価急反発、週内5万5000円台も視野に：景気回復期待が市場を牽引",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PX2J4ZmNZeERjemkzaDA2NS1pWG1DV0hid19OeWwyVjRweUpkb0JOdkdCcXhqT2ZwamR1cGFtTnp0X1NTQU1ROEs2bU05LXhPMHFrR1pvVXg1VlBVVlhoT0lYYVNyd0h2MEU0Xw?oc=5",
-    "importance": "B",
-    "summary": [
-      "日本株が急反発し、市場関係者からは週内にも日経平均株価が5万5000円台に達するとの見方が浮上。",
-      "主要因は、国内外での景気回復に対する強い期待感が市場を力強く支えていること。",
-      "短期的な市場のセンチメントと、その背景にある景気動向を理解する上で重要な情報。"
-    ],
-    "date": "2026-08-25 21:54",
-    "id": "yd0h2MEU0Xw%3Foc%3D5"
   }
 ]
