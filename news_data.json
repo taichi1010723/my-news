@@ -1,6 +1,71 @@
 [
   {
     "category": "世界企業情勢",
+    "title": "NTT海外事業の巨額損失とグローバル戦略の課題",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zNUJsZnpDWGtLZEx1UUJBUm4zRmItM0NBMVlFZDNIb1VtU3VpTkdYQ0FQbG5PcDVWeHN0dGhlNm9XbVBpbkpDNGJhMjZlTS1BNXZ5ZXJ5VUk4amR3al92LWZBTnRkYkM2Z3FST1h4aTZlY1BoNGc?oc=5",
+    "importance": "A",
+    "summary": [
+      "NTTの海外事業が総額2兆円の損失を計上し、グローバル戦略の難しさを露呈。",
+      "外部提携の遅れやM&A戦略の課題が、GAFAとの競争で後れを取る要因に。",
+      "日本大手企業がグローバル市場で成功するための戦略転換の必要性。"
+    ],
+    "date": "2026-09-25 01:48",
+    "id": "aTZlY1BoNGc%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "実体経済と株価の乖離、上昇構図の限界",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKQ1VYc2JZYVhqNnVhdEwxUjJQS0ViNWRvRG5ieDF1ZEVIaTREYTM5cEtqcGtVZy1FTjRDUk54Z1pMOWFvTThLSlJ1NklLUWpFdjVDaWJnN1Rqb0E?oc=5",
+    "importance": "A",
+    "summary": [
+      "景気が芳しくないにもかかわらず株価が上昇する現象について、その持続性に疑問符。",
+      "景気ウォッチャー調査の結果も踏まえ、実体経済との乖離の限界を指摘。",
+      "市場の健全性と長期的な安定性について、より深い分析が求められる。"
+    ],
+    "date": "2026-09-25 01:48",
+    "id": "aWJnN1Rqb0E%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "AI時代における企業の戦略と未来への対応",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZTZRZ0VSY3dDY1AtTGJiUU91cmh0MHhrQW4tbWFJbGhibi12Mk91d01VbHQ0c2N1dUFFT3Ftd05KT1ltZGROODRJRFdtS1dJZVVfckFNaXVYUHFaVmF3?oc=5",
+    "importance": "S",
+    "summary": [
+      "企業がAI技術の進化にどう向き合い、ビジネス戦略に統合すべきかを解説。",
+      "AI導入による競争優位の確立や、新たな価値創造の可能性を提示。",
+      "AIを経営の中核に据え、未来を切り拓くための具体的な指針。"
+    ],
+    "date": "2026-09-25 01:48",
+    "id": "XVYUHFaVmF3%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "広告による差別化の終焉とブランディングの再定義",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Yk4zWUx0S1NpVzcwc2QxV2ZwQnNnUnc2TzVCcnFRd0tqNThDak1YSnQ0bF91WkRTRlI5WE1pR3Y3c3JSU1BkY3VEZWRueW5SdjY1aUxfSGN0Q21MOTZrUlJsWHZvd1JnaFE?oc=5",
+    "importance": "A",
+    "summary": [
+      "現代の市場において、広告だけでブランドを差別化することが困難になっていると指摘。",
+      "ブランディングに対する一般的な誤解を解消し、その本質を議論。",
+      "企業が持続的なブランド価値を築くための新たな視点と戦略の必要性。"
+    ],
+    "date": "2026-09-25 01:48",
+    "id": "WHZvd1JnaFE%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "WikipediaがAI生成コンテンツを原則禁止、信頼性確保へ",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKRVNYMzZVQjluVi13U1VvcDd0WUFqT3JHZWx1eXlBQWEzWTdKYnYtMWI1WHdPZ3IxUi1WRGFKVk5tSG9ydS1CeGp0Rnd3aWQ5OFE?oc=5",
+    "importance": "A",
+    "summary": [
+      "WikipediaがChatGPTやGeminiなどによるAI生成コンテンツの全面禁止を決定。",
+      "情報源としての信頼性と正確性を保つための厳しい姿勢を明確化。",
+      "企業がAIコンテンツを利用する際の倫理やガイドライン設定に影響を与える。"
+    ],
+    "date": "2026-09-25 01:48",
+    "id": "Rnd3aWQ5OFE%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
     "title": "グローバル人材獲得競争の激化：日本企業の年収戦略",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM3NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3nkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
     "importance": "A",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-08-30 01:28",
     "id": "wZ0d6ZXh4dA%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NEC「新入社員に年収1000万超」でグローバル人材獲得競争に焦り",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfUThKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "S",
-    "summary": [
-      "NECが新入社員に年収1000万円超を提示する動きは、グローバルな人材獲得競争の激化を如実に示す。",
-      "特にAIやDX関連の先端技術人材は世界中で需要が高く、日本企業も高待遇で優秀な人材確保を急務としている。",
-      "これは日本企業の人材戦略、賃金体系、国際競争力に大きな変革を迫る重要課題である。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "「国家VS巨大IT企業」米国で反独占訴訟が相次ぎ、規制強化の波",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RFRBekNBZHY3THJlQWZEOVR1NWdTdVl2czhnVi10TDRIN3U4cTdmM0JnbDFZVVRYV0tUMGQ2WkNJRXZwT3dEa2VkOW9oMzFGM2t6UGN3ZnNKTmpmN25KRm1WZXhmelJlNllyZUtnMVVvajhKd01SYkF3NGVIN2s?oc=5",
-    "importance": "S",
-    "summary": [
-      "米国で巨大IT企業に対する反独占訴訟が相次いでおり、各国でデジタル市場規制が強化される傾向。",
-      "これにより、GAFAなどのビジネスモデルや市場戦略に直接的な影響が及び、グローバルな競争環境が再定義される可能性。",
-      "日本企業も、国際的な規制動向を注視し、自社のデジタル戦略や市場での立ち位置を再評価する必要がある。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "YkF3NGVIN2s%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "NYダウ3日続伸で景気減速懸念後退、世界経済への好影響も",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55ekxqcGV2NXg4TXhnYmRZWXhPcmZqV0NLRExUNU5nbFdTSDB6Zzg0WmtjVlR0OVdrSzJxYWNxazVlQXNXVTI5SEhZdk1fU1ROcFFGV3hXWUEzeXhZdXZMTGlVZnJleTdVMUN1aQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "NYダウが3日続伸し、224ドル高を記録、これにより景気減速懸念が和らいでいる。",
-      "米国経済の底堅さは、グローバル市場に安心感をもたらし、世界の経済活動に良い影響を与える可能性がある。",
-      "日本企業も、米国市場の動向を注視し、輸出や海外事業戦略に反映させることが重要。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "leTdVMUN1aQ%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "「人的資本経営」の最新トレンドと展望：組織成長と発展の鍵",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sU3VLZzBVMHRqenVLSXkzVllvc0lKUzFveVM5eF9BRXZjLWV3Rm9nVllFd3lNaXpXTjNzM0tkUE5MMlQ4anJXOWRvUEk?oc=5",
-    "importance": "A",
-    "summary": [
-      "人的資本経営が企業の持続的成長に不可欠な経営手法として注目され、最新トレンドと展望が議論されている。",
-      "従業員のスキルやエンゲージメントを資本と捉え、その価値を最大限に引き出す戦略が求められる。",
-      "人材への投資と情報開示は、企業価値向上だけでなく、投資家からの評価にも直結する重要な要素。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "anJXOWRvUEk%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "2025年に経営リーダーが導入すべき20のビジネス開発トレンド",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ac1dXOU5ZS0dienpLLXNhbDhJSTAzQ1JVY2JqazhRWks4RG02dFF5N3FzXzA4SjFLTDFTM3pWM0dybEd3RGlxTHVsR2RHN1ZhOFRVVnpjSFY?oc=5",
-    "importance": "A",
-    "summary": [
-      "Forbes JAPANが発表した2025年に経営リーダーが注目すべきビジネス開発トレンド20選。",
-      "DX、サステナビリティ、人的資本経営など、現代企業が直面する主要テーマを網羅。",
-      "経営戦略の立案や新規事業の推進において、先行投資すべき分野を特定する上で重要。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "OFRVVnpjSFY%3Foc%3D5"
   }
 ]
