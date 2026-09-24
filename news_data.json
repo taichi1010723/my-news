@@ -1,6 +1,71 @@
 [
   {
     "category": "世界企業情勢",
+    "title": "グローバル人材獲得競争の激化：日本企業の年収戦略",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM3NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3nkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
+    "importance": "A",
+    "summary": [
+      "NECが新入社員に年収1000万超を提示するなど、グローバルな人材獲得競争が激化。",
+      "GAFA出身者を引き抜くベンチャー企業の事例からも、優秀な人材確保が喫緊の課題。",
+      "日本企業は賃金体系や働き方を見直し、国際的な競争力を高める必要がある。"
+    ],
+    "date": "2026-09-24 17:16",
+    "id": "FRoaVJsbzA5%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "日本の成長産業戦略：M&AでLVMH型企業を創出",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZEZGNWlWbUUyRE0zbnpaQWo3cC15cnhUeHp6MkFzcTNSYWVhVWpNNk9NeXNxY09YM1AwbkdwSDdEVGRyTktJSkx3RWNjYzZFYjgxOEZlM2FCQQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "佐俣アンリ氏が指摘する日本の成長戦略は、M&Aによる「器の入れ替え」を重視。",
+      "LVMHのような多角化ブランド戦略を日本企業が取り入れ、新たな価値創造を目指す。",
+      "スタートアップエコシステムと既存企業の連携が、次世代の「ソニーやトヨタ」を生み出す鍵。"
+    ],
+    "date": "2026-09-24 17:16",
+    "id": "xOEZlM2FCQQ%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "2024-2025年最新予測：成長が見込まれるビジネス・トレンド",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Y0V1UmdHR0otWk0wWVMzVmFSdlJGLWFFUXRPdU1OQnJzaWtwaEFIbGJ3MlZlTENhMElkS2h5VEVZRHFrMXIyRVZTT1dBTEh2eGxaQWNMWkxOMmpjVFF1R1RSSWRaZ0FVcVBUclFGa1Y?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経クロストレンドが予測する2025年上半期の「伸びるビジネス」ランキングが発表された。",
+      "AI関連、環境・サステナビリティ、個人の多様な働き方支援などが上位を占める見込み。",
+      "新規事業開発や投資判断において、これらのトレンドを把握することが成功に繋がる。"
+    ],
+    "date": "2026-09-24 17:16",
+    "id": "cVBUclFGa1Y%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "AI時代に求められるブランド戦略：カンヌライオンズからの提言",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10RGx4WVFxbzFDQ0htU3liV2Fzck14cTd2eTN2MHEzeF9qLVlVV3dEeXY5VEZST1VzMWg2LUpRdlQtV3hSVWRxMWxfTG1rbTNOb0pZWnQ0TUk?oc=5",
+    "importance": "A",
+    "summary": [
+      "カンヌライオンズのレポートは、AIがブランド構築に与える影響と「3つの覚悟」を提示。",
+      "技術的進化に対応し、ブランドの根源的な価値と人間中心のアプローチを再考する時期。",
+      "クリエイティブとデータを融合し、顧客との深いエンゲージメントを築く戦略が求められる。"
+    ],
+    "date": "2026-09-24 17:16",
+    "id": "b0pZWnQ0TUk%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "AI時代のBtoBマーケティング・ブランディング戦略",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXNmNxODRyOWx4UlFMclNuQlF1V0xSd0V4ZVhKV0Zua0otbXhsTjNocXkyYmhKWTV6Umc4SWpUOHhVV1ZMbVVETGJqcTNlRkpKQXlOV084Y01JVUFFSFJLMUlSS2ktTHJQU1E?oc=5",
+    "importance": "A",
+    "summary": [
+      "AI技術の進化がBtoBマーケティングやブランディング戦略に大きな変革をもたらしている。",
+      "データ分析、パーソナライゼーション、コンテンツ生成などAIの活用が不可欠となる。",
+      "「マーケティングWeek」のようなイベントは、最新トレンドと成功事例を学ぶ貴重な機会。"
+    ],
+    "date": "2026-09-24 17:16",
+    "id": "S2ktTHJQU1E%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
     "title": "NECの「新入社員年収1000万超」：グローバル人材獲得競争と日本企業の焦り",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
     "importance": "S",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-08-30 01:28",
     "id": "OFRVVnpjSFY%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "日経クロストレンドが「今後伸びるビジネス」2025年下半期ランキングを発表",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT2E2cWY3WnlyY204LWxhWjAycVBxRjNLd0VKc1dhdXAxMVQwd1hSY1JiZktiTnNFcTU0czlBbzdIQTllSGl5MTF5UWFKMXh2QWN6RVNoOGdDNDM3RVg4a2poNnEyazQ5MWc?oc=5",
-    "importance": "S",
-    "summary": [
-      "日経クロストレンドが発表した2025年下半期の「今後伸びるビジネス」ランキングは、市場の最新動向を反映。",
-      "新規事業開発やM&A戦略、投資判断において、成長分野を特定するための貴重な情報源となる。",
-      "企業はランキングから自社の事業ポートフォリオを再評価し、将来の成長戦略を検討する機会となる。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "NnEyazQ5MWc%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "「ブランディングの誤解」徹底議論、広告での差別化が困難な時代の終焉",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Yk4zWUx0S1NpVzcwc2QxV2ZwQnNnUnc2TzVCcnFRd0tqNThDak1YSnQ0bF91WkRTRlI5WE1pR3Y3c3JSU1BkY3VEZWRueW5SdjY1aUxfSGN0Q21MOTZrUlJsWHZvd1JnaFE?oc=5",
-    "importance": "A",
-    "summary": [
-      "従来の広告中心のブランディング手法では差別化が困難になっている現代のマーケティング課題を議論。",
-      "消費者の価値観や購買行動の変化に対応した、より本質的なブランディング戦略が求められている。",
-      "企業は、製品・サービスそのものの価値や顧客体験を重視した多角的なアプローチへの転換が急務。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "WHZvd1JnaFE%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "日本ハム「シャウエッセン夜味」で若年層開拓、常識破りのマーケティング",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NSnB3WXVlbmU5eHk0WTJ0aTkwQlhIbzA3QlRDUnFkRXN5d1lqUWhsVm42RmMxdDBqR1ZvdWxHb1Z0dnhaVDVLemJJWTBrMVRTTlB3N3NkOGRJN25ja0phY2pVU2M1Zw?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本ハム「シャウエッセン」が「夜味」という新コンセプトで若年層の開拓に成功。",
-      "従来の固定観念を打ち破るユニークなマーケティング戦略が、ブランドの再活性化と市場拡大に貢献。",
-      "成熟ブランドが新たな成長機会を見出すためのターゲット層拡大や商品戦略のヒントを提供する。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "hY2pVU2M1Zw%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "AI大規模言語モデル（LLM）の基礎知識と「ハルシネーション」のリスク",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xM29qR3M5UHI3QkpHbmpFMGVDY05pa3BmYUp4cWpGWjlIa05ET3N1dVR2NERYVERUQWUtNjdLcGwyd0gwcWhua21CUW91Ym1FbVpoLXN6azQyUnduVDhyX2lQUnphYWs?oc=5",
-    "importance": "A",
-    "summary": [
-      "AIの大規模言語モデル（LLM）の基本的な仕組みと、なぜ「うそをつく」（ハルシネーション）のかを解説。",
-      "ビジネスでLLMを導入する際、その限界と特性を理解することはリスク管理上極めて重要。",
-      "信頼性の確保と適切な活用シナリオの検討が、企業におけるAI導入成功の鍵となる。"
-    ],
-    "date": "2026-08-30 01:28",
-    "id": "X2lQUnphYWs%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "欧米テック企業のレイオフと日本への影響：グローバル人材競争の激化",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40MnJ1VkhrY0VGdnRfVGJzMkFKU09WWkNtQnNYTTgwSmNQUlJqQ2JraXMyZnF6TFVxTHo4bndIM0xYWUpDRzY0bg?oc=5",
-    "importance": "A",
-    "summary": [
-      "GAFAを含む欧米のテック企業でレイオフの波が広がり、日本企業の人材戦略にも影響が懸念される。",
-      "これにより、グローバルな人材獲得競争がさらに激化し、優秀なエンジニアやDX人材の獲得がより困難に。",
-      "日本企業は、高い報酬だけでなく、働きがいやキャリアパスの提示を通じて人材を確保する必要性が高まる。"
-    ],
-    "date": "2026-08-29 12:35",
-    "id": "YWUpDRzY0bg%3Foc%3D5"
   }
 ]
