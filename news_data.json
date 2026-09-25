@@ -1,5 +1,70 @@
 [
   {
+    "category": "世界情勢",
+    "title": "マクロン仏大統領、米中へのAI依存脱却を提唱：技術主権確立へ国際協力呼びかけ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqVlNqa3EtbklHZ3lpeDlkVm9rdFQwQzNSdmI1dW1hNlhjeGl5OU9OSzVMM3ZQMW9tTHFYZ1BUcUstV1Bxb0drQzNiSl8zbFA2WUNCcDhaTlJ2bjJhUUc4?oc=5",
+    "importance": "S",
+    "summary": [
+      "フランスのマクロン大統領が、米国と中国へのAI技術依存から脱却し、欧州の技術主権確立を訴え。",
+      "AI開発における国際的な倫理基準や共同研究の枠組み構築を呼びかけている。",
+      "今後のAI技術の発展、サプライチェーン、国際競争力に大きな影響を与える国家戦略的な動き。"
+    ],
+    "date": "2026-09-26 01:53",
+    "id": "lJ2bjJhUUc4%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "半導体復権へ国家戦略：ラピダスに20社超が新規出資、官民連携を加速",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FeTI2czZGMFpoWFEza2RCdG5xM0JkR3VsaU1FN3dQU3IwT3RreDFiN0JyeHBOeXFwVjJmcFRHbl8wVGctLXpzME43Q0RwZXZQRmFBZ2JWenh0Z2dqSXFSTktQT25EaldaaEVYNA?oc=5",
+    "importance": "S",
+    "summary": [
+      "次世代半導体国産化を目指すラピダスに対し、京セラや千葉銀行など20社超が新規出資を決定。",
+      "国家戦略として推進される半導体産業の復権に向けた、官民一体の連携が加速している。",
+      "日本経済の成長戦略の要となる半導体分野での、大規模な投資と技術革新に期待が高まる。"
+    ],
+    "date": "2026-09-26 01:53",
+    "id": "EaldaaEVYNA%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "元LINEヤフー会長が挑む「AIで動く会社」：新たな起業モデルの可能性",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmeWNXQ2JWV2lCT2dpaEh5dE5lcXdSUkNmUHJmcjhrNHdYb2NrWXoyRGQwOWJ4YnNLS1RDTVdYQWxNR0l3eW01TUJSMVd5NlUweUJIVTQ2d3R6SGpROExxU3lDc0EwUHdIdnNZd3V2Q3RiTUlORzkzODlmdjY?oc=5",
+    "importance": "S",
+    "summary": [
+      "元LINEヤフー会長の川邊健太郎氏が、AIを核とした新たな「AIで動く会社」を設立。",
+      "AIが経営判断や業務プロセスを主導する、革新的なビジネスモデルに挑戦している。",
+      "AI時代の起業と企業運営のあり方を示し、他社への大きな示唆と影響を与える。"
+    ],
+    "date": "2026-09-26 01:53",
+    "id": "RzkzODlmdjY%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "次世代LLMを担う新アプローチ：トランスフォーマーモデルの限界を超える4つの技術革新",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYWFlaF9ZOVRfYm9YbEVfT1dmNmpDNnBIQnlwak9hVlBhQXhOSmhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "現行LLMの基盤であるトランスフォーマーモデルの限界が指摘され、新たなアプローチが模索されている。",
+      "次世代AIの技術動向は、今後のAI製品開発や企業の競争戦略に大きな影響を与える。",
+      "研究者たちは4つの最新アプローチを通じて、より高度なAIモデルの実現を目指す。"
+    ],
+    "date": "2026-09-26 01:53",
+    "id": "wUTBIZXVwSQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの最前線：進化と未来展望をグローバルリーダーが語る",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HSi1HcmpVZXkzR2dFX1JKTkxkSHQ1cG1kOVM4RHRiaVZHYzc5emNrTG5jTWh4NzVGdU9LdHZSNEtUaTFpR2kwR3JaUnRPTERyYVVtQjNoeldwaGgzRjY5QQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "AI研究のグローバルリーダーが、生成AIの急速な進化と今後の可能性を解説。",
+      "特に大規模言語モデル（LLM）の発展が、社会やビジネスに与える影響を深掘り。",
+      "未来の働き方や産業構造を大きく変革するAIの潜在能力に焦点を当てる。"
+    ],
+    "date": "2026-09-26 01:53",
+    "id": "waGgzRjY5QQ%3Foc%3D5"
+  },
+  {
     "category": "マーケティング",
     "title": "資生堂の巨額赤字から学ぶ、マーケティング戦略の失敗とV字回復の可能性",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bVRwbm1QX1xuZXpmYW1ON2RBLVRrNDNaUmFSOF9SWjJFSFpSbjlVbmxtdW1TUWpvODR4N19jSHhRRDBFWktpckxHaWlBM0U4VUJsajJPb094UTA?oc=5",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-08-30 18:02",
     "id": "jBQTVp3RHdB%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "経営者が押さえるべき2025年ビジネス開発トレンド20選",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ac1dXOU5ZS0dienpLLXNhbDhJSTAzQ1JVY2JqazhRWks4RG02dFF5N3FzXzA4SjFLVDFTM3pWM0dybEd3RGlxTHVsR2RHN1ZhOFRVVnpjSFY?oc=5",
-    "importance": "A",
-    "summary": [
-      "Forbes JAPANが2025年に経営リーダーが導入すべき20のビジネス開発トレンドを発表。",
-      "AI活用、サステナビリティ、デジタルトランスフォーメーションなどが主要なテーマに。",
-      "新規事業開発や既存事業の再構築を検討する経営者にとって、具体的な指針となります。"
-    ],
-    "date": "2026-08-30 18:02",
-    "id": "OFRVVnpjSFY%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "カルビー「堅あげポテト」に学ぶ、効率的なファンマーケティング戦略",
-    "url": "https://news.google.com/rss/articles/CBMiW1FVX3lxTE9VdkhwY1RwZHZ0bFdfTUhIMGFlaEEzbV9sODRFV21mcC1tV1ROcWZaZk9yZHV2YWJXWWdiTkI2LUVRbWIzdTVnaE9QanRCbWF1WmM5N1R2d3ZuOWM?oc=5",
-    "importance": "B",
-    "summary": [
-      "カルビー「堅あげポテト」が実践するファンマーケティングの手法を解説しています。",
-      "ブランドロイヤルティを効率的に高めるための戦略や顧客エンゲージメントの重要性を強調。",
-      "既存ブランドの成長や新規顧客獲得に悩む企業にとって、具体的な施策のヒントとなります。"
-    ],
-    "date": "2026-08-30 18:02",
-    "id": "N1R2d3ZuOWM%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平の年俸外収入が世界1位：スポーツ選手の経済的価値",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoaXo3ejB4aUlBWkpCQktVd2VtdmpCcWJKaU9GRmhYeFgwekF3NmdyMlM2dUNBZEhWZmVqMmFIUTJfZC1WcmgxMzlrcloyQTRaU1dVOQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "大谷翔平選手が年俸以外の収入で世界のスポーツ選手中1位となり、その広告価値の高さが浮き彫りに。",
-      "これはアスリートのブランド力と、それが生み出す経済効果の大きさを示す。",
-      "スポーツマーケティングやブランド戦略を検討する企業にとって、重要な示唆を与える情報。"
-    ],
-    "date": "2026-08-30 08:58",
-    "id": "yQTRaU1dVOQ%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "中東戦争が世界に波及：イラン戦争が引き起こす新たな「合従連衡」",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BSXNrbXEwMzZuOHViREMtbUROZHp5Q3I4MExHck5MRHdESTRhV2RKT0pmM19TN1BoVDZTUFZEOElPa3NXaEx4by16dTItMURKT0c4dE5R?oc=5",
-    "importance": "S",
-    "summary": [
-      "中東のイラン戦争が周辺国を巻き込み、国際社会に新たな「合従連衡」を生み出し始めた。",
-      "原油価格の変動、海上輸送路の安全保障、サプライチェーンへの広範な影響が懸念される。",
-      "企業はエネルギー供給や物流リスクを再評価し、地政学リスクへの対応を強化する必要がある。"
-    ],
-    "date": "2026-08-30 08:58",
-    "id": "URKT0c4dE5R%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "米欧関係の亀裂深化：グリーンランド問題とNATO離脱の現実味",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoNTZiQl9SQjFkUF9JTkF1RC12dkFDU1RJcFhxMEJDd3Vfa1d3bXYzTTdYSXZDOThpVTA5NFVJeXlXQl9TbExFNmNaTmdIYmtWakxYMjlNZExUVEliY1Zj0gFkQVVfeXFMUEF5TUcwOEFoQ0VqbUh1RFVxWklxQ3JkbzBCVU1aMHNsbW9rTUdmcUdNMTZYbWx4UEJka1lpNlNoelV6VTQ1VkZLcWl6Qks3R1RXcFcwanVfVkxKSG0wWUxuUTg1Vg?oc=5",
-    "importance": "S",
-    "summary": [
-      "グリーンランド問題を巡る米欧間の対立が深刻化し、米国によるNATO離脱の現実味が増す。",
-      "これにより、国際的な安全保障体制や貿易関係に大きな変化が生じる可能性。",
-      "企業は、国際同盟の不安定化がサプライチェーンや市場アクセスに与える影響を警戒すべき。"
-    ],
-    "date": "2026-08-30 08:58",
-    "id": "wWUxuUTg1Vg%3Foc%3D5"
   }
 ]
