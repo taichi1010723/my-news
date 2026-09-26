@@ -1,5 +1,83 @@
 [
   {
+    "category": "スポーツ",
+    "title": "サッカー日本代表MFの提言：「野球人気に押される」日本のサッカー界",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSXloaVB4ZzY1X0xpbmQteFo4WVFmZGdkeVYxbWxKWTR6YnhSYzkyT0RSVmx6WXZpbzM3bU5pX3NEeW1ITEZDajRWWjFzTE9OTDRobEJFVDRJaHdUQlYtcFdEaEZVbERQdGMwZUFPX3JobExtSThCU25QOGRwRk0?oc=5",
+    "importance": "B",
+    "summary": [
+      "サッカー日本代表MFが「日本でサッカーを国技に」と提言し、韓国メディアがその背景を分析。",
+      "大谷翔平選手による野球人気が絶頂期にある日本では、サッカーが相対的に劣勢にあると指摘。",
+      "スポーツコンテンツのメディア戦略やスポンサー企業のマーケティング活動に影響を与える議論として注目されます。"
+    ],
+    "date": "2026-09-26 09:27",
+    "id": "U25QOGRwRk0%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
+    "title": "大谷翔平の年俸外収入が世界1位：スポーツ選手長者番付に見るブランド価値",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoaXo3ejB4aUlBWkpCQktVd2VtdmpCcWJKaU9GRmhYeFgwekF3NmdyMlM2dUNBZEhWZmVqMmFIUTJfZC1WcmgxMzlrcloyQTRaU1dVOQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "大谷翔平選手が年俸以外の収入で、世界のスポーツ選手長者番付で1位を獲得しました。",
+      "総収入ランキングでは5位に位置し、上位にはサッカー界のスター選手が多数ランクイン。",
+      "これはアスリートのブランド価値と、スポンサーシップ市場の巨大化を示す重要な指標であり、スポーツビジネスの戦略に影響を与えます。"
+    ],
+    "date": "2026-09-26 09:27",
+    "id": "yQTRaU1dVOQ%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "オンラインセミナー：人的資本経営における最新トレンドと組織成長の展望",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sU3VLZzBVMHRqenVLSXkzVllvc0lKUzFveVM5eF9BRXZjLWV3Rm9nVllFd3lNaXpXTjNzM0tkUE5MMlQ4anJXOWRvUEk?oc=5",
+    "importance": "A",
+    "summary": [
+      "人的資本経営の最新トレンドと今後の展望を探るオンラインセミナーが開催されます。",
+      "組織の持続的成長と発展に不可欠な経営手法として、その重要性が高まっています。",
+      "企業価値向上を目指す経営者や人事担当者にとって、戦略的な人材マネジメントを学ぶ機会です。"
+    ],
+    "date": "2026-09-26 09:27",
+    "id": "anJXOWRvUEk%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "AI時代のブランド戦略：カンヌで示されたマーケターが持つべき「3つの覚悟」",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10RGx4WVFxbzFDQ0htU3liV2Fzck14cTd2M3YwM3hfanlVV3dEeXY5VEZST1VzMWg2LUpRdlQtV3hSVWRxMWxfTG1rbTNOb0pZWnQ0TUk?oc=5",
+    "importance": "S",
+    "summary": [
+      "カンヌライオンズ2026のレポートから、AIがマーケティングを根本から変革する時代にブランドが持つべき「3つの覚悟」が提言されました。",
+      "AI技術の進化がもたらす顧客体験の変化と、それに合わせたブランド戦略の再構築の重要性を強調。",
+      "マーケターは変化を恐れず、AIを味方につけて新たなブランド価値を創造する視点が求められます。"
+    ],
+    "date": "2026-09-26 09:27",
+    "id": "b0pZWnQ0TUk%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "企業におけるChatGPTなど生成AIの導入と効果的な活用手法",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWk5iakZkRGthY3NPMkNFc0tlbElNMVAyd1RXOVFiLWxuamNQR05QZGxSZjdlNWFxUnp4dzFmdFJYRVdCRGxBdWlUbVk4MEJuWGx0bGo4a21hRktta0tsRG9CVQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "ChatGPTなどの生成AIを企業が導入し、事業へ効果的に活用する具体的な手法が解説されています。",
+      "業務効率化、コスト削減、新たな価値創造に繋がる実践的なAI活用事例を紹介。",
+      "企業がDXを推進し、競争優位性を確立するためのAI戦略策定のヒントを提供します。"
+    ],
+    "date": "2026-09-26 09:27",
+    "id": "ta0tsRG9CVQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "次世代LLMを担う4つの最新アプローチ：トランスフォーマーの限界を超えて",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYVlaaF9ZOVRfYm9YbEVfT1dmNmpDNnBIQnlwak9hVlBhQXhOSmhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "現在のLLMを支えるトランスフォーマーモデルの技術的限界が指摘されています。",
+      "効率性と性能向上を目指す4つの最新技術アプローチが次世代LLMの鍵を握ると解説。",
+      "AI開発の方向性を理解し、将来のビジネス応用戦略を検討する上で不可欠な情報です。"
+    ],
+    "date": "2026-09-26 09:27",
+    "id": "wUTBIZXVwSQ%3Foc%3D5"
+  },
+  {
     "category": "世界情勢",
     "title": "マクロン仏大統領、米中へのAI依存脱却を提唱：技術主権確立へ国際協力呼びかけ",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqVlNqa3EtbklHZ3lpeDlkVm9rdFQwQzNSdmI1dW1hNlhjeGl5OU9OSzVMM3ZQMW9tTHFYZ1BUcUstV1Bxb0drQzNiSl8zbFA2WUNCcDhaTlJ2bjJhUUc4?oc=5",
@@ -3820,83 +3898,5 @@
     ],
     "date": "2026-08-31 01:21",
     "id": "OFRVVnpjSFY%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "日経クロストレンドが「今後伸びるビジネス」2026年上半期ランキングを発表",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdlRuM3dJZ2JUNDRXU0VfMXZtYVlNSk1pUnRwVmNSQVFFem01VkpGZU1 LsjU4UjFTMVZZRmlmcy1VX2dXWHpqUHJCRHBGQ3RGWF9mRnlHeWJ4YVU5VjZHM0xFYURmeEE?oc=5",
-    "importance": "S",
-    "summary": [
-      "日経クロストレンドが2026年上半期に成長が期待されるビジネス分野の最新ランキングを公開。",
-      "新たな市場機会や有望な業界トレンドを把握し、ビジネス戦略立案の重要な羅針盤となる。",
-      "AI、サステナビリティ、個人の価値観を重視したサービスなど多岐にわたる分野が注目される。"
-    ],
-    "date": "2026-08-31 01:21",
-    "id": "M0xFYURmeEE%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "資生堂、過去最大の赤字からV字回復なるか？「マーケティングの巨人」の苦悩",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bVRwbm1QX1huZXpmYW1ON2RBLVRrNDNaUmFSOF9SWjJFSFpSbjlVbmxtdW1TUWpvODR4N19jSHhRRDBFWktpckxHaWlBM0U4VUJsajJPb094UTA?oc=5",
-    "importance": "A",
-    "summary": [
-      "資生堂が過去最大の赤字を計上し、かつての「マーケティングの巨人」に何が起こったのかを分析。",
-      "市場変化への対応やブランド戦略の見直しがV字回復の鍵となる可能性を考察。",
-      "大手企業でもマーケティング戦略の失敗が経営に大きな影響を与える教訓を示す。"
-    ],
-    "date": "2026-08-31 01:21",
-    "id": "ajJPb094UTA%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AI、企業導入と事業活用への実践手法を解説",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWk5iakZkRGthY3NPMkNFc0tlbElNMVAyd1RXOVFiLWxuamNQR05QZGxSZjdlNWFxUnp4dzFmdFJYRVdCRGxBdWlUbVk4MEJuWGx0cGo4a21hRktta0tsRG9CVQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "ChatGPTなどの生成AIを企業が効果的に導入し、事業へ活用するための具体的な手法が紹介。",
-      "AI技術の導入における課題解決と、ビジネス成果を最大化するアプローチに焦点。",
-      "実用的な導入事例や戦略を通じて、企業がAIを競争優位に繋げる方法を提示。"
-    ],
-    "date": "2026-08-31 01:21",
-    "id": "ta0tsRG9CVQ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平選手の「神格化」の危うさ：年子バッシングの背景",
-    "url": "https://news.google.com/rss/articles/CBMiW1FVX3lxTE00b0x6QUV2UzloWHlZd253YkhXTjJJeFlPbFp5cEZibjRiMXlzeXBNS3hnUGJOOFIteTJ5cUJzc3k1bDhELUVhTVVwb2dzOXJyQWlvdTh0ZW8tTGM?oc=5",
-    "importance": "B",
-    "summary": [
-      "大谷翔平選手のプライベートなニュースに対する「年子バッシング」が発生し、著名人の「神格化」の危うさを指摘。",
-      "アスリートや有名人のブランドイメージ管理において、大衆の期待値との乖離がリスクとなることを示唆。",
-      "企業がインフルエンサーマーケティングを行う際にも、パーソナルブランドの脆弱性を理解する重要性を示唆します。"
-    ],
-    "date": "2026-08-30 18:02",
-    "id": "dTh0ZW8tTGM%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "覇権交代の歴史が示す世界の未来：イギリスから米国、そして中国へ",
-    "url": "https://news.google.com/rss/articles/CBMiW1FVX3lxTE84Q0oyaS1uZHNsVFFSMExsQVhGLU1RYkNlVVZmd2ZLRWxJSURtY3FrNmFGanM3cmFFZURYREE5al9xaDNrOV9VaW5ldFY1Y0FvcXdxSUhkUmZsY3M?oc=5",
-    "importance": "S",
-    "summary": [
-      "歴史的視点から、世界の覇権がイギリスから米国、そして中国へと移行する可能性を分析。",
-      "この覇権交代が世界戦争の勃発や思想の崩壊に繋がる可能性も示唆しています。",
-      "企業の長期的な事業戦略や投資計画は、世界秩序の大きな変革期を考慮する必要があります。"
-    ],
-    "date": "2026-08-30 18:02",
-    "id": "SUhkUmZsY3M%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "米国株大暴落の危険な兆候：米国債に潜むリスクと安全資産の行方",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbktOWXFFMmQ3Y0cyWmowcDZEeXVrWC1BbHNYekVkYXNyb0JXWUFxanEzVWdRYjJmeDRUZDRMbkxoNFVEUmFOUVk0UF9lNjBQTVp3RHdB?oc=5",
-    "importance": "S",
-    "summary": [
-      "JBpressが米国株大暴落の引き金となる可能性のある米国債の危険な兆候について警鐘。",
-      "次の安全資産の行方を議論し、国際金融市場の潜在的なリスクを指摘しています。",
-      "企業や投資家は、ポートフォリオのリスク管理と、予期せぬ市場変動への備えが求められます。"
-    ],
-    "date": "2026-08-30 18:02",
-    "id": "jBQTVp3RHdB%3Foc%3D5"
   }
 ]
