@@ -1,5 +1,57 @@
 [
   {
+    "category": "世界情勢",
+    "title": "国際情勢の複雑化と日本の経済・観光への影響",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeWdHdUpDYkdsYTRZaFJnX0dHNHNwdC1TQk9uVVU2aEI3OGp4UWdGVlg5RWpubXVpQ1dQN1JiYlZ6VDZJQ0lkNF9MdGxTbnJpNFhMRS1CSENhckpveFlR0gFkQVVfeXFMT1VsYnR3WTdLaUJKck8wZzB6MlFrUjVUTjQ1QW92TktkWHUybGY1RnRvczVBVVRaeGdjU18xRGlIMTQyb1d0LS01Q0hwTU9ELWd5MXRaVFM5UXZTSHFwZ0d6ZXh4dA?oc=5",
+    "importance": "A",
+    "summary": [
+      "イラン外相が米国との交渉を否定し、トランプ氏が日本などに海峡護衛の艦船派遣を呼びかけるなど、中東情勢は緊迫化。",
+      "中国人観光客減少の穴埋めを中東諸国に期待していたが、イラン攻撃により日本の観光戦略に新たな不安が生じている。",
+      "40以上の戦争を取材したBBC世界情勢編集長が「2025年のような年は見たことがない」と語り、国際情勢の深刻化を警告。"
+    ],
+    "date": "2026-09-28 01:41",
+    "id": "wZ0d6ZXh4dA%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日本株市場の短期的動向と景気指標",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNHp2Unl3UTI0T0FoQ0JhNC1Hb0VwMmVNb1BqYlVudGRGXzE0SmhDdDh0eVZuUGNTdV8xWHdIMm5iZVR5eFk3R2h5VkY3NXFLSTFRU2MzMVo2UkdPWWF4OUxYd09NcnlCUS1ja3JvbXFBdDNvSU1weXAwMkZZX2NUaXd2ZE1udw?oc=5",
+    "importance": "B",
+    "summary": [
+      "日経平均は反発し、景気敏感株が市場を支える一方で、AI・半導体の一角は軟調な動きを見せた。",
+      "街角景気から株式市場の空気を読む景気ウォッチャー調査では改善が見られ、景気の底打ちが期待される。",
+      "過去70年の日経平均株価の歴史がチャート付きで解説され、長期的な市場動向を理解する手助けとなる。"
+    ],
+    "date": "2026-09-28 01:41",
+    "id": "UaXd2ZE1udw%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "スモールビジネスの成功条件とDX推進による働き方改革",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EQ0d5UzA1bTRqRUxvekVqYjFxc2xnUHp6UUtJTDZoRFA3cEdjU09nNDhwVDJ2UzAzMXlpelNhR0pKUWctMlJuWHlXOVZpLVYxRmlqQXpmdEdveE1q?oc=5",
+    "importance": "B",
+    "summary": [
+      "儲かるスモールビジネスの条件4つと、具体的なアイデア19選が紹介され、新規事業のヒントを提供。",
+      "「小さな経営」が社会変化に先行し、勝てる投資のメカニズムを持つことが日経ビジネスで報じられた。",
+      "DX推進による人事・組織・働き方改革をテーマとするビジネストレンドフォーラムが大阪で開催され、企業の持続的成長が議論される。"
+    ],
+    "date": "2026-09-28 01:41",
+    "id": "XpmdEdveE1q%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "企業でのAI導入実践と市場の健全な理解",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcTdvTkt3eW83aXE1OXhfVUNNMllBeGNHeE9UcnhtVzJuVWt3WkF0TGxjVXduNjdIU2taUGliMHgzZngtbjh0VEVlUnJYV0t0dVZfRF92ZnJaX3BKZGQycUJEMkJVLW9kMFl4cmVyU0V5UQ?oc=5",
+    "importance": "B",
+    "summary": [
+      "ChatGPTへの入力NG情報やLLM遅延対策など、AI活用における具体的な課題と解決策が注目されている。",
+      "生成AIに関する誇大広告や反誇大広告に惑わされず、現状を客観的に理解することの重要性がIBMから提言。",
+      "大規模言語モデル（LLM）や自然言語処理の基礎知識は、AIをビジネスに活用する上で不可欠である。"
+    ],
+    "date": "2026-09-28 01:41",
+    "id": "4cmVyU0V5UQ%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "日本のスポーツ人気、サッカーが野球に劣勢との指摘と提言",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSXloaVB4ZzY1X0xpbmQteFo4WVFmZGdkeVkxbWxKWTR6YnhSYzkyT0RSVmx6WXZpbzM3bU5pX3NEeW1ITEZDajRWWjFzTE9OTDRobEJFVDRJaHdUQlYtcFdEaEZVbERQdGMwZUFPX3JobExtSThCU25QOGRwRk0?oc=5",
@@ -3846,57 +3898,5 @@
     ],
     "date": "2026-09-02 01:19",
     "id": "5TUVIY2ZYZw%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "クアルコムが日本にロボティクスセンター設立、トヨタ・ソニーなど支援",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY1g2TjJjUE1oenpuQkh4b2F1LWxLMnryanVURjRYbnFKNXd2MzRZSHFuZlNLVXVaYU1ja0tkZ0c0OExBVzcxY21ublpCNnUyVDdnbFVlNm9QWGlDQ2hN?oc=5",
-    "importance": "A",
-    "summary": [
-      "米クアルコムが日本にロボティクスセンターを設立し、トヨタやソニーなど18企業・団体が支援を表明。",
-      "日本のロボティクス分野における国際的な技術連携と産業育成への期待が高まっている。",
-      "最先端技術開発の拠点化は、日本の技術革新と新たな産業創出に寄与する可能性がある。"
-    ],
-    "date": "2026-09-02 01:19",
-    "id": "m9QWGlDQ2hN%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "AI広告がブランドに与える影響：プラダ事例に見る毀損リスク",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MV2YwWjZrQ1NNZFA0cWIzeTcyYmZuNDVZVndUT3FVRG1EaWdyVGVJRUVMSU9sNjFOYjl5MTBCV1FiMmJVdjhuTkpELVQzaVR0UDljQV9oaVluZmRLdUZsbEY0eVVrclBiVlpR?oc=5",
-    "importance": "A",
-    "summary": [
-      "AI生成コンテンツを用いた広告が、ブランドイメージに潜在的な悪影響を与える可能性が学術研究で指摘。",
-      "特にプラダのようなラグジュアリーブランドにおいて、AI広告の導入は慎重な検討が必要である。",
-      "AI活用による効率化とブランド価値保持のバランスが、今後のマーケティング戦略の重要課題となる。"
-    ],
-    "date": "2026-09-02 01:19",
-    "id": "VVrclBiVlpR%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "クアルコムが日本にロボティクスセンター設立：トヨタ・ソニーなど18社が支援",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY1g2TjJjUE1oenpuQkh4b2F1LWxLMnRyanVURjRYbnFKNXd2MzRZSHFuZlNLVXVaYU1ja0tkZ0c0OExBVzcxY21ublpCNnUyVDdnbFVlNm9QWGlDQ2hN?oc=5",
-    "importance": "A",
-    "summary": [
-      "米クアルコムが日本にロボティクスセンターを開設し、国内産業との連携を強化する動き。",
-      "トヨタ、ソニーを含む18の日本企業・団体がこの取り組みを支援することを表明。",
-      "AI・ロボティクス分野における技術開発と産業応用が加速し、新たなイノベーション創出が期待される。"
-    ],
-    "date": "2026-09-01 17:28",
-    "id": "m9QWGlDQ2hN%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "米国株大暴落の危険な兆候：米国債に潜むリスクと次の安全資産を解説",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbktOWXFFMmQ3Y0cyWmowcDZEeXVrWC1BbHNYekVkYXNyb0JXWUFijanEzVWdRYjJmeDRUZDRMbkxoNFVEUmFOUVk0UF9lNjBQTVp3RHdB?oc=5",
-    "importance": "A",
-    "summary": [
-      "JBpressが、米国債市場に潜在する危険な兆候が米国株大暴落の引き金となる可能性を指摘。",
-      "金融市場の不安定化に備え、投資家がポートフォリオのリスク分散を見直し、安全資産に注目。",
-      "企業経営者も、世界経済のリスク要因を理解し、危機管理戦略の強化が求められる。"
-    ],
-    "date": "2026-09-01 17:28",
-    "id": "jBQTVp3RHdB%3Foc%3D5"
   }
 ]
