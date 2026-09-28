@@ -1,5 +1,83 @@
 [
   {
+    "category": "世界企業情勢",
+    "title": "巨大IT企業の雇用動向と新たなビジネスフロンティア",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40MnJ1VkhrY0VGdnRfVGJzMkFKU09WWkNtQnNYTTgwSmNQUlJqQ2JraXMyZnF6TFVxTHo4bndIM0xYWUpDRzY0bg?oc=5",
+    "importance": "B",
+    "summary": [
+      "GAFAの株価急落と欧米でのレイオフの波は、IT業界の雇用環境と経済動向に影響を及ぼす。",
+      "EUが2030年までを「デジタルの10年」と位置付け、国際的なデジタル経済の方向性を提示。",
+      "フェイスブックの成長鈍化に対し、「メタバース」が救世主となるか、新たなビジネスフロンティアへの投資が注目される。"
+    ],
+    "date": "2026-09-28 18:32",
+    "id": "YWUpDRzY0bg%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "日本の産業競争力強化に向けた国家戦略と技術投資",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FeTI2czZGMFpoWFEza2RCdG5xM0JkR3VsaU1FN3dQU3JvT3RreDFiN0JyeHBOeXFwVjJmcFRHbl8wVGctLXpzME43Q0RwZXZQRmFBZ2JWenh0Z2dqSXFSTktQT25EaldaaEVYNA?oc=5",
+    "importance": "S",
+    "summary": [
+      "ラピダスに20社超が新規出資し、半導体復権へ官民連携が進む。日本の基幹産業再生への期待。",
+      "ディープテックで日本の競争力強化を目指し、官民挙げて「第2のソニー」創出を推進する国家戦略。",
+      "クアルコムが日本にロボティクスセンターを設立し、トヨタやソニーなど18企業・団体が支援。先端技術開発の加速。"
+    ],
+    "date": "2026-09-28 18:32",
+    "id": "EaldaaEVYNA%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価の短期的な変動とセクター別動向",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNHp2Unl3UTI0T0FoQ0JhNC1Hb0VwMmVNb1BqYlVudGRGXzE0SmhDdDh0eVZuUGNTdV8xWHdIMm5iZVR5eFk3R2h5VkY3NXFLSTFRU2MzMVo2UkdPWWF4OUxYd09NcnlCUS1ja3JvbXFBdDNvSU1weXAwMkZZX2NUaXd2ZE1udw?oc=5",
+    "importance": "B",
+    "summary": [
+      "日経平均は景気敏感株に支えられ反発する一方、AI・半導体の一角は軟調な動きを見せている。",
+      "米景気減速懸念や円高により日経平均が一時2000円超安を記録するなど、急落の動きも観測された。",
+      "日経平均の仕組み理解は投資に一歩リードをもたらすとされ、市場の基礎知識が重要視されている。"
+    ],
+    "date": "2026-09-28 18:32",
+    "id": "UaXd2ZE1udw%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "社会変化に対応するスモールビジネスと経営哲学",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EQ0d5UzA1bTRqRUxvekVqYjFxc2xnUHp6UUtJTDZoRFA3cEdjU09nNDhwVDJ2UzAzMXlpelNhR0pKUWctMlRuWHlXOVZpLVYxRmlqQXpmdEdveE1q?oc=5",
+    "importance": "B",
+    "summary": [
+      "朝8時半に始まる「小さな経営」は、社会変化に先行する勝てる投資メカニズムを紹介。",
+      "「儲かるスモールビジネスの条件4つとアイデア19選」は、起業や新規事業の参考に。",
+      "近藤太香巳氏の経営哲学「商売は課題解決、利益は笑顔の数」は、普遍的なビジネスモデル論を語る。"
+    ],
+    "date": "2026-09-28 18:32",
+    "id": "XpmdEdveE1q%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの導入における注意点と実務的課題",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVFMWTFuTW9iY3J2OUo5Vkt6TTRwTUQ0ZDN4d1FyVkRXd0NWeFk?oc=5",
+    "importance": "B",
+    "summary": [
+      "IBMは生成AIにおける誇大広告を信じず、その限界を理解する重要性を指摘している。",
+      "「ChatGPTに入力NG情報」など、AI活用における情報セキュリティとプライバシー保護が課題。",
+      "LLMの遅延対策など、実務的な導入障壁と解決策に関する情報が注目を集めている。"
+    ],
+    "date": "2026-09-28 18:32",
+    "id": "VkRXd0NWeFk%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "日本における生成AI利用の現状と企業導入戦略",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iQUtoTm8yaG9hT2s4LTJZUTYwazBpRUdpLWJYamc2OTVNVENjbklkRFlwb2tqcERBcUVfWVJ4Q0xXSGUyNlBuVUJ3b04yMmpGZEE?oc=5",
+    "importance": "A",
+    "summary": [
+      "ICT総研調査で、日本企業の生成AI利用率が54.7%に急伸しており、導入が加速している。",
+      "ChatGPTなど生成AIの企業導入と具体的な活用手法が紹介され、ビジネス現場での応用が進む。",
+      "AIが「伸びるビジネス分野」の最新版で躍進しており、新たな事業機会の創出が期待される。"
+    ],
+    "date": "2026-09-28 18:32",
+    "id": "b04yMmpGZEE%3Foc%3D5"
+  },
+  {
     "category": "日本企業",
     "title": "2025年世界時価総額ランキング分析：日本企業の現在地と36年の変遷",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aN1F4REdWc0FKcVdLUkxlbU9yTUlXWDMxaUtfSTkxZGVpX3ZTSGdhMjZSeVR1YklmYXplWmxqZWRoTUJGckFkbEpPZEpfYV9fYnRYNlFKLVEyb3pNTHFDemJtWUh4VldKRzZHeENvTQ?oc=5",
@@ -3820,83 +3898,5 @@
     ],
     "date": "2026-09-02 16:46",
     "id": "UdwUHR0LWNJ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "経営者20人全員が「最高値更新」を予測：2026年日経平均見通し",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mTHZlT2kwa1lmbVVSSm94VnFzclF1QkstejBSTV92Q0JCbWJpNFNFc2NHcExvaUpkR0pRVjBtQnFxV0FRUENYZENFWDBGaFc2QktnRUVCeXBOejVlQWdFeVhzMmk5cEh0TDd1Qg?oc=5",
-    "importance": "S",
-    "summary": [
-      "2026年の日経平均株価について、経営者20人全員が「最高値更新」を予測する、極めて強気な見通しが示された。",
-      "これは、日本経済や企業業績に対する強い期待感を反映しており、市場全体のセンチメントに大きな影響を与える。",
-      "企業は、この強気な市場環境を背景に、成長投資や資本政策を積極的に検討し、事業拡大の機会を追求する時期となる。"
-    ],
-    "date": "2026-09-02 16:46",
-    "id": "5cEh0TDd1Qg%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "2024年・2025年後半に流行るスモールビジネストレンド予測",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Y0V1UmdHR0otWk0wWVMzVmFSdlJGLWFFUXRPdU1OQnJzaWtwaEFIbGJ3MlZlTENhMElkS2h5VEVZRHFrMXIyRVZTT1dBTEg2eGxaQWNMWkxOMmpjVFF1R1RSSWRaZ0FVcVBUclFGa1Y?oc=5",
-    "importance": "A",
-    "summary": [
-      "2024年および2025年後半に流行が予測されるスモールビジネスのトレンドが発表された。",
-      "起業家や中小企業にとって、これらのトレンドは新たな事業機会や市場動向を把握する上で極めて重要。",
-      "デジタル化、リモートワーク、サステナビリティ関連など、社会の変化に対応したビジネスモデルが成功の鍵となる。"
-    ],
-    "date": "2026-09-02 16:46",
-    "id": "cVBUclFGa1Y%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "ユニリーバ・サントリー・日清に学ぶ：顧客と共感するブランド戦略",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03bVJpMzRxbkFuY0wwRnl5cjBucEdWRF82czVEemVyNjYwUzhZZXBHX0xvTTlsOHRfd05YUDZxclIwc1JabFVoS3RteEdXYk9SVjJSTjlubnJQajkxaDIzenBJRy1lZw?oc=5",
-    "importance": "B",
-    "summary": [
-      "ユニリーバは「火を運ぶ人」という概念でブランドの伝播を、サントリー「BOSS」は顧客体験重視のブランドづくりを実践。",
-      "日清のCMは若者の共感を獲得し、「脳内シェア」を高めることで顕著な成功を収めている。",
-      "これらの事例は、ブランドが単なる製品やサービスを超え、顧客との感情的な繋がりや共感を深める物語の重要性を示唆する。"
-    ],
-    "date": "2026-09-02 16:46",
-    "id": "zenBJRy1lZw%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "AI時代のブランディング戦略：変化の中で「マンネリ」を貫く重要性",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2VfeEJ4ekV0VGdhOS1WYTBhSUl0LVY1NnNnVDF5Y0x3TWJOMjBWT0dEYkFMNTdYSGpYX29vSzlTWjR5djRFTnZ6c0Y1YWwzVTJuSzlweEp6YU9YTlZLMFVwVEhuZjd2bVFjOUdJTVM0N0E2Wl9MNmlPRklGZE1aTjhfcUpGQXdMYjI0c002ZDJtUDJ6OEotWg?oc=5",
-    "importance": "A",
-    "summary": [
-      "AIの急速な進化がブランディング戦略にも「誤解」を生みやすくしており、その本質を見極める必要性が高まっている。",
-      "新しいトレンドに安易に追従するのではなく、ブランドの核となる価値観や確立された「マンネリ」を貫く勇気が重要。",
-      "AIを強力なツールとして活用しつつも、ブランドの個性と一貫性を守り続けることが、顧客からの信頼獲得に繋がる。"
-    ],
-    "date": "2026-09-02 16:46",
-    "id": "tUDJ6OEotWg%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "業績に直結する「ブランド指標」の再定義：花王・ポーラの事例に学ぶ",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CWWhYZ2JmVkhXNUprd0J6UGp3RjV2bmpqLWo1bEtGaC1HYTNTaW00ZmhfdHpnRHJXdUNYbDRBQUxKdTJXYzNpRDczWWFIOVFaWTR2WXduRHRrMHktTm5kM0ktbkRCZw?oc=5",
-    "importance": "A",
-    "summary": [
-      "認知度や好感度といった従来のブランド指標が、必ずしも企業の業績と直結しない課題が指摘されている。",
-      "花王やポーラは、成熟ブランドのマーケティング4Pやブランド指標を再定義し、実売に繋がる戦略的改革を実施。",
-      "企業は、真に事業成長に貢献する指標を見極め、データに基づいた効果的なマーケティング戦略の策定が求められる。"
-    ],
-    "date": "2026-09-02 16:46",
-    "id": "kM0ktbkRCZw%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AIの環境負荷問題：グリーンAI、Green Micro AIが示す解決策",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dlIzMThabFV0UlYzdXBiQWotbVRYLUtnTE5rT0tQSGJ5VDNBak0telNnTmstSGNOUThDVnlrcXdXTUNvb0VBb05jOTZ6ZERqY0Fyd250RlpVYVZxY2JB?oc=5",
-    "importance": "A",
-    "summary": [
-      "生成AIの普及に伴い、その膨大な計算処理による消費電力の増大が環境問題として顕在化している。",
-      "「Green AI」や「Green Micro AI」といった、環境負荷の低減を目指す技術アプローチが解決策として注目。",
-      "AI開発・導入企業は、技術革新と同時に、サステナビリティへの配慮と環境に優しいAIインフラ構築が求められる。"
-    ],
-    "date": "2026-09-02 16:46",
-    "id": "lpVYVZxY2JB%3Foc%3D5"
   }
 ]
