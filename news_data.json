@@ -1,5 +1,57 @@
 [
   {
+    "category": "世界情勢",
+    "title": "中国「一帯一路」の欧州での暗礁と習近平の外交戦略",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xa0lRRlFSMnpsdGd3SXVBbVlkUjVZSUFNWGFyQlVpQUtDRE1zQ2l1UmRDTThCVWQ2LTZNSlJobmNHTzlkbkdZWTMyb2tPdElYVlNfZmdVS0NPYTg?oc=5",
+    "importance": "S",
+    "summary": [
+      "中国の巨大経済圏構想「一帯一路」が、欧州で政治的・経済的課題に直面し暗礁に乗り上げている。",
+      "インドも距離を置く姿勢を見せる中、習近平国家主席は米中首脳会談を前に外交攻勢を強化。",
+      "グローバルな影響力拡大を目指す中国の次の一手が、国際秩序に与える影響が注目される。"
+    ],
+    "date": "2026-09-30 02:54",
+    "id": "ZmdVS0NPYTg%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "NECが新入社員に年収1000万超：グローバル人材獲得競争の激化",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG90ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
+    "importance": "A",
+    "summary": [
+      "NECが新入社員に年収1000万円超を提示し、グローバルな人材獲得競争への危機感を露わにした。",
+      "GAFAなどの巨大IT企業や海外企業との間で、優秀なIT人材の争奪戦が激化している。",
+      "日本企業も高待遇や魅力的な労働環境を提供し、国際的な競争力を高める必要に迫られている。"
+    ],
+    "date": "2026-09-30 02:54",
+    "id": "FRoaVJsbzA5%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "クアルコムが日本にロボティクスセンター設立、日本企業と連携強化",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY1g2TjJjUE1oenpuQkh4b2F1LWxLMnryanVURjRYbnFKNXd2MzRZSHFuZlNLVXVaYU1ja0tkZ0c0OExBVzcxY21ublpCNnUyVDdnbFVlNm9QWGlDQ2hN?oc=5",
+    "importance": "A",
+    "summary": [
+      "米クアルコムが日本にロボティクスセンターを設立し、トヨタ、ソニーなど18の日本企業・団体が支援。",
+      "日本の技術力と連携することで、ロボティクス分野の研究開発とイノベーションを加速させる狙い。",
+      "自動運転や産業用ロボットなど、次世代テクノロジーの日本での実用化と市場拡大が期待される。"
+    ],
+    "date": "2026-09-30 02:54",
+    "id": "m9QWGlDQ2hN%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "次世代LLMを牽引する4つの最新技術アプローチ",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYWVoX1k5VF9ib1hsRV9PV2Y2akM2cEhCeXBqT2FWUGFBeE5KaGhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "既存Transformerモデルの限界が指摘され、Mamba、RWKV、Jamba、RetNetなどの次世代LLMアプローチが登場。",
+      "これらの新技術は、学習効率、推論速度、マルチモダリティ対応の改善を目指している。",
+      "LLMの学習コスト削減と性能向上を両立させ、より広範なAI活用を可能にする鍵となる。"
+    ],
+    "date": "2026-09-30 02:54",
+    "id": "wUTBIZXVwSQ%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "サッカー国技化提言への反応：大谷翔平と野球人気の壁",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSXloaVB4ZzY1X0xpbmQteFo4WVFmZGdkeVkxbWxKWTR6YnhSYzkyT0RSVmx6WXZpbzM3bU5pX3NEeW1ITEZDajRWWjFzTE9OTDRobEJFVDRJaHdUQlYtcFdEaEZVbERQdGMwZUFPX3jobExtSThCU25QOGRwRk0?oc=5",
@@ -3846,57 +3898,5 @@
     ],
     "date": "2026-09-03 01:16",
     "id": "mtUZ215Smgw%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "米Zuora CEOが提言：AI活用でサブスクビジネスの企業成長を加速",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSU9LOFpzbzdZVTBuMkd2Wm91ekkwZzU4M0hLM3l6R2NtbEhKWGVodmFTZWtSZU8tMklQaEhzMHJXYmtOa0tDamktaHlhUUx3VGFVX0pCNjJpQUlBM2haelNWb193WW9DRTlEcg?oc=5",
-    "importance": "A",
-    "summary": [
-      "サブスクリプション管理プラットフォームの米Zuora CEOが、AI活用が企業成長を加速させると提言。",
-      "AIは顧客行動分析、価格最適化、LTV（顧客生涯価値）向上において重要な役割を果たし、サブスクモデルの収益性を高める。",
-      "日本企業もサブスクモデルへのAI導入を積極的に進めることで、持続的な成長を実現し、顧客エンゲージメントを強化できる。"
-    ],
-    "date": "2026-09-03 01:16",
-    "id": "3WW9DRTlEcg%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価、最高値更新の背景と今後の見通し：識者コメント",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uYWF2X040WVVBU1NIUFFKazZ3Nm1vWEZ5STNiM3pmcEhpMHRpcWVTTk9jazZ0RVI1Y0h2UzV4alA2QXAtNnJnYVRiTm5LWXhuWldiamc5bXBBNGsxUnZyUnd0SkhKdDlyVVR6d1lzZ1FNWEV4eWRuNQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価が過去最高値を更新し、市場の好調さが浮き彫りとなり、日本経済への期待が高まる。",
-      "企業改革への期待、デフレ脱却への動き、海外資金流入が主な要因として挙げられる。",
-      "一方で、過熱感や地政学リスク、米国の金融政策など、変動要因も存在し、今後の市場動向には警戒が必要となる。"
-    ],
-    "date": "2026-09-03 01:16",
-    "id": "NWEV4eWRuNQ%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "EIR制度がベンチャーの経営者不足を解消か？ディープテックで加速する「客員起業家」トレンド",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xVTBkZUZrekU5c2NhNE1ycVBYREdKRV9zR2I0MzBIVS1vT3VUYThreGdsOHlKLTR5LXdSXy1JZXIzZ2stYW9hTFFBaEhXOEtWdkU1UHhpWDk3eEY4WWs4?oc=5",
-    "importance": "S",
-    "summary": [
-      "ベンチャー企業の深刻な経営者不足に対し、EIR（客員起業家：Entrepreneur In Residence）制度が解決策として注目。",
-      "特にディープテック領域で、経験豊富な客員起業家が事業化を推進するトレンドが加速し、課題解決に貢献。",
-      "この制度は、スタートアップの成長を加速させ、イノベーション創出に貢献する可能性を秘め、日本の産業界に新たな風を吹き込む。"
-    ],
-    "date": "2026-09-03 01:16",
-    "id": "Dk3eEY4WWs4%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "「サーキュラー・ビジネス」は不可避のメガトレンド：日本企業の競争力強化を提言",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Wkp6RG53bXRDU1NhaUllQzhvQk91N3NUN0hhb0RKT1dzN01nd002Y1o2LTJZYUR6c1BVSkRHT3lrbmNQb0pzM0c1anN0aGJjc1E4?oc=5",
-    "importance": "S",
-    "summary": [
-      "脱炭素に続く次なるメガトレンドとして「サーキュラー・ビジネス（循環型ビジネス）」が世界的に台頭。",
-      "資源の循環利用を前提としたビジネスモデルへの転換が、企業の持続可能性と国際競争力強化に直結すると指摘。",
-      "日本企業は世界の潮流に乗り遅れないよう、早期の戦略策定と実践が喫緊の課題であり、新たな成長機会を探るべき。"
-    ],
-    "date": "2026-09-03 01:16",
-    "id": "nN0aGJjc1E4%3Foc%3D5"
   }
 ]
