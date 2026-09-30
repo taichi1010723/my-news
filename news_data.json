@@ -1,6 +1,110 @@
 [
   {
     "category": "スポーツ",
+    "title": "米国スポーツ人気構造の変化：サッカーが野球を抜き3位に浮上",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tSVEwTlVEaEFPYjd6V0M4MmhuZ2dEc1FWV21HU0k1UDBYaEh2S0pyakU5UWk4dUl6NnY3MExsZU9QM3ZGM0dCajQ0c0hFUnFZa2hFUFRFaFAzRkhJ?oc=5",
+    "importance": "B",
+    "summary": [
+      "米国のスポーツ人気において、サッカーが野球を抜き3位に浮上するという新たなトレンドが顕現。",
+      "これは、サッカーのグローバルな普及と、多様な文化を持つ層へのアピール力の高まりを反映。",
+      "メディアや広告業界は、視聴者層や消費者行動の変化を捉え、コンテンツ戦略の再構築が必要。"
+    ],
+    "date": "2026-09-30 18:28",
+    "id": "FRFaFAzRkhJ%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "ガソリン高騰で欧州中古EV需要が急増：化石燃料と電動化の国際勢力図",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6cnhENmViWUl2WmZYTDY0alNzUTFmTkNYNGtfcXZkN2FiQXQ4N3BMUkxmNDh0WmNqaHZfOFMxVzJITDREaVlFaTdqS0FjTWs0NjhhWGU0NmtUZ215Smgw?oc=5",
+    "importance": "A",
+    "summary": [
+      "ガソリン価格の高騰を背景に、欧州では中古EVの販売が急増し、市場構造の変化が加速。",
+      "これは化石燃料依存の「石油国家」米国と、「電動国家」として台頭する中国の対比を鮮明にする。",
+      "自動車メーカーや関連産業は、EVシフトへの対応を加速し、新たなサプライチェーン構築やビジネスモデル転換が求められる。"
+    ],
+    "date": "2026-09-30 18:28",
+    "id": "mtUZ215Smgw%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "欧州航空機燃料、6週間分の供給危機：国際エネルギー機関が警告",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UMm5lc0xkMFpNclptbklLanlwNTZfMVpVMkdkQjU2d05UaTRGQTZvNGVjSC1lc3VGeGFVbHFpdTJIZG15dmJvM2JERmlPMHE1d2tlTjJhb29wOXJ3OWVj0gFkQVVfeXFMTWsxc0ZSVjVoV3dfT1Z6SC1xX2NNMk1vX1FaMmIxNWkxeHBaMERqajRwNTQtaWFFYTlLWEc0YkJjTXluWEhJWkJUUlY4X2llWU13YjV4blZtMS1NNG80YVZ4OHZNag?oc=5",
+    "importance": "S",
+    "summary": [
+      "国際エネルギー機関が、欧州の航空機燃料が残り約6週間分であると深刻な供給危機を警告。",
+      "これは中東情勢の緊迫化や供給網の混乱に起因し、航空業界に壊滅的な影響を及ぼす恐れがある。",
+      "物流コストの高騰や移動制限の可能性を考慮し、企業はサプライチェーン再構築と危機対応計画を急ぐべき。"
+    ],
+    "date": "2026-09-30 18:28",
+    "id": "0YVZ4OHZNag%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "中東情勢の緊迫化：イラン戦争が引き起こす新たな国際的合従連衡",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CU2ktbXEwMzZuOHViREMtbUROZHp5Q3I4MExHck5MRHdESTRhV2RKT0pmM19TN1BoVDZTUFZEOElPa3NXaEx4by16dTItMURKT0c4dE5R?oc=5",
+    "importance": "S",
+    "summary": [
+      "中東地域での戦争状態が拡大し、各国間の新たな「合従連衡」が形成されつつある。",
+      "これは世界のサプライチェーン、エネルギー市場、貿易環境に深刻な影響を及ぼす。",
+      "企業は地政学リスクを最大限に考慮し、事業継続計画やサプライチェーンの多様化を進めるべき。"
+    ],
+    "date": "2026-09-30 18:28",
+    "id": "URKT0c4dE5R%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAと中国企業の収益力格差：PL分析から見る競争優位の源泉",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OMkwzbTliWTV6aXNuWTBETDhRQ255ZlZsWXBQX2dTTjRwSnBGR19UQUU2b2Z2RFdUbUVTaXJuZjVEUllzVnptaTE0a2nSAU9BVV95cUxQV09Db3BiTm5iRWxKVW05ODgyaUs0dEhfRmNvVExXOHhfeFl5S0NfSXlYOW9uSlp5dDVGWGZxMHRlZ3lENk1YU3lEMGVtRmYw?oc=5",
+    "importance": "A",
+    "summary": [
+      "GAFAと中国ビッグテック企業の収益力を比較し、GAFAの圧倒的な収益力の秘密を分析。",
+      "売上高、売上原価、販売管理費の「PL3項目」に表れる事業構造と効率性の差が要因。",
+      "企業はグローバルな競争優位性を確立するため、徹底したコスト管理と高付加価値化が不可欠。"
+    ],
+    "date": "2026-09-30 18:28",
+    "id": "3lEMGVtRmYw%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価の変動要因：米景気と為替が9000円幅の差を生む",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VENPTEV2NFJoQ3hlekNTNmdmekQ4SFBGbDlwZ2Z6NGhjejktYjhaY1BvMExDZWdadzI0MGtac0ZUeGRteWtrNWFfVDdVRnUtdi1hTkVLUUY3UUpacWRqUHB1cTZ1ekdrM0NZeQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価は米景気動向と為替レートの変動に大きく影響され、9000円もの価格差が生じる可能性。",
+      "特に円高は輸出企業の収益を圧迫し、日本株全体の下押し要因となる傾向。",
+      "企業は多様な経済シナリオに基づいた事業計画と、ヘッジ戦略の検討が不可欠となる。"
+    ],
+    "date": "2026-09-30 18:28",
+    "id": "1ekdrM0NZeQ%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "企業の持続的成長を左右する5つの決断：2026年の戦略的アプローチ",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CZXVTYnY0UXM0ZE8tZkZjZm1ROTQweUZQRDhsbTlfbEZGOWM2ODJXS0U3WlZhZWNpY2NNWWdTbUk4OGFVWW5RSTM4NW1ybHpQaWttNXZHYU56ZlJNVGJqU19rbGhMdw?oc=5",
+    "importance": "S",
+    "summary": [
+      "多様な施策を増やすのではなく、成長に直結する核心的な5つの決断に集中すべき。",
+      "市場環境の変化を的確に捉え、事業ポートフォリオの最適化と資源配分を徹底。",
+      "特に2026年は、選択と集中により企業成長の確実性を高める経営が求められる。"
+    ],
+    "date": "2026-09-30 18:28",
+    "id": "qU19rbGhMdw%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "資生堂、過去最大の赤字：マーケティング戦略の課題とV字回復への道",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5bVRwbm1QX1huZXpmYW1ON2RBLVRrNDNaUmFSOF9SWjJFSFpSbjlVbmxtdW1TUWpvODR4N19jSHhRRDBFWktpckxHaWlBM0U4VUJsajJPb094UTA?oc=5",
+    "importance": "A",
+    "summary": [
+      "資生堂が過去最大の赤字を計上し、ブランド戦略や市場変化への対応が課題に。",
+      "コロナ禍や中国市場の減速、競争激化が業績悪化の主要因と分析される。",
+      "V字回復には、デジタルマーケティングの強化、新興市場開拓、コスト構造改革が不可欠。"
+    ],
+    "date": "2026-09-30 18:28",
+    "id": "ajJPb094UTA%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
     "title": "スポーツニュースで振り返る2025年の動向",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoY3lmTHl5dXZweFpNeEljQjRSSGJhR1M3dmtYZWZDVkVWQzh6TWF6blFOZnlxUjJka0lnVmVZZFBfeFVRRXpyWVNqRGtvd3c?oc=5",
     "importance": "C",
@@ -3794,109 +3898,5 @@
     ],
     "date": "2026-09-04 08:52",
     "id": "TktEQkppd2c%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "「刈り取り型」から「想起型」へ：未来の売上を創るマーケティング戦略転換",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ady0yamxyUW0tYnZzS2NESy14TXhmTl_yZVh0TVZTVGV1ZTh2cjBaWndzc3JzcXg1S2k0MkQzNlhoWHdKZlZ3U2VjRkFTMkI0UjBRdFRvdnZXMkZzUThzRTVwdmgtdw?oc=5",
-    "importance": "A",
-    "summary": [
-      "短期的な成果を追求する「刈り取り型マーケティング」には限界が来ていると指摘されている。",
-      "消費者にブランドを「想起」させることで、中長期的な売上と顧客育成に繋がる新たなメカニズムが重要視される。",
-      "顧客の記憶に残り、ニーズ発生時に選ばれるブランドを築くための戦略的アプローチが求められる。"
-    ],
-    "date": "2026-09-04 08:52",
-    "id": "zRTVwdmgtdw%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "ブランディングは収益を生む経営戦略：田部流ブランド論",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUpYVWhJUmhHeHhvN25SUGRWcThpbUVrZ2xPaU1MNl9WTzZZRmFieWcya0F4bWsxNThjTE1Xc2hRNWNXV1RpZnFLYTM5NkhoNV9YazFyLXpRanRiWF9wYnhneWV5OFE1S3pPNEZlbURBeThXQjZDVWFNeU45SWp3aGVOdUhqcFNvMndGcjZIOTFjaFRPSlE?oc=5",
-    "importance": "S",
-    "summary": [
-      "ブランディングは単なるマーケティング活動ではなく、企業収益に直結する経営戦略の中核であると提唱される。",
-      "ブランドの本質を捉え、企業のビジョンや価値観を顧客に明確に伝えることが、競争優位性を確立する上で不可欠だ。",
-      "長期的な視点でブランドを育成し、顧客ロイヤルティを高めることが持続的な成長に繋がる経営手法として重視される。"
-    ],
-    "date": "2026-09-04 08:52",
-    "id": "OTFjaFRPSlE%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AIの企業活用に日米で格差、AIエージェント時代に向けた戦略が課題",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PdlkyaWx3aG9GYWhva2FoTXJsU3ZSVVltTF9RUmQ4V3VRTTJia2NJdWFPU1NkQkllaVdQVlBvTEd3MFVUSkRRWE1MX1NDRmdRakVtYjF3Rm92T1RjZ3JtYzdDR3RsdVk?oc=5",
-    "importance": "A",
-    "summary": [
-      "生成AIの企業導入と活用が進む一方で、日米間の活用率には大きな格差が存在することが明らかになった。",
-      "高学歴・高収入層ほどAIを使いこなす傾向にあり、デジタル格差の拡大が懸念されている。",
-      "自律的に思考し行動するAIエージェントの本格的な普及を控え、企業はAI戦略と人材育成を加速する必要がある。"
-    ],
-    "date": "2026-09-04 08:52",
-    "id": "YzdDR3RsdVk%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "世界アスリート長者番付：大谷翔平の経済価値とサッカー界の巨頭",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RM09WTjZpcy1zakFOVEQ1Q1laRlN1NXdCWlYwSjB5aG12dUZoa0RERUpvY0FWTzRjOXRzOWd1RHJNV3ZveDhSdmlJdkJHSGl4Z0lINHhrOXE0cTdFcldnazRaSW0zSWNVMlhRXzNyelNCSGhGS3lHSnlTaEszVFU?oc=5",
-    "importance": "A",
-    "summary": [
-      "大谷翔平が球界最高額を更新し世界アスリート長者番付でトップ5入り、年収203億円に達した。",
-      "一方、サッカー界のレジェンドが477億円でトップに君臨し、スポーツ種目間の経済規模の差を示す。",
-      "アスリートのブランド価値、スポンサー契約、メディア露出がスポーツビジネスに与える影響は計り知れない。"
-    ],
-    "date": "2026-09-04 01:05",
-    "id": "SnlTaEszVFU%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "GAFAが半導体メーカーへ：生成AIがもたらす新市場と日本勢の商機",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zbXRZTkRuUmlERGxsQXl5RTB4SVBDS0lwaERsc1pOdXJQQlR6R1pjZmRXYmphdUtYd1Z2NExPY19lTWUxclF3alVhR2xCLUZiSGJCSWt6WFpjMmNlUzJaMUZCbjVVdW8?oc=5",
-    "importance": "A",
-    "summary": [
-      "GAFAが生成AIの進化を背景に、独自半導体開発を強化し、半導体メーカーとしての側面を強めている。",
-      "これにより、半導体産業のサプライチェーンが再編され、新たな市場と競争環境が生まれる。",
-      "日本企業には、この新しい潮流の中で、特定の技術やニッチ市場での協力・参入の商機が生まれる可能性がある。"
-    ],
-    "date": "2026-09-04 01:05",
-    "id": "MUZCbjVVdW8%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "TSMCが熊本第2工場に巨額投資、トヨタ等との連携で日本ビジネスを強化",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IOFg3cVlHaktzUGhtbWc4MVAwUG1iRWNLakdWTHlwQnlZSVpPbUpiR09jd1FjeE9zM04zMHJ5eXQ4VnhuNzkzUVRmVXjSAU9BVV95cUxOektNRmhIS3BmYktNd0NWVGJuNE1Zcnltd0NNM05iLUZTNjNRa0hEZkxTV0NoNUhVejJ3WnA5X25XTHJhTmR5MHlUVGYxb0Vj?oc=5",
-    "importance": "A",
-    "summary": [
-      "TSMCが熊本第2工場への巨額投資を通じて、日本市場での存在感をさらに拡大。",
-      "トヨタやソニーなど日本大手企業との緊密な連携を深め、日本の半導体サプライチェーンに貢献。",
-      "これにより、日本の自動車産業やエレクトロニクス産業の競争力強化に繋がり、経済効果も期待される。"
-    ],
-    "date": "2026-09-04 01:05",
-    "id": "HlUVGYxb0Vj%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "米メディアが大谷翔平を『全スポーツ史上最高』と称賛：グローバルブランド価値の分析",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUERKWHJibTV5MzQ0SjY1Ynl1S3A5RHl5YUxIQ3lVeHNSa19xaDJ6TTBUSTZIZ3ZaMkJDRkRYZ3gwaGVUbkZlTnhnNjRyU3FQcDZoV3diSVN5WkdveHYzN1dQTmN5cGRqZEVtOXIxX2V3dzNvX3RQeVRqVm5rUEE?oc=5",
-    "importance": "B",
-    "summary": [
-      "米メディアが大谷翔平選手を「全スポーツの中でも史上最高」と称賛し、その圧倒的な存在感を強調。",
-      "これは単なるアスリートとしての評価に留まらず、彼が持つグローバルなブランド価値と経済的影響力を示している。",
-      "大谷選手の活躍は、スポーツマーケティング、広告、そして日本の国際的なイメージ向上にも大きく貢献している。"
-    ],
-    "date": "2026-09-03 16:54",
-    "id": "eVRqVm5rUEE%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "電通『スポーツ総合調査2025』発表：変化するスポーツ市場とビジネスチャンス",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HejZqVlF1aHAxYTByY2lVLW8tNjhGREhRTDVMYXZqbTZZOUpIOERYNnVidjRoMVY4cjh5WGFaNVNWZFpLOTlvT3VUeDc2MlFUUXFYanZfczA5WFh1ZXE3S0lMY2ZGbHhkQm9J?oc=5",
-    "importance": "A",
-    "summary": [
-      "電通が「スポーツ総合調査2025」を実施し、国内スポーツ市場の現状と将来予測を発表。",
-      "若年層のスポーツ観戦・参加意識の変化や、デジタルトランスフォーメーションが市場に与える影響を分析。",
-      "スポーツコンテンツの多様化、eスポーツの台頭など、新たなビジネスチャンスとマーケティング戦略のヒントが示唆される。"
-    ],
-    "date": "2026-09-03 16:54",
-    "id": "2ZGbHhkQm9J%3Foc%3D5"
   }
 ]
