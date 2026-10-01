@@ -1,5 +1,70 @@
 [
   {
+    "category": "スポーツ",
+    "title": "大谷翔平選手の衝撃ホームラン：スポーツイベントの熱狂とメディアの価値",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDBKVXF0TkdwQ3A0UmhubVlPZlRXeWpqblB0VEk0VG5aaklCSDg1M3REQkUxcnRaSFlQREVlS2RqNnNGUnl5QXBPMENlYkZDUzI3OUZFRjJOS0ZvZEFnVGtaZ0dDZmpoTUc5bXlkTHNTNFhzOGhyQ3BiVWZQTUNjdWRnVjBBc1M2QjJBS05TVQ?oc=5",
+    "importance": "C",
+    "summary": [
+      "スポーツイベントにおける「衝撃の瞬間」が観客を熱狂させ、大谷翔平選手の世界初ホームランがその象徴として取り上げられました。",
+      "これはスポーツエンターテイメントが持つ感動と、視聴者を引きつける高い集客力、コンテンツ力を示しています。",
+      "メディア企業やイベント主催者は、このような瞬間の創出とコンテンツ化を通じて、視聴者・顧客エンゲージメントを高める戦略が重要です。"
+    ],
+    "date": "2026-10-01 10:09",
+    "id": "2QjJBS05TVQ%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAが半導体メーカーへ参入：生成AIが創出する新市場と日本企業への商機",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zbXRZTkRuUmlERGxsQXl5RTB4SVBDS0lwaERsc1pOdXJQQlR6R1pjZmRXYmphdUtYd1Z2NExPY19lTWUxclF3alVhR2xCLUZiSGJCSWt6WFpjMmNlUzJaMUZCbjVVdW8?oc=5",
+    "importance": "S",
+    "summary": [
+      "GAFAが生成AIの需要に対応するため、自社で半導体開発・製造に乗り出す動きが加速しています。",
+      "これにより半導体市場に新たな競争が生まれ、高性能AIチップの需要が爆発的に増加する見込みです。",
+      "日本の半導体関連企業は、この新たな市場のニーズを捉え、技術力と供給体制を強化することで大きな商機を得るでしょう。"
+    ],
+    "date": "2026-10-01 10:09",
+    "id": "MUZCbjVVdW8%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "Coral Capitalが250億円の4号ファンド組成：次世代のソニー・トヨタを育成",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aNm5EMldiZmVnRE84YzRrbFh6LVVmODY5RGczdGFrMkY4TU9wUzZOdm9iWXBPb0Y3ZDhxVWVJcW9RN1JhdHZTbnV1Mnl0RjFYUzRHNmZBZWxFOWpMcHBOZ1dlODh6QnM?oc=5",
+    "importance": "A",
+    "summary": [
+      "Coral Capitalが250億円規模の4号ファンドを組成し、次世代のソニーやトヨタとなるスタートアップ創出を目指します。",
+      "これは日本のスタートアップエコシステムの活性化と、ディープテック分野への投資強化を意味します。",
+      "大企業は、スタートアップとの連携やCVC（コーポレートベンチャーキャピタル）設立を通じて、オープンイノベーションを加速させるべきです。"
+    ],
+    "date": "2026-10-01 10:09",
+    "id": "Z1dlODh6QnM%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価は8万円へ？市場強気見通しと経済への影響",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamVLUVh5ZHRlY0hwQnkzTkR1RWxmTUVUS1FTaVVRODJ2cUt6MGFVSTBSa2owandIaXZjM2tzdnNyT2hTTFREM1lTWDZPV3pTcG1XVi03TDlNZnAtd0d2cG1ldENBTWJMZnVpWHFKdzh0Nlc3WUJXdWhRM1g2aGJEcXpqY1F6Nko5RVdISDM1QWVHQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価が8万円に到達する可能性が議論されており、市場の強気な見通しが示唆されています。",
+      "企業の業績改善、国内経済の回復、外国人投資家の動向などが株価上昇の要因として挙げられます。",
+      "企業は株価動向を注視し、資金調達や投資戦略に反映させることで、事業機会を最大化すべきです。"
+    ],
+    "date": "2026-10-01 10:09",
+    "id": "ISDM1QWVHQQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの膨大な消費電力課題：FRONTEOが提唱する「Green Micro AI」による解決策",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dlIzMThabFV0UlYzdXBiQWotbVRYLUtnTE5rT0tQSGJ5VDNBak0telNnTmstSGNOUThDVnlrcXdXTUNvb0VBb05jOTZ6ZERqY0Fyd250RlpVYVZxY2JB?oc=5",
+    "importance": "A",
+    "summary": [
+      "生成AIの普及に伴い、膨大な消費電力とその環境負荷が顕在化しており、持続可能な運用が課題です。",
+      "FRONTEOは「Green Micro AI」を提唱し、効率的なAIモデル開発と運用による解決策を模索しています。",
+      "企業はAI導入時、環境負荷と運用コストを考慮した「グリーンAI」戦略を経営に不可欠として取り組むべきです。"
+    ],
+    "date": "2026-10-01 10:09",
+    "id": "lpVYVZxY2JB%3Foc%3D5"
+  },
+  {
     "category": "株・経済",
     "title": "日経平均株価の見通し：米利下げと日銀利上げの公算大",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DN3FMT0VueVZhWnJCTEx1MHk4dTJUSVJ2RThLZ004VGpzT2VTNTh4SXhQUFRzTEc3QWY1Nnp0M2hLRFR5QjREMFhWSzVVQlBmMGl0cUdMNG1KZw?oc=5",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-09-04 16:50",
     "id": "xOEZlM3FCQQ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価、原油高と景気懸念で一時大幅下落",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jUzdsSC1HT1VzQ0tjdUVnMXZEZTVIZWNINUJmRFcwNnd4RGh1VWJrTWdyVkFOWWplR2dVeGk1WU5tdkVSbVJwbXJIYm5hSF84SkdHWlJlYXBPdTVfRUo5NWVGWHVublQtQS1kcg?oc=5",
-    "importance": "B",
-    "summary": [
-      "日経平均株価が一時1600円超の大幅下落を記録し、市場に動揺が走った。",
-      "背景には、原油価格の高騰による企業収益圧迫と、世界経済の減速懸念が強まっていることがある。",
-      "企業は、エネルギーコストの変動リスクや景気後退の可能性を織り込んだ経営計画の見直しが求められる。"
-    ],
-    "date": "2026-09-04 16:50",
-    "id": "ublQtQS1kcg%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "2025年上半期「今後伸びるビジネス」ランキング発表：日経クロストレンドが予測",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tdGhzblNscVlXc09hdGpPQUs0NXpGNUw1VUc0cEVNYmxWalAwQVdjZ0pzd0Q4V1dxb3V4emFySGJmbDVyMTFidG9LTkFCWUVEQ1BYZTIzNDlnNFRtVXdid3VUWnVPVEFMbUE?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経クロストレンドが2025年上半期に「今後伸びるビジネス」のランキングを発表。",
-      "AI、環境テクノロジー、ヘルスケア、D2Cなどが上位を占め、時代の変化を捉えたビジネスチャンスが示唆される。",
-      "企業はこれらのトレンドを参考に、新たな事業機会の探索や既存事業の再構築を進めるべきである。"
-    ],
-    "date": "2026-09-04 16:50",
-    "id": "WnVPVEFMbUE%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "ブランド拡張の落とし穴：ソニーとゴディバの事例から学ぶ成功と失敗の分かれ目",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ekpyT01oVW5tZTVrRHBPR3RJUW8tR0ZiMVJReE1iT1ZLOThPNFpXQVcxNXF2WHlnd05VLVE1c0JCMXYtNXUtSVBtUW51cl9tS2pDM1pZWTA4d3FmT05ncVRTUnIyQQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "ソニーとゴディバのブランド拡張戦略を比較し、成功と失敗を分けた要因が分析されている。",
-      "ブランドの核となる価値との整合性や、新しい市場における顧客ニーズの正確な把握が成否を分ける。",
-      "企業はブランド拡張を検討する際、安易な多角化を避け、ブランドの本質を守りつつ慎重な戦略立案を行う必要がある。"
-    ],
-    "date": "2026-09-04 16:50",
-    "id": "ncVRTUnIyQQ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "日本でのサッカー人気低迷議論：大谷翔平効果と野球優位の現状",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSXloaVB4ZzY1X0xpbmQteFo4WVFmZGdkeVkxbWxKWTR6YnhSYzkyT0RSVmx6WXZpbzM3bU5pX3NEeW1ITEZDajRWWjFzTE9OTDRobEJFVDRJaHdUQlYtcFdEaEZVbERQdGMyZUFPX3JobExtSThCU25QOGRwRk0?oc=5",
-    "importance": "C",
-    "summary": [
-      "サッカー日本代表の鎌田大地選手が「日本でサッカーを国技に」と提言し、国内での人気について議論を呼んでいる。",
-      "韓国メディアは、大谷翔平の活躍により日本のスポーツ界では野球が優位に立っていると分析した。",
-      "スポーツコンテンツ産業は、スター選手の存在が市場に与える影響や、各競技の人気バランスを考慮した戦略が必要とされる。"
-    ],
-    "date": "2026-09-04 08:52",
-    "id": "U25QOGRwRk0%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平の世界的認知度を巡る議論：人気と“世界とのズレ”を考察",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcG1GMFdwcTdOc1ZqWDluZHlzc0YySnlyNmVBY2hzWGRjeFl1aXFQemFEbXQ3TkJrVkJXbUZNNVQ4T0c4VS1hQ0xKZGM4TFRDRGtCQmpvRTBVZF9COXZJb3c4cVhGVi1qOWRTZl9TYk8wVGJCa0ZLckx0WHZhSFNHUVJLY293a1lk?oc=5",
-    "importance": "B",
-    "summary": [
-      "マイク・タイソンの「ショウヘイって誰？」発言が、大谷翔平の世界的な認知度と日本での人気とのギャップを浮き彫りにした。",
-      "日本国内での絶大な人気と異なり、一部海外ではまだ知名度が浸透していない実態が示唆される。",
-      "グローバルなブランド展開やアスリートの国際的なマネジメント戦略において、ターゲット層の文化や情報摂取経路の理解が重要となる。"
-    ],
-    "date": "2026-09-04 08:52",
-    "id": "VJLY293a1lk%3Foc%3D5"
   }
 ]
