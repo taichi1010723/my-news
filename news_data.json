@@ -1,5 +1,70 @@
 [
   {
+    "category": "日本企業",
+    "title": "日本経済の成長戦略：M&Aを通じたLVMH型産業構造への転換",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZEZGNWlWbUUyRE0zbnpaQWo3cC15cnhUeHp6MkAzcTNSYWVhVWpNNk9NeXNxY09YM1AwbkdwSDdEVGRyTktJSkx3RWNjYzZFYjgxOEZlM3FCQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "佐俣アンリ氏が、日本がM&Aを通じてLVMHのような産業構造へ転換すべきと提言した。",
+      "多様な企業を統合し、ブランド価値を高めることで、国際的な競争力を強化する狙いがある。",
+      "既存産業の再編と新陳代謝を促し、新たな成長エンジンを生み出す可能性を秘めている。"
+    ],
+    "date": "2026-10-03 02:40",
+    "id": "xOEZlM3FCQQ%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "野村證券が衆院選結果で市場見通し修正：政策変更が経済・市場に与える影響",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ENDdRVnF3TGN0YldjSVJpd0pIOTdvMy1GZ2gyTnFlc3pGbENpdE1lajNpMUFFODN4M2FpTEl1OE9mdlhhT0lWYkRiM25LdFVnQXRUQ25sSVNtV2hyTG9r?oc=5",
+    "importance": "A",
+    "summary": [
+      "野村證券が衆院選の結果を受け、日本経済・金利・為替・株式市場見通しを修正した。",
+      "新政権の政策は、財政出動、規制緩和、産業支援などを通じて経済に大きな影響を与える。",
+      "企業は政策動向を注視し、それに合わせた事業戦略やリスク管理体制を構築する必要がある。"
+    ],
+    "date": "2026-10-03 02:40",
+    "id": "VNtV2hyTG9r%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "街角景気と株式市場の連動：景気ウォッチャー調査に見る経済回復の兆し",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91enRBMm1lRTFUZlVZRENXOV92STI1amFLN1MwMGItdWNCYmIxUGlwWTZ4WWxnNFdUMk03SmEwMElXT0JybEc5QUg0QlFBaW90cFptMTI4SEJYWUk?oc=5",
+    "importance": "A",
+    "summary": [
+      "景気ウォッチャー調査の結果が改善し、実体経済の回復の兆しが見られている。",
+      "株式市場は景気動向に敏感に反応し、先行指標としての側面も持つため、この動きは重要。",
+      "企業は、こうした調査結果を基に今後の需要予測や投資判断を行うことが重要となる。"
+    ],
+    "date": "2026-10-03 02:40",
+    "id": "MTI4SEJYWUk%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "野村證券が予測する2026年日本株見通し：日経平均55,000円シナリオの根拠",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZaHNpYnhLWEItb1M4OFZOdTNWZGxicUc5SEE2enVsQ0ZhSVdwMjYxSmwtajV1WEVhQ0ZkQVltTlU4bVFxU1FIT2tzMjZteDFMakQ0SUZUd0dPOUNjemRn?oc=5",
+    "importance": "S",
+    "summary": [
+      "野村證券のストラテジストが、2026年末の日経平均株価55,000円をメインシナリオと解説した。",
+      "企業の好業績やグローバル経済の回復が株価を押し上げる主要因となると見込まれている。",
+      "投資家や企業は、この見通しを参考に長期的な投資戦略や事業計画を策定する必要がある。"
+    ],
+    "date": "2026-10-03 02:40",
+    "id": "0dPOUNjemRn%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "次世代LLMの技術革新：トランスフォーマーモデルの限界と新アプローチ",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYVlaF_ZOVRfYm9YbEVfT1dmNmpDNnBIQnlwak9hVlBhQXhOSmhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "従来のトランスフォーマーモデルには限界があり、AI研究者らは新たなLLMアーキテクチャを模索している。",
+      "次世代LLMでは、モジュラー性、推論能力、エネルギー効率向上が主要な課題となる。",
+      "Mamba、RWKV、Jamba、そして非トランスフォーマー型モデルが新たなアプローチとして注目される。"
+    ],
+    "date": "2026-10-03 02:40",
+    "id": "wUTBIZXVwSQ%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "大谷翔平、年俸以外の収入で世界トップに：スポーツ選手長者番付に見る経済効果",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoaXo3ejB4eUlBWkpCQktVd2VtdmpCcWJKaU9GRmhYeFgwekF3NmdyMlM2dUNBZEhWZmVqMmFIUTJfZC1WcmgxMzlrcloyQTRaU1dVOQ?oc=5",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-09-10 16:58",
     "id": "zazhGRzlucw%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NEC「新入社員に年収1000万超」でグローバル人材獲得競争が激化",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfNGhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "S",
-    "summary": [
-      "NECが新入社員に年収1000万円超を提示し、グローバルな人材獲得競争への危機感を露わに。",
-      "世界的なデジタル化の進展により、優秀なIT人材の争奪戦が激化している。",
-      "日本企業も国際水準の待遇や環境を整備しないと、競争力を維持できない状況にある。"
-    ],
-    "date": "2026-09-10 08:56",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "GAFAに迫る「デジタル税」の動向、国際課税の新たな波",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNDdFbHlRSXZ6VWtHaXBnVVMxYjhaSjhSMF9LMTBydUpYLVZ5emJRRDVoMy1mX21ZdTkwWGRqYV9zSW1uSGpNN3hYYTJiYWhXZ3c?oc=5",
-    "importance": "S",
-    "summary": [
-      "GAFAなど巨大IT企業への国際的な「デジタル税」導入の動きが加速している。",
-      "24兆円もの税負担回避が指摘されており、各国の公平な課税を目指す動きが活発化。",
-      "これはグローバル企業の税務戦略に大きな影響を与え、新たな国際課税制度への適応が求められる。"
-    ],
-    "date": "2026-09-10 08:56",
-    "id": "YTJiYWhXZ3c%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本企業の特許ランキングでAI分野の弱さ浮き彫り、競争力に課題",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fMWpZbkU0THh4LWt0NjMzWXQ0RTV1Unhnb01wdVRsNGoxWHF6cGVmbVpZQ2d6ZHRQR0c2ZnBZSDd4QXExYWE4VUlPZnZYX1VWRDVVejE4UG1rVDRqSFBfbDJjeFhZVmVj?oc=5",
-    "importance": "S",
-    "summary": [
-      "日本企業の特許ランキングで、トヨタやパナソニックの強みが示される一方、AI分野での弱さが浮き彫りに。",
-      "AI技術は現代の産業競争力の核心であり、この分野での遅れは日本経済全体の課題となる。",
-      "官民一体となったAI研究開発への投資と人材育成が、国際競争力維持のために急務である。"
-    ],
-    "date": "2026-09-10 08:56",
-    "id": "DJjeFhZVmVj%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "米国大型ハイテク株「FANG」が弱気相場入り、世界景気減速を想定",
-    "url": "https://news.google.com/rss/articles/CBMibEFVU3lxTFBmckhoa1VUc2lBOXpKYVRQNXZ1THc1R1ViN0FRUjJTMVNwZkxoeDIzT1lzQXJvbVNQZ3RURFRjRWlBOVhJYURNVWlGRWprelE1QTVhMXpIR2FhVUtxWExUd2VQcW5kTFZnaDhHcg?oc=5",
-    "importance": "S",
-    "summary": [
-      "米国を代表する大型ハイテク株「FANG」が弱気相場に突入し、世界景気の減速が懸念されている。",
-      "これらの企業の業績はグローバル経済に大きな影響を与えるため、市場は今後の動向を注視。",
-      "投資家はポートフォリオのリバランスやリスク回避策の検討が求められる状況にある。"
-    ],
-    "date": "2026-09-10 08:56",
-    "id": "kTFZnaDhHcg%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "日経クロストレンドが「今後伸びるビジネス」2026年上半期ランキングを発表",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdlRuM3dJZ2JUNDRXU0VfMXZtYVlNSk1pUnRwVmNSQVFFem01VkpGZU1zam44U2d1NU44UzFZZklmcy1VX2dXWHpqUHJCRHBGQ3RGWF9mRnlHeWJ4YVU5VjZHM0xFYURmeEE?oc=5",
-    "importance": "S",
-    "summary": [
-      "日経クロストレンドが発表した2026年上半期「今後伸びるビジネス」ランキングは、企業の将来戦略に不可欠な情報。",
-      "AI関連技術、持続可能性、ヘルスケアなど、社会課題解決型のビジネスが上位にランクイン。",
-      "このランキングは、新規事業開発や投資判断の重要な指標となる。"
-    ],
-    "date": "2026-09-10 08:56",
-    "id": "M0xFYURmeEE%3Foc%3D5"
   }
 ]
