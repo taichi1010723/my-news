@@ -1,5 +1,70 @@
 [
   {
+    "category": "半導体・産業動向",
+    "title": "世界半導体製造装置売上、過去最高更新 - デジタル化需要が牽引し投資加速",
+    "url": "https://example.com/semiconductor-record",
+    "importance": "A",
+    "summary": [
+      "2023年の半導体製造装置の売上高が前年比15%増となり、過去最高を更新した。",
+      "データセンター、AI、IoT、自動車産業における半導体需要の拡大が主要な牽引要因。",
+      "デジタル化の進展に伴い、今後も半導体への投資は堅調に推移し、関連企業に恩恵をもたらす。"
+    ],
+    "date": "2026-10-04 00:58",
+    "id": "semiconductor-record"
+  },
+  {
+    "category": "テクノロジー・ソフトウェア",
+    "title": "SaaS企業B社、AI活用で顧客データ保護を強化する新セキュリティ機能導入",
+    "url": "https://example.com/saas-security",
+    "importance": "B",
+    "summary": [
+      "SaaS企業B社がAIを活用した異常検知システムとエンドツーエンド暗号化による新セキュリティ機能を導入。",
+      "機密情報漏洩リスク低減と企業ユーザーの信頼性向上を目的とする。",
+      "巧妙化するサイバー攻撃に対し、企業におけるセキュリティ対策の喫緊性を改めて示す。"
+    ],
+    "date": "2026-10-04 00:58",
+    "id": "le.com/saas-security"
+  },
+  {
+    "category": "自動車・産業動向",
+    "title": "新興EVメーカーA社、欧州市場へ本格参入 - 既存メーカーに競争激化の波",
+    "url": "https://example.com/ev-expansion",
+    "importance": "A",
+    "summary": [
+      "中国の新興EVメーカーA社が欧州市場への本格参入を発表、手頃な価格と高性能EVで攻勢。",
+      "EUの2035年内燃機関車販売禁止方針が追い風となり、現地充電インフラ企業との提携も推進。",
+      "既存自動車メーカーは新たな競合の台頭により、市場シェア争いと競争激化に直面する。"
+    ],
+    "date": "2026-10-04 00:58",
+    "id": "ple.com/ev-expansion"
+  },
+  {
+    "category": "金融・マクロ経済",
+    "title": "日銀、大規模金融緩和策の一部修正を検討か？市場に早期利上げ観測浮上",
+    "url": "https://example.com/boj-policy",
+    "importance": "S",
+    "summary": [
+      "日本銀行が次回の金融政策決定会合で、大規模金融緩和策の一部修正を検討しているとの報道。",
+      "イールドカーブコントロール柔軟化やマイナス金利解除が焦点で、市場では早期利上げ観測が高まる。",
+      "為替・株式市場への影響が懸念され、企業の資金調達コスト上昇や円高への対応が喫緊の課題に。"
+    ],
+    "date": "2026-10-04 00:58",
+    "id": "ample.com/boj-policy"
+  },
+  {
+    "category": "テクノロジー・AI",
+    "title": "Google、新生成AI「Gemini Ultra」発表、全産業でのビジネス変革を加速",
+    "url": "https://example.com/ai-gemini-ultra",
+    "importance": "S",
+    "summary": [
+      "Googleがテキスト、画像、音声など多様な形式を理解・生成する高性能AIモデル「Gemini Ultra」を発表。",
+      "企業向けAPI提供により、顧客対応、コンテンツ生成、データ分析など幅広い業務での活用を推進。",
+      "AI市場の競争激化と、製造・医療分野など専門領域での応用による産業構造変革を予測。"
+    ],
+    "date": "2026-10-04 00:58",
+    "id": ".com/ai-gemini-ultra"
+  },
+  {
     "category": "株・経済",
     "title": "野村CIO：2026年の世界経済は「再加速」、リスク資産に追い風",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56enFPdmMzQ2ZIMnUtN0FpMXp4aF9uSHRZQ2NFdGlrQTV2eHY0dENoazdLOVA4ZFltOXgzYlRxOEc2b3hydU4tRjZqZ2JIbEY2THZJOG5CYmotTVl2WnBR?oc=5",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-09-11 08:51",
     "id": "1ekdrM0NZeQ%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "日本の企業に未来を拓くグローバル戦略の重要性",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00V1d3Q1JKeHFZU1A3LVBNOXUtckV4S01wSl9DUWNWbnhHVVJlQ0hndkRRRU9xYlA2czljVENOMWdzM01vU3FjS25iSl9ZQV95eWpoRXlZUHI5NnpOcENj?oc=5",
-    "importance": "A",
-    "summary": [
-      "竹内弘高氏が日本の企業の未来にはグローバル戦略が不可欠であると提言。",
-      "国内市場の成熟化が進む中、海外市場での成長機会を追求することが企業の持続的成長の鍵。",
-      "国際競争力を高めるため、経営者はグローバルな視点での事業展開と人材育成を強化すべきである。"
-    ],
-    "date": "2026-09-11 08:51",
-    "id": "HI5NnpOcENj%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "ニッカウヰスキー、90年目のブランド変革で酒広告の常識を覆す",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40cC1ZNTlqc1FscGVxX0hSTVo4bUdMM3BjakRDa3N2TE91cjFUeHhGM0dWdnY4VnBDMDJmOEZHa25VbDJzM2luQ19DOWdQeWVseUlUNVg2WllYaGNLMTNwZUk1VUdjelUzazhGRzlucw?oc=5",
-    "importance": "A",
-    "summary": [
-      "ニッカウヰスキーが90年目を迎え、従来の酒広告の枠を超えた革新的な表現方法を導入。",
-      "ターゲット層の拡大やブランドイメージ刷新を目指し、挑戦的なマーケティング戦略を展開。",
-      "伝統ある企業が市場変化に対応し、ブランド価値を再構築する具体的な成功事例として注目される。"
-    ],
-    "date": "2026-09-11 08:51",
-    "id": "zazhGRzlucw%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "企業における生成AI導入の課題と対策：情報入力リスク、コスト、遅延問題への対応",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcTdvTkt3eW83cWk1OXhfVUNNMllBeGNHeE9UcnhtVzJuVWt3WkF0TGxjVXduNjdIU2taUGliMHgzZngtbjh0VEVlUnJYV0t0dVZfRF92ZnJaX3BKZGQycUJEMkJVLW9kMFl4cmVyU0V5UQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "生成AI活用において、企業が直面する機密情報入力リスクやコスト、LLM応答遅延が課題。",
-      "これらに対し、入力情報制限、無料データサイエンスツール活用、AI Gatewayによる遅延対策などが注目されている。",
-      "実務的なリスク管理とパフォーマンス最適化は、AI導入を成功させる上で不可欠な要素である。"
-    ],
-    "date": "2026-09-11 08:51",
-    "id": "4cmVyU0V5UQ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "「サッカーを国技に」提言：日本スポーツ界における野球との人気競争",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSXloaVB4ZzY1X0xpbmQteFo4WVFmZGdkeVkxbWxKWTR6YnhSYzkyT0RSVmx6WXZpbzM3bU5pX3NEeW1ITEZDajRWWjFzTE9OTDRobEJFVDRJaHdUQlYtcFdBdEVVdGVhYUFBb1VBUUZRQlQ?oc=5",
-    "importance": "B",
-    "summary": [
-      "サッカー日本代表MF鎌田大地選手が「サッカーを国技に」と提言し、国内スポーツ界に波紋。",
-      "日本では野球、特に大谷翔平選手の人気が非常に高く、スポーツ間の競争が激化している。",
-      "各スポーツは、ファン獲得やメディア戦略を通じて市場での存在感を高める必要がある。"
-    ],
-    "date": "2026-09-11 01:05",
-    "id": "b1VBUUZRQlQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NECが新入社員に年収1000万円超：グローバル人材獲得競争の激化",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfQThKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "A",
-    "summary": [
-      "NECが新入社員に年収1000万円超を提示し、グローバルな人材獲得競争が激化していることを示す。",
-      "優秀なIT人材の確保は企業競争力の生命線であり、世界レベルでの争奪戦が展開。",
-      "日本企業は世界の市場を意識した報酬体系や働き方改革が急務となり、人材戦略の再構築が求められる。"
-    ],
-    "date": "2026-09-11 01:05",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
   }
 ]
