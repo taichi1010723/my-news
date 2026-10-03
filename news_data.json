@@ -1,5 +1,31 @@
 [
   {
+    "category": "世界情勢",
+    "title": "世界の覇権交代と高まる地政学リスクがもたらす未来",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84Q0oyaS1uZHNsVFFSMExsQVhGLU1RYkNlVVZmd2ZLRWxJSURtY3FrNmFGanM3cmFFZURYREE5al9xaDNrOV9VaW5ldFY1Y0FvcXdxSUhkUmZsY3M?oc=5",
+    "importance": "S",
+    "summary": [
+      "イギリスからアメリカ、そして中国へと続く覇権交代の歴史は、世界が新たな戦争や思想の崩壊を経験する可能性を示唆している。",
+      "中東情勢の緊迫化は、国際秩序の不安定化を加速させ、グローバルビジネスにおける地政学リスクを増大させている。",
+      "企業は、国際関係の構造的変化とそれによるサプライチェーンの混乱、市場の変動に対応するための多角的なリスク管理が不可欠となる。"
+    ],
+    "date": "2026-10-03 10:01",
+    "id": "SUhkUmZsY3M%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "日本における生成AI活用格差とビジネス競争力への影響",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PdlkyaWx3aG9GYWhva2FoTXJsU3ZSVVltTF9RUmQ4V3VRTTJia2NJdWFPU1NkQkllaVdQVlBvTEd3MFVUSkRRWE1MX1NDRmdRajVtYjF3Rm92T1RjZ3JtYzdDR3RsdVk?oc=5",
+    "importance": "S",
+    "summary": [
+      "日本国内で生成AIの活用率に日米間での大きな格差が存在し、高学歴・高収入層ほどAIを使いこなしている。",
+      "この活用格差は拡大傾向にあり、企業の競争力向上にはAIスキルを持つ人材育成と社内普及が喫緊の課題であることを示唆。",
+      "AI活用がビジネス成長の重要なドライバーとなる中、この格差は日本の経済成長に長期的な影響を及ぼす可能性がある。"
+    ],
+    "date": "2026-10-03 10:01",
+    "id": "YzdDR3RsdVk%3Foc%3D5"
+  },
+  {
     "category": "日本企業",
     "title": "日本経済の成長戦略：M&Aを通じたLVMH型産業構造への転換",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZEZGNWlWbUUyRE0zbnpaQWo3cC15cnhUeHp6MkAzcTNSYWVhVWpNNk9NeXNxY09YM1AwbkdwSDdEVGRyTktJSkx3RWNjYzZFYjgxOEZlM3FCQQ?oc=5",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-09-11 01:05",
     "id": "NlA1Q2NoQ0U%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価8万円へ？市場の強気見通しと背景",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOjVLUVh5ZHRlY0hwQnkzTkR1RWxmTUVUS1FTaVVRODJ2cUt6MGFVSTBSa2owandIaXZjM2tzdnNyT2hTTFREM1lTWDZPV3pTcG1XVi03TDlNZnAtd0d2cG1ldENBTWJMZnVpWHFKdzh0Nlc3WUJXdWhRM1g2aGJEcXpqY1F6dko5RVdISDM1QWVHQQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "モーニングサテライトが、日経平均株価の将来的な高騰予測「8万円台」を特集。",
-      "現在の経済状況と企業の業績動向が、この極めて強気な見通しの背景にあると分析。",
-      "投資家や企業は、この予測を元に中長期的な投資戦略や事業計画を再考する必要がある。"
-    ],
-    "date": "2026-09-10 16:58",
-    "id": "ISDM1QWVHQQ%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "ニッカウヰスキー：90年目のブランド変革と広告戦略",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40cC1ZNTlqc1FscGVxX0hSTVo4bUdMM3BnakRDa3N2TE91cjFUeHhGM0dWdnY4VnBDMDJmOEZHa25VbDJzM2luQ19DOWdQeWVseUlUNVg2WllYaGNLMTNwRUk1VUdjelUzazhGRzlucw?oc=5",
-    "importance": "B",
-    "summary": [
-      "ニッカウヰスキーが90年目の節目に、酒広告の常識を覆す革新的な表現でブランド変革を推進。",
-      "既存のクリエイティブ概念を打ち破る挑戦が、新たな顧客層獲得に貢献する成功事例。",
-      "伝統ブランドの再活性化には、市場の常識にとらわれない大胆なマーケティング戦略が不可欠。"
-    ],
-    "date": "2026-09-10 16:58",
-    "id": "zazhGRzlucw%3Foc%3D5"
   }
 ]
