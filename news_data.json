@@ -1,5 +1,70 @@
 [
   {
+    "category": "世界情勢",
+    "title": "混迷する国際情勢：欧州首脳の中国接近と日本の外交課題",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Q0tlY3RlUk54MGZ5cHQyYUxzV00wWmk3S2RMUU5zdThPN0VoalphTzNraW5GbzZ0TkRSZ2hpVVQ5STlvaTByRFA4SkNmeHRNdVZkQmVBdGFkZlhlRXJhdllmYUpRWklFMWVRV2RDcDBIbnc?oc=5",
+    "importance": "A",
+    "summary": [
+      "欧州首脳が中国に急接近する一方で、米中関係にも変化の兆しが見られる国際情勢。",
+      "この複雑な多角関係の中で、日本の外交戦略の再考と新たな立ち位置の確立が急務。",
+      "経済安全保障やサプライチェーン強靭化のため、企業は各国の外交動向を注視すべき。"
+    ],
+    "date": "2026-10-04 09:25",
+    "id": "V2RDcDBIbnc%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "中国の対米戦略：イランに関する発言から読み解く習近平の本質",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YWFhiR0NqYlNjWjFlTUNrRVY1cHVFRExyZTlyazd3Nm42dkZwRF9TOEFKZGh6cnB4cWY0R3NTR3Y4ald3UTJPVkR6OUJuNkxSWGVIQnZlaVQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "中国のイランに関する公式発言から、習近平政権の対米戦略と外交姿勢を分析。",
+      "中東情勢における中国の立ち位置と、米中関係の複雑な力学が浮き彫りになる。",
+      "この動向は、グローバルサプライチェーンや特定の産業に大きな影響を与える可能性が高い。"
+    ],
+    "date": "2026-10-04 09:25",
+    "id": "WGVIQnZlaVQ%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "値上げ時代に選ばれ続けるブランド戦略：エンゲージメントデザインのすすめ",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0UzdTLUpFWFRNbGRxOWQ4Ulh0WE9ubVZiUTlzUHBjd1ByRnBJSURBSEQ0Vk9UV19TaUFUZ1puTDdzRF9VSVpGcFowaw?oc=5",
+    "importance": "A",
+    "summary": [
+      "物価上昇が続く「値上げ時代」において、顧客に選ばれ続けるブランド戦略を提示。",
+      "価格以上の価値を伝え、顧客との深いエンゲージメントを築くデザインが重要となる。",
+      "共感と信頼を生むブランド体験を通じて、顧客ロイヤルティを高めるアプローチを紹介。"
+    ],
+    "date": "2026-10-04 09:25",
+    "id": "VSVpGcFowaw%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの消費電力課題と「Green Micro AI」による解決策",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dlIzMThabFV0UlYzdXBiQWotbVRYLUtnTE5rT0tQSGJ5VDNBajMtelNnTmstSGNOUThDVnlrcXdXTUNvb0VBb05jOTZ6ZERqY0Fyd250RlpVYVZxY2JB?oc=5",
+    "importance": "A",
+    "summary": [
+      "生成AIの普及に伴う消費電力増大が新たな課題として浮上、環境負荷低減が求められる。",
+      "「Green Micro AI」は、AIの処理効率を高め、消費電力を大幅に削減する新技術。",
+      "企業はAI導入時、環境・エネルギーコストを考慮した技術選定と運用計画が不可欠となる。"
+    ],
+    "date": "2026-10-04 09:25",
+    "id": "lpVYVZxY2JB%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの急速な進化と普及、情報通信白書が分析",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWN2OW9EV2NpMzlKMXN6MkZvNTMwcVFhQS10QWVYLVQ2Y1NGeHBTMTdNb2EtUHQ0M0lVQ0RvQkN4VWZZVVlyMFJVT25DUlZuMGhmb01odUFWTk1kQWNzY050TnlXckJxclVUaVlsRUVIYi14Z241b0ZMcUJmTzhXcVN3?oc=5",
+    "importance": "S",
+    "summary": [
+      "情報通信白書が生成AIの急速な進化と社会経済への影響を詳細に分析。",
+      "AIの普及は生産性向上と新たな産業創出の可能性を秘める一方、倫理や雇用などの課題も提示。",
+      "政府は国際的な議論への参画を通じて、AI社会のルール形成に貢献する方針を示す。"
+    ],
+    "date": "2026-10-04 09:25",
+    "id": "UJmTzhXcVN3%3Foc%3D5"
+  },
+  {
     "category": "半導体・産業動向",
     "title": "世界半導体製造装置売上、過去最高更新 - デジタル化需要が牽引し投資加速",
     "url": "https://example.com/semiconductor-record",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-09-11 16:55",
     "id": "jZTJwN05qSg%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "米大型ハイテク株「FANG」が弱気相場入り、世界景気減速懸念が強まる",
-    "url": "https://news.google.com/rss/articles/CBMibEFVVXlxTFBmckhoa1VUc2lBOXpKYVRQNXZ1THc1R1ViN0FRUjJTMVNwZkxoeDIzT1lzQXJvbVNQZ3RURFRjRWlBOVhJYURNVWlGRWprelE1QTVhMXpIR2FhVUtxWExUd2VQcW5kTFZnaDhHcg?oc=5",
-    "importance": "S",
-    "summary": [
-      "米国の大型ハイテク株「FANG」が弱気相場入りし、世界景気の減速懸念が強まっている。",
-      "ハイテク企業の業績は広範な産業に波及する可能性があり、市場全体に影響を及ぼす。",
-      "グローバル経済の先行指標として、今後の動向がビジネス戦略に与える影響は大きい。"
-    ],
-    "date": "2026-09-11 16:55",
-    "id": "kTFZnaDhHcg%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "大企業向けWeb広告の限界と新たなPR戦略の台頭",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOURTcE91bEf1LUwxUnhSTDJZYVdTdUY4cVZkaFgtRUkxMlowZDV5SUFhYndQWVVyZFJVWkNmdXEwa3JIaFpMVF94eTJlUFJPRTYwWmNSZExaWk5jNnJmUGEzdEg0QQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "Web広告だけでは大企業開拓に限界が見え、特に広範な認知獲得には課題がある。",
-      "ネットプロテクションズの事例は、PR強化による大手企業との関係構築の成功を示す。",
-      "デジタルとアナログを組み合わせた多角的なアプローチが、現代のマーケティングで成果を出す鍵となる。"
-    ],
-    "date": "2026-09-11 16:55",
-    "id": "mUGEzdEg0QQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NEC、新入社員に年収1000万超でグローバル人材獲得競争に挑む",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3nkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "A",
-    "summary": [
-      "NECが新入社員に年収1000万円超を提示し、グローバルでの優秀な人材獲得競争に本腰を入れている。",
-      "これは国内企業の人材戦略に一石を投じ、賃金水準の引き上げや処遇改善を促す可能性がある。",
-      "技術革新の加速に伴い、企業が競争力を維持するためには、世界基準での人材投資が不可欠となっている。"
-    ],
-    "date": "2026-09-11 08:51",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本企業の特許ランキングに見る強みとAI分野の課題：トヨタ・パナソニックが牽引",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fMWpZbkU0THh4LWt0NjMzWXQ0RTV1Unhnb01wdVRsNGoxWHF6cGVmbVpZQ2d6dGRQR0c2ZnBZSDd4QXExYWE4VUlPZnZYX1VWRDVVejE4UG1rVDRqSFBfbDJjeFhZVmVj?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本企業の特許ランキングでトヨタやパナソニックが上位を占め、特定の技術分野での強みが浮き彫りに。",
-      "一方で、成長分野であるAI関連の特許出願では海外企業に比べて劣るという課題が指摘されている。",
-      "今後の国際競争力維持には、AI分野への研究開発投資と特許戦略の強化が急務となる。"
-    ],
-    "date": "2026-09-11 08:51",
-    "id": "DJjeFhZVmVj%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価を増幅させる米景気と為替：想定次第で9000円の変動幅",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VENPTEV2NFJoQ3hlekNTNmdGakQ4SFBGbDlwZ2Z6NGhjejktYjhaY1BvMExDZWdadzI0MGtac0ZUeGRteWtrNWFfVDdVRnUtdi1hTkVLUUY3UUpacWRqUHB1cTZ1ekdrM0NZeQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価は、米国の景気動向と為替レートによって大きく変動し、9000円もの差が生じると指摘。",
-      "米国経済の軟着陸か硬着陸か、円安・円高のどの水準で推移するかが日本株の動向を大きく左右。",
-      "企業は為替変動リスクヘッジや、グローバル経済の動向を常に注視した経営戦略が求められる。"
-    ],
-    "date": "2026-09-11 08:51",
-    "id": "1ekdrM0NZeQ%3Foc%3D5"
   }
 ]
