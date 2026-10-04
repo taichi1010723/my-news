@@ -1,5 +1,31 @@
 [
   {
+    "category": "世界企業情勢",
+    "title": "GAFAのデータセンター建設急増：JERAが首都圏で火力発電一体型計画",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UbXpiNDliR3M5dllZYVBWOGViSUdvMGpEcjR2cXhGc21YZW1NTW9PQ3BzZndPTU5PSWxGWGR5eWZZY1F0NUY2WlFZWXU5dkNfZ2w3c3lDeWRmOEQwWVRsTTV0T2Rrem8?oc=5",
+    "importance": "A",
+    "summary": [
+      "GAFAなどの巨大IT企業が、世界的にデータセンターの建設を加速させており、日本もその対象となっている。",
+      "JERAは首都圏で火力発電と一体化したデータセンター計画を進め、電力供給の安定化を図る。",
+      "この動きは、デジタルインフラの重要性増大と、それに伴う電力需要や環境負荷への対応が企業にとって喫緊の課題であることを示す。"
+    ],
+    "date": "2026-10-04 18:30",
+    "id": "TTV0T2Rrem8%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "2025年世界時価総額ランキングに見る日本企業の現状と課題",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aN1F4REdWc0FKcVdLUkxlbU9yTUlXWDMxaUtfSTkxZGVpX3ZTSGdhMjZSeVR1YklmYXplWmxqZWRoTUJGckFkbEpPZEpfYV9fYnRYNlFJLVEyb3pNTHFDemJtWUh4VldKRzZHeENvTQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "2025年の世界時価総額ランキングを通じて、日本企業の国際的な地位とその36年間の変遷が分析された。",
+      "かつての「栄光」と比較し、現在の日本企業が直面する競争力低下や産業構造の変化が浮き彫りに。",
+      "企業はグローバル市場での競争力強化のため、新たな成長戦略やM&A戦略を検討する必要がある。"
+    ],
+    "date": "2026-10-04 18:30",
+    "id": "KRzZHeENvTQ%3Foc%3D5"
+  },
+  {
     "category": "世界情勢",
     "title": "混迷する国際情勢：欧州首脳の中国接近と日本の外交課題",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Q0tlY3RlUk54MGZ5cHQyYUxzV00wWmk3S2RMUU5zdThPN0VoalphTzNraW5GbzZ0TkRSZ2hpVVQ5STlvaTByRFA4SkNmeHRNdVZkQmVBdGFkZlhlRXJhdllmYUpRWklFMWVRV2RDcDBIbnc?oc=5",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-09-11 16:55",
     "id": "OHhmejREYlk%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本企業の特許ランキング：AI分野の弱さが浮き彫りに",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVVXlxTE5fMWpZbkU0THh4LWt0NjMzWXQ0RTV1Unhnb01wdVRsNGoxWHF6cGVmbVpZQ2d6dGRQR0c2ZnBZSDd4QXExYWE4VUlPZnZYX1VWRDVVejE4UG1rVDRqSFBfbDJjeFhZVmVj?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本企業の特許ランキングで、トヨタやパナソニックが強みを見せる一方、AI分野の弱さが顕著。",
-      "この現状は、日本の将来的な産業競争力に影響を及ぼす可能性が高い。",
-      "AI技術開発への戦略的投資と高度人材育成が、日本企業の持続的成長に不可欠。"
-    ],
-    "date": "2026-09-11 16:55",
-    "id": "DJjeFhZVmVj%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価、米景気懸念と円高で一時2600円安",
-    "url": "https://news.google.com/rss/articles/CBMibEFVVXlxTE5ZaTNLaTR2ZXluN3F1akZ1dFAwbnVRRU5mSEZxSk5Ha1pwd19jcEpCR3RPR2lOd0VwcnhySFdreGJCcXVlSFdnbXVlS2VMSF9BWkhJWkJRRlNjTmJaVGE0N0JmalljZTJwN05qSg?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価が一時2600円を超える大幅な下落を記録、市場に動揺が広がる。",
-      "主要因は米景気の先行き不透明感と急速な円高進行への警戒感。",
-      "日本市場はグローバル経済、特に米国経済の動向に大きく左右される状況が続く。"
-    ],
-    "date": "2026-09-11 16:55",
-    "id": "jZTJwN05qSg%3Foc%3D5"
   }
 ]
