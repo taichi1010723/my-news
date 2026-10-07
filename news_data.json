@@ -1,5 +1,57 @@
 [
   {
+    "category": "日本企業",
+    "title": "官民連携で「ディープテック」育成、日本競争力強化と“第2のソニー”創出へ",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41ZkNVOXhVb3Y0R3dza3YtZm5ad1ZBWlpZZHlWdTV2Tk9MWm1hWHU1Uk5xOUZkaUtLcjJQQ255U090VWtVYlBVNnRoUkdoSmRISk40?oc=5",
+    "importance": "S",
+    "summary": [
+      "日本政府と民間が一体となり、ディープテック分野の育成を通じて日本の競争力強化を目指す。",
+      "画期的な技術を持つスタートアップを支援し、「第2のソニー」のようなグローバル企業を創出する目標。",
+      "研究開発投資の加速とエコシステム構築が、イノベーションと産業構造転換の鍵となる。"
+    ],
+    "date": "2026-10-07 10:17",
+    "id": "kdoSmRISk40%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "日本企業の未来はグローバルにあり：竹内弘高氏が語る国際戦略の重要性",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00V1d3Q1JKeHFZU1A3LVBNOXUtckV4S01wSl9DUWNWbnhHVVJlQ0hndkRRRU9xYlA2czljVENOMWdzM01vU3FjS25iSl9ZQV95eWpoRXlZUHI5NnpOcENj?oc=5",
+    "importance": "S",
+    "summary": [
+      "竹内弘高氏のインタビューで、日本企業が持続的成長を遂げるにはグローバル化が必須と指摘。",
+      "国内市場の成熟化を背景に、新たな成長機会を海外市場に求める必要性。",
+      "多様な文化やビジネス環境に適応する「グローバル視点」を持った経営戦略が求められる。"
+    ],
+    "date": "2026-10-07 10:17",
+    "id": "HI5NnpOcENj%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "「脱炭素」の次に来る「サーキュラー・ビジネス」 日本企業は乗り遅れ危機",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Wkp6RG53bXRDU1NhaUllQzhvQk91N3NUN0hhb0RKT1dzN01nd002Y1o2LTJZYUR6c1BVSkRHT3lrbmNQb0pzM0c1anN0aGJjc1E4?oc=5",
+    "importance": "S",
+    "summary": [
+      "脱炭素に続き、資源循環型経済「サーキュラー・ビジネス」が新たなメガトレンドとして台頭。",
+      "日本企業は欧米に比べて導入が遅れており、競争力低下のリスクが懸念される。",
+      "製品のライフサイクル全体を見据えたビジネスモデルへの転換が急務であり、新たな成長機会となる。"
+    ],
+    "date": "2026-10-07 10:17",
+    "id": "nN0aGJjc1E4%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "既存LLMの限界を指摘、次世代AIモデルを担う4つの新アプローチが登場",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYVpaF9ZOVRfYm9YbEVfT1dmNmpDNnBIQnlwak9hVlBhQXhOSmhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "現在の主流であるトランスフォーマーモデルの限界が指摘され、次世代LLM開発の動きが加速。",
+      "MITテクノロジーレビューは、既存モデルを上回る4つの最新アプローチを解説。",
+      "新たな技術潮流は、より効率的で高性能なAIの実現に向けた研究開発投資の方向性を示す。"
+    ],
+    "date": "2026-10-07 10:17",
+    "id": "wUTBIZXVwSQ%3Foc%3D5"
+  },
+  {
     "category": "ビジネス",
     "title": "「成長なき時代」の企業経営：知的感度と既成概念の打破が必須",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mdHE4c1FlZy1DZ1hhV0lzeFBMVUo0R1dVWHlnOUpXNjk5OS02MjQwN3RWUjBBTUp3TGx0Y0UzWHc0YUhRSnBaaWU0U092NzVjQkk2Qk15TkppQ0VEamdv?oc=5",
@@ -3846,57 +3898,5 @@
     ],
     "date": "2026-09-13 08:52",
     "id": "TZ0Jya0s4dw%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "AI時代のブランディング戦略における誤解と本質",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OdXhqZTJmVVdVSGRDam1wTURydWZibTgycW5uSktKaHVZOTZncExCaUhHb01YNXZLTjFnbjlGUDNvOXVMVHl0am1iQUpBbDVHWHI1Z0VoUFhIbjJLYTVWNDVCeUZmUQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "AIの活用が広がる中で、ブランディングに関する新たな誤解が生じている。",
-      "本質的なブランド価値を確立するためには、一過性のトレンドに流されず、確立された「マンネリ」を貫く勇気が求められる。",
-      "AIはツールであり、ブランドの本質を見極め、長期的な視点での戦略構築が不可欠である。"
-    ],
-    "date": "2026-09-13 08:52",
-    "id": "WNDVCeUZmUQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "米国で相次ぐ「国家VS巨大IT企業」の反独占訴訟が示す規制強化の潮流",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RFRBekNBZHY3THJlQWZEOVR1NWdTdVl2czhnVi10NExIN3U8cTdmM0JnbDFZVVRYV0tUMGQ2WkNJRXZwT3dEa2VkOW9oMzFGM2t6UGN3ZnNKTmpmN25KRm1WZXhmelJlNllyZUtnMVVvajhKd01SYkF3NGVIN2s?oc=5",
-    "importance": "S",
-    "summary": [
-      "米国で巨大IT企業に対する反独占訴訟が相次ぎ、各国政府による規制強化の動きが活発化している。",
-      "デジタルプラットフォームの市場支配力への懸念が高まり、新たな競争政策の確立が喫緊の課題となっている。",
-      "企業の買収戦略やデータ利用、市場シェア拡大戦略に大きな影響を与え、グローバルビジネスモデルの再考を迫る。"
-    ],
-    "date": "2026-09-13 00:17",
-    "id": "YkF3NGVIN2s%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均・ドル円相場は米景気に左右され変動大、「壊れた」市場の行方",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uNEVYUWZKd04tN21wbGtQVXpEa0k4SmJqZlJQOC1NRnlTdkR4VHF1Ukthd21XOFJpMjFENkkzM0VIaXJRa1kyam9haVZ0Zy1KbEFvbGhEY1JpU3Jpc1J1TmhDVXg0alNVZHdscQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価とドル円相場が「壊れた」かのように大きく変動し、その主要因は米国の景気動向と指摘されている。",
-      "米国の金融政策や経済指標が日本市場に与える影響は大きく、不確実性が高い状態が続いている。",
-      "企業は為替変動リスクへの対応を強化し、海外市場動向を注視しながら事業戦略を柔軟に見直す必要がある。"
-    ],
-    "date": "2026-09-13 00:17",
-    "id": "0alNVZHdscQ%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "経営リーダーが2025年に導入すべき20のビジネス開発トレンド",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ac1dXOU5ZS0dienpLLXNhbDhJSTAzQ1JVY2JqazhRWUs4RG02dFF5N3FzXzA4SjFLVDFTM3pWM0dybEd3RGlxTHVsR2RHN1ZhOFRVVnpjSFY?oc=5",
-    "importance": "A",
-    "summary": [
-      "2025年に向けて経営リーダーが注目すべき20のビジネス開発トレンドが発表された。",
-      "AIと自動化、サステナビリティ、顧客体験のパーソナライゼーションなど多岐にわたる分野が挙げられている。",
-      "これらのトレンドを戦略に取り入れることで、市場の変化に適応し、新たな成長機会を掴むことが可能となる。"
-    ],
-    "date": "2026-09-13 00:17",
-    "id": "OFRVVnpjSFY%3Foc%3D5"
   }
 ]
