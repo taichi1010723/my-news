@@ -1,5 +1,70 @@
 [
   {
+    "category": "スポーツ",
+    "title": "青少年の好きなスポーツ選手ランキング：大谷翔平が4年連続1位を維持",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDVudHhWZU14dnN3UGZteDR4VHdhTnBPUHR5M1FYdWNaV3k0WlFZbzlKYWoxc1ZxVktybmhIN18wM2dBU0NCR3MtdkFnVllPY2xrTWI3eGR2MUJNblFOR1prLVZkNDNCNjlTSnQtMEVzcmIxd1NzdWJwQ2wtTUQwME1RcU42M2NKRnM0eDByc0xVelo5VEE?oc=5",
+    "importance": "B",
+    "summary": [
+      "青少年の好きなスポーツ選手ランキングで大谷翔平が4年連続1位を獲得し、若年層への圧倒的な影響力を示した。",
+      "若者のスポーツ選手に対する支持は、関連商品の消費動向やスポーツ業界全体の活性化に直結する。",
+      "企業は次世代の消費者層を捉えるため、若年層に人気の選手やスポーツイベントとの連携を検討すべきである。"
+    ],
+    "date": "2026-10-08 10:38",
+    "id": "c0xVelo5VEE%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "中東紛争が連鎖する国際情勢：イラン戦争が促す新たな「合従連衡」",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CU2ktbXEwMzZuOHViREMtbUROZHp5Q3I4MExHck5MRHdESTRhV2RKT0pmM19TN1BoVDZTUFZEOElPa3NXaEx4by16dTItMURKT0c4dE5R?oc=5",
+    "importance": "A",
+    "summary": [
+      "中東の紛争、特にイラン戦争が世界の主要国間の関係を複雑にし、新たな同盟関係や対立軸を生み出している。",
+      "この地政学的なパワーバランスの変化は、国際社会の安定に大きな影響を与え、サプライチェーンにも波及する。",
+      "企業は国際情勢の変動をビジネスリスクとして捉え、各地域の政治的・経済的動向に注意を払う必要がある。"
+    ],
+    "date": "2026-10-08 10:38",
+    "id": "URKT0c4dE5R%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "グローバルビジネスを揺るがす地政学リスク：関税、規制、資源争奪が常態化",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wQldGNm1LYWlsTmxaLVQ2RlNOb0tsX2hpWk5ZenpDWXAxT0lEckxScE1GU2owMDE0UTA5cTM4Nl9UZWRObFQ2NzlwOHhyeVVfb093Sm13?oc=5",
+    "importance": "S",
+    "summary": [
+      "トランプ関税、規制の武器化、資源争奪戦など、上半期に地政学リスクが顕在化し、世界情勢は不安定さを増した。",
+      "保護主義と経済安全保障の重視が国際貿易やサプライチェーンに大きな影響を及ぼし、ビジネス環境は複雑化。",
+      "企業は予見不可能なリスクに備え、レジリエントな事業戦略とサプライチェーンの再構築が喫緊の課題となっている。"
+    ],
+    "date": "2026-10-08 10:38",
+    "id": "VVfb093Sm13%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均が一時2600円安、米景気後退懸念と円高が市場を直撃",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaTNLaTR2ZXluN3F1akZ1dFAwbnVRRU5mSEZxSk5Ha1pwd19jcEpCR3RPR2lOd0VwcnhySFdreGJCcXVlSFdnbXVlS2VMSF9BWkhJWkJRRlNjTmJaVGE0N0JmalljZTJwN05qSg?oc=5",
+    "importance": "S",
+    "summary": [
+      "日経平均株価が一時2600円安と大幅に下落し、米国景気の先行き不透明感と急激な円高が売りを加速させた。",
+      "グローバル経済の減速懸念が高まり、投資家のリスク回避姿勢が強まっていることが市場に反映された。",
+      "企業は為替変動リスクへの対応を強化し、マクロ経済の動向を注視した事業戦略の再評価が求められる。"
+    ],
+    "date": "2026-10-08 10:38",
+    "id": "jZTJwN05qSg%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "「BOTANIST」「YOLU」に学ぶ、EC売上5割増を実現したロングヒットブランド戦略",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HNVRQeVhPM3hiMmtwem1jMUxPOUZiVng4X0J1WVJEQmE0RFNnNEd1SkxzWGluUGc2c05NYnFrMHBURmFrWTh6TXFXSWctUnItbjFwMGdYa2h1N2Rx?oc=5",
+    "importance": "A",
+    "summary": [
+      "「BOTANIST」や「YOLU」といったブランドが、顧客インサイトに基づく商品開発とEC戦略でロングヒットを実現。",
+      "徹底したターゲット分析と顧客体験の最適化が、ブランドの長期的な成長とEC売上5割増に貢献している。",
+      "ECチャネルの強化とデータに基づいたマーケティングが、ブランドロイヤルティ向上と売上拡大を両立させる秘訣。"
+    ],
+    "date": "2026-10-08 10:38",
+    "id": "GdYa2h1N2Rx%3Foc%3D5"
+  },
+  {
     "category": "ビジネス",
     "title": "企業成長のための5つの決断：2026年は施策を増やすな",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CZXVTYnY0UXM0ZE8tZkZjZm1ROTQweUZQRDhsbTlfbEZGOWM2ODJXS0U3WlZhZWNpY2NNWWdTbUk4OGFVWW5RSTM4NW5ybHpQaWttNXZHYU56ZlJNVGJqU19rbGhMdw?oc=5",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-09-13 17:08",
     "id": "TTV0T2Rrem8%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本企業のアフリカ進出が加速：拠点数増加で新興市場を模索",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uWXFlNjZ0WHpsUGlNam8yVTNOX2dDZUZNT2Q4WC1XUllvMWpVQ2xES0FiTkJSa1plSGYwcUJwNE94T1phbnlSS3lLZ1JGRGpmT1c4LW1uYkJ3UnkxRlE?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本企業のアフリカ市場への進出が活発化し、拠点数が顕著に増加傾向にあることが確認された。",
-      "アフリカの経済成長と巨大な市場潜在力に着目し、新たな海外展開やサプライチェーン構築の機会を模索。",
-      "アフリカ市場での早期参入と現地ニーズへの対応が、日本企業の国際競争力向上に繋がる可能性を秘める。"
-    ],
-    "date": "2026-09-13 17:08",
-    "id": "YkJ3UnkxRlE%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "中堅・中小企業3300人の声：DX推進と人材確保がビジネストレンドTop5に",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zQW5LMDhZMktMNDFOYnpWVmstU3hQNTBGN1htaUlVQW1ySkZtSk1sNThVSFBocTFUOXQ5NXdtMXJJQThhVGNFVDZkdmNvelRaNW9KYndvRnhQZmd3ZEZYZmlEUFJHTExxZ09tb2RQRQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "中堅・中小企業3300人の調査に基づき、ビジネストレンドTop5が明らかにされた。",
-      "DX推進、人材確保・育成、コスト削減などが上位を占め、経営の優先課題が浮き彫りに。",
-      "企業はデジタル技術の導入と人材戦略の強化を通じ、持続的な成長と競争力向上を目指すべきである。"
-    ],
-    "date": "2026-09-13 17:08",
-    "id": "xZ09tb2RQRQ%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "キユーピー「やめない広告戦略」：宣伝費を投資と捉える創始者の哲学",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kUWxVbkpoSG95VnVQMnJTOEdvTXJEdkFoYUprWGtiSHY3YldMdTZrbldPUlFjYXVnOFpMbWZaNW1xTHdhTENpZTZhczE1WVQtNU40Y3cxc1FGTlh5UF9FOFRydm56dw?oc=5",
-    "importance": "A",
-    "summary": [
-      "キユーピーが創業者の「宣伝費は投資」という哲学に基づき、「やめない」広告戦略を継続。",
-      "短期的な売上効果だけでなく、長期的な視点でブランド価値と顧客との信頼関係を構築する。",
-      "持続的なブランド投資が、激しい市場競争において企業の競争優位性を確立する鍵となる。"
-    ],
-    "date": "2026-09-13 17:08",
-    "id": "FOFRydm56dw%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "大企業開拓の新戦略：ネットプロテクションズがPRでWeb広告の限界を突破",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOURTcE91bEg1LUwxUnhSTDJZYVdTdUY4cVZkaFgtRUkxMHowZDV5SUFhYndQWVVyZFJVWkNmdXEwa3JIaFpMVF94eTJlUFJPRTYwWmNSZExaWk5jNnJmUGEzdEg0QQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "Web広告だけでは大企業開拓に限界があるという課題に対し、ネットプロテクションズがPR活動を強化。",
-      "戦略的なPRを通じて大手顧客を獲得し、BtoBビジネスにおける新たなマーケティング手法を確立。",
-      "多角的なアプローチ、特にメディア戦略やブランド構築が、大手企業へのリーチに効果的であることを示唆。"
-    ],
-    "date": "2026-09-13 17:08",
-    "id": "mUGEzdEg0QQ%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "AIによる文章推敲の落とし穴：内容を著しく改変するリスクが研究で判明",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pbzZyUHpKY1M3dlhnTGN1aFRJbTdLbURKVHFmY21YbFVHQzR4c2RzLW54YnRLLXIzSDFqdU9HNm1nLUF0dXc5UFJpZEZEclZOQjAwM3FOczVzUQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "研究結果により、AIが文章を推敲する際に元の内容を著しく改変するリスクが指摘された。",
-      "情報の正確性が求められるビジネス文書やコンテンツ作成におけるAIツールの利用には慎重さが必要。",
-      "企業はAI導入前にツールの限界を理解し、人間のチェック体制を維持するべきである。"
-    ],
-    "date": "2026-09-13 17:08",
-    "id": "wM3FOczVzUQ%3Foc%3D5"
   }
 ]
