@@ -1,6 +1,32 @@
 [
   {
     "category": "世界情勢",
+    "title": "中東情勢の緊迫化：イラン戦争が世界の新たな「合従連衡」を招く",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CU2ktbXEwMzZuOHViREMtbUROZHp5Q3I4MExHck5MRHdESTRhV2RKT0pmM19TN1BoVDZTUFZEOElPa3NXaEx4by12dTItMURKT0c4dE5R?oc=5",
+    "importance": "S",
+    "summary": [
+      "中東情勢の緊迫化が国際的な地政学リスクを増大させ、世界規模での新たな勢力図を形成しつつある。",
+      "イラン戦争は、各国間の複雑な「合従連衡」を生み出し、グローバルなサプライチェーンやエネルギー市場に影響。",
+      "企業は、サプライチェーンの多角化やリスクヘッジ戦略の再考が不可欠となる。"
+    ],
+    "date": "2026-10-10 03:10",
+    "id": "URKT0c4dE5R%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価、米景気・為替が大きく影響—想定次第で9000円の差",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VENPTEV2NFJoQ3hlekNTNmdmakQ4SFBGbDlwZ2Z6NGhjejktYjhaY1BvMExDZWdadzI0MGtac0ZUeGRteWtrNWFfVDdVRnUtdi1hTkVLUUY3UUpacWRqUHB1cTZ1ekdrM0NZeQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価の変動は、米景気動向と為替相場の影響を大きく受けることが指摘されている。",
+      "市場の不確実性が高く、想定シナリオによって9000円もの差異が生じる可能性もある。",
+      "企業や投資家は、これらのマクロ経済要因を綿密に分析し、リスク管理を徹底する必要がある。"
+    ],
+    "date": "2026-10-10 03:10",
+    "id": "1ekdrM0NZeQ%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
     "title": "中東戦争の連鎖：国際社会に広がる新たな「合従連衡」",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CU2ktbXEwMzZuOHViREMtbUROZHp5Q3J8MExHck5MRHdESTRhV2RKT0pmM19TN1BoVDZTUFZEOElPa3NXaEx4by16dTItMURKT0c4dE5R?oc=5",
     "importance": "S",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-09-14 17:42",
     "id": "Go0cEI2S1FN%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "企業における生成AIの導入と活用戦略：情報通信白書と実践手法",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWN2OW9EV2NpMzlKMXN6MkZvNTMwcVFhQS10QWVYLVQ2Y1NGeHBTMTdNb2EtUHQ0M0lVQ0RvQkN4VWZZVVlyMFJVT25DUlZuMGhmb01odUFWTk1kQWNzY050TnlXcmJxclVUaVlsRUVIYi14Z241b0ZMcUJmTzhXcVN3?oc=5",
-    "importance": "A",
-    "summary": [
-      "令和6年版情報通信白書は生成AIの急速な進化と普及を報告し、社会全体の変革を促す可能性を指摘。",
-      "企業は生成AIの導入と事業活用に向け、具体的な手法やデータ入力に関するセキュリティ対策を検討する必要がある。",
-      "AIによる文章推敲が内容を著しく改変する研究結果もあり、人間の最終確認やAIの限界認識が重要となる。"
-    ],
-    "date": "2026-09-14 17:42",
-    "id": "UJmTzhXcVN3%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "中堅・中小企業向け、デジタル技術を活用した新たなビジネス機会創出の要点",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySDVyOUhwNlpoUnFNSmMxRnJCSFI1bkNPN0dOWjNBRkliWGdOaUd6ckhSRURacUVNU3J2aHVLVThfOFZ0cFBScExfUXBTbUR0TjVGbUtDQmswS25aTWc?oc=5",
-    "importance": "A",
-    "summary": [
-      "三菱UFJリサーチ&コンサルティングが、中堅・中小企業がデジタル技術でビジネス機会を創出するポイントを解説。",
-      "DX推進が遅れがちな企業でも、クラウドサービスやAIの活用により競争力を強化できる具体的な方法を提示。",
-      "デジタル化は大手企業だけでなく、中小企業にとっても生き残りと成長のための不可欠な戦略となっている。"
-    ],
-    "date": "2026-09-14 08:58",
-    "id": "QmswS25aTWc%3Foc%3D5"
   }
 ]
