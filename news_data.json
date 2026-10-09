@@ -1,5 +1,44 @@
 [
   {
+    "category": "世界情勢",
+    "title": "中東戦争の連鎖：国際社会に広がる新たな「合従連衡」",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CU2ktbXEwMzZuOHViREMtbUROZHp5Q3J8MExHck5MRHdESTRhV2RKT0pmM19TN1BoVDZTUFZEOElPa3NXaEx4by16dTItMURKT0c4dE5R?oc=5",
+    "importance": "S",
+    "summary": [
+      "中東で発生している戦争が、国際的な紛争の連鎖を引き起こし、新たな「合従連衡」の動きを生み出している。",
+      "イラン戦争を起点に、各国間の同盟関係や対立構造が変化し、世界政治の複雑性が増している。",
+      "この地域の不安定化は、原油価格、貿易ルート、サプライチェーンなど、グローバルビジネスに深刻な影響を及ぼす。"
+    ],
+    "date": "2026-10-09 19:15",
+    "id": "URKT0c4dE5R%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "日本企業の技術競争力とAI分野の課題：特許ランキング分析",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fMWpZbkU0THh4LWt0NjMzWXQ0RTV1Unhnb01wdVRsNGoxWHF6cGVmbVpZQ2d6bGRQR0c2ZnBZSDd4QXExYWE4VUlPZnZYX1VWRDVVejE4UG1rVDRqSFBfbDJjeFhZVmVj?oc=5",
+    "importance": "A",
+    "summary": [
+      "日本企業の特許ランキングから、トヨタやパナソニックなどの伝統的強みが依然として健在であることが示された。",
+      "一方で、AI分野においては日本の技術力が相対的に弱く、国際競争における課題が浮き彫りとなっている。",
+      "今後の成長戦略として、AI技術への積極的な投資と研究開発の強化が日本企業に求められる。"
+    ],
+    "date": "2026-10-09 19:15",
+    "id": "DJjeFhZVmVj%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "日本企業に未来なし？グローバル戦略の喫緊性",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00V1d3Q1JKeHFZU1A3LVBNOXUtckV4S01wSl9DUWNWcnhHVVJlQ0hndkRRRU9xYlA2czljVENOMWdzM01vU3FjS25iSl9ZQV95eWpoRXlZUHI5NnpOcENj?oc=5",
+    "importance": "A",
+    "summary": [
+      "竹内弘高氏のインタビューで、日本企業が未来を築くためにはグローバル戦略が不可欠であると強調された。",
+      "国内市場の縮小や国際競争の激化の中、海外市場での成長機会を追求することが生き残りの鍵となる。",
+      "多様な人材の活用、異文化理解、そして迅速な意思決定がグローバル展開成功のために求められる。"
+    ],
+    "date": "2026-10-09 19:15",
+    "id": "HI5NnpOcENj%3Foc%3D5"
+  },
+  {
     "category": "日本企業",
     "title": "佐俣アンリ氏提言：日本の成長産業は「M&Aで器を入れ替えるLVMH型」へ",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZEZGNWlWbUUyRE0zbnpaQWo3cC15cnhUeHp6MkFacTNSYWVhVWpNNk9NeXNxY09YM1AwbkdwSDdEVGRyTktJSkx3RWNjYzZFYjgxOEZlM3FCQQ?oc=5",
@@ -3859,44 +3898,5 @@
     ],
     "date": "2026-09-14 08:58",
     "id": "QmswS25aTWc%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "企業における生成AI活用、リスク管理と効率化の最新動向",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcTdvTkt3eW83aXE1OXhfVUNNMllBeGNHeE9UcnhtVzJuVWt3WkF0TGxjVXduNjdIU2taUGliMHgzZngtbjh0VEVlUnJYV0t0dVZfRF92ZnJaX3BKZGRycUJEMkJVLW9kMFl4cmVyU0V5UQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "ChatGPTへの入力禁止情報やLLMの遅延対策など、企業での生成AI活用における具体的な課題と対策が注目されている。",
-      "AI Gatewayの導入によるシステム効率化や、データサイエンスの無料学習リソースなど、実務的な活用事例が紹介。",
-      "企業はAI導入に伴う情報漏洩リスクや性能課題を認識し、適切な技術選定と運用ポリシーの策定が急務である。"
-    ],
-    "date": "2026-09-14 08:58",
-    "id": "4cmVyU0V5UQ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "野球優勢の日本でサッカー選手が提言：競技間の市場戦略と成長の可能性",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdW9BSF9uWnA5Vk9CSlhQcEZXOE8ySmZKdkd1cmVyZTgySlpuaFZwNEJVMEJDbWFlc2I3aXJCWDU0TzlIZHdIeTl2Vmg3S1hPenl6Y1Etc0RtLVVYUGIxVEhSX2ZJMExOZXgya3NpSS1xdmFSLXF3YXAwLUVHUEtwV1Rva1ZDQWhaQkhRSXdzOXNIUmlLbGF2MTdEWVhvZ9IBowFBVV95cUxPOGVTcW51STEzUm9nSVNsZzMzNFh4SEJVakpnTmtnTVNsR3A3TGFWUGpLU0pMYXQ2LXltRXhaNnB1cTNsa3M5cC11SS1qM3BEeUV6MEZXczdwdGN6Mjhab1NIZmV0RFVGRC1Id2JSZVVuRGFSY1U0bWd6RDVnUFFicjliQUM5WUVLcXpZcjFtTy1rOWZqU05EWGpCTXZkSXV3THBn?oc=5",
-    "importance": "B",
-    "summary": [
-      "日本代表サッカー選手が、国内での野球優勢、特に大谷翔平選手の圧倒的な存在感を認めつつも、サッカーの潜在的成長力に言及。",
-      "これは、スポーツメディア、プロモーション、若年層への投資など、各競技の市場戦略を巡る議論を促す。",
-      "スポーツ関連ビジネスは、両競技のファン層や市場規模を分析し、それぞれの特性に合わせた戦略を展開する重要性を示唆する。"
-    ],
-    "date": "2026-09-14 00:54",
-    "id": "XZkSXV3THBn%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均への米景気・為替の影響：想定次第で9000円の価格差",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VENPTEV2NFJoQ3hlekNTNmdmakQ4SFBGbDlwZ2Z6NGhjejktYjhaY1BvMExDZWdadzI0MGtac0ZUeGRteWtrNWFfVDdVRnUtdi1hTkVLUUY3UUpacWRqUHB1cTZ1ekdrM0NZeQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価が米国の景気動向と為替レートによって大きく変動し、その想定次第で9000円もの価格差が生じる可能性を分析。",
-      "円安・円高、米国経済の強弱が日本企業の業績や輸出入に与える影響が詳細に解説される。",
-      "日本企業の経営者や投資家は、為替リスク管理と米国経済の動向を常に注視する必要があることを示唆する。"
-    ],
-    "date": "2026-09-14 00:54",
-    "id": "1ekdrM0NZeQ%3Foc%3D5"
   }
 ]
