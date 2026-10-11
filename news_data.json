@@ -1,6 +1,71 @@
 [
   {
     "category": "世界情勢",
+    "title": "国際貿易関係の再編と地域ブロック化：EU・米国間の貿易協定と越境通販",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GWVItZkxnSzFVdmh0cnB2NEtSTndEQWVBaWlIZTNhTHhYaHgzNnhELU9GVEZ2U1dNUXBYOU1ETk9fQTdycVgxMGVUd0R6Vmw2MVNUSzJUZmZZd1FwS3g00gFkQVVfeXFMTk1wTFVxdzk2WVFOX0MxbkdSMzFjQ0xGZkRjbngwU1BPUUtvM2lybWZTTk83M2F0eGlSc1BkTUp3OGVxVU1xNGVGZU9Ga3BQOTdSUlV5NC1Db1Y2eGpEU2hvZl9fQw?oc=5",
+    "importance": "A",
+    "summary": [
+      "EUがアメリカとの貿易協定の承認を凍結し、国際貿易関係に新たな緊張が走っている。",
+      "「中国発」の格安越境通販の規制の行方が注目され、国際的なEコマース競争の構図が変化する可能性。",
+      "NATOの日本接近は国際連携の強化を示す一方、特定の国との距離感が今後の地政学的バランスに影響を与える。"
+    ],
+    "date": "2026-10-11 18:48",
+    "id": "EU2hvZl9fQw%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "政治イベントが株価に与える影響：衆院選シナリオと海外投資家の動向",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rZTlnMkJjTnVNV2tqdTM2TEowTTF0dExCMFlwWVp3djRlNkltUUszWWJrSTRjR2otS2RXSWQzQ2tUTzhRZjZjNVJWMkpYdndUMkdNR1RlbWRhUlptOFJB?oc=5",
+    "importance": "A",
+    "summary": [
+      "衆院選の結果が日経平均株価に与える影響を、自民大勝・辛勝・敗北の3つのシナリオで予測。",
+      "日経平均株価の大幅安の背景には、海外投資家の売買動向が強く影響していると分析されている。",
+      "政治の安定性や政策の方向性は、国内外の投資家心理と市場の動きを左右する重要な要素となる。"
+    ],
+    "date": "2026-10-11 18:48",
+    "id": "WRhUlptOFJB%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "FANG株弱気相場入りで世界景気減速懸念：日本株への影響と対策",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmckhoa1VUc2lBOXpKYVRQNXZ1THc1R1ViN0FRUjJTMVNwZkxoeDIzT1lzQXJvbVNQZ3RURFRjRWlBOVhJYURNVWlGRWprelE1QTVhMXpIR2FhVUtxWExUd2VQcW5kTFZnaDhHcg?oc=5",
+    "importance": "S",
+    "summary": [
+      "米国大型ハイテク株「FANG」の弱気相場入りは、世界景気の減速を示唆しリスク要因となる。",
+      "日経平均株価は一時2600円安を記録し、米景気懸念と円高が売りを加速させた。",
+      "円高局面でも日本株が崩れない要因として、良好な景気と企業業績が指摘されている。"
+    ],
+    "date": "2026-10-11 18:48",
+    "id": "kTFZnaDhHcg%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "2026年のビジネスチャンスと中小企業戦略：DX推進とグローバル化",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PbVFCdXBvcl9oYXpaMGE3V2RSV3ZBMV9mN0NlVjdjaWhRRldhdDI0SENudEtxRlBFUmlaa1VEVkpmWERERkk4TDROQXdORGNOZW1QUnE3TTA?oc=5",
+    "importance": "S",
+    "summary": [
+      "2026年に注目すべき5つの成長トレンドが発表され、新たなビジネス機会の創出が期待される。",
+      "中小企業はデジタル技術を活用した新たなビジネス機会の創出が重要であり、税制環境への対応も課題となる。",
+      "日本企業に未来はないと指摘される中で、グローバル市場への積極的な進出が成長の鍵となる。"
+    ],
+    "date": "2026-10-11 18:48",
+    "id": "ZW1QUnE3TTA%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AI技術の最新トレンドと持続可能性：コンパニオンAIからグリーンAIまで",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR0NaRjRxSFJ3LWZLTzdoX205ckVWZlprMEVua05vT0xabWdWT2tXbThlT0ItdHg1N1NxV2VMMjIzcmY2X09CNUo0U25nNWRybkl3MXlQenVhcnkzaHBwRThkYk40VndRWmVoellzdEQyYnlyRS0yWTBBRXp4T2dsWWs5azJPRHJzZjE0c0YybVdqa1k?oc=5",
+    "importance": "A",
+    "summary": [
+      "AIコンパニオンが「世界を変える10大技術」に選出され、その進化が社会に大きな影響を与える。",
+      "生成AIの普及に伴う消費電力の増大が課題となり、「Green Micro AI」へのアプローチが注目される。",
+      "AI技術の持続可能性と環境負荷低減は、今後の開発と導入において重要な視点となる。"
+    ],
+    "date": "2026-10-11 18:48",
+    "id": "c0YybVdqa1k%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
     "title": "G7の動揺：欧州首脳の対トランプ姿勢とウクライナ・イラン・中国情勢",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03SWtsZzlDS2JhdGNLV3ptb29SRV83cmR0aFBPNWhzbjBXTHVIUFA4djU4UHB4TElfSGhkRko0NWtxcFRPdlp4Si1QQU5Od0RuM3RKcXlFa19vbEU?oc=5",
     "importance": "A",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-09-16 09:05",
     "id": "y1OSzlfV21N%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "GAFAへの危機感：ドイツ政府の欧州クラウド構想「GAIA-X」",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14QnVNNE0tQnpNT2NwNTBaX3B3RUhLVXk0UkNYM1hGel96ZC15WEFSLVpZeThKN1MxT29jejhid0NFMkI2YjFaTkN5NnBGV0FkLW1N?oc=5",
-    "importance": "S",
-    "summary": [
-      "ドイツ政府は、GAFAなど米IT大手への依存脱却を目指し、欧州独自のクラウド・データ基盤構想「GAIA-X」を発表した。",
-      "この構想は、データ主権とセキュリティ確保を重視し、欧州企業の競争力強化とデジタルインフラの自立を目指すもの。",
-      "「GAIA-X」の動きは、グローバルなデータ流通・利用のルール形成に影響を与え、日本企業も今後の動向を注視すべきである。"
-    ],
-    "date": "2026-09-16 09:05",
-    "id": "nBGV0FkLW1N%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "政府の「モビリティDX戦略」：次世代自動車SDVと世界シェア3割目標",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03azU4eTNQdTVQYy1OZjUzTVpXdkh5WGtsUmkxcWhEcnNWcU9ZTGFrdmNyYUhveWZOVUVzSDlxRDdkUnIwdllWeDAxXzVmOHJiaW93?oc=5",
-    "importance": "S",
-    "summary": [
-      "政府が「モビリティDX戦略」を推進し、次世代自動車「SDV（Software Defined Vehicle）」で世界シェア3割を目標に掲げている。",
-      "SDVはソフトウェア中心で機能が更新される自動車であり、将来の自動車産業を支える基幹技術として期待される。",
-      "自動車メーカーだけでなく、ソフトウェア、通信、AI関連企業にとって巨大なビジネスチャンスとなり、関連産業の動向が注目される。"
-    ],
-    "date": "2026-09-16 09:05",
-    "id": "zVmOHJiaW93%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価8万円台への期待：市場の強い上昇圧力の背景",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamVLUVh5ZHRlY0hwQnkzTkR1RWxmTUVUS1FTaVVRODJ2cUt6MGFVSTBSa2owandIaXZjM2tzdnNyT2hTTFREM1lTWDZPV3pTcG1XVi03TDlNZnAtd0d2cG1ldENBTWJMZnVpWHFKdzh0Nlc3WUJXdWhRM1g2aGJEcXpqY1F6dko5RVdISDM1QWVHQQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "ニュースモーニングサテライトで日経平均株価が8万円台に到達する可能性が議論され、市場の強い期待感が示唆された。",
-      "企業業績の好調な推移、外国人投資家による積極的な買い越し、そして政府の経済政策への期待が株価上昇を後押ししている。",
-      "株価の長期的な上昇トレンドは、企業価値の向上だけでなく、経済全体の活性化にも繋がり、ビジネス環境に好影響を与える。"
-    ],
-    "date": "2026-09-16 09:05",
-    "id": "ISDM1QWVHQQ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日本株の新たな成長エンジン：米景気再加速と選挙後の政策テーマ",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vNEFIX3RiMDNYVmFSeVZBVy1VRVpCWVctYVBnMW8yNjR3a3JFbVlULWpmdE4tdXF1TVRnd3VxSnUwa0xBbUZJck9vX2hmeURpaHlFbS01ZXJIQ1NTT2VwaGFzZVQzaTVYOGJ6cw?oc=5",
-    "importance": "S",
-    "summary": [
-      "日本株市場において、米国景気の再加速と選挙後の新たな政策テーマが、今後の主要な成長エンジンになると分析されている。",
-      "特に、堅調な米国経済の回復は、輸出関連企業を中心に日本企業の業績を大きく押し上げる可能性を秘める。",
-      "今後の政策動向や国際情勢を注意深く見極め、市場の変動要因を理解することが、企業の投資戦略および事業計画策定において極めて重要となる。"
-    ],
-    "date": "2026-09-16 09:05",
-    "id": "zaTVYOGJ6cw%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "三菱UFJリサーチ&コンサルティング予測：2026年の日本経済と社会",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TWDhZcHJDNVFfTzNHYlRFU2RpcW1Gd3poVm5tR190U2s5OGRxRy1qdU0tck5qR3pKb2oyM2U2NVZYREJFZGVEbXFkWXR5eGdSMm1HckQyenVuYTFnWnc?oc=5",
-    "importance": "A",
-    "summary": [
-      "三菱UFJリサーチ＆コンサルティングの書籍「2026年日本はこうなる」が、日本の経済・社会の未来像を詳細に予測している。",
-      "少子高齢化の進展、技術革新の加速、国際情勢の変動が、今後の日本のビジネス環境に大きな影響を与えることが分析されている。",
-      "企業は、これらのマクロトレンドを深く理解し、中長期的な事業戦略を策定する上で重要な指針として活用すべきである。"
-    ],
-    "date": "2026-09-16 09:05",
-    "id": "enVuYTFnWnc%3Foc%3D5"
   }
 ]
