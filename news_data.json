@@ -1,5 +1,31 @@
 [
   {
+    "category": "世界情勢",
+    "title": "イラン情勢激化で激変する国際関係：米欧中露日の5角関係とエネルギー市場",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50N1plNU40UjZndGlnV0JTdWM0MXpXR0MyRUozNWl2YWliVmpPOGhoOHhqVW5adWJneHB2dElVYTBvMk1LZnhXMGFKMks5WWROcE52bmpB?oc=5",
+    "importance": "A",
+    "summary": [
+      "イラン情勢の激化が、米国、欧州、中国、ロシア、日本の国際関係とエネルギー市場に広範な影響を及ぼしている。",
+      "ロシアが中国への依存度を高めることによるリスクが浮き彫りになり、国際的なパワーバランスが変動。",
+      "エネルギー供給網の不安定化は、日本を含む各国の経済と安全保障に直結する重要な課題となる。"
+    ],
+    "date": "2026-10-13 19:18",
+    "id": "WROcE52bmpB%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "企業における生成AIの導入と事業活用手法",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWk5iakZkRGthY3NPMkNFc0tlbElNMVAyd1RXOVFiLWxuamNQR05QZGxSZjdlNWFxUnp4dzFmdFJYRVdCRGxBdWlUbVk4MEJuWGx0cGoybWFGa0ttS2xEb0JV?oc=5",
+    "importance": "A",
+    "summary": [
+      "企業がChatGPTなどの生成AIを、実際の事業に導入し活用するための具体的な手法を解説。",
+      "業務効率化、新サービス開発、コスト削減など、多岐にわたるビジネスインパクトが期待される。",
+      "AI技術の導入を検討する企業にとって、実践的なガイドラインとなる情報が提供されている。"
+    ],
+    "date": "2026-10-13 19:18",
+    "id": "0ttS2xEb0JV%3Foc%3D5"
+  },
+  {
     "category": "株・経済",
     "title": "AI・半導体株が牽引する日経平均：実体経済との乖離と関係性を解説",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWdMVnJLNDFGbEtyMG9Qcjk0b25xNzdQWXJDRGRlbzhZLU02VWxNMHZzeDNMN3VjMTBOYTB1dHplME9RM3ctM2JzNE02ZjJPYXZLeFVjMXNEMm03NFJfWGhDOHRGUXVVYUZXMG1FTmtqOEUwX2hnbWxoaXJkUFhKX0J2TE1qSEE?oc=5",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-09-17 01:29",
     "id": "FBDV25yWDVJ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "少子化対策としてのスポーツ育成戦略：多種目体験の重要性",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajdfOVZuU3ZlM0xuOU9GcldMNXRyYWJhd1Rib3JGVmF4NWZseEFhallwYnNyNndqdEZfMEFVODZMWlNwT0h1ZTkxN21oMWpPX2tZMkdGeW1RVmpjNmszU20tWnA3d1c0T2ppZEZITl80ZjFDaVRxRURFWl96dmRlSDlwLW5tRGFvYk1TMm1n?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本の少子化が進む中、スポーツ人口増加にはサッカーやバスケなど多種目の体験が有効との提言。",
-      "特定の競技に偏らず、子どもの多様な運動能力を育むことで、スポーツ全体の底上げを図る。",
-      "スポーツ用品、施設、教育サービス業界にとって、新たな市場創出とビジネスモデル転換の機会となる。"
-    ],
-    "date": "2026-09-17 01:29",
-    "id": "GFvYk1TMm1n%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "英米中への覇権交代が示す世界の未来と戦争勃発の可能性",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84Q0oyaS1uZHNsVFFSMExsQVhGLU1RYkNlVVZmd2ZLRWxJSURtY3FrNmFGanM3cmFFZURYREE5al9xaDNrOV9VaW5ldFY1Y0FvcXdxSUhkUmRmY3M?oc=5",
-    "importance": "A",
-    "summary": [
-      "イギリスからアメリカ、そして中国へと続く歴史的な覇権交代のサイクルを分析。",
-      "現代世界における大国間の競争と、潜在的な世界戦争勃発の可能性を考察。",
-      "企業のグローバル戦略は、長期的な地政学的変化と国際秩序の再編を見据える必要がある。"
-    ],
-    "date": "2026-09-17 01:29",
-    "id": "SUhkUmRmY3M%3Foc%3D5"
   }
 ]
