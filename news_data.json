@@ -1,6 +1,32 @@
 [
   {
     "category": "世界情勢",
+    "title": "中東情勢の不安定化と国際関係",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMHNRZFJHdU9XWlZ2dnNIOC16QVF2aWVVMjgwT25TbHFXSy1jVUMtMzU0bDhBb2RCN25JZ1JfaVlXQkYwZmV3WFE0dnVtQXR0ZzByRFRYNEpCRFpQYUdjbGNCYVlhQlE?oc=5",
+    "importance": "A",
+    "summary": [
+      "イラン戦争の状況で「あの国」が自国の存在感を高めており、中東情勢のパワーバランスが変化。",
+      "イラン外相は米国との交渉を否定し、地域紛争が長期化する可能性が懸念される。",
+      "G7首脳がウクライナ・イラン・中国情勢で揺れ動き、主要国の外交戦略が流動的になっている。"
+    ],
+    "date": "2026-10-15 09:21",
+    "id": "bGNCYVlhQlE%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "デジタル技術と起業家精神による新たなビジネス機会",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySDVyOUhwNlpoUnFNSmMxRnJCSFI1bmNPN0dOWjNBRkliWGdOaUd6ckhSRURacUVNU3J2aHVLVThfOFZ0cFBScExfUXBTbUR0TjVGbUtDQmswS25aTWc?oc=5",
+    "importance": "B",
+    "summary": [
+      "中堅・中小企業がデジタル技術を活用して新たなビジネス機会を創出するポイントを解説。",
+      "起業家はプロダクトと言葉を発明する必要があるとされ、経営の本質的な側面が強調されている。",
+      "「社会起業家」のリアルが議論され、ソーシャルビジネスの新たなトレンドが示唆された。"
+    ],
+    "date": "2026-10-15 09:21",
+    "id": "QmswS25aTWc%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
     "title": "日本外交の岐路：米中覇権争いの中での戦略的自立の必要性",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zM25QS0pyalZCRHl4NExydUEzSmk4QW00UDNySG40UURQNk9vaXdLMzF1MTc3em11LVhNcUE2VENzamRrUzNGUWpGdGZiTW9ucDlpVm5rbjQ0QVJ6STZj?oc=5",
     "importance": "S",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-09-18 01:36",
     "id": "TcDg4Qm9UQQ%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "Web広告の限界打破へ、PRで大企業開拓に成功した事例",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOURTcE91bEg1LUwxUnhSTDJZYVdTdUY4cVZkaFgtRUkxMlowZDV5SUFhYndQWVVyZFJVWkNmdXEwa3JIaFpMVF94eTJlUFJPRTYwWmNSZExaWk5jNnJmUGEzdEw0QQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "Web広告が大企業へのリーチに限界があるという課題が浮上している。",
-      "ネットプロテクションズはPR戦略を駆使し、大手企業開拓に成功した事例を紹介。",
-      "ターゲット層に応じた多様なマーケティング手法の組み合わせが、ビジネス成果に繋がる。"
-    ],
-    "date": "2026-09-18 01:36",
-    "id": "mUGEzdEw0QQ%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "先端LLMに「思わぬ弱点」存在、今後の開発課題に",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FeDVwRHhIWmduamhaVnRFTC1yX1l0ZWxDQk5KWWtkcUx4U3hsdDRwUVBVbWFFTlB5TGVZRTVvWFBnQWUyaGxMQTVUZzVURnVrMGlHWmsyZFppRTQ0Qm5oczBxcmN2S3hJTEpfNQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "最先端のLLMで共通して「思わぬ弱点」が観測され、AI研究の新たな課題として浮上。",
-      "モデルの安定性や信頼性に関わる技術的課題が依然として存在していることを示す。",
-      "ビジネスでのAI本格導入には、これらの弱点への対策と継続的な技術改善が不可欠である。"
-    ],
-    "date": "2026-09-18 01:36",
-    "id": "2S3hJTEpfNQ%3Foc%3D5"
   }
 ]
