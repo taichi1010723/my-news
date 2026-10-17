@@ -1,5 +1,31 @@
 [
   {
+    "category": "株・経済",
+    "title": "日経平均の個別銘柄動向：景気敏感株上昇とAI・半導体の一角軟調",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNHp2Unl3UTI0T0FoQ0JhNC1Hb0VwMmVNb1BqYlVudGRGXzE0SmhCdDh0eVZuUGNTdV8xWHdIMm5iZVR5eFk3R2h5VkY3NXFLSTFRU2MzMVo2UkdPWWF4OUxYd09NcnlCUS1ja3JvbXFBdDNvSU1weXAwMkZZX2NUaXd2ZE1udw?oc=5",
+    "importance": "B",
+    "summary": [
+      "日経平均株価は反発したものの、AIや半導体関連株の一部が軟調な動きを見せ、個別銘柄で明暗が分かれた。",
+      "一方で、景気回復期待から自動車や機械など景気敏感株が買われ、市場全体を支える形となった。",
+      "投資家は、セクターごとの業績見通しやマクロ経済指標を慎重に見極めながら、投資対象を選別している。"
+    ],
+    "date": "2026-10-18 08:52",
+    "id": "UaXd2ZE1udw%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIブームの転換点と企業導入の課題：成果を出せない95%の現実",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5eDVDVkNHS1Y5ZEZDS1F0OWlIU3hjNklRQzNQUFotOEg1X2ZjOFd2dzVwWGY?oc=5",
+    "importance": "S",
+    "summary": [
+      "AIブームが転換期を迎え、GPT-5のローンチ失敗や企業導入の95%が期待通りの成果を出せていない現状が明らかになった。",
+      "これは技術的限界だけでなく、組織の適応力や適切な活用戦略の欠如が課題となっていることを示唆している。",
+      "過度な期待から現実的な視点への移行が求められ、今後のAI戦略にはより具体的な目標設定と実行が不可欠となる。"
+    ],
+    "date": "2026-10-18 08:52",
+    "id": "OFd2dzVwWGY%3Foc%3D5"
+  },
+  {
     "category": "マーケティング",
     "title": "少数精鋭の食品メーカーがシェア1位獲得：行動科学に基づく成功ノウハウ公開",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TSGhQbWpVRzFpMUNLMXIwSVUwc2xULVR3M3lYRkdQblpxaDVEZFNKdTBkaHRUVUdvMKotRVh1NTRKMVVvTzhkT2xDUFA0R01XZE51RXdjMTV4eG56RkdiYUFtT3RVSTlDVHc?oc=5",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-09-18 17:05",
     "id": "VJ0OHoxbnEt%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本の成長産業の新たなモデル：M&Aによる「LVMH型」事業再編",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZEZGNWlWbUUyRE0zbnpaQWo3cC15cnhUeHp6MkAzcTNSYWVhVWpNNk9NeXNxY09YM1AwbkdwSDdEVGRyTktJSkx3RWNjYzZFYjgxOEZlM2FCQQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "佐俣アンリ氏が、日本の成長産業がM&Aを活用した「LVMH型」に進化すると指摘。",
-      "既存企業の技術やブランドをM&Aで統合・刷新し、新たな価値創造を狙う戦略。",
-      "企業は積極的なM&A戦略を通じて、事業ポートフォリオの最適化と成長機会の創出を目指すべき。"
-    ],
-    "date": "2026-09-18 17:05",
-    "id": "xOEZlM2FCQQ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均は反発：景気敏感株が市場を支え、AI・半導体の一部は軟調",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeXlFU1NLVXVhRGtnVHhLblM1OVlnNlB1QVpuRFlmYXBpdmdHMHJya0ZOa0dpX1hPZkp1Qk1ZSV9BNFR1dDJ5STNPSkFGNVROaWRYQWZqaVNLbUdkX1dzNXMwYkJuQlVSUm5ZLVJSaFh1ZTVtODZaMWM2ZFZtZ3drMFNB?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価が反発する中で、景気敏感株が市場を支える動きを見せた。",
-      "一方で、AIや半導体関連株の一部は軟調な推移となり、セクター間の温度差が浮き彫り。",
-      "投資家は市場全体だけでなく、各産業セクターのファンダメンタルズを詳細に分析する必要がある。"
-    ],
-    "date": "2026-09-18 17:05",
-    "id": "FZtZ3drMFNB%3Foc%3D5"
   }
 ]
