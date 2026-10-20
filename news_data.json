@@ -1,5 +1,57 @@
 [
   {
+    "category": "株・経済",
+    "title": "日経平均歴史的急落の背景：米景気懸念と円高の共振",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tczM4TE1xMXVCU3F4LWFDWUg0SE5nOG9ZY2gxakwwRWNkRzZiVTB5X2Z6Y1k4MDg2QksyLWRRaFhiLUxxMFo1YnVsOElUQWpOUFB3WmxkUFMtWk42TFhlS1VTUTBQY3ZyUi1iQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価が歴史的な急落を見せ、その主要因として米国景気悪化への懸念と急激な円高が指摘されています。",
+      "海外投資家のリスク回避姿勢が強まり、日本株市場から資金が流出したことが株安を加速させました。",
+      "為替と米国の経済状況が、日本株市場の変動に複合的に影響を与える構造が改めて示されました。"
+    ],
+    "date": "2026-10-21 01:35",
+    "id": "QY3ZyUi1iQQ%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "AI時代の企業戦略：未来を見据えAIとどう向き合うか",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZTZRZ0VSY3dDY1AtTGJiUU91cmh0MHhrQW4tbWFJbGhibi12Mk91d01VbHQ0c2N1dUFFT3Ftd05KT1ltZGROODRJRFdtS1dJZVVfckFNaXVYUHFaVmF3?oc=5",
+    "importance": "A",
+    "summary": [
+      "AI技術の急速な進化がビジネス環境を根底から変える中、企業が取るべき戦略が議論されています。",
+      "AIを単なるツールではなく、経営の中核に据え、競争優位を築くためのアプローチを多角的に分析。",
+      "AIの倫理的側面やガバナンスも含め、未来のビジネスをデザインする上での羅針盤を提示します。"
+    ],
+    "date": "2026-10-21 01:35",
+    "id": "XVYUHFaVmF3%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "ブランディングの誤解と広告の終焉：新時代の差別化戦略",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Yk4zWUx0S1NpVzcwc2QxV2ZwQnNnUnc2TzVCcnFRd0tqNThDak1YSnQ0bF91WkRTRlI5WE1pR3Y3c3JSU1BkY3VEZWRueW5SdjY1aUxfSGN0Q21MOTZrUlJsWHZvd1JnaFE?oc=5",
+    "importance": "S",
+    "summary": [
+      "広告による単純な差別化が困難になった現代において、ブランディングの本質が議論されています。",
+      "消費者の価値観が多様化し、企業がブランドを構築する上での「誤解」を指摘しています。",
+      "広告が効かない時代に、いかにして独自の価値を伝え、顧客との関係を築くかの重要性を説いています。"
+    ],
+    "date": "2026-10-21 01:35",
+    "id": "WHZvd1JnaFE%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIブームの転換期：GPT-5失敗と企業導入の課題",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5NUNWQS9HS1Y5ZEZDS1F0OWlIU3hjNklRQzNQUFoiOEg1X2ZjOFd2dzVwWGY?oc=5",
+    "importance": "S",
+    "summary": [
+      "次世代モデルGPT-5のローンチ失敗が報告され、AI技術進化の現実的課題が浮き彫りになりました。",
+      "調査によると、企業導入の95%が期待通りの成果を出せておらず、AIブームが転換期を迎えています。",
+      "AI導入の過度な期待を見直し、実用性に基づいた戦略の重要性が高まっています。"
+    ],
+    "date": "2026-10-21 01:35",
+    "id": "OFd2dzVwWGY%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "大谷翔平ギネス「アイコン」認定 – C.ロナウドらに続く名誉",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zMmRmSXVEcnZSQkFjRG5ia0g5Q29aNjF0UHJoUHZiQmFta0UwZzdEdEs2a3dkYmFGalQ1WVBLLW9paUlESWc?oc=5",
@@ -3846,57 +3898,5 @@
     ],
     "date": "2026-09-26 01:53",
     "id": "wUTBIZXVwSQ%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AIの最前線：進化と未来展望をグローバルリーダーが語る",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HSi1HcmpVZXkzR2dFX1JKTkxkSHQ1cG1kOVM4RHRiaVZHYzc5emNrTG5jTWh4NzVGdU9LdHZSNEtUaTFpR2kwR3JaUnRPTERyYVVtQjNoeldwaGgzRjY5QQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "AI研究のグローバルリーダーが、生成AIの急速な進化と今後の可能性を解説。",
-      "特に大規模言語モデル（LLM）の発展が、社会やビジネスに与える影響を深掘り。",
-      "未来の働き方や産業構造を大きく変革するAIの潜在能力に焦点を当てる。"
-    ],
-    "date": "2026-09-26 01:53",
-    "id": "waGgzRjY5QQ%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "資生堂の巨額赤字から学ぶ、マーケティング戦略の失敗とV字回復の可能性",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bVRwbm1QX1xuZXpmYW1ON2RBLVRrNDNaUmFSOF9SWjJFSFpSbjlVbmxtdW1TUWpvODR4N19jSHhRRDBFWktpckxHaWlBM0U4VUJsajJPb094UTA?oc=5",
-    "importance": "S",
-    "summary": [
-      "「マーケティングの巨人」資生堂が過去最大の赤字を計上し、その背景にあるマーケティング戦略の課題が浮き彫りに。",
-      "消費者ニーズの変化への対応遅れや、デジタルシフトへの不十分な適応が主な敗因として指摘。",
-      "ブランド再構築、顧客体験の改善、新興市場への注力がV字回復の鍵となる可能性が示唆される。"
-    ],
-    "date": "2026-09-25 17:39",
-    "id": "ajJPb094UTA%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "最新調査で判明！AI躍進による「伸びるビジネス分野」動向",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBldk4zbHl3cjRjMDJMTkp6NXotSDdPcDMzYzFFUTVBcFNzRjRqSWJHS0syNk9HSWFlS1kyVmlQZzNmbFhGRnc1T19aOExoNEV2WFN4WDUtcXpBeGtvWWRhXy1JRFhZZw?oc=5",
-    "importance": "S",
-    "summary": [
-      "日経クロストレンドの独自調査により、AI関連ビジネスが最も成長が期待される分野として浮上。",
-      "生成AI技術の進化が様々な産業で新たなビジネスモデルやサービス創出を促進している。",
-      "企業はAIを活用した新規事業開発や既存業務の効率化に注力し、市場の変化に対応する必要がある。"
-    ],
-    "date": "2026-09-25 17:39",
-    "id": "hXy1JRFhZZw%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NTT海外事業の巨額損失とグローバル戦略の課題",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zNUJsZnpDWGtLZEx1UUJBUm4zRmItM0NBMVlFZDNIb1VtU3VpTkdYQ0FQbG5PcDVWeHN0dGhlNm9XbVBpbkpDNGJhMjZlTS1BNXZ5ZXJ5VUk4amR3al92LWZBTnRkYkM2Z3FST1h4aTZlY1BoNGc?oc=5",
-    "importance": "A",
-    "summary": [
-      "NTTの海外事業が総額2兆円の損失を計上し、グローバル戦略の難しさを露呈。",
-      "外部提携の遅れやM&A戦略の課題が、GAFAとの競争で後れを取る要因に。",
-      "日本大手企業がグローバル市場で成功するための戦略転換の必要性。"
-    ],
-    "date": "2026-09-25 01:48",
-    "id": "aTZlY1BoNGc%3Foc%3D5"
   }
 ]
