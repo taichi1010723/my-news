@@ -1,5 +1,252 @@
 [
   {
+    "category": "sports",
+    "title": "青少年のスポーツ選手人気調査：大谷翔平4回連続1位、多様化する関心",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDVudHhWZU14dnN3UGZteDR4VHdhTnBPUHR5M1FYdWNaV3k0WlFZbzlKYWoxsVZxVktybmhIN18wM2dBU0NCR3MtdkFnVllPY2xrTWI3eGR2MUJNblFOR1prLVZkNDNCNjlTSnQtMEVzcmIxd1NzdWJwQ2wtTUQwME1RcU42M2NKRnM0eDByc0xVelo5VEE?oc=5",
+    "importance": "B",
+    "summary": [
+      "青少年が選ぶ好きなスポーツ選手ランキングで、大谷翔平選手が4回連続の1位を獲得。",
+      "2位、3位が野球やサッカー以外の選手であり、若年層のスポーツ選手への関心が多様化。",
+      "このトレンドは、スポーツマーケティングやコンテンツ戦略に新たな示唆を与える。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "c0xVelo5VEE%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "ドイツ対中政策のジレンマ：メルツ政権下の「デリスキング」と持続的関与",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORFdmYXQ4dzNnY3J2SklObkQ0aUpnM1VpMF9pU0xqRUZzdk1JTVJEWVBQTE1zZ19TYmx6V0NTUHFUMEI4RWNpeTZ2UUJFRUFiZmVvZHhXeHhkaDZiX0thb1hmSWV2dTA?oc=5",
+    "importance": "A",
+    "summary": [
+      "メルツ政権下のドイツ対中政策は、経済的「デリスキング」と持続的な関与の間で揺れる。",
+      "サプライチェーンの再編や技術覇権競争に与える影響が注目されている。",
+      "主要国の対中政策は、世界経済と国際関係の安定性に深く関わる。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "b1hmSWV2dTA%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "ダボス会議閉幕：欧州が突きつけた「反トランプ」姿勢と国際協調の行方",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMktiQTJTZDFNb0RaM1MzeHRjcEFSQ3BJYWJrZm1MZ3Zfc1BKcWZCdE9kN0hmRlVGUDFXbUQ0VGFqdVpaR3BBUnd0RnJubzh2RmNxQlNuaDROX3JJOWlpLWRPU29vbUJDejEtUmlLMjVkMUVyMGtyTk5sU1BFbHhjbkVDWi0?oc=5",
+    "importance": "S",
+    "summary": [
+      "ダボス会議で欧州諸国が「反トランプ」の姿勢を明確にし、国際協調路線の維持を訴えた。",
+      "米国の孤立主義への警戒感が示され、主要国の政治動向が世界の安定に影響を及ぼす。",
+      "国際協調の行方は、世界経済や貿易関係に大きな影響を与える可能性がある。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "bHhjbkVDWi0%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "NTTスマートシティ戦略：データ独占せずGAFAに対抗する新モデル",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQTFlaDRSSnVWSjRnRHFKTHkwM2tBR1V5QmIyWEJhWGtacnNPOVV4SW5WalBDcnJoUnlyWWF6ZUxiSEJ2aUg5b0VlTXF6UDlnbC1reGJXbkpCV2RSUHI4SFdqNWtTTlk?oc=5",
+    "importance": "A",
+    "summary": [
+      "NTTがスマートシティ事業で「データ独占しない」モデルを掲げ、GAFAに対抗。",
+      "オープンなデータ活用と多様なパートナーシップによるエコシステム構築を目指す。",
+      "データ主権と倫理的利用を重視した戦略は、新たなビジネスモデルの可能性を示す。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "SFdqNWtTTlk%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "アマゾン、売上高40兆円でも37.6%成長の秘密：巨大企業の成長戦略",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVjRIcXZUTkh3Z3NUWkRQOWV2N2tZQzFJVXhnNWZJYWJsSm13ckNQdUYzbDBkVHN6QnNhOGxLQXVCTk92aWN5NF9WcTLSAU9BVV95cUxOSzhzMGhxdnpkMG95VzBDQXc0cXFEd2tmS1ZvS0swb3Z4cXpCYTFxY091V2RzbVJ4U3ZaNzlPcVpCMzdjRWFEV21uTkZNSjQ0?oc=5",
+    "importance": "A",
+    "summary": [
+      "アマゾンが売上高40兆円という規模でも37.6%という高成長を実現している。",
+      "多角化戦略、顧客中心主義、イノベーションへの継続投資が成長の原動力。",
+      "巨大企業の成長モデルと競争力の源泉を分析し、ビジネス戦略に示唆を与える。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "21uTkZNSjQ0%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAのデータセンター投資加速：先進国で電力需要増と「発電所一体型」展開",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yMlFBWmF1cjhBajJ4UUFSZjZ1X2ZPbllzak5iMXZIeHJuY1g4eUFiR2o5WENPR3pBZExzRVk1MkhsSGoyUDljMFBTSDBoandxNlF2QW4xQVRBNFNGemJVRDJhTDE?oc=5",
+    "importance": "S",
+    "summary": [
+      "GAFAがAIやデジタルサービスの拡大を背景に、先進国でのデータセンター建設を急加速。",
+      "これにより電力需要が劇的に増加しており、エネルギー問題が顕在化。",
+      "再生可能エネルギーを組み合わせた「発電所一体型」データセンター開発が新たなトレンドとなっている。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "emJVRDJhTDE%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "「国家VS巨大IT企業」：米国で相次ぐ反独占訴訟の背景と影響",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RFRBekNBZHY3THJlQWZEOVR1NWdTdVl2czhnVi10NExIN3U4cTdmM0JnbDFZVVRYV0tUMGQ2WkNJRXZwT3dEa2VkOW9oMzFGM2t6UGN3ZnNKTmpmN25KRm1WZXhmelJlNllyZUtnMVVvajJpQ2FjQjRLbF9ZQQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "米国でGAFAなどの巨大IT企業に対する反独占訴訟が相次ぎ、国家による規制強化が進む。",
+      "市場支配力と競争阻害への懸念が背景にあり、国際的なビジネス環境に大きな影響を与える。",
+      "デジタル経済の公正な競争とイノベーション促進に向けた動きが活発化している。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "jQjRLbF9ZQQ%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "サブスクとAIの融合：Zuora CEOが語る企業成長加速の鍵",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSU9LOFpzbzdZVTBuMkd2Wm91ekkwZzU4M0hLM3l6R2NtbEhKWGVodmFTZWtSZU8tMklQaEhzMHJXYmtO0tDjktQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "サブスクリプションプラットフォーム大手ZuoraのCEOが、AI活用による企業成長加速を提言。",
+      "サブスクビジネスにおける顧客データ分析、パーソナライズ、自動化の重要性を強調。",
+      "AIとビジネスモデル変革の融合が、持続的な成長を実現する鍵となる。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "YmtO0tDjktQ%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "日本企業の国際競争力：2025年世界時価総額ランキングから見る栄光と課題",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aN1F4REdWc0FKcVdLUkxlbU9yTUlXWDMxaUtfSTkxZGVpX3ZTSGdhMjZSeVR1YklmYXplWmxqZWRoTUJGckFkbEpPZEpfYV9fYnRYNlFKLVEyb3pNTHFDemJtWUh4VldKRzZHeENvTQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "2025年世界時価総額ランキングから日本企業の過去の「栄光」と「現在」を比較。",
+      "国際競争力の現状と、イノベーション不足やグローバル戦略の課題が浮き彫りになった。",
+      "今後の日本企業には、新たな価値創造と市場開拓に向けた大胆な変革が求められる。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "KRzZHeENvTQ%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均は反発、景気敏感株が市場を牽引：AI・半導体は軟調",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNHp2Unl3UTI0T0FoQ0JhNC1Hb0VwMmVNb1BqYlVudGRGXzE0SmhDdDh0eVZuUGNTdV8xWHdIMm5iZVR5eFk3R2h5VkY3NXFLSTFRU2MzMVo2UkdPWWF4OUxYd09NcnlCUS1ja3JvbXFBdDNvSU1weXAwMkZZX2NUaXd2ZE1udw?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価は3日ぶりに反発し、景気敏感株が上昇を牽引した。",
+      "一方でAI・半導体関連株は軟調に推移し、市場のテーマ変化を示唆。",
+      "セクターごとの動向分析は、今後の投資戦略において重要な要素となる。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "UaXd2ZE1udw%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均の大きな変動リスク：米景気と為替で最大9000円の価格差も",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VENPTEV2NFJoQ3hlekNTNmdmamQ4SFBGbDlwZ2Z6NGhjejktYjhaY1BvMExDZWdadzI0MGtac0ZUeGRteWtrNWFfVDdVRnUtdi1hTkVLUUY3UUpacWRqUHB1cTZ1ekdrM0NZeQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "日経平均株価は米景気と為替の動向によって大きく変動する可能性が指摘されている。",
+      "想定されるシナリオ次第では、9000円もの価格差が生じるリスクがある。",
+      "市場予測の不確実性が高く、投資戦略には柔軟な対応が求められる。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "1ekdrM0NZeQ%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "人的資本経営：組織成長を支える最新トレンドと展望",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sU3VLZzBVMHRqenVLSXkzVllvc0lKUzFveVM5eF9BRXZjLWV3Rm9nVllFd3lNaXpXTjNzM0tkUE5MMlQ4anJXOWRvUEk?oc=5",
+    "importance": "A",
+    "summary": [
+      "オンラインセミナーで、人的資本経営の最新トレンドと今後の展望が解説される。",
+      "組織の成長と発展に不可欠な経営手法として、従業員の能力開発とエンゲージメントを重視。",
+      "持続的な企業価値向上のための戦略と実践的なアプローチが学べる。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "anJXOWRvUEk%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "経営リーダー必見：2025年ビジネス開発トレンド20選",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ac1dXOU5ZS0dienpLLXNhbDhJSTAzQ1JVY2JqazhRWks4RG02dFF5N3FzXzA4SjFLVDFTM3pWM0dybEd3RGlxTHVsR2RHN1ZhOFRVVnpjSFY?oc=5",
+    "importance": "S",
+    "summary": [
+      "Forbes JAPANが2025年に経営リーダーが導入すべき20のビジネス開発トレンドを選定。",
+      "AIと自動化、顧客体験のパーソナライズ、サステナブルビジネスモデルが主要テーマ。",
+      "未来の事業成長を牽引するための戦略的洞察と新たな機会が示唆されている。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "OFRVVnpjSFY%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "AI時代のマーケティング戦略：無料セミナーでBtoB、ブランディング、ヒット商品戦略を学ぶ",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXNmNxODRyOWx4UlFMclNuQlF1V0xSd0V4ZVhKV0Zua0otbXhsTjNocXkyYmhKWTV6Umc4SWpUOHhVV1ZMbVVETGJqcTNlRkpKQXlOV084Y01JVUFFSFJLMUlSS2ktTHJQU1E?oc=5",
+    "importance": "A",
+    "summary": [
+      "「マーケティングWeek -春 2026-」でAI時代のBtoBマーケ、ブランディング、ヒット商品戦略に関する無料セミナーが開催される。",
+      "30以上の講演で最新トレンドと実践的なノウハウが提供される。",
+      "AIを活用したマーケティング戦略の構築を目指す企業にとって貴重な学習機会となる。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "S2ktTHJQU1E%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "ダイキンに学ぶブランディング：想起率向上への苦悩と工夫",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2c0tCT1NsdlhjOVFZa3E5STlpME9uRzZJeWpNMjY3bFIwSDBodlY3dEVGaG94VFVlRnNiMm5rMVdYZkk1Y2Z1ZElIbzJnaUw0Y1lxNmxrS1EwakI5TkNmZnVPMTd5UQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "ダイキン工業が実践するブランディング指標設計のアプローチが解説されている。",
+      "「想起率」向上に向けた試行錯誤と具体的な戦略事例が紹介された。",
+      "長期的なブランド価値構築における工夫と課題から、実践的な知見を得られる。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "mZnVPMTd5UQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "先端LLMに潜む「思わぬ弱点」とは？最新論文が示す課題",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FeDVwRHhIWmduamhaVnRFTC1yX1l0ZWxDQk5KWWtkcUx4U3hsdDRwUVBVbWFFTlB5TGVZRTVvWFBnQWUyaGxMQTVUZzVURnVrMGlHWmsyZFppRTQ0Qm5oczBxcmN2S3hJTEpfNQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "最先端の大規模言語モデル（LLM）で例外なく観測された「思わぬ弱点」が論文で指摘。",
+      "大規模モデルにおける一貫性や論理的推論の課題が浮き彫りになり、実用化への課題を提示。",
+      "この弱点は、今後のAI研究開発における新たな方向性を示唆している。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "2S3hJTEpfNQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの現実：誇大広告や過度な期待に惑わされないために",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVF1bW9iY3J2OVpKVkt6TTRwTUQ0ZDN4d1FyVkRXd0NWeFk?oc=5",
+    "importance": "A",
+    "summary": [
+      "IBMは、生成AIに関する誇大広告や悲観論を冷静に評価するよう提言。",
+      "技術の真の価値と限界を理解し、現実的な視点での導入が重要となる。",
+      "ビジネスにおけるAI活用は、過度な期待ではなく具体的な目標設定が成功の鍵。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "VkRXd0NWeFk%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "日本政府、国産LLM「源内」を全府省庁に導入：日本のAI主権確立へ",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KTmZ3Wk1pVEdnY0JQVE1EeTVIVDVnanR6b2ZIWjl3RFFtdURGZDBLclRmdzdUbUdSV0NIWGlRQUZwd1l0UjlaSVJhSG9LMjM0dGc?oc=5",
+    "importance": "S",
+    "summary": [
+      "日本政府がガバメントAI「源内」として、国産LLMを全府省庁18万人へ導入する計画。",
+      "国産LLM7選で日本のAI主権確立を目指し、セキュリティ強化と行政効率化を推進。",
+      "国家レベルでのAI活用は、今後の技術開発と産業振興に大きな影響を与える。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "SG9LMjM0dGc%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "次世代LLMの技術革新：トランスフォーマーを超える4つの新アプローチ",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYWVoX1ZOVRfYm9YbEVfT1dmNmpDNnBIQnlwak9hVlBhQXhOSmhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
+    "importance": "S",
+    "summary": [
+      "現行LLMの基盤であるトランスフォーマーモデルの限界が指摘されている。",
+      "次世代LLMを担う4つの最新技術アプローチが研究・開発されている。",
+      "効率性、汎用性、信頼性向上を目指す技術革新が今後の競争力に直結する。"
+    ],
+    "date": "2026-10-23 01:55",
+    "id": "wUTBIZXVwSQ%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "日本プロスポーツの人気競争：サッカー「国技化」提言と大谷翔平の影響",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSXloaVB4ZzY1X0xpbmQteFo4WVFmZGdkeVkxbWxKWTR6YnhSYzkyT0RSVmx6WXZpbzM3bU5pX3NEeW1ITEZDajRWWjFzTE9OTDRobEJFVDRJaHdUQlYtcFdEaEZVbERQdGMwZUFPX3JobExtSThCU25QOGRwRk0?oc=5",
@@ -3651,252 +3898,5 @@
     ],
     "date": "2026-09-30 10:11",
     "id": "4MnozODN3Zw%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AI導入における現実と誇大広告の見極め方",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVhRMW1vYmNydjlKVkt6TTRwTUQ0ZDN4d1FyVkRXd0NWeFk?oc=5",
-    "importance": "A",
-    "summary": [
-      "生成AIの導入を検討する企業に対し、誇大広告や過度な期待に惑わされず、現実的な効果とリスクを冷静に見極めるよう警鐘を鳴らしている。",
-      "AI技術の急速な発展に伴い、その真価を正確に理解し、自社の事業に適切に統合するための戦略的視点が求められる。",
-      "企業は、AIのメリットだけでなく、データの偏り、倫理的問題、運用コストなどの課題も考慮した上で導入計画を立てる必要がある。"
-    ],
-    "date": "2026-09-30 10:11",
-    "id": "VkRXd0NWeFk%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "中国「一帯一路」の欧州での暗礁と習近平の外交戦略",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xa0lRRlFSMnpsdGd3SXVBbVlkUjVZSUFNWGFyQlVpQUtDRE1zQ2l1UmRDTThCVWQ2LTZNSlJobmNHTzlkbkdZWTMyb2tPdElYVlNfZmdVS0NPYTg?oc=5",
-    "importance": "S",
-    "summary": [
-      "中国の巨大経済圏構想「一帯一路」が、欧州で政治的・経済的課題に直面し暗礁に乗り上げている。",
-      "インドも距離を置く姿勢を見せる中、習近平国家主席は米中首脳会談を前に外交攻勢を強化。",
-      "グローバルな影響力拡大を目指す中国の次の一手が、国際秩序に与える影響が注目される。"
-    ],
-    "date": "2026-09-30 02:54",
-    "id": "ZmdVS0NPYTg%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "NECが新入社員に年収1000万超：グローバル人材獲得競争の激化",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG90ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "A",
-    "summary": [
-      "NECが新入社員に年収1000万円超を提示し、グローバルな人材獲得競争への危機感を露わにした。",
-      "GAFAなどの巨大IT企業や海外企業との間で、優秀なIT人材の争奪戦が激化している。",
-      "日本企業も高待遇や魅力的な労働環境を提供し、国際的な競争力を高める必要に迫られている。"
-    ],
-    "date": "2026-09-30 02:54",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "クアルコムが日本にロボティクスセンター設立、日本企業と連携強化",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY1g2TjJjUE1oenpuQkh4b2F1LWxLMnryanVURjRYbnFKNXd2MzRZSHFuZlNLVXVaYU1ja0tkZ0c0OExBVzcxY21ublpCNnUyVDdnbFVlNm9QWGlDQ2hN?oc=5",
-    "importance": "A",
-    "summary": [
-      "米クアルコムが日本にロボティクスセンターを設立し、トヨタ、ソニーなど18の日本企業・団体が支援。",
-      "日本の技術力と連携することで、ロボティクス分野の研究開発とイノベーションを加速させる狙い。",
-      "自動運転や産業用ロボットなど、次世代テクノロジーの日本での実用化と市場拡大が期待される。"
-    ],
-    "date": "2026-09-30 02:54",
-    "id": "m9QWGlDQ2hN%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "次世代LLMを牽引する4つの最新技術アプローチ",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYWVoX1k5VF9ib1hsRV9PV2Y2akM2cEhCeXBqT2FWUGFBeE5KaGhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "既存Transformerモデルの限界が指摘され、Mamba、RWKV、Jamba、RetNetなどの次世代LLMアプローチが登場。",
-      "これらの新技術は、学習効率、推論速度、マルチモダリティ対応の改善を目指している。",
-      "LLMの学習コスト削減と性能向上を両立させ、より広範なAI活用を可能にする鍵となる。"
-    ],
-    "date": "2026-09-30 02:54",
-    "id": "wUTBIZXVwSQ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "サッカー国技化提言への反応：大谷翔平と野球人気の壁",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSXloaVB4ZzY1X0xpbmQteFo4WVFmZGdkeVkxbWxKWTR6YnhSYzkyT0RSVmx6WXZpbzM3bU5pX3NEeW1ITEZDajRWWjFzTE9OTDRobEJFVDRJaHdUQlYtcFdEaEZVbERQdGMwZUFPX3jobExtSThCU25QOGRwRk0?oc=5",
-    "importance": "C",
-    "summary": [
-      "サッカー日本代表MFの「サッカーを国技に」という提言に対し、韓国メディアが大谷翔平選手と日本の野球人気を対比して分析しました。",
-      "日本国内でのスポーツ人気において、野球が依然として支配的な存在であるという見方が示されています。",
-      "これは、スポーツ文化の構造や、エンターテイメント業界におけるコンテンツ人気の動向を理解する上で興味深い示唆を与えます。"
-    ],
-    "date": "2026-09-29 18:36",
-    "id": "U25QOGRwRk0%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "EUがアメリカとの貿易協定承認を凍結：グローバル経済への影響",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GWVItZkxnSzFVdmh0cnB2NEtSTndEQWVBaWlIZTNhTHhYaHgzNnhELU9GVEZ2U1dNUXBYOU1ETk9fQTdycVgxMGVUd0R6Vmw2MVNUSzJUZmZZd1FwS3g00gFkQVVfeXFMTk1wTFVxdzk2WVFOX0MxbkdSMzFjQ0xGkRjbngwU1BPUUtvM2lybWZTTk83M2F0eGlSc1BkTUp3OGVxVU1xNGVGZU9Ga3BQOTdSUlV5NC1Db1Y2eGpEU2hvZl9fQw?oc=5",
-    "importance": "A",
-    "summary": [
-      "欧州連合（EU）がアメリカとの貿易協定の承認を凍結する決定を下し、主要経済圏間の貿易関係に緊張が生じています。",
-      "この動きは、グローバルサプライチェーンや国際貿易の枠組みに大きな影響を及ぼし、企業戦略に再考を促す可能性があります。",
-      "企業は、貿易政策の動向を注視し、新たな国際経済環境に対応するためのリスク分散策を講じる必要があるでしょう。"
-    ],
-    "date": "2026-09-29 18:36",
-    "id": "EU2hvZl9fQw%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "国際法人税引き下げ競争の行方と多国籍企業への影響",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NaGRfZTg5V0tzckhaSTR3RjNHQjNHU1dSTkVBT2RjeHpHbTdVckZrMEJIVUNRWHgta0x5R0xCc2hIVzEyWG9kSFZXRnlZVkU1WEE?oc=5",
-    "importance": "S",
-    "summary": [
-      "国際的な法人税引き下げ競争の行方と、各国政府の賛成・反対意見が解説されています。",
-      "この動きは、グローバル企業の税制戦略や、国際的な投資環境に大きな影響を与える可能性があります。",
-      "多国籍企業は、各国の税制動向を慎重に分析し、事業展開における財務戦略の最適化を検討する必要があるでしょう。"
-    ],
-    "date": "2026-09-29 18:36",
-    "id": "RnlZVkU1WEE%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "2026年後半に流行するビジネス3選：AIに奪われない仕事の未来",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yRnQzeTd6dEN1TmwwMUxRcTNXRUNSTlFIVWxXejJYbFBlSkZfX2MtaWI5bEV1OVI3T2szakJCNnM0VWhjb3dmWnJiQkpNTlhseHdLODlQTTdZSGJwZG9ZeXJLY1RTd3hf?oc=5",
-    "importance": "A",
-    "summary": [
-      "AI技術の普及が進む中で、2026年後半に流行が予測されるビジネスモデル3選を紹介しています。",
-      "AIに代替されにくい「人間の強み」を活かした新たな価値創造の機会について考察を深めます。",
-      "企業の事業ポートフォリオ戦略や個人のキャリア形成において、将来を見据えた重要な示唆を与えてくれるでしょう。"
-    ],
-    "date": "2026-09-29 18:36",
-    "id": "XJLY1RTd3hf%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "次世代LLMを担う4つの最新技術アプローチ",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYWVoX1k5VF9ib1hsRV9PV2Y2akM2cEJIQnlwak9hVlBhQXhOSmhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "従来のトランスフォーマーモデルの限界を指摘し、次世代の大規模言語モデル（LLM）を支える4つの最新技術アプローチを紹介。",
-      "AI開発の技術トレンドと将来的なLLMの進化方向性を理解する上で重要です。",
-      "新たなAIモデルの研究開発や、既存AIシステムの最適化を検討する企業にとって有益な情報源となります。"
-    ],
-    "date": "2026-09-29 18:36",
-    "id": "wUTBIZXVwSQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "中国ビッグテックがGAFAを凌ぐ3つの強み",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sNjFkOGpRMi1Gb2htU1Y2YmdfcDVWVWF4Ujkxc1VIb2JRTVJUR2tMZWR2X21aeFZrMGlTc3ZtcnNUb1pjMURreWFUbnJUT3l5VkdBeVVieUxjT0RzZHc5TUVIY2ZYZw?oc=5",
-    "importance": "S",
-    "summary": [
-      "中国のビッグテック企業がGAFAを凌駕する「3つの強み」を持ち、国際競争力を高めている。",
-      "巨大な国内市場、政府の支援、そしてAI技術の積極的な活用が成長の源泉となっている。",
-      "これはグローバルテック市場の多極化を示唆し、今後の国際的な競争環境に変化をもたらす。"
-    ],
-    "date": "2026-09-29 10:37",
-    "id": "5TUVIY2ZYZw%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "野村證券ストラテジストが解説する2026年日本株見通し",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZaHNpYnhLWEItb1M4OFZOdTNWZGxicUc5SEE2enVsQ0ZhSVdwMjYxSmwtajV1WEVhQ0ZkQVltTlU4bVFxU1FIT2tzMjZteDFMajQSUjRGM2dPOUNjemRn?oc=5",
-    "importance": "S",
-    "summary": [
-      "野村證券ストラテジストは、2026年末の日経平均株価が55,000円をメインシナリオと予測。",
-      "企業の業績改善や賃上げ動向、地政学リスクの緩和などが株価を押し上げる要因となる。",
-      "投資家は中長期的な視点でのポートフォリオ戦略の再構築が求められる。"
-    ],
-    "date": "2026-09-29 10:37",
-    "id": "2dPOUNjemRn%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "広告で差別化困難な時代、ブランディングの再定義を議論",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zaEVGODIwTWRaX1RQWDlVWkliZ1B3QWVCYk5QV2pSeUNHZGJFS0U0VFpUVjRXbUp2ekNpV2U4ZHp3NEdYS0t6b1M1bU1CaWNRSEU4U0tONVNZRmZNVHpyOFA4SnltTWZ1NGwtbGpWTQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "広告による差別化が難しくなる中、ブランディングの根本的な見直しが迫られている。",
-      "商品の機能的価値だけでなく、企業のビジョンや社会貢献といった情緒的価値の訴求が重要に。",
-      "消費者との長期的な信頼関係を築くため、一貫性のあるブランド体験を提供する必要がある。"
-    ],
-    "date": "2026-09-29 10:37",
-    "id": "1NGwtbGpWTQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "巨大IT企業の雇用動向と新たなビジネスフロンティア",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40MnJ1VkhrY0VGdnRfVGJzMkFKU09WWkNtQnNYTTgwSmNQUlJqQ2JraXMyZnF6TFVxTHo4bndIM0xYWUpDRzY0bg?oc=5",
-    "importance": "B",
-    "summary": [
-      "GAFAの株価急落と欧米でのレイオフの波は、IT業界の雇用環境と経済動向に影響を及ぼす。",
-      "EUが2030年までを「デジタルの10年」と位置付け、国際的なデジタル経済の方向性を提示。",
-      "フェイスブックの成長鈍化に対し、「メタバース」が救世主となるか、新たなビジネスフロンティアへの投資が注目される。"
-    ],
-    "date": "2026-09-28 18:32",
-    "id": "YWUpDRzY0bg%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本の産業競争力強化に向けた国家戦略と技術投資",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FeTI2czZGMFpoWFEza2RCdG5xM0JkR3VsaU1FN3dQU3JvT3RreDFiN0JyeHBOeXFwVjJmcFRHbl8wVGctLXpzME43Q0RwZXZQRmFBZ2JWenh0Z2dqSXFSTktQT25EaldaaEVYNA?oc=5",
-    "importance": "S",
-    "summary": [
-      "ラピダスに20社超が新規出資し、半導体復権へ官民連携が進む。日本の基幹産業再生への期待。",
-      "ディープテックで日本の競争力強化を目指し、官民挙げて「第2のソニー」創出を推進する国家戦略。",
-      "クアルコムが日本にロボティクスセンターを設立し、トヨタやソニーなど18企業・団体が支援。先端技術開発の加速。"
-    ],
-    "date": "2026-09-28 18:32",
-    "id": "EaldaaEVYNA%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価の短期的な変動とセクター別動向",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNHp2Unl3UTI0T0FoQ0JhNC1Hb0VwMmVNb1BqYlVudGRGXzE0SmhDdDh0eVZuUGNTdV8xWHdIMm5iZVR5eFk3R2h5VkY3NXFLSTFRU2MzMVo2UkdPWWF4OUxYd09NcnlCUS1ja3JvbXFBdDNvSU1weXAwMkZZX2NUaXd2ZE1udw?oc=5",
-    "importance": "B",
-    "summary": [
-      "日経平均は景気敏感株に支えられ反発する一方、AI・半導体の一角は軟調な動きを見せている。",
-      "米景気減速懸念や円高により日経平均が一時2000円超安を記録するなど、急落の動きも観測された。",
-      "日経平均の仕組み理解は投資に一歩リードをもたらすとされ、市場の基礎知識が重要視されている。"
-    ],
-    "date": "2026-09-28 18:32",
-    "id": "UaXd2ZE1udw%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "社会変化に対応するスモールビジネスと経営哲学",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EQ0d5UzA1bTRqRUxvekVqYjFxc2xnUHp6UUtJTDZoRFA3cEdjU09nNDhwVDJ2UzAzMXlpelNhR0pKUWctMlRuWHlXOVZpLVYxRmlqQXpmdEdveE1q?oc=5",
-    "importance": "B",
-    "summary": [
-      "朝8時半に始まる「小さな経営」は、社会変化に先行する勝てる投資メカニズムを紹介。",
-      "「儲かるスモールビジネスの条件4つとアイデア19選」は、起業や新規事業の参考に。",
-      "近藤太香巳氏の経営哲学「商売は課題解決、利益は笑顔の数」は、普遍的なビジネスモデル論を語る。"
-    ],
-    "date": "2026-09-28 18:32",
-    "id": "XpmdEdveE1q%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AIの導入における注意点と実務的課題",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVFMWTFuTW9iY3J2OUo5Vkt6TTRwTUQ0ZDN4d1FyVkRXd0NWeFk?oc=5",
-    "importance": "B",
-    "summary": [
-      "IBMは生成AIにおける誇大広告を信じず、その限界を理解する重要性を指摘している。",
-      "「ChatGPTに入力NG情報」など、AI活用における情報セキュリティとプライバシー保護が課題。",
-      "LLMの遅延対策など、実務的な導入障壁と解決策に関する情報が注目を集めている。"
-    ],
-    "date": "2026-09-28 18:32",
-    "id": "VkRXd0NWeFk%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "日本における生成AI利用の現状と企業導入戦略",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iQUtoTm8yaG9hT2s4LTJZUTYwazBpRUdpLWJYamc2OTVNVENjbklkRFlwb2tqcERBcUVfWVJ4Q0xXSGUyNlBuVUJ3b04yMmpGZEE?oc=5",
-    "importance": "A",
-    "summary": [
-      "ICT総研調査で、日本企業の生成AI利用率が54.7%に急伸しており、導入が加速している。",
-      "ChatGPTなど生成AIの企業導入と具体的な活用手法が紹介され、ビジネス現場での応用が進む。",
-      "AIが「伸びるビジネス分野」の最新版で躍進しており、新たな事業機会の創出が期待される。"
-    ],
-    "date": "2026-09-28 18:32",
-    "id": "b04yMmpGZEE%3Foc%3D5"
   }
 ]
