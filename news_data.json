@@ -1,6 +1,32 @@
 [
   {
     "category": "世界情勢",
+    "title": "トランプ氏の保護主義政策：欧州への追加関税と国際貿易への影響",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6SkJBT1dqd29kR3RsakhVNW1mLUR0NVdmTGR0MUNfMnhqOS02MGNNVHF6TUhwSmItNmRpRE14by0xdWFNUE1QYTZfclBQbGlQWDNYWU9odkRySnZHcmdSb1cwVHFBVFk?oc=5",
+    "importance": "S",
+    "summary": [
+      "トランプ氏が欧州8カ国に追加関税10%を課す意向を示し、保護主義政策の再燃が懸念される。",
+      "貿易戦争の激化はグローバルサプライチェーンや企業の収益に直接的な影響を与える。",
+      "国際的な貿易環境の不確実性が高まり、企業は貿易政策の動向を注視し、戦略を調整する必要がある。"
+    ],
+    "date": "2026-10-23 17:23",
+    "id": "b1cwVHFBVFk%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAを凌駕する「中国ビッグテック」の3つの強みとグローバル戦略",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sNjFkOGpRMi1Gb2htU1Y2YmdfcDVWVWF4Ujkxc1VIb2JRTVJUR2tMZWR2X21aeFZrMGlTc3ZtcnNUb1pjMURreWFUbnJUT3l5VkdBeVVieUxjT0RzZHc5TUVIY2ZYZw?oc=5",
+    "importance": "S",
+    "summary": [
+      "中国の巨大テクノロジー企業が、独自の強みでGAFAを凌駕しつつある状況が分析される。",
+      "国内市場の規模、政府の支援、急速な技術革新がその主要な要因。",
+      "グローバル市場における競争環境の変化を理解し、企業は中国勢との競合・協業戦略を再考する必要がある。"
+    ],
+    "date": "2026-10-23 17:23",
+    "id": "5TUVIY2ZYZw%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
     "title": "グローバル秩序の再編と地政学リスク：米中対立、イラン情勢、欧州の動向",
     "url": "https://news.google.com/rss/articles/CBMiW1BVX3lxTE84UWZVajVuZG1fcW9UMkplU3VOMVBhWFBhNnA3M3hrRE11ZFRoVjJaNG94VWR2Rko1clJrdm1MYUZUcGlUUTV2SXhGdUFUbTlLV3lmTzRSR3R0UjQ?oc=5",
     "importance": "S",
@@ -3872,31 +3898,5 @@
     ],
     "date": "2026-09-30 10:11",
     "id": "DbXVMMk9RQQ%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "サブスクリプションとAI活用による企業成長",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSU9LOFpzbzdZVTBuMkd2Wm91ekkwZzU4M0hLM3l6R2NtbEhKWGVodmFTZWtSZU8tMklQaEhzMHJXYmtOa0tDamktaHlhUUx3VGFVX0pCNjJpQUlBM2haelNWb193WW9DRTlEcg?oc=5",
-    "importance": "C",
-    "summary": [
-      "サブスクリプションプラットフォームを提供する米ZuoraのCEOは、AI活用が企業成長を早めると指摘している。",
-      "日本市場においても、3Dプリンティングやコンサルティングサービスなど、さまざまな分野で市場が拡大している。",
-      "SDV×AI時代のサイバーセキュリティ動向も注目され、技術進化に対応したサービスやセキュリティ対策が企業の成長に不可欠となる。"
-    ],
-    "date": "2026-09-30 10:11",
-    "id": "3WW9DRTlEcg%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本企業のアフリカ市場への進出動向",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGZoYU5abXI0ejdiTFlsaVVMelFvVTlWVzExWG1TU1o3Y3RJVjJweGdkUGJxTEhGZFdfUXp2Y1VJQjlneUs0SlRhVllfVGJqNzF5Y0EtaGs4eFVsRVFoczkxbkJaUHJWSlJmcVFvbnNPVmJHc240bEF3bUxrVVowQWRSYlNlQQ?oc=5",
-    "importance": "B",
-    "summary": [
-      "日本企業のアフリカへの進出動向が加速し、現地拠点数が増加傾向にあることが報告されている。",
-      "これは、新たな成長市場を求める日本企業にとって、アフリカが有望な投資先となっていることを示唆する。",
-      "アフリカ市場での事業展開は、日本企業のグローバル戦略において重要な位置を占め、今後のさらなる動きが注目される。"
-    ],
-    "date": "2026-09-30 10:11",
-    "id": "wQWRSYlNlQQ%3Foc%3D5"
   }
 ]
