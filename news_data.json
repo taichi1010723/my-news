@@ -1,6 +1,266 @@
 [
   {
     "category": "スポーツ",
+    "title": "アメリカでサッカー人気が野球を抜き3位に：メッシ現象と市場変化",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tSVEwTlVEaEFPYjd6V0M4MmhuZ2dEc1FWV21HU0k1UDBYaEh2S0pyakU5UWk4dUl6NnY3MExsZU9QM3ZGM0dCajQ0c0hFUnFZa2hFUFRFaFAzRkhJ?oc=5",
+    "importance": "B",
+    "summary": [
+      "アメリカでサッカーの人気が急速に高まり、野球を抜いて3位の座を獲得したと報じられた。",
+      "リオネル・メッシのような世界的スター選手の加入が、若年層を中心にサッカー熱を加速させている。",
+      "この市場変化は、スポーツビジネスにおける投資戦略や、エンターテイメントコンテンツとしての魅力向上に新たな視点を提供する。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "FRFaFAzRkhJ%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "トランプ氏、欧州8カ国に10％追加関税を表明：グリーンランド巡る圧力",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTzJRc3RTM3cyN040R3FGYU0yWmphODJDNHVVU2VfM0JqOE5VVkxUb2FfeGM4ZThVbTI0TVVWYUVpUEVqMG9ZMnRpSW9ma2JTTHFzbWlwcDZsYk5hY050R1pTMXZxbWh1TWdPdXJmTXQxWUdhZnN0bVFWUHNxc0E?oc=5",
+    "importance": "S",
+    "summary": [
+      "トランプ氏が欧州8カ国に対し10％の追加関税を課す意向を表明、グリーンランドを巡る貿易圧力の一環。",
+      "これは、トランプ政権の保護主義的貿易政策が再燃する可能性を強く示唆している。",
+      "欧州と取引のある日本企業は、サプライチェーンの見直しや関税コストの試算など、貿易環境の激変に備える必要がある。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "bVFWUHNxc0E%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "中国BATの台頭：巨大市場を追い風にGAFAを追うグローバルIT勢力",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MSVZmUXVKUEI5eFVUZkpLdTRGWGtyZ0VuQ3dkYUYtNGJUbUw1U0FKVHp3NjIzbGs3TkQ0YUx1UVowVDZjaldLWHF3blJCaVVRdFAzbkZEaTVuZ0VDaVhpUGZPWU4?oc=5",
+    "importance": "A",
+    "summary": [
+      "中国の巨大IT企業BAT（Baidu, Alibaba, Tencent）が、巨大な国内市場を追い風にGAFAを猛追している。",
+      "AI、クラウド、Eコマース、フィンテックなど多様な分野で急速にプレゼンスを拡大。",
+      "グローバルIT市場の勢力図が変化する中、日本企業はこれらの新興勢力との競争、あるいは協業の可能性を検討する必要がある。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "aVhpUGZPWU4%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "NECが新入社員に年収1000万超：グローバル人材獲得競争の激化",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3nkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
+    "importance": "A",
+    "summary": [
+      "NECが新入社員に年収1000万円超を提示し、グローバルな人材獲得競争への焦りを示した。",
+      "これは、AIやDX分野で世界的な競争が激化し、優秀な人材確保が企業の成長に直結するためである。",
+      "日本企業全体で、給与水準の引き上げや魅力的な職場環境の整備が、優秀な人材を引きつける上で不可欠となる。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "FRoaVJsbzA5%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "三井・三菱グループが競う宇宙スタートアップ投資：3年以内に上場相次ぐ熱風",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpbFh1Vm5TYVpOa1kxdlRRclhZenJHcEU1RFBwVWRiSDEyTHhVUW80aTllaVViMFA1b2xKTGp0VWdwSnB4NllLb28zX0nSAU9BVV95cUxPVm52ZzZMWVNaT19CbEdqWDFxNmpKRVlPckYzbkhhRUhfb1AtX2lMQld0WU1PNFIzU1FNRFY0Y1ZkcVhEMmxiUmNBZVFPWGtv?oc=5",
+    "importance": "A",
+    "summary": [
+      "三井、三菱グループが宇宙関連スタートアップへの出資を競い、3年以内に複数社の上場が予測されている。",
+      "これは、政府の宇宙戦略と民間の技術革新が融合し、新たな巨大市場が形成されつつあることを示している。",
+      "日本経済にとって、宇宙産業は次世代の成長エンジンとなる可能性を秘め、大手企業とスタートアップの連携が加速するだろう。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "mNBZVFPWGtv%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "日立の時価総額20兆円超えの要因：ファストリ・キーエンスとの決定的な違い",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WY3JEZmhRZUJwMVloZ1JxV0R5MUlUdTE5bVNPVWNMMHl6SDEzSmpRc1o0T1VxaUZuYmpOajB0NHFTdWJvYlNPVWJNenbSAU9BVV95cUxOcGFUb3V2aEpOV2pReUl1OG45eWtoWDByNEZ4VlJPWXB1c01xZHUyZzdQOWxVc3FjNzNLaGxMRnhzRV85R2VxOTliUnJkRXFv?oc=5",
+    "importance": "A",
+    "summary": [
+      "日立製作所の時価総額が20兆円を超え、その成長要因がファーストリテイリングやキーエンスと比較分析された。",
+      "日立は、デジタル変革（DX）を軸にした事業構造改革とグローバル市場でのソリューション提供で成功を収めている。",
+      "この事例は、重厚長大産業がデジタル化を通じて高収益企業へと変貌できる可能性を示している。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "TliUnJkRXFv%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "企業トップにCFO経験者が重用される潮流：トヨタ新社長・ソニー事例から分析",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDRtaTRkNjNRaV9Cb18xdmNvNlRjUVhFM2dYVXdzUnA1SDZyUjBva2hOalp5ZVNJdmF2ckJ5bHVBOUhEMjZLOFBUSFROY01NRGxGY0puNmRMQVdxalQ0NG41cTRoOXl2ckxRcnhNUFNjWVFseWVWTWlaVVZXWHFxYlBGaXdrbHNfSUE?oc=5",
+    "importance": "A",
+    "summary": [
+      "トヨタ新社長やソニーの事例に見られるように、CFO（最高財務責任者）経験者が企業トップに登用される潮流が強まっている。",
+      "これは、不確実性の高い時代において、財務規律、リスク管理、資本効率を重視する経営が求められているため。",
+      "企業は、財務戦略と事業戦略を統合できるリーダーシップの育成・登用が、持続的成長の鍵となると認識すべきである。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "aXdrbHNfSUE%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "トヨタ・ソニーの中国戦略：現地化とウィンウィン協力を推進",
+    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1oUVRlNmtiM1c0cFJBTDJMVFhJUV8taFJQOFBZcl83VzB2aThGZWFsRS1Nekx3MU1YVDhz?oc=5",
+    "importance": "A",
+    "summary": [
+      "トヨタ自動車やソニーなどの日本大手企業が、中国市場で現地化とウィンウィン協力を深化させている。",
+      "これは、巨大な中国市場のニーズに合わせた製品開発と、現地パートナーとの協業による成長戦略である。",
+      "日本企業は、グローバル市場における地域ごとの特性を理解し、柔軟な戦略を展開する重要性を示唆している。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "kx3MU1YVDhz%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "Web3の世界戦：日本発プラットフォーム構築へ経済産業省が奔走",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yU201T21oTkFtUHFKeWkxVk41OFdZQVEwZTdTUzd3U3pWRHpHZWVJdjRpUC00aEk3M2o0ZEd2ajdGRjgyWVdORE1nYXkzRlV1RXNmQk53?oc=5",
+    "importance": "A",
+    "summary": [
+      "経済産業省が、Web3分野での国際競争に勝ち抜くため、日本発プラットフォーム構築を強力に推進している。",
+      "これは日本のデジタル経済の主権確保と、新たな産業創出を目指す国家戦略の一環である。",
+      "企業は、Web3技術の動向を注視し、この成長分野における新たなビジネス機会の創出を検討すべきである。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "lV1RXNmQk53%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "国産先端半導体「ラピダス」徹底解説：2031年上場に向け準備順調か",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EZUlwT200T0RMUl94UklDLUFUN0xDbnhCLTdmT0pIblpzVkg5V3RISURUOVNHeUhxQ0hqTmlxU0tlM2RHSEJZM1JPMkh4STRUUnBYVjNn?oc=5",
+    "importance": "S",
+    "summary": [
+      "日本の半導体産業の再興を担う国産先端半導体メーカー「ラピダス」の動向が注目されている。",
+      "2031年の上場に向けた準備が順調に進められており、国家プロジェクトとしての期待が大きい。",
+      "ラピダスの成功は、日本の経済安全保障強化とグローバルな技術競争力向上に直結する重要な要素である。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "TRUUnBYVjNn%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "TSMCの時価総額60兆円はトヨタの倍：半導体産業の構造変化と日本企業",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vNy1aZ1FzU0thNjNCaUkxME94dUdRNDhWZ2ZiSUtNankwbmpaZkQzZ1RKS1BjTG9OcnhWMGE1cXF0UEFkMGhfYlExbGrSAU9BVV95cUxPbFMxV3VNR204RFlxUXNtN2VFaUozSlc2NlZLZEZzX0NTUExhQ3BpUWg4WjZnR2NNcGFwYm9OcjRVMnVvNmRCd0VLcnlRaXow?oc=5",
+    "importance": "S",
+    "summary": [
+      "TSMCの時価総額が60兆円に達し、トヨタ自動車の2倍に迫る勢いを見せている。",
+      "これは半導体産業がグローバル経済の中心となり、その重要性が飛躍的に高まっていることを示している。",
+      "日本企業は、この産業構造の変化を認識し、半導体関連投資の強化やサプライチェーン再編への対応が急務となる。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "0VLcnlRaXow%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均が歴史的急落：円高と米景気悪化懸念が共振し市場を直撃",
+    "url": "https://news.google.com/rss/articles/CBMibAFVX3lxTE4tczM4TE1xMXVCU3F4LWFDWUg0SE5nOG9ZY2gxakwwRWNkRzZiVTB5X2Z6Y1k4MDg2QksyLWRRaFhiLUxxMFo1YnVsOElUQWpOUFB3WmxkUFMtWk42TFhlS1VTUTBQY3ZyUi1iQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価が歴史的ともいえる急落を見せ、市場は大きな混乱に陥った。",
+      "この急落は、急速な円高の進行と米国景気悪化への強い懸念が同時発生した結果。",
+      "企業は、世界経済の連鎖的リスクに備え、サプライチェーンの多様化や財務健全性の確保を強化する必要がある。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "QY3ZyUi1iQQ%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "米景気と為替が日経平均を増幅：想定次第で9000円の振れ幅も",
+    "url": "https://news.google.com/rss/articles/CBMibAFVX3lxTE15VENPTEV2NFJoQ3hlekNTNmdmakQ4SFBGbDlwZ2Z6NGhjejktYjhaY1BvMExDZWdadzI0MGtac0ZUeGRteWtrNWFfVDdVRnUtdi1hTkVLUUY3UUpacWRqUHB1cTZ1ekdrM0NZeQ?oc=5",
+    "summary": [
+      "日経平均株価が米景気動向と為替レートの影響を強く受け、想定次第で9000円もの振れ幅が生じると予測。",
+      "特に米国の金融政策、経済指標、そして日米金利差に起因する円安・円高の動向が市場を大きく左右する。",
+      "企業は、マクロ経済リスクを綿密に分析し、為替ヘッジ戦略やシナリオプランニングを強化する必要がある。"
+    ],
+    "importance": "A",
+    "date": "2026-10-24 16:59",
+    "id": "1ekdrM0NZeQ%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "市川レポート：日経平均大幅安の背景と海外投資家の売買動向分析",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvV1paTWY2dWU4UV9ZLXJEMklfZlR2QTJVbkxTWTQzNW9td0ZFZUhlVVV5ZXdiZTAtVU5hd0steHlCOE1aZGZvbzNKNzVaQXk4eUxiRjl6akhkd3hYbDNVelE3YkpMTl9XeEZoUVZ3?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価の大幅下落について、市川レポートがその背景と海外投資家の売買動向を分析。",
+      "グローバルマクロ環境の変化に加え、海外投資家の大規模な売り越しが市場に大きな影響を与えたと指摘。",
+      "日本企業の経営者は、海外からの投資動向を注視し、資本市場との対話を強化する重要性を再認識すべきである。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "l9XeEZoUVZ3%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均が一時2600円安：米景気懸念と円高が市場に影を落とす",
+    "url": "https://news.google.com/rss/articles/CBMibAFVX3lxTE5ZaTNLaTR2ZXluN3F1akZ1dFAwbnVRRU5mSEZxSk5Ha1pwd19jcEpCR3RPR2lOd0VwcnhySFddeGJCcXVlSFdnbXVlS2VMSF9BWkhJWkJRRlNjTmJaVGE0N0JmalljZTJwN05qSg?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価が一時2600円安の大幅下落を記録し、市場に動揺が走った。",
+      "背景には米国の景気悪化懸念と急速な円高進行があり、投資家のリスク回避姿勢が強まった。",
+      "企業は、グローバル経済の不確実性と為替変動リスクを事業計画に織り込み、柔軟な対応策を講じる必要がある。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "jZTJwN05qSg%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価は8万円へ？市場関係者が強気予測を展開",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamVLUVh5ZHRlY0hwQnkzTkR1RWxmTUVUS1FTaVVRODJ2cUt6MGFVSTBSa2owandIaXZjM2tzdnNyT2hTTFREM1lTWDZPV3pTcG1XVi03TDlNZnAtd0d2cG1ldENBTWJMZnVpWHFKdzh0Nlc3WUJXdWhRM1g2aGJEcXpqY1F6Nko5RVdISDM1QWVHQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "市場関係者から日経平均株価の8万円到達という強気な予測が浮上している。",
+      "これは日本経済の構造改革への期待や企業価値向上の動きが背景にあるとされる。",
+      "投資家は、この高水準目標の実現可能性とリスク要因を総合的に判断し、投資戦略を練る必要がある。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "ISDM1QWVHQQ%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "EIR制度がベンチャーの経営者不足を解消か？ディープテック動向にも注目",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xVTBkZUZrekU5c2NhNE1ycVBYREdKRV9zR2I0MzBIVS1vT3VUYThreGdsOHlKLTR5LXdSXy1JZXIzZ2stYW9hTFFBaEhXOEtWdkU1UHhpWDk3eEY4WWs4?oc=5",
+    "importance": "A",
+    "summary": [
+      "客員起業家（EIR）制度がベンチャー企業の経営者不足解消に貢献する可能性が指摘されている。",
+      "特にディープテック領域では、専門知識と経営手腕を兼ね備えた人材の確保が成長の鍵となる。",
+      "この制度は、スタートアップのエコシステムを活性化し、新たな技術革新を促進することが期待される。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "Dk3eEY4WWs4%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "2025年、経営リーダーが注目すべき20のビジネス開発トレンド",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ac1dXOU5ZS0dienpLLXNhbDhJSTAzQ1JVY2JqazhRWks4RG02dFF5N3FzXzA4SjFLVDFTM3pWM0dyTEd3RGlxTHVsR2RHN1ZhOFRVVnpjSFY?oc=5",
+    "importance": "A",
+    "summary": [
+      "Forbes JAPANが2025年に経営リーダーが導入すべき20のビジネス開発トレンドを発表。",
+      "カスタマーセントリックなアプローチ、エコシステム連携、パーソナライズされた体験提供などが強調されている。",
+      "企業はこれらのトレンドを戦略に取り入れ、市場の変化に迅速に対応し、持続的な成長を実現する必要がある。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "OFRVVnpjSFY%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "2025年のAIエージェント：期待される能力と現実的な課題",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVE4LUFmcmV2MjdtYm80UnJfX2xnUzcwYXhfTnkzZXlRZ3BGZ0xLRG9XMGhmSFFMeUNDSGp3akd3a0Zoc1UwT1NKMXFfZHVzZmgwc1ZVTWFpTDM3SVhNbWFWM2lEa2dEYmV2WW1QNVBTVS1KekpHZGMzMzJEcTFnVnVoM0JZZw?oc=5",
+    "importance": "A",
+    "summary": [
+      "AIエージェントの2025年における期待される能力と、その実用化に向けた現実的な課題をIBMが提示。",
+      "自律的な意思決定や複雑なタスク実行への期待が高まる一方、倫理、安全性、統合の難易度も課題となる。",
+      "企業は、AIエージェント導入のメリットとリスクを慎重に評価し、戦略的なロードマップを策定する必要がある。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "nVnVoM0JZZw%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "先端LLMに潜む「思わぬ弱点」：2月のAI注目論文が警鐘を鳴らす",
+    "url": "https://news.google.com/rss/articles/CBMibAFVX3lxTE9FeDVwRHhIWmduamhaVnRFTC1yX1l0ZWxDQk5KWWtkcUx4U3hsdDRwUVBVbWFFTlB5TGVZRTVvWFBnQWUyaGxMQTVUZzVURnVrMGlHWmsyZFppRTQ0Qm5oczBxcmN2S3hJTEpfNQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "先端大規模言語モデル（LLM）において、共通して観測される予測不能な「弱点」が報告された。",
+      "これはLLMの安定性、信頼性、倫理的リスク管理における新たな課題を浮き彫りにする。",
+      "企業がLLMを基幹業務に導入する際は、その限界を理解し、リスクを軽減する対策が不可欠である。"
+    ],
+    "date": "2026-10-24 16:59",
+    "id": "2S3hJTEpfNQ%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
     "title": "大谷翔平、サッカー日本代表への応援弾出ず：ドジャース逆転負け",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yaWZ0UGZrY01GbFpTS21MZzduYWdsU3hSb2lrci1RNmxGcld3bUZmYWtGUFlGbU4wLTNsWUVDbEJKMm9rbkpRUEdSY1JtSFpJV3dBbnB3UXUzTng3cjJvcE1B?oc=5",
     "importance": "C",
@@ -3638,265 +3898,5 @@
     ],
     "date": "2026-10-02 03:17",
     "id": "RWFONTZ2U1E%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "ロシア勝利は中国に危険なシグナル：フィンランド識者が警鐘",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lWmVMbUlycDBXWWZYSk9hTmx2LVdpR0tUaldWT3VRRFQ4R2hEaUtVTmx1RGVMQlpCc3hlUXJTc01LSEZoc2l5eG1MSmtSU2xWWUJTZkZ5b08zdFZFZ1B5UmpxQm1KdVE?oc=5",
-    "importance": "A",
-    "summary": [
-      "フィンランド識者が、ロシアのウクライナ侵攻での勝利が中国に誤ったシグナルを送ると警鐘。",
-      "国際法に基づかない現状変更の試みが、世界規模の安全保障に与える影響。",
-      "大国間の紛争がグローバルな地政学的リスクを高める可能性。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "UmpxQm1KdVE%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "習近平の「アメリカ戦略」：中国報道官発言から読み解く",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YWFhiR0NqYlNjWjFlTUNrRVY1cHVFRExyZTkyazd3Nm42dkZwRF9TOEFKZGh6cnB4cWY0R3NTR3Y4ald3UTJPVkR6OUJuNkxSWGVIQnZlaVQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "中国報道官の「イランに武器供与していない」発言から、習近平政権の対米戦略を分析。",
-      "米中関係の複雑な力学と、中東問題における中国の立ち位置。",
-      "国際社会での影響力拡大を目指す中国の外交政策の本質。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "WGVIQnZlaVQ%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "ウイグル制裁で中国経済崩壊の可能性：中国が自滅する理由",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LaVUxVHhSQVZzMXh0Zlo0T3JsMDlmR1g1VlB5RkRndTh6a1d3Rklob29jZFNSMjRQdk10RW82akZ6a3JPcThhTWVNRmQwWEVrTDlkYjlKd2JNWkx6?oc=5",
-    "importance": "A",
-    "summary": [
-      "中国のウイグル問題に対する国際社会からの制裁が中国経済に与える影響。",
-      "サプライチェーンの分断、企業倫理、市場アクセスへの影響。",
-      "人権問題がグローバルビジネスに与える地政学的リスクの分析。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "jlKd2JNWkx6%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "中国発格安越境通販の規制動向：国際ジャーナリストが解説",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTXN6Ul95YzRHSHJLZHlJRnVQTFFRZWFGdm0wSXR1a1A5T0ZXaVNDTVdZNlFGNW5sOTk1MFhnLXpkSnoyZ3Z1Z1JzVVNRNms?oc=5",
-    "importance": "A",
-    "summary": [
-      "中国発の格安越境通販（Temu, SHEINなど）に対する国際的な規制の動き。",
-      "個人情報保護、知的財産権、労働問題など、多岐にわたる課題。",
-      "越境EC市場の将来と、グローバルな消費行動への影響。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "Z1JzVVNRNms%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "中東情勢緊迫化：イラン最高指導者死去と国際社会の反応",
-    "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNSV9QX3FyOGhqWl9TOVNTajl5b3p6Z0RsYXRVbm10RVVtUVVWcjdzay00aFdCME1UT1VXaEc1ajR4bHBodG9kcmR0SU9ocUR4QmJyUGlEUndIakF2ZHE2bVluTmNnbkJfbTdsb1AxOXI4WkZjclpWY0tCRGtuRFdRWDd0RXFnNnRwSEczWnJxVEx3cXBxbFU3WE1FcW9fdmIwVjlkSS13VGlQQWlaSk14cm81UHBmdDRnM2Z4MVp5ZGU5NmhsbHB1UmgxcGR2ZUxZM3JhZExteWNTNFNjVkw5QVdobFZKS2VXbzFVU280eWhBdzc4M192SWdnUkRxNFVVSWVrcnpXQzM3U0c1U1lOaXhyUVMydGNNQnB6RUxnRTFrQWozWHFpaTd6WFJlN0psU3RydXYzX1VUb3o3c0h0cW9hVjlBOVd2Tm1VM1l2UkRhLVo0RmhvVnFtZ19PQUF2dmdPbWc3SHJLVGljR3JkUFRfZWNaS0ppM2Q4MHZOQlVjalRVaG5KQUhiYVFVeDhDUUlZblBXajkwVTFkMi1CUEMtNl9jLWtMWFZVSG95N1BJLWx3SWdqLVk5R1J0aUROQjNjNmRQREFoLUg4UHpLNlR4YlFTcUVyVjVFZE5DTUt3UQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "米国とイスラエルによる攻撃が続く中、イラン最高指導者の死去が報じられる。",
-      "各国首脳は情勢のさらなる緊迫化を警戒し、慎重な反応を示す。",
-      "中東地域の不安定化が、原油市場や国際政治に与える影響。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "FZE5DTUt3UQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "アマゾン「最強の錬金術」：ベゾスが遺したキャッシュ創出の仕組み",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4QzhRRlh5RHMwaXRsc0RPaU44UEpiVVlDOXVHY3FIaWc2UkpiQ3lJZmRzTkg0VkgwbUNzWVp1QWRfQnRqekNtYzBCYlDSAU9BVV95cUxQd05LT0gwejRPR2NCbHNCR2QxZ1lpUFZ2YW1VTi04bHRvNXNLM2RMUndBeElnbjRyMHlmeTdLaVRsZ1RQbmt3NEJZYnR6UHRz?oc=5",
-    "importance": "A",
-    "summary": [
-      "アマゾン創業者ジェフ・ベゾスが構築した「最強の錬金術」と称されるキャッシュ創出の仕組み。",
-      "収益を事業再投資に回し、さらなる成長を加速させるビジネスモデル。",
-      "Eコマース、クラウドサービスなど多角化戦略の成功要因を分析。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "EJZYnR6UHRz%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "フェイスブック成長鈍化：メタバースは救世主となるか？",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNThOX0IwTmd5TnVKcEdxdDROZUZSMjA4UnNWVmJhd0FnUFhwendvU2sxMm5VX2Q1WEt0dGFHZmpIRTZ3TC1aZm1sZmFmeHZYQ3A1NHpieHVQUXRFUG5HczRFdTBpc0FOSVpyT3ItNVoybWxyZUhaSjkzU3VkZVk?oc=5",
-    "importance": "A",
-    "summary": [
-      "フェイスブック（現Meta）の成長鈍化が顕在化し、新たな収益源が課題。",
-      "同社が巨額投資を行う「メタバース」戦略が、企業を再成長させる救世主となるか検証。",
-      "次世代インターネット技術への投資リスクと、市場の期待・不安。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "SjkzU3VkZVk%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "GAFAが半導体メーカーに参入：生成AIが生む新市場と日本勢の商機",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zbXRZTkRuUmlERGxsQXl5RTB4SVBDS0lwaERsc1pOdXJQQlR6R1pjZmRXYmphdUtYd1Z2NExPY19lTWUxclF3alVhR2xCLUZiSGJCSWt6WFpjMmNlUzJaMUZCbjVVdW8?oc=5",
-    "importance": "S",
-    "summary": [
-      "生成AIの急速な進化により、GAFAが自社で半導体開発・製造に参入する動き。",
-      "新たな半導体市場が生まれ、高性能AIチップの需要が拡大。",
-      "日本の半導体関連企業にとって、サプライチェーンにおける新たな商機が到来。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "MUZCbjVVdW8%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "GAFA出身者ベンチャーの挑戦：企業データ活用の未来",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XaW5ja1NsLS16UDlRaXN1c3hmmDBvNVNVUmRrdkpPeHFqYXlwS3BLdjJ1aDJacER5UGlibllBNi1zYnZlcUgzYThlLWZTODlGY0lBRXVWcXdWQQ?oc=5",
-    "importance": "B",
-    "summary": [
-      "GAFA出身者で構成される異色の注目ベンチャーが、企業データ活用の未来に挑む。",
-      "大手IT企業で培われた知見と技術を活かした、先進的なソリューション開発。",
-      "データドリブン経営の推進と、新たなビジネス価値創造の可能性。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "BRXVWcXdWQQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "ヤフーとLINE統合：マーケティング識者の見解と市場影響",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EbFR6Nk9aZTdZbFpnbmk1OTIzbHJmSUVRdVBwVGpUVWFvSTgtRXloRWdqYWZZVXZWTkQ0YzVjMUl2Y1Y2d3p1ZjdkVEFrZw?oc=5",
-    "importance": "B",
-    "summary": [
-      "ヤフーとLINEの経営統合が日本のマーケティング業界に与える影響について識者が分析。",
-      "巨大プラットフォーマーの誕生が、広告市場や消費者行動にどのような変化をもたらすか。",
-      "データ統合による新たなサービス開発や競争優位性の構築。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "1ZjdkVEFrZw%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "ヤフーとLINE統合の真意：「GAFA対抗」ではない新生ZHDの変革",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYWDFZQzBZcXYybFhXR3ZwTzN2UC1EYXo4Y25XRi1xSjRqWXVQc1JuQWYxdUtyTVYxMXJqZ2Rta1ltdW1CaEdaMjlkdmZKTXpkN0J3NUY2QTNqajItSDNPbWdIS3QzSVBMX1JnQjJWZnZudw?oc=5",
-    "importance": "B",
-    "summary": [
-      "ヤフーとLINEの経営統合は、単なるGAFA対抗ではないという識者の見解。",
-      "新生Zホールディングスが日本のデジタル市場をどのように変革するか。",
-      "国内プラットフォーマーとしての新たな戦略と競争環境への影響。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "nQjJWZnZudw%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "自動車産業で外資・中国企業協業が拡大：CASE領域の異業種連携",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR284TFpRLXFDUE1ma195RGRhcHBIQXRJV1Btem9KZlMza1FNNjIwMko0QmxPeFZhQkVFVW5zWm00SGZOUzNIQ251aWJpMVV6M1c3V3dhQklmU3c0bVdWeUxTczlmdWZRMExHY1pSOWo1cGhHbVlCeVZmNTBOVFV1Y2M2cTJWdw?oc=5",
-    "importance": "A",
-    "summary": [
-      "自動車産業のCASE（コネクテッド、自動運転、シェアリング、電動化）領域で異業種間連携が加速。",
-      "外資系企業と中国企業の協業が特に拡大し、競争環境が変化。",
-      "新たな技術革新と市場ニーズに対応するためのグローバルな提携戦略。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "1Y2M2cTJWdw%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "アフリカにおける日本企業の進出動向（2025年9月）",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkc29JazhDSVYwQWd5V3h5YVl6YmFzNzBTVi14eGFBcFZnbmpMeDRQZ0hZeC1Kb3BwSVBNR011cWRYaXNvSW1zOXVqMmtldU84NHpRQmJWVkItelZ3WlE?oc=5",
-    "importance": "C",
-    "summary": [
-      "アフリカビジネスパートナーズによる2025年9月時点の日本企業のアフリカ動向。",
-      "過去のデータを通じて、進出企業のトレンドや主要分野を分析。",
-      "長期的な市場分析のための参考情報を提供。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "VkItelZ3WlE%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "SDV×AI時代のサイバーセキュリティ：J-Auto-ISAC主催ウェビナー",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16SFF5SGdwdTAtM21SUVZ4UTVCV0ZTNjF1c3JTbmxFZmRiZi1zUGs2ckNYZ0JvWXkydWJKUVVpT1JNUTlKdkNITHhGOWs1bFdScENuS3p0NXRpS0RGekZodFpaRzR6a2Q4WWc?oc=5",
-    "importance": "B",
-    "summary": [
-      "J-Auto-ISAC主催のウェビナーで、SDV（ソフトウェア定義型車両）×AI時代のサイバーセキュリティを解説。",
-      "マツダ、ホンダなど自動車メーカーのエキスパートが集結。",
-      "自動車産業のデジタル化に伴う新たなセキュリティリスクとその対策。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "RzR6a2Q4WWc%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "コンサルティングサービスの日本市場予測（～2031年）レポート発表",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uc2tZQ3Myek9XRktYZWJ6TTVBQ2NwSHR3ZzFKWTBSWVF6R3k5SlNneUtsR0o3d0cwb1pXMDJ2VkdmWVR3WExV?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本市場におけるコンサルティングサービスの市場規模予測レポートが発表。",
-      "業務、財務、戦略コンサルティングなど各分野の成長トレンド。",
-      "2031年までの市場拡大予測は、関連企業の戦略立案に重要。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "kdmWVR3WExV%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "キオクシアのレバレッジETF米上場推進：日本株市場に変動性ショック懸念",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PZEkwbmtmRUhvUTdRYlRrMUlfNC1CaEZnLTRQS3B2WmxZYjFkQXVIVUt1akNGVjNLWExJbWxKRWNiMGkxQ0E3d0g1UktsWVVfQlUzTkoxelQ4bFdpNmo1X0JGN3dyRFBxUXlBVnhHQ0xVdThj?oc=5",
-    "importance": "B",
-    "summary": [
-      "キオクシアのレバレッジ型ETFの米市場上場推進が報じられる。",
-      "これが日本株市場に新たな「変動性ショック」をもたらす可能性が指摘。",
-      "個別企業の金融商品動向が、市場全体に与える影響に注目。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "nhHQ0xVdThj%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "自動運転関連銘柄：注目の米国株・日本株まとめ",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ydm03QURBSmhORlpIREtsOXBxSG9TWTVQQXhjT3lUR1FvWDcteHE4QjFYTFp5akpvRVY0NHdNVklIVVVpYk02UnZ6eUdwV3YzWXdSZkMtUnRrbUFHYmRDSw?oc=5",
-    "importance": "B",
-    "summary": [
-      "自動運転技術の発展に伴う注目銘柄を米国株と日本株で紹介。",
-      "自動運転市場の成長性と、関連企業の技術開発動向。",
-      "投資家にとっての自動運転分野の魅力を解説。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "rbUFHYmRDSw%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均反発、景気敏感株が堅調でTOPIX最高値更新",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWWp1RmZQRUJKYmMzZVhmNkRUc3lpZzFQWTRQU0lEQmNxS1FsSlNBNk5kSV9vRTB0Uk1KZkJqcEpaT0dnTlpyMVFSOEtFeGtzSnh6clltQm1aLTFLdGhHV2RJS2haTU1WQnJScVZPdTR1TlVjcmVVZTdzV1NzTlhFc1JmNUpCdw?oc=5",
-    "importance": "B",
-    "summary": [
-      "日経平均株価が反発し、景気敏感株が堅調に推移。",
-      "TOPIX（東証株価指数）は再び最高値を更新。",
-      "市場の底堅さと、特定セクターへの買い意欲の強さを示す。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "Fc1JmNUpCdw%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "円高でも日経平均は堅調？景気・企業業績の良好さを分析",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqanIyZC1DUVczVFVCU1Jya0JhVWhHUEtaYXVkbVowT0lrRDd1enNPdVBRZldiZDhZMExLRGVELWZJT1RQbUtEcFN3M0NObnpjS0duYVJlNnp3Zw?oc=5",
-    "importance": "B",
-    "summary": [
-      "円高が進行する中でも日経平均株価が堅調を維持する背景を分析。",
-      "良好な国内景気と企業業績が、株価を下支えしていると指摘。",
-      "為替変動と株価の複雑な相関関係と、日本経済の底堅さ。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "uYVJlNnp3Zw%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均続落、半導体株安もTOPIXは上昇：午前の市場動向",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdE1EQ0VfVnAtcTh0NFlKa1BEaWRWSnlZNllYaXRuUlJhXzhBTWhKLXNhUTNGdmlsYVNIZnNBLXNLNC02M0sweFdpS2JVQmFDT282Y29VWk03dHFlamU5OVhFRHREbXZWTmFGTEdkRmRWTXZ3R2FsYjJVRlhlcGdzU0xRVHRfZw?oc=5",
-    "importance": "B",
-    "summary": [
-      "午前の日経平均株価は続落、半導体関連株が下落を主導。",
-      "一方で景気敏感株が買われ、TOPIX（東証株価指数）は上昇。",
-      "市場全体の健全性と、セクターごとの強弱が混在する展開。"
-    ],
-    "date": "2026-10-02 03:17",
-    "id": "zU0xRVHRfZw%3Foc%3D5"
   }
 ]
