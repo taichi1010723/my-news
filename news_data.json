@@ -1,5 +1,61 @@
 [
   {
+    "category": "스포츠",
+    "title": "スポーツビジネスの未来：大谷翔平級の選手育成と市場の多様性",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84SjVPU1dGR2pMaEYwTWgtUlJKczA3MUh4VHFtellNX2NuRXFoUUpjdmpxc0h4TDZKSFNNU3Z6Um9hS1V2emJ3aTdQSzlfeEdDMUxITi05anQ?oc=5",
+    "importance": "B",
+    "summary": [
+      "セルジオ越後氏が「サッカー界に大谷翔平級の選手がいない理由」を語り、育成システムに課題を提起。",
+      "子どもに野球を習わせる価値に関する専門家の見解は、スポーツ教育のビジネス側面も示唆。",
+      "武井壮氏が本田圭佑監督誕生を熱望するなど、既存の枠にとらわれない人材活用が求められる。",
+      "多様なスポーツイベントやコンテンツが提供される中で、いかに新たなファンを獲得し、市場を活性化するかが鍵。"
+    ],
+    "date": "2026-10-27 10:18",
+    "id": "MUxITi05anQ%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
+    "title": "大谷翔平の市場価値：北米No.1アスリート選出と1100億円契約のビジネスインパクト",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5a0lRZmRMTEFaUXNHU2RuX2s0WEstOGwyUDFaLXJBNndTZlhGSV80cVBodDZmUUExcTlQMEt4d3g0VUdScXhn?oc=5",
+    "importance": "A",
+    "summary": [
+      "大谷翔平選手が北米No.1アスリートに選出され、1100億円の契約価値を持つことが再確認された。",
+      "これはアスリートのブランド力と経済的影響力が極めて大きいことを示す事例。",
+      "大谷選手クラスのスター選手は、スポーツ市場だけでなく、広告、メディアなど広範なビジネスに多大な貢献。",
+      "日本国内でサッカーの「国技化」提言が出るなど、スポーツ市場の競争と成長が注目されている。"
+    ],
+    "date": "2026-10-27 10:18",
+    "id": "3g0VUdScXhn%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAのインフラ戦略と市場への影響：データセンター建設と電力需要の増大",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yMlFBWmF1cjhBajJ4UUFSZjZ1X2ZPbllzak5iMXZIeHJuY1g4eUFiR2o5WUNPR3pBZExzRVk1MkhsSGoyUDljMFBTSDBoandxNlF2QW4xQVRBNFNGemJVRDJhTDE?oc=5",
+    "importance": "A",
+    "summary": [
+      "GAFAがデータセンター建設を急ぎ、先進国での電力需要が大幅に増加している。",
+      "「発電所一体型」データセンターの面展開など、巨大IT企業はインフラ投資を加速。",
+      "この動きは電力供給、環境負荷、地域経済など広範な社会問題に影響を与える。",
+      "データセンター建設は、デジタル経済の基盤を支えるが、持続可能性の観点から課題も。"
+    ],
+    "date": "2026-10-27 10:18",
+    "id": "emJVRDJhTDE%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "巨大テック企業間の生成AI提携：Microsoftとメタの連携が示す業界再編と成功の鍵",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13NnFjX1oyOGItZnFOQXhxbURMeUR3WUxueWhYc0otOTZyZFBOYjI3cVc2NGZYOXpZellaYm5HX3lONlhXWFJFU3dibDVLSUJYX2ZWY0tKei1pRjJnd3pGbDlUZURRNUU?oc=5",
+    "importance": "A",
+    "summary": [
+      "Microsoftとメタが生成AI分野で提携し、巨大テック企業間の合従連衡が加速。",
+      "この提携は生成AI市場における競争環境を大きく変化させ、各社の戦略に影響。",
+      "技術進化の速いAI業界では、提携の「成否の分かれ目」が今後の市場動向を左右する。",
+      "LLMの技術的限界が指摘される中、新たなアプローチや「1ビットLLM」のような効率化技術が注目される。"
+    ],
+    "date": "2026-10-27 10:18",
+    "id": "bDlUZURRNUU%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "若年層のスポーツ選手人気調査：大谷翔平が4回連続1位、多様化する関心",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDVudHhWZU14dnN3UGZteDR4VHdhTnBPUHR5M1FYdWNaV3k0WlFZbzlKYWoxc1ZxVktybmhIN1_0M2dBU0NCR3MtdkFnVllPY2xrTWI3eGR2MUJNblFOR1prLVZkNDNCNjlTSnQtMEVzcmIxd1NzdWJwQ2wtTUQwME1RcU42M2NKRnM0eDByc0xVelo5VEE?oc=5",
@@ -3846,57 +3902,5 @@
     ],
     "date": "2026-10-04 00:58",
     "id": "semiconductor-record"
-  },
-  {
-    "category": "テクノロジー・ソフトウェア",
-    "title": "SaaS企業B社、AI活用で顧客データ保護を強化する新セキュリティ機能導入",
-    "url": "https://example.com/saas-security",
-    "importance": "B",
-    "summary": [
-      "SaaS企業B社がAIを活用した異常検知システムとエンドツーエンド暗号化による新セキュリティ機能を導入。",
-      "機密情報漏洩リスク低減と企業ユーザーの信頼性向上を目的とする。",
-      "巧妙化するサイバー攻撃に対し、企業におけるセキュリティ対策の喫緊性を改めて示す。"
-    ],
-    "date": "2026-10-04 00:58",
-    "id": "le.com/saas-security"
-  },
-  {
-    "category": "自動車・産業動向",
-    "title": "新興EVメーカーA社、欧州市場へ本格参入 - 既存メーカーに競争激化の波",
-    "url": "https://example.com/ev-expansion",
-    "importance": "A",
-    "summary": [
-      "中国の新興EVメーカーA社が欧州市場への本格参入を発表、手頃な価格と高性能EVで攻勢。",
-      "EUの2035年内燃機関車販売禁止方針が追い風となり、現地充電インフラ企業との提携も推進。",
-      "既存自動車メーカーは新たな競合の台頭により、市場シェア争いと競争激化に直面する。"
-    ],
-    "date": "2026-10-04 00:58",
-    "id": "ple.com/ev-expansion"
-  },
-  {
-    "category": "金融・マクロ経済",
-    "title": "日銀、大規模金融緩和策の一部修正を検討か？市場に早期利上げ観測浮上",
-    "url": "https://example.com/boj-policy",
-    "importance": "S",
-    "summary": [
-      "日本銀行が次回の金融政策決定会合で、大規模金融緩和策の一部修正を検討しているとの報道。",
-      "イールドカーブコントロール柔軟化やマイナス金利解除が焦点で、市場では早期利上げ観測が高まる。",
-      "為替・株式市場への影響が懸念され、企業の資金調達コスト上昇や円高への対応が喫緊の課題に。"
-    ],
-    "date": "2026-10-04 00:58",
-    "id": "ample.com/boj-policy"
-  },
-  {
-    "category": "テクノロジー・AI",
-    "title": "Google、新生成AI「Gemini Ultra」発表、全産業でのビジネス変革を加速",
-    "url": "https://example.com/ai-gemini-ultra",
-    "importance": "S",
-    "summary": [
-      "Googleがテキスト、画像、音声など多様な形式を理解・生成する高性能AIモデル「Gemini Ultra」を発表。",
-      "企業向けAPI提供により、顧客対応、コンテンツ生成、データ分析など幅広い業務での活用を推進。",
-      "AI市場の競争激化と、製造・医療分野など専門領域での応用による産業構造変革を予測。"
-    ],
-    "date": "2026-10-04 00:58",
-    "id": ".com/ai-gemini-ultra"
   }
 ]
