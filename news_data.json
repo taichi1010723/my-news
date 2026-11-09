@@ -1,5 +1,83 @@
 [
   {
+    "category": "世界情勢",
+    "title": "EUと米国の貿易摩擦再燃：協定停止と金融市場への影響",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzVzB0RXZDOGhYclFtWUVPemNfU3VPVmlKVDJFR18tNC1TZkxoMWdTaDBjcGVRUzN6akZ5ajdyMFlFWjVQM2tPX2R3OUhfTk5HY2hIVlNiOW40aTRJX0530gFkQVVfeXFMTzk1Ymp6bThpSGhNTkVWY1hkMEx1WTNwcjh0YWFieXlJcjlSSWVVNm9ETGVxb2tNdVRzQi16SDZKWUFHX2drNTVlamlRLVppd1RlQzBONEFFT2Q2X1RxVHN4Uzh4YQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "EUがアメリカとの貿易協定承認を停止する動きを見せ、両経済圏間の貿易摩擦が再燃。",
+      "この対立は金融市場の下落を招き、グローバル経済の不確実性を高めている。",
+      "企業は、貿易政策の変更がサプライチェーンや輸出入に与える影響を注視し、リスク対策を講じる必要がある。"
+    ],
+    "date": "2026-11-10 07:07",
+    "id": "xVHN4Uzh4YQ%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "激動の国際情勢：米中対立、中東不安、日本外交の課題",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yZ19lZE5leWw0c2J0SDhsYU12SmNOajQtY0tVMXppSUVBS25MTG9ZbWx5dERlM1Bkb3RkS1RUSU03NnYzaDg5NFl5VFRNWUZXeTZnekZR?oc=5",
+    "importance": "S",
+    "summary": [
+      "米国の政治情勢（トランプ「レームダック化」）が世界秩序に影響を与え、日中関係も改善の兆しが見えない。",
+      "中東ではイランの勢い増強とイスラエルへの米軍事支援打ち切り懸念が地域情勢をさらに緊迫化。",
+      "企業は地政学的リスクの高まりを認識し、サプライチェーンの多様化やカントリーリスク管理を強化する必要がある。"
+    ],
+    "date": "2026-11-10 07:07",
+    "id": "UZXeTZnekZR%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "日本企業の競争力：特許の強みとAI分野の課題",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fMWpZbkU0THh4LWt0NjMzWXQ0RTV1Unhnb01wdVRsNGoxWHF6cGVmbVpZQ2d6dGRQR0c2ZnBZSDd4QXExYWE4VUlPZnZYX1VWRDVVejE4UG1rVDRqSFBfbDJjeFhZVmVj?oc=5",
+    "importance": "A",
+    "summary": [
+      "トヨタやパナソニックなどが日本企業の特許ランキング上位を占め、特定の分野での技術的強みを維持。",
+      "一方で、成長著しいAI分野では日本企業の特許出願が相対的に弱く、競争力低下のリスクが浮き彫りに。",
+      "AI技術への戦略的投資と研究開発の強化が、日本企業の国際競争力維持に不可欠。"
+    ],
+    "date": "2026-11-10 07:07",
+    "id": "DJjeFhZVmVj%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "円高下でも株価上昇の条件：内需と産業力の強化が鍵",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOTWMxNG9DM2lzM3NIVkhadTlJNkFXWXhvQmZBcGd6Tkp3d3ZzMHBQMVFvdXZWV3dZbFFPdGJldFVTcEg1cjFLUG8wNVp3WkV3d0dPaXBhQVFqZzFITVBiNXZ4Y3E4VXlpZXFwSQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "過去の「いざなみ景気」が欠いた内需と産業力の強化が、円高局面でも株価が上昇する条件と指摘。",
+      "現在の日本経済は、製造業の海外シフトや技術革新の遅れにより、円安に依存する構造に。",
+      "企業は国内市場の活性化と高付加価値な産業構造への転換を進めることで、外部環境に左右されない成長を目指すべき。"
+    ],
+    "date": "2026-11-10 07:07",
+    "id": "4VXlpZXFwSQ%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "中小企業経営に必須のスキル：バランスシート（B/S）を読み解く経営力",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTndOWFlSVkpqMUJQaUMzckVjajVPSzh2RUdlZXlYQ1A2N1FyTjJmZG5nVDZIVVo0Y3pJYVVXTTlNQzNHRnJMdDJfOG81SlNiOGJ2UV9tNEpjWFdQY2NUOE1UREhKQ1VSeUh2OGowS1FXSjNjT2ppTlNjMV9QWlZSQVZTREpMOVE0MWNWajFxMjFuMmc?oc=5",
+    "importance": "A",
+    "summary": [
+      "中小企業経営者にとって、企業の財務状況を示すバランスシート（B/S）を正確に読み解く能力が必須。",
+      "B/S理解は、資金繰り、投資判断、リスク管理など、健全な経営判断の基盤となる。",
+      "財務状況を可視化し、早期に課題を発見することで、企業の持続的成長と安定化に繋がる。"
+    ],
+    "date": "2026-11-10 07:07",
+    "id": "ajFxMjFuMmc%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIブームの転換期：GPT-5ローンチ失敗と企業におけるAI活用成果の課題",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5eDVDVkNHS1Y5ZEZDS1F0OWlIU3hjNlFJQzNQUFotOEg1X2ZjOFd2dzVwWGY?oc=5",
+    "importance": "S",
+    "summary": [
+      "最新のGPT-5ローンチが失敗し、AIブームが転換期を迎えている。",
+      "企業の95%がAI導入で具体的な成果を出せておらず、技術の実装と活用に課題が山積。",
+      "過度な期待から現実的なAI戦略へのシフトがビジネス界に求められている。"
+    ],
+    "date": "2026-11-10 07:07",
+    "id": "OFd2dzVwWGY%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "大谷翔平が一日で動かした4.7億円：ブランド力とマーケティングインパクト",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RcDlsQW9FZkM0Yk9VRG5tTTlaSFBtd0d3Q09QUlR0WHNvUkJUT2k4bkNHalhzX1NudE9JYUxiMGx0UWlHdkZZ?oc=5",
@@ -3824,83 +3902,5 @@
     ],
     "date": "2026-10-20 17:20",
     "id": "TzRSR3R0UjQ%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "グローバル人材獲得競争激化 – NECも新入社員に年収1000万超",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fMU43WFAyVDdzX3pqbmlMaEtndU5yVU94aFVrS241Zzl0TjV6SGh5ZUprUWpkQTUxdzN0U2U1aVktT2ZDNjJpSUFISHM1TkdROHJGWG5UM2dYZ1lGQzJaRFF6SEd2QUFQLWVFWEhVaDRXUkt5T1HSAXxBVV95cUxOckRXbUFFcDJ0TTFzTEs3Q2hIZEJvSVdDM1NUa0FJY3FGNGRIZFU0MWQ2Wm9xWDl2UUtfaDhKQUYtcS04eWMzbG80ekJyYXFfUm5QWG5OQmNqUWp1eHdYcVMwN3VKZDM3bkYtN0xTa3JVbE8yTFRoaVJsbzA5?oc=5",
-    "importance": "A",
-    "summary": [
-      "NECが新入社員に年収1000万円以上を提示するなど、グローバルな人材獲得競争が激化。",
-      "特にAIやデータサイエンスなどの高度なスキルを持つ人材は世界中で争奪戦になっている。",
-      "日本企業は、賃金体系や働き方改革を含めた抜本的な人事戦略の見直しが喫緊の課題。"
-    ],
-    "date": "2026-10-20 17:20",
-    "id": "FRoaVJsbzA5%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AIの電力消費問題 – グリーンAIから「Green Micro AI」で解決へ",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dlIzMThabFV0UlYzdXBiQWotbVRYLUtnTE5rT0tQSGJ5VDNBak0telNnTmstSGNOUThCVnlrcXdXTUNvb0VBb05jOTZ6ZERqY0Fyd250RlpVYVZxY2JB?oc=5",
-    "importance": "A",
-    "summary": [
-      "生成AIの急速な普及は膨大な電力消費を伴い、環境負荷と運用コストの増大が課題。",
-      "「Green Micro AI」は、より省電力で効率的なAIモデル開発を目指すアプローチ。",
-      "AI技術開発や導入企業は、持続可能なAI運用のため、エネルギー効率の高いソリューションを検討する必要がある。"
-    ],
-    "date": "2026-10-20 17:20",
-    "id": "lpVYVZxY2JB%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "中国「一帯一路」の岐路：ヨーロッパで暗礁、インドの反応",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84UWZVajVuZG1fcW9UMkplU3VOMVBhWFBhNnA3M3hrRE11ZFRoVjJaNG94VWR2Rko1clJrdm1MYUZUcGlUUTV2SXhGdUFUbTlLV3lmTzRSR3R0UjQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "中国の巨大経済圏構想「一帯一路」がヨーロッパで暗礁に乗り上げ、インドも距離を置く現状が報じられています。",
-      "米中首脳会談を前に習近平が外交マラソンを展開しており、中国の対外政策の転換点が窺えます。",
-      "「一帯一路」に関連するインフラ投資企業や貿易企業は、プロジェクトリスクと地政学的な変化を慎重に評価すべきです。"
-    ],
-    "date": "2026-10-20 09:59",
-    "id": "TzRSR3R0UjQ%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "イラン戦争が激変させた国際関係：米欧中露日の五角関係とエネルギー市場",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50N1plNU40UjZndGlnV0JTdWM0MXpXR0MyRUozNWl2YWliVmpPOGhoOHhqVW5adWJneHB2aElVYTBvMk1LZnhXMGFKMks5WWROcE52bmpB?oc=5",
-    "importance": "S",
-    "summary": [
-      "イラン戦争の激化が、米国・欧州・中国・ロシア・日本の五極関係に大きな変化をもたらしています。",
-      "ロシアの中国依存が高まるリスクや、国際的なガス・原油市場の需給バランスへの影響が懸念されます。",
-      "企業は、中東情勢の動向を注視し、エネルギー価格の変動やサプライチェーンへの影響を評価すべきです。"
-    ],
-    "date": "2026-10-20 09:59",
-    "id": "WROcE52bmpB%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "デジタル経済課税の課題：GAFAが回避する24兆円の負担",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XOWp1dmdkRVZrRG5JVXFnOUJEcWJDLVd1YmU3YXF2Q0VzRWlVSm1raTV0OGw1UHNNQXFBamhma3B6OC00b3pRSVc5Yk5fOVppR3p5cw?oc=5",
-    "importance": "S",
-    "summary": [
-      "GAFAがデジタル経済において約24兆円もの法人税負担を回避している問題が指摘されています。",
-      "各国はデジタル経済への課税ルール構築を進めており、国際的な税制改革が喫緊の課題に。",
-      "多国籍企業は、今後の国際課税ルール変更に備え、税務戦略の見直しを急ぐ必要があります。"
-    ],
-    "date": "2026-10-20 09:59",
-    "id": "fOVppR3p5cw%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "AI時代のブランド戦略：カンヌライオンズが示す「3つの覚悟」",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10RGx4WVFxbzFDQ0htU3liV2Fzck14cTd2ZTN2MHEzeF9qLVlVV3dEeXY5VEZST1VzMWh6LUpRdlQtV3hSVWRxMWxfTG1rbTNOb0pZWnQ0TUk?oc=5",
-    "importance": "A",
-    "summary": [
-      "カンヌライオンズ2026のレポートで、AI時代にブランドが持つべき「3つの覚悟」が提示されました。",
-      "AI技術の進化がマーケティングとブランディングのあり方を根本から変えつつある現状を指摘。",
-      "企業は、AIとの共存を見据え、倫理観、創造性、適応力を強化する戦略が不可欠となります。"
-    ],
-    "date": "2026-10-20 09:59",
-    "id": "b0pZWnQ0TUk%3Foc%3D5"
   }
 ]
