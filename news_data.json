@@ -1,5 +1,31 @@
 [
   {
+    "category": "世界企業情勢",
+    "title": "巨大IT企業GAFAの倫理的課題と社会への影響",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUdFBobE50MTJRX0N6aDN4bzMxdl9mRThGRThKRnVaeFNLdWNiMHJtMHA2dkw1bC0tVzByampXVmQxa1JqTW1xb3pZekVyeFRJVkxIWlZCUFdOZHJRanFzcXdRV2hBV2l3OGNN?oc=5",
+    "importance": "A",
+    "summary": [
+      "巨大IT企業GAFAが「邪悪になった」と表現されるほど、その独占的な影響力やプライバシー侵害、情報操作といった倫理的課題が顕在化している。",
+      "これは、企業規模が社会に与える負の側面であり、規制当局や世論からの監視が強まる要因となっている。",
+      "企業は、成長追求と同時に社会的責任を果たすガバナンスを強化し、透明性の高い事業運営が求められる。"
+    ],
+    "date": "2026-11-11 19:31",
+    "id": "2hBV2l3OGNN%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "米国が直面するAI競争の「悪魔の選択」：減速か加速か",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLaFBlS3dDT0tyYzYxX0xZX3RvS1l2MTk5SmRTNU5PblZKY2dUUkhzZ0g5b2l2MEpxcnYxNXpYVlhuaXZ4VmdHMGl2SEJCbkU0ZjBrU05KRmd5TkpBUnVVOXVVb0lMSU8zVk43MlJRYTJzUHdHeVdGQ0FnTHA?oc=5",
+    "importance": "S",
+    "summary": [
+      "米国のAI競争は、減速すれば中国優位を許し、加速すれば人類滅亡のリスクを伴うという「悪魔の選択」に直面している。",
+      "これは技術開発の倫理的・地政学的側面がビジネス環境に深く影響することを示している。",
+      "企業はAI技術の進化だけでなく、その社会的・国家的な影響を考慮したR&D戦略とガバナンス構築が急務となる。"
+    ],
+    "date": "2026-11-11 19:31",
+    "id": "eVdGQ0FnTHA%3Foc%3D5"
+  },
+  {
     "category": "スポーツ",
     "title": "大谷翔平選手に日本企業から特注品プレゼント、デコピン姿も公開",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NaVdsc0RCbWtIU2xOX1A1ZjJuRVhHam9oQTZyMWNiZmpIQ004bFBJUU9WMkVHUVFpTWYtRkxhN2liSFBwRlVr?oc=5",
@@ -3876,31 +3902,5 @@
     ],
     "date": "2026-10-21 09:28",
     "id": "3S1U3RWlkQQ%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "Web広告の限界とPR戦略：大手企業開拓の新たな道",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOURTcE91bEg1LUwxUnhSTDJZYVdTdUY4cVZkaFgtRUkxMlowZDV5SUFhYndQWVVyZFJVWkNmdXEwa3JIaFpMVF94eTJlUFJPRTYwWmNSZExaWk5jNnJmUGEzdEg0QQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "大企業へのリーチにおいてWeb広告の限界が指摘され、新たなマーケティング手法の模索が進行。",
-      "ネットプロテクションズはPR戦略を駆使し、大手企業との関係構築と市場開拓に成功した事例を紹介。",
-      "ターゲット企業に合わせた多角的なアプローチと、信頼構築型のコミュニケーションの重要性を示唆。"
-    ],
-    "date": "2026-10-21 09:28",
-    "id": "mUGEzdEg0QQ%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "AIブームが転換期へ：GPT-5失敗と企業導入の成果課題",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5NUNWQSNHU1Z5ZEZDS1F0OWlIU3hjNklRQzNQUFoiOEg1X2ZjOFd2dzVwWGY?oc=5",
-    "importance": "S",
-    "summary": [
-      "MITテクノロジーレビューによると、GPT-5のローンチ失敗が報じられ、AIブームに冷や水。",
-      "企業の95%が生成AI導入で期待通りの成果を出せていない実態が明らかになる。",
-      "AI導入は単なる技術導入ではなく、戦略的な目的設定と運用体制の構築が成功の鍵となる転換期を迎える。"
-    ],
-    "date": "2026-10-21 09:28",
-    "id": "OFd2dzVwWGY%3Foc%3D5"
   }
 ]
