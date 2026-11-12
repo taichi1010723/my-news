@@ -1,6 +1,110 @@
 [
   {
     "category": "スポーツ",
+    "title": "「大谷翔平になれなくても」：子どものスポーツ教育価値と新たな市場機会",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SXzBxb1VJV2luc1NQM3UtRWhKWnhrYk51UzVTN3hqaThIeWJvYkhvRmNTcEprQ0RZc1RTczlaX1FDUzJlSDhOMzhvRVo?oc=5",
+    "importance": "C",
+    "summary": [
+      "「大谷翔平選手のようになれなくても、子どもに野球を習わせる価値はあるのか」という問いに対し、専門家が回答した。",
+      "スポーツを通じて得られる人間形成、協調性、目標達成プロセスなどの非競技的な価値が強く強調されている。",
+      "この視点は、スポーツスクールや関連サービスの市場における、新たな価値提案と顧客層拡大の可能性を示唆している。"
+    ],
+    "date": "2026-11-12 11:46",
+    "id": "SDhOMzhvRVo%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "中東情勢緊迫化の影響：海外渡航・物流への注意事項と企業のリスク管理",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yc1ByOUk4dndCQ0VHT2JBeFRWM3BpelYwTzBUck5hVUNZTVBZVWcxTnNtRjhXa05JdFFDZEdTaklwcWtFeDNpUDZRZmszREVyRExBaUU1WnV2a1U?oc=5",
+    "importance": "A",
+    "summary": [
+      "中東情勢の緊迫化が続き、海外渡航や物流に多大な影響が出る可能性が懸念されている。",
+      "企業は、出張計画の見直しやサプライチェーンのリスクアセスメントを強化する必要がある。",
+      "原油価格の変動など、地政学リスクが経済活動に与える影響を継続的にモニタリングすることが不可欠である。"
+    ],
+    "date": "2026-11-12 11:46",
+    "id": "aUU1WnV2a1U%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "自動車メーカーのAI・ロボット開発動向：三菱自のヒューマノイド参入、トヨタのAI学習強化",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPMGJ1WG1hQzQ1VmI4VlZFU3VFZlMwbm9sbzdndUdIV1N2RmJvVnhGM0FHRTYzTHFGdXk1Q0s5VENLZVVZdHBBd0cwbGlhckdUN25FbWdFdUluVUt1YVc5elB3cXlHeGJqS24xYVRBbw?oc=5",
+    "importance": "A",
+    "summary": [
+      "三菱自動車がヒューマノイドロボット分野に参入し、トヨタもAI学習を強化するなど、自動車メーカーの技術開発が加速している。",
+      "CASE（コネクテッド、自動運転、シェアリング、電動化）領域に加え、ロボット技術が新たな競争軸となる兆候が見られる。",
+      "製造業は、AIやロボットを活用した広範なモビリティソリューション提供へと変革が進む。"
+    ],
+    "date": "2026-11-12 11:46",
+    "id": "qS24xYVRBbw%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "野村證券の10年後日経平均株価試算：標準シナリオで11万円、高成長ならさらに上振れ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HSk02WmRvWDFSSXVPNGQwcUlEQnZ5WW5FdU9GcGlCYWtObVl2ZGh3SC1UenJDcU1KU25fS0lfdmhmbWIwdzctWVpNSWY4bTlpYnlITzNuMWhGRUNncm9J?oc=5",
+    "importance": "A",
+    "summary": [
+      "野村證券が10年後の日経平均株価を長期試算し、標準シナリオで11万円に達する可能性を示唆した。",
+      "高成長シナリオの場合、さらに上振れる可能性があり、日本経済の潜在的な成長力が注目されている。",
+      "長期的な市場動向の試算は、企業の経営戦略や個人投資家の資産形成に大きな影響を与える。"
+    ],
+    "date": "2026-11-12 11:46",
+    "id": "WhGRUNncm9J%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価5万円突破：世界経済リスク後退と市場活況の背景",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS1lKcXFEaHpIN2Q2WUZBMVJReU5EZ016UG5sVE1tR0JKN0ZEWWZWM1JNNVJXQzI1UE1POFd0UDJaMExRaUxwZkpzN05QQ2lpVjdqZDdJRjUxTnJBV3JV?oc=5",
+    "importance": "S",
+    "summary": [
+      "日経平均株価が歴史的な5万円を突破し、市場に強い上昇シグナルを送っている。",
+      "野村證券の分析では、世界経済の最大リスクが後退したことがこの株価上昇の背景にある。",
+      "投資家心理の好転と企業収益への期待が相まって、さらなる市場の活況が期待される。"
+    ],
+    "date": "2026-11-12 11:46",
+    "id": "jUxTnJBV3JV%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "野村證券、2026年末日経平均60,000円見通し維持：米景気の楽観シグナル",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kNW4ya1dVWjZKSll5d1plUWd5eFRRckItZXNQeWsxR25TbWc4YlMwTFA4S3VycXdkOHZXZ1h2bWtQS0VlU3REUlFTd1NtWnFKZEtfS3J6bnp6OTlBRk1V?oc=5",
+    "importance": "S",
+    "summary": [
+      "野村證券が中東情勢の不透明感にもかかわらず、2026年末の日経平均株価60,000円の見通しを維持した。",
+      "米国景気に3つの楽観的なシグナルが見られ、これが日本株市場を牽引する主要因と分析されている。",
+      "地政学的リスクと主要国の経済動向が複雑に絡み合う中で、今後の市場の行方が注目される。"
+    ],
+    "date": "2026-11-12 11:46",
+    "id": "np6OTlBRk1V%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "クラシコムの「積分経営」：楠木建氏が解き明かす競争優位の源泉",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mekdtR3h2QkVWaE9sSzJGeGNyLUpTTHZhcmNlUWJXUDZHMXFsV2IzcVpoeVdnU09MTExSVXVfeXFKcnBLMEZDU0RULUtCdFVmNE1uYTlDWlM0T0NfVjgzMllGTHZWaWs?oc=5",
+    "importance": "A",
+    "summary": [
+      "楠木建氏が、ライフスタイルショップ「北欧、暮らしの道具店」を運営するクラシコムの経営を「積分経営」と分析。",
+      "短期的な成果に囚われず、事業の要素を長期的に積み重ねることで独自の企業文化と顧客体験を構築している。",
+      "この経営モデルは、本質的な価値創造に焦点を当てることで持続的な競争優位性を生み出すことを示唆する。"
+    ],
+    "date": "2026-11-12 11:46",
+    "id": "MllGTHZWaWs%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "GPT-5のローンチ失敗と企業95%の成果不足：AIブームの転換点",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5eDVDVkNHS1Y5ZEZDS1F0OWlIU3hjNklRQzNQUFotOEg1X2ZjOFd2ベルンベルグ?oc=5",
+    "importance": "S",
+    "summary": [
+      "GPT-5のローンチ失敗が報じられ、AIブームが期待先行から転換期を迎えている。",
+      "生成AIを導入した企業の95%が具体的な成果を出せておらず、投資対効果が課題となっている。",
+      "ビジネスにおける生成AI活用には、期待値の調整と戦略的なアプローチの再構築が求められる。"
+    ],
+    "date": "2026-11-12 11:46",
+    "id": "AB%E3%82%B0%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
     "title": "日本企業による大谷翔平への特注品プレゼントが話題に",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtWFEwc09NMFQ0ellBYXFZbkFRMFQtdzgwTEsxV1VnVm9jSHc5ZUw1U2g3T1BkSkxwc1pwNnNaam54U0ZtUmpz?oc=5",
     "importance": "C",
@@ -3798,109 +3902,5 @@
     ],
     "date": "2026-10-22 01:53",
     "id": "0TjdwUFYwUg%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本政府が推進する次世代自動車「SDV」：モビリティDX戦略と市場機会",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03azU4eTNQdTVQYy1OZjUzTVpXdkh5WGtsUmkxcWhEcnNWcU9ZTGFrdmNyYUhveWZOVUVzSDlxRDdkUnIwdllWeDAxXzVmOHJiaW93?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本政府は「モビリティDX戦略」でソフトウェア定義型車両（SDV）の世界シェア3割を目標に掲げ、推進を強化。",
-      "SDVは自動運転やコネクテッドカーを支える基盤技術であり、自動車産業の構造を大きく変革する可能性を秘める。",
-      "関連銘柄への投資機会が拡大し、自動車部品メーカーからソフトウェア企業まで広範なビジネスチャンスが生まれている。"
-    ],
-    "date": "2026-10-22 01:53",
-    "id": "zVmOHJiaW93%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価8万円の可能性？市場の強気とリスク要因",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamVLUVh5ZHRlY0hwQnkzTkR1RWxmTUVUS1FTaVVRODJ2cUt6MGFVSTBSa2owandIaXZjM2tzdnNyT2hTTFREM1lTWDZPV3pTcG1XVi03TDlNZnAtd0d2cG1ldENBTWJMZnVpWHFKdzh0Nlc3WUJXdWhRM1g2aGJEcXpqY1F6Vko5RVdISDM1QWVHQQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "一部の市場関係者が日経平均株価の8万円到達可能性に言及し、市場の注目を集めている。",
-      "企業収益の改善や設備投資の拡大が期待され、長期的な上昇トレンドの継続が示唆される。",
-      "一方で、地政学リスクやインフレ動向、金利政策の変更が変動要因となる可能性も指摘されており、投資判断には慎重さが求められる。"
-    ],
-    "date": "2026-10-22 01:53",
-    "id": "ISDM1QWVHQQ%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "2026年、企業成長を加速する5つの戦略的決断",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CZXVTYnY0UXM0ZE8tZkZjZm1ROTQweUZQRDhsbTlfTEZGMWM2ODJXS0U3WlZhZWNpY2NNWWdTbUk4OGFVWW5RSTM4NW1ybHpQaWttNXZHYU56ZlJNVGJqU19rbGhMdw?oc=5",
-    "importance": "S",
-    "summary": [
-      "日経クロストレンドが2026年の企業成長に不可欠な5つの決断を提言し、施策の絞り込みを推奨。",
-      "経営資源の分散を防ぎ、選択と集中による効果的な戦略実行が、競争優位を確立する鍵となる。",
-      "不確実性の高い時代において、明確なビジョンと実行力あるリーダーシップが企業の成長を牽引する。"
-    ],
-    "date": "2026-10-22 01:53",
-    "id": "qU19rbGhMdw%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "大企業向けWeb広告の限界とPR戦略の再評価",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOURTcE91bEg1LUwxUnhSTDJZYVdTdUY4cVZkaFgtRUkxMlowZDV5SUFhYndQWVVyZFJVWkNmdXEwa3JIaFpMVF94eTJlUFJPRTYwWmNSZExaWk5jNnJmUGEzdEgzQQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "従来のWeb広告だけでは大企業へのリーチが困難になりつつあり、その限界が指摘されている。",
-      "ネットプロテクションズはPR活動を通じて大企業顧客を開拓し、新たなアプローチで成功を収めた。",
-      "BtoB市場において、信頼構築とブランド認知を高めるPR戦略の重要性が増していることが示された。"
-    ],
-    "date": "2026-10-22 01:53",
-    "id": "mUGEzdEgzQQ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平が年俸外収入で世界1位に スポーツ選手長者番付",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoaXo3ejB4aUlBWkpCQktVd2VtdmpCcWJKaU9GRmhYeFgwekF3NmdyMlM2dUNBZEhWZmVqMmFIUTJfZC1WcmgxMzlrcloyQTRaU1dVOQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "大谷翔平選手が、年俸以外の収入（スポンサー契約、広告出演など）で世界のスポーツ選手中1位にランクインした。",
-      "これはアスリート個人のブランド力とマーケティング価値が、競技成績と同様に重要であることを示す。",
-      "スポーツビジネスにおける広告収入や肖像権ビジネスの巨大な市場規模と成長性が改めて浮き彫りになった。"
-    ],
-    "date": "2026-10-21 17:23",
-    "id": "yQTRaU1dVOQ%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "中東情勢の緊迫化がビジネス活動に与える影響",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yc1ByOUk4dndCQ0VHT2JBeFRWM3BpelYwTzBUck5hVUNaTVBZVWcxTnNtRjhXa05JdFFDZEdTaklwcWtFeDNpUDZRZmszREVyRExBaUU1WnV2a1U?oc=5",
-    "importance": "A",
-    "summary": [
-      "中東情勢の緊迫化は、原油価格の変動、物流の停滞、国際線フライトへの影響など、ビジネスに広範囲な影響を及ぼす。",
-      "企業は従業員の安全確保、サプライチェーンのリスク管理、代替ルートの検討などを急務とする。",
-      "地政学的リスクが具体的な事業オペレーションに直接的な制約をもたらす現実を改めて示した。"
-    ],
-    "date": "2026-10-21 17:23",
-    "id": "aUU1WnV2a1U%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "米国制裁下における中国の半導体戦略と対抗策",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91V1g4MXI5YUdtcjVENjVSUzhSMlVXUHFJYWFoOGJTNnZoVWRnTUtudjJSN3JSRjhwOW5pd2pjenZiUXlIR3BQVjJ5NjPSAU9BVV95cUxPRGV3amhYZzJJZ3lkU2M3V0pLWTRua2t2RU9Zc0h5YXJJcFhMQ08tOEJpZXdFM1hkcjFVV0ZVZjR6SWxJM0E4aU5Ra3g0MnJJ?oc=5",
-    "importance": "S",
-    "summary": [
-      "米国による厳しい半導体輸出規制に対し、中国が「意外な方法」で対抗策を講じている実態が明らかに。",
-      "国内技術開発の加速や、第三国経由での部品調達など、制裁回避の動きが活発化している。",
-      "米中間の技術覇権争いは長期化し、グローバルサプライチェーンやハイテク産業に継続的な影響を及ぼすため、企業は警戒が必要。"
-    ],
-    "date": "2026-10-21 17:23",
-    "id": "U5Ra3g0MnJJ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均急落時の投資戦略と堅調な企業業績",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcU1Md2RSdUw5S3RibGxlSXdfUHlwajJZUHZ0ODhQYjdDSE5HMUZaZ1B0RWpobzRiWEVmNU16elJGUU83eUhQLWdpNjhBTzZTa0JlZndBMGhoZw?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価の急落局面においても、日本経済の景気および企業業績は堅調さを維持している。",
-      "市場の過度な悲観論に対し、冷静な視点でのファンダメンタルズ分析に基づく投資判断が求められる。",
-      "窪田真之氏は、急落時こそ「ゆっくり、少しずつ」買い増す長期的な分散投資戦略を推奨。"
-    ],
-    "date": "2026-10-21 17:23",
-    "id": "lZndBMGhoZw%3Foc%3D5"
   }
 ]
