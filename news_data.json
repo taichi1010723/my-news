@@ -1,6 +1,71 @@
 [
   {
     "category": "世界情勢",
+    "title": "中国「一帯一路」のヨーロッパでの停滞と、習近平外交の次の一手",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84UWZVajVuZG1fcW9UMkplU3VOMVBhWFBhNnA3M3hrRE11ZFRoVjJaNG94VWR2Rko1clJrdm1MYUZUcGlUUTV2SXhGdUFUbTlLV3lmTzRSR3R0UjQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "中国の巨大経済圏構想「一帯一路」が、ヨーロッパでの推進に課題を抱え、インドも協調姿勢を示していない。",
+      "米中首脳会談を控え、習近平国家主席が外交マラソンを展開しており、新たな国際戦略を模索している。",
+      "中国の外交・経済戦略の行方は、グローバルサプライチェーンや投資環境に大きな影響を与えるため注目が必要。"
+    ],
+    "date": "2026-11-19 20:29",
+    "id": "TzRSR3R0UjQ%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "TSMC時価総額がトヨタの2倍に急騰、半導体業界の成長を牽引する2つの鍵",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vNy1aZ1FzU0thNjNCaUkxME94dUdRNDhWZ2ZiSUtNankwbmpaZkQzZ1RKS1BjTG9OcnhWMGE1cXF0UEFkMGhfYlExbGo?oc=5",
+    "importance": "S",
+    "summary": [
+      "世界的な半導体需要を背景に、TSMCの時価総額がトヨタの2倍となる60兆円に急騰した。",
+      "その成長を支える主要因として、先進的な製造技術と地政学的な位置付けが「2つの鍵」として指摘される。",
+      "半導体産業の現状と将来性、そして日本企業が世界市場で競争力を維持するための示唆を与える。"
+    ],
+    "date": "2026-11-19 20:29",
+    "id": "MGhfYlExbGo%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "サプライチェーン経営者が2026年に備えるべき重要トレンドと課題",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRURQX1hwUXhGNzRtYm5BQkQ2M05FemdFSFB1cVBHX09tNm51bU0wcDVxTS1OcWdsbDI0S1AzdzVYYVhqaG0yck93OVpvTGd1eFlfWjNTZlU?oc=5",
+    "importance": "A",
+    "summary": [
+      "2026年に向けてサプライチェーンは、地政学リスク、脱炭素化、DX、労働力不足などの複合的な課題に直面する。",
+      "レジリエンス強化、AI・IoT活用による最適化、サプライヤーとの協調体制構築が喫緊の課題となる。",
+      "企業は変化に対応し、持続可能で強靭なサプライチェーンを構築するための戦略的投資と見直しが不可欠である。"
+    ],
+    "date": "2026-11-19 20:29",
+    "id": "eFlfWjNTZlU%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "「刈り取り型」から「想起型」へ、未来の売上を築くマーケティングシフト",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ady0yamxyUW0tYnZzS2NESy14TXhmTl_2eVh0TVZTVGV1ZTh2cjBaWndzc3JzcXg1S2k0MkQzNlhoWHdKZlZ3U2VjRkFTMkI0UjBRdFRvdnZXMkZzUThzRTVwdmgtdw?oc=5",
+    "importance": "A",
+    "summary": [
+      "短期的な成果を追求する「刈り取り型マーケティング」の限界が指摘され、長期的な売上成長には「想起」の重要性が高まっている。",
+      "顧客の心に深く刻まれ、選択されるブランドになるための「想起のメカニズム」を理解し、戦略に取り入れる必要がある。",
+      "未来の競争優位を築くためには、顧客との長期的な関係構築とブランド価値の向上に焦点を当てたマーケティングへの転換が不可欠である。"
+    ],
+    "date": "2026-11-19 20:29",
+    "id": "zRTVwdmgtdw%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AI活用における実務的課題と具体的な対策：入力NG情報、LLM遅延など",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcTdvTkt3eW83aXE1OXhfVUNNMllBeGNHeE9UcnhtVzJuVWt3WkF0TGxjVXduNjdIU2taUGliMHgzZngtbjh0VEVlUnJYV0t0dVZfRF92ZnJaX3BKZGQycUJEMkJVLW9kMFl4cmVyU0V5UQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "ChatGPTなどのLLM活用では、情報漏洩リスクを避けるための入力NG情報の認識が必須とされている。",
+      "データサイエンス教育の無料化やAI GatewayによるLLM遅延対策など、AI導入・運用の具体的な課題と解決策が提示。",
+      "これらは企業がAIを安全かつ効率的にビジネスに組み込む上で、実務的に重要なヒントとなる情報である。"
+    ],
+    "date": "2026-11-19 20:29",
+    "id": "4cmVyU0V5UQ%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
     "title": "中東情勢緊迫化によるビジネスへの影響と注意喚起",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yc1ByOUk4dndCQ0VHT2JBeFRWM3BpelYwTzBUck5hVUNaTVBZVWcxTnNtRjhXa05JdFFDZEdTaklwcWtFeDNpUDZRZmszREVyRExBaUU1WnV2b1U?oc=5",
     "importance": "S",
@@ -3837,70 +3902,5 @@
     ],
     "date": "2026-10-24 16:59",
     "id": "nVnVoM0JZZw%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "先端LLMに潜む「思わぬ弱点」：2月のAI注目論文が警鐘を鳴らす",
-    "url": "https://news.google.com/rss/articles/CBMibAFVX3lxTE9FeDVwRHhIWmduamhaVnRFTC1yX1l0ZWxDQk5KWWtkcUx4U3hsdDRwUVBVbWFFTlB5TGVZRTVvWFBnQWUyaGxMQTVUZzVURnVrMGlHWmsyZFppRTQ0Qm5oczBxcmN2S3hJTEpfNQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "先端大規模言語モデル（LLM）において、共通して観測される予測不能な「弱点」が報告された。",
-      "これはLLMの安定性、信頼性、倫理的リスク管理における新たな課題を浮き彫りにする。",
-      "企業がLLMを基幹業務に導入する際は、その限界を理解し、リスクを軽減する対策が不可欠である。"
-    ],
-    "date": "2026-10-24 16:59",
-    "id": "2S3hJTEpfNQ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平、サッカー日本代表への応援弾出ず：ドジャース逆転負け",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yaWZ0UGZrY01GbFpTS21MZzduYWdsU3hSb2lrci1RNmxGcld3bUZmYWtGUFlGbU4wLTNsWUVDbEJKMm9rbkpRUEdSY1JtSFpJV3dBbnB3UXUzTng3cjJvcE1B?oc=5",
-    "importance": "C",
-    "summary": [
-      "大谷翔平選手はサッカー日本代表への「応援弾」を放てず、ドジャースは逆転負けを喫した。",
-      "試合中には村上宗隆選手とのユーモラスな交流も見られ、ファンの間で話題に。",
-      "チームの敗戦と個人の活躍が交錯する中で、スポーツの予測不能な側面が示された。"
-    ],
-    "date": "2026-10-24 01:48",
-    "id": "ng3cjJvcE1B%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平15号先制ソロ：サッカーW杯に負けない”ショータイム”を演出",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiTEFndlloQXRhR2lPdGVCTV92RUt4ZWl0dVVUUVE5VkFHQ0FyTnRBLVVKeWU2MnhxcG5OQkdFQXM3WWMzTDUtOEdzTGJ5NmlHUGF6NXR4dzZlVmF2Nnh4Wnpn?oc=5",
-    "importance": "C",
-    "summary": [
-      "大谷翔平選手が3戦ぶりとなる15号先制ソロホームランを放ち、観客を魅了。",
-      "サッカーW杯にも劣らないほどの「ショータイム」を演出し、その存在感を改めて示す。",
-      "左膝炎症から復帰後も好調を維持し、メジャー通算300号達成に「あと5」と迫る。"
-    ],
-    "date": "2026-10-24 01:48",
-    "id": "mF2Nnh4Wnpn%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平のプライベート報道と「神格化」の危うさ：年子バッシングの背景",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b0x6QUV2UzloWHlZd253YkhXTjJJeFlPbFp5cEZibjRiMXlzeXBNS3hnUGJOOFIteTJ5cUJzc3k1bDhELUVhTVVwb2dzOXJyQWlvdTh0ZW8tTGM?oc=5",
-    "importance": "C",
-    "summary": [
-      "大谷翔平選手の第2子誕生ニュースに対し、「年子バッシング」が起きた背景を分析。",
-      "有名スポーツ選手の「神格化」が、プライベートに対する過度な注目と批判を生むと指摘。",
-      "アスリートの人間性を尊重し、健全なファン文化を築くことの重要性が問われている。"
-    ],
-    "date": "2026-10-24 01:48",
-    "id": "dTh0ZW8tTGM%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "欧州首脳のトランプ氏接近と高市首相の緩衝役：G7の課題",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lRThjbmhMSXk0YlJvMVZBSFVfazZ1WHlCc1NmVnJ6THRmYWFzVU5OQXVqV3h4Y3RsZHl4MFppZmJPMVB0NEEydC1lYVVnQzlQQlE?oc=5",
-    "importance": "A",
-    "summary": [
-      "ヨーロッパ首脳がトランプ氏に接近する背景と、高市首相が緩衝役を買って出た理由を分析。",
-      "ウクライナ、イラン、中国を巡るG7の内部対立が国際協調体制に影を落とす。",
-      "主要国の外交戦略の不確実性が、グローバル経済と地政学的リスクに影響を与える。"
-    ],
-    "date": "2026-10-24 01:48",
-    "id": "YVVnQzlQQlE%3Foc%3D5"
   }
 ]
