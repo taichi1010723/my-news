@@ -1,6 +1,58 @@
 [
   {
     "category": "スポーツ",
+    "title": "大谷翔平・ジャッジ時代の終焉：負傷と加齢が示唆するスポーツビジネスの現実",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zNkFnd0gzUFFuQi0tM2NvUmJzNklRWVA1anRXRDYwN2RPN3FmcXZtWlNzcHpsTGpuMDB2MXRVTWJzUnh4Ykc0?oc=5",
+    "importance": "B",
+    "summary": [
+      "大谷翔平選手やジャッジ選手といったMLBのスーパースターにも、負傷や加齢によるキャリアの現実が迫る。",
+      "選手寿命とパフォーマンスの限界は、スポーツリーグ、チーム、スポンサー企業にとって重要なビジネス要因。",
+      "次世代スターの発掘・育成、ファンエンゲージメントの多様化など、持続可能なスポーツビジネスモデルが求められる。"
+    ],
+    "date": "2026-11-21 04:48",
+    "id": "WJzUnh4Ykc0%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価が5万円を突破：世界経済リスク後退の兆候",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS1lKcXFEaHpIN2Q2WUZBMVJReU5EZ016UG5sVE1tR0JKN0ZEWWZWM3JNNVJXQzI1UE1POFd0UDJaMExRaUxwZkpzN05QQ2lpVjdqZDdJRjUxTnJBV3JV?oc=5",
+    "importance": "S",
+    "summary": [
+      "日経平均株価が歴史的な5万円台を突破、市場の強気ムードを反映。",
+      "野村證券によると、世界経済における主要なリスク要因が後退したことが背景。",
+      "企業活動や投資戦略に大きな影響を与え、日本経済全体への好影響が期待される。"
+    ],
+    "date": "2026-11-21 04:48",
+    "id": "jUxTnJBV3JV%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "日経クロストレンド発表「今後伸びるビジネス」2026年上半期ランキング",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdlRuM3dJZ2JUNDRXU0VfMXZtYVlNSk1pUnRwVmNSQVFFem01VkpGZU1zam44U2d1NU44UzFZZklmcy1VX2dXWHpqUHJCRHBGQ3RGWF9mRnlHeWJ4YVU5VjZHM0xFYURmeEE?oc=5",
+    "importance": "S",
+    "summary": [
+      "日経クロストレンドが、2026年上半期に成長が期待されるビジネス分野をランキング形式で公開。",
+      "環境・社会課題解決型ビジネス、デジタル変革関連、パーソナライズサービスなどが上位に。",
+      "新規事業開発や既存事業の再構築を検討する企業にとって、具体的な成長機会のヒントとなる。"
+    ],
+    "date": "2026-11-21 04:48",
+    "id": "M0xFYURmeEE%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIブームの転換期：GPT-5失敗と企業の成果不足、今後の戦略焦点",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5eDVDVkNHS1Y5ZEZDS1F0OWlIU3hjNklRQzNQUFotOEg1X2ZjOFd3dzVwWGY?oc=5",
+    "importance": "S",
+    "summary": [
+      "GPT-5のローンチ失敗と、企業95%がAI導入で成果を出せていない現状が明らかに。",
+      "大規模なAI投資にもかかわらず、多くの企業がROI（投資対効果）に苦慮している。",
+      "AIブームが「試行錯誤期」へと転換し、実用性と具体的な成果が重視される段階へ。"
+    ],
+    "date": "2026-11-21 04:48",
+    "id": "OFd3dzVwWGY%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
     "title": "日本サッカー選手「サッカー国技化」提言、大谷翔平の野球人気と市場競争",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UzZsbDF0UnlTN2prdk1nVzhWdmJSNTVvNi1lSlZnODAtS3cxUXZ2eXZjN2pFRkFCNW1LOEpxbGNMYW01VWNBT0hQWnVnVGNqTWpkd19peTZQa2VFc0ZJLTlZcmthQ0U1MUl5YXpieUFHX2VBNHZyOHhmejREYlk?oc=5",
     "importance": "B",
@@ -3850,57 +3902,5 @@
     ],
     "date": "2026-10-25 17:14",
     "id": "Z1dlODh6QnM%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "野村證券、2026年の日本株見通しを解説：日経平均55,000円がメインシナリオ",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZaHNpYnhLWEItb1M4OFZOdTNWZGxicUc5SEE2enVsQ0ZhSVdwMjYxSmwtajV1WEVhQ0ZkQVltTlU4bVFxU1FIT2tzMjZteDFMajQSU2VudGlhcnR5c3QgZ2Ega2Fpc2V0cw?oc=5",
-    "importance": "S",
-    "summary": [
-      "野村證券のストラテジストが2026年の日本株市場について詳細な見通しを発表。",
-      "日経平均株価は年末に55,000円をメインシナリオとして予測。",
-      "経済成長、企業収益、金融政策、地政学リスクなどが市場に影響を与える。"
-    ],
-    "date": "2026-10-25 17:14",
-    "id": "ga2Fpc2V0cw%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "ドン・キホーテ「情熱価格」から学ぶヒットPBの秘訣",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NQkRnd3I2czZJbDQ3aF92N3Z3MEU1TUhkTW9QWUc5bUoycmFlMWhGZGZPM00tQTBaOVdrSjNKV0lDTXI1aWdiUlhUZFplQkdSSHl1S3B3?oc=5",
-    "importance": "A",
-    "summary": [
-      "ドン・キホーテのプライベートブランド「情熱価格」の大ヒット要因を分析。",
-      "顧客との共創や独自のブランディング戦略が成功の鍵であることが明らかに。",
-      "商品開発からマーケティングまで一貫した戦略が、持続的な成長を可能にする。"
-    ],
-    "date": "2026-10-25 17:14",
-    "id": "kdSSHl1S3B3%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平選手の影響と子どものスポーツ教育価値の再考",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SXzBxb1VJV2luc1NQM3UtRWhKWnhrYk51UzVTN3hqaThIeWJvYkhvRmNTcEprQ0RZc1RTczlaX1FDUzJlSDhOMzhvRVrSAU9BVV95cUxNTmNicUV2MGVBcXM5YXhTQzg2SHZrcndWTEVYaGlEanVCMm1fU3ljLTdBYUZUTkNucm9pV0x3VzZSWUxXZUIybFBDV25yWDVJ?oc=5",
-    "importance": "C",
-    "summary": [
-      "大谷翔平選手のようなトップアスリートの存在が、子どものスポーツ選択や教育に与える影響が論じられる。",
-      "「大谷選手にはなれない」という現実の中で、スポーツを習う本質的な価値（人間形成、健康など）が再評価。",
-      "スポーツ用品メーカーやスポーツスクール、教育関連事業は、こうした保護者の意識変化を捉える必要がある。"
-    ],
-    "date": "2026-10-25 09:07",
-    "id": "FBDV25yWDVJ%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "世界時価総額ランキングに見る日本企業の競争力変遷と現在の課題",
-    "url": "https://news.google.com/rss/rss/articles/CBMib0FVX3lxTE1aN1F4REdWc0FKcVdLUkxlbU9yTUlXWDMxaUtfSTkxZGVpX3ZTSGdhMjZSeVR1YklmYXplWmxqZWRoTUJGckFkbEpPZEpfYV9fYnRYNlFKLVEyb3pNTHFDemJtWUh4VldKRzZHeENvTQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "2025年世界時価総額ランキングから、日本企業の過去36年間の変遷と現状が分析されている。",
-      "一時は上位を独占した日本企業が、近年は存在感を薄めていることが浮き彫りに。",
-      "イノベーションの停滞、グローバル競争力の低下など、日本企業が抱える課題を認識し、変革を促す必要がある。"
-    ],
-    "date": "2026-10-25 09:07",
-    "id": "KRzZHeENvTQ%3Foc%3D5"
   }
 ]
