@@ -1,6 +1,32 @@
 [
   {
     "category": "スポーツ",
+    "title": "大谷翔平の「神格化」が示すトップアスリートのブランドリスクとメディアの影響",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b0x6QUV2UzloWHlZd253YkhXTjJJeFlPbFp5cEZibjRiMXlzeXBNS3hnUGJOOFIteTJ5cUJzc3k1bDhELUVhTVVwb2dzOXJyQWlvdTh0ZW8tTGM?oc=5",
+    "importance": "A",
+    "summary": [
+      "大谷翔平選手のプライベートに関する報道が「年子バッシング」に発展し、トップアスリートの「神格化」の危うさを浮き彫りに。",
+      "メディアやファンによる過剰な期待と、それによるアスリート個人のブランドイメージへの影響が問題視。",
+      "企業は、スポンサーシップ契約において、アスリートのプライベートを含む包括的なブランドリスク管理の重要性を再認識する必要がある。"
+    ],
+    "date": "2026-11-20 11:54",
+    "id": "dTh0ZW8tTGM%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均急落時の投資戦略：景気・企業業績堅調ならゆっくり買い増し",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcU1Md2RSdUw5S3RibGxlSXdfUHlwajJZUHZ0ODhQYjdDSE5HMUZaZ1B0RWpobzRiWEVmNU16elJGUU83eUhQLWdpNjhBTzZTa0JlZndBMGhoZw?oc=5",
+    "importance": "B",
+    "summary": [
+      "日経平均株価の急落局面においても、日本経済の景気や企業業績は堅調に推移しているとの分析。",
+      "短期的な市場の動揺に惑わされず、長期的な視点での「ゆっくり、少しずつの買い」を推奨。",
+      "市場の調整局面は、優良企業の株を割安で取得するチャンスと捉えるべきだと投資家へ提言。"
+    ],
+    "date": "2026-11-20 11:54",
+    "id": "lZndBMGhoZw%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
     "title": "サッカー界に「大谷翔平級」不在の理由：スター育成と経済効果",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84SjVPU1dGR2pMaEYwTWgtUlJKczA3MUh4VHFzellNX2NuRXFoUUpjdmpxc0h4TDZKSFNNU3Z6Um9hS1V2emJ3aTdQSzlfeEdDMUxITi05anQ?oc=5",
     "importance": "B",
@@ -3876,31 +3902,5 @@
     ],
     "date": "2026-10-25 09:07",
     "id": "M0xFYURmeEE%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "生成AI導入における「誇大広告」への警鐘と現実的な活用姿勢",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F0ZGhYZ1pXT1FjS1poNExPX2VQMWd4VjBRMG9vaXhVYThWWUhtU2FJb3J0azlMM1lJUGUxNTNhUzNrYnE5UWdUNUs3enJyX1BPcS1SSHlzdEFVQ3d2MWVnaVh2V3Q0LWQyaW95QjFabFZyLWw1MnFpQXRaMVhRMW1vYmNydjlKVkt6TTRmTUQ0ZDN4d1FyVkRXd0NWeFk?oc=5",
-    "importance": "A",
-    "summary": [
-      "IBMは生成AIの導入において、過度な期待を抱かず現実的なアプローチを推奨。",
-      "誇大広告に惑わされず、自社の課題と目的を明確にした上で技術選定・導入を行うべき。",
-      "投資対効果を客観的に評価し、段階的な導入とリスク管理が成功の鍵となる。"
-    ],
-    "date": "2026-10-25 09:07",
-    "id": "VkRXd0NWeFk%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "GAFAが半導体メーカーへ進出：生成AIが創出する新市場と日本勢の商機",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zbXRZTkRuUmlERGxsQXl5RTB4SVBDS0lwaERsc1pOdXJQQlR6R1pjZmRXYmphdUtYd1Z2NExPY19lTWUxclF3alVhR2xCLUZiSGJCSWt6WFpjMmNlUzJaMUZCbjVVdW8?oc=5",
-    "importance": "S",
-    "summary": [
-      "GAFA（Google, Apple, Facebook, Amazon）が生成AIの需要拡大を受け、自社で半導体開発・製造に乗り出す動きが加速している。",
-      "この垂直統合は半導体市場に新たな競争をもたらし、関連技術を持つ日本企業にも新たな商機が生まれる可能性。",
-      "日本企業は、GAFAの動向を注視し、技術提携やニッチ市場での強みを生かした戦略を検討すべきである。"
-    ],
-    "date": "2026-10-25 00:39",
-    "id": "MUZCbjVVdW8%3Foc%3D5"
   }
 ]
