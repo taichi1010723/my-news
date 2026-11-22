@@ -1,6 +1,97 @@
 [
   {
     "category": "スポーツ",
+    "title": "アメリカで人気のスポーツに変革？サッカーが野球を抜く可能性",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tSVEwTlVEaEFPYjd6V0M4MmhuZ2dEc1FWV21HU0k1UDBYaEh2S0pyakU5UWk4dUl6NnY3MExsZU9QM3ZGM0dCajQ0c0hFUnFZa2hFUFRFaFAzRkhJ?oc=5",
+    "importance": "C",
+    "summary": [
+      "アメリカでスポーツの人気が変化し、サッカーが野球を抜いて3位となる可能性が指摘されている。",
+      "この変化は、スポーツ放送権、広告市場、関連グッズ販売など、スポーツビジネス全体に大きな影響を与える。",
+      "プロスポーツリーグやメディア企業は、新たな人気トレンドを捉えた戦略の再構築が求められる。"
+    ],
+    "date": "2026-11-22 10:58",
+    "id": "FRFaFAzRkhJ%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "GAFAへの富の集中と低賃金労働者増大、日本も格差社会に突入か",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rd2FBWGJ2YjJuZG5Vd1Rka0hIRjZLd1dnRjJGR1R0UGUyX2VCaF8tOEtHZDJTZjQ4cmNJVDZxMUdMUmNwNTBoY0FtdTkxUUlKSUIwemI3OA?oc=5",
+    "importance": "B",
+    "summary": [
+      "GAFAなどの巨大IT企業に富が集中する一方で、低賃金労働者の増大が世界的な社会問題となっている。",
+      "ITによる雇用破壊が進み、日本もこれから超格差社会に突入する可能性が指摘されている。",
+      "企業は技術革新の恩恵を社会全体に還元し、雇用形態の多様化や再教育機会の提供を通じて、持続可能な経済成長に貢献する必要がある。"
+    ],
+    "date": "2026-11-22 10:58",
+    "id": "KSUIwemI3OA%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "巨大テック企業の大量解雇と、マイクロソフトの強さの理由",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBld2JuT0dGN0xfbWJyRC1WMjZzeHFlcUd5V0tzMS1Uc3hsamNieEt1NkxTQV9SMVZEZDRWVTg2b2JCZHktUkhkbTZYVnNQRHlfdm42Z2dPRHhCQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "多くの巨大テック企業が大量解雇に踏み切る中、マイクロソフトがその強さを維持している理由が分析されている。",
+      "マイクロソフトは、クラウド（Azure）やAIへの戦略的投資、企業向けサービスの安定性で差別化。",
+      "景気変動や市場の変化に左右されにくい多角的な収益源と、長期的な技術革新へのコミットメントが強さの要因。"
+    ],
+    "date": "2026-11-22 10:58",
+    "id": "2Z2dPRHhCQQ%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "日本企業の外債発行が急増、資金調達戦略が変化",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JdmlKTnVJNGFrRjhsWTM2eFRuMjJ6NnBwTzlWLVNHMGI3STY1MmJ2OGFjQ05ZTi1pOUhRcnlFNW5CUXFJQXFOc0Vmbm5FQkd1TkJBaGhPM3VQajVTVEw4WlN2TnJBWTY1c2tmeA?oc=5",
+    "importance": "A",
+    "summary": [
+      "日本企業の外債発行が1〜6月で56%増加し、資金調達戦略が大きく変化している。",
+      "国内の低金利環境と海外の利上げを背景に、多様な資金調達手段を模索する企業の動きが活発化。",
+      "これにより、資金調達コストの最適化や、グローバルな事業展開を支える財務基盤の強化が期待される。"
+    ],
+    "date": "2026-11-22 10:58",
+    "id": "BWTY1c2tmeA%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "CFO経験者が企業トップに重用される時代、トヨタ・ソニー新社長が象徴",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTzVPNGZ0S3hfUzRCcVhOamhpNktfdFh5V3pnNTZJX3ppbEtMaUJnRzQ1Y2tmWnZ3Y2ExVFJPQzlFc0hTUGltdUpMVEtRZEtEZzFoaVVaUjdVSl9OOE1udjg3Q2k5NDZpZ2pZSEhicURaOWg4OXI2SXVqUUxsRjR6UWZ6SklZRjU5d1E?oc=5",
+    "importance": "A",
+    "summary": [
+      "トヨタ、ソニーなど大手企業のトップにCFO（最高財務責任者）経験者が相次いで就任する傾向が顕著。",
+      "CFO経験者は、財務戦略や企業価値向上、リスク管理に長け、複雑化する経営環境でのリーダーシップが期待される。",
+      "事業ポートフォリオの見直しや資本効率の改善など、企業価値最大化を重視する現代経営の潮流を反映している。"
+    ],
+    "date": "2026-11-22 10:58",
+    "id": "SklZRjU5d1E%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "低コスト・高効率な「1ビットLLM」が注目、AI開発の新潮流",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IYUpBOUttc2QweFdXejlWT2EwRkNIZ2lQRWw2anI5dUtrZFZFVjluSk16MlF3ZDdtUDJOUWpLX1BaQnRZWFFRVHdZekpTVG1L?oc=5",
+    "importance": "A",
+    "summary": [
+      "「1ビットLLM（大規模言語モデル）」である「BitNet b1.58」が、その衝撃的な可能性から大きな注目を集めている。",
+      "従来のLLMに比べ、大幅な計算リソース削減と消費電力低減を実現し、環境負荷の軽減にも貢献。",
+      "低コスト・高効率なAIモデルは、中小企業やエッジデバイスへのAI普及を加速させ、新たなビジネス機会を創出する可能性を秘める。"
+    ],
+    "date": "2026-11-22 10:58",
+    "id": "HdZekpTVG1L%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "Microsoftとメタが生成AIで戦略的提携、市場の勢力図に影響か",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13NnFjX1oyOGItZnFOQXhxbURMeUR3WUxueWhYc0otOTZyZFBOYjI3cVc2NGZYOXpZellaYm5HX3lONlhXWFJFU3dibDVLSUJYX2ZWY0tKei1pRjJnd3pGbDlUZURRNUU?oc=5",
+    "importance": "S",
+    "summary": [
+      "Microsoftとメタが生成AI分野で戦略的提携を結び、AI市場における合従連衡の重要性が高まっている。",
+      "巨大テック企業間の協力は、技術開発の加速や市場シェア争奪に大きな影響を与える可能性。",
+      "この提携の成否が、今後の生成AI市場の勢力図や産業構造を大きく左右する分かれ目となる。"
+    ],
+    "date": "2026-11-22 10:58",
+    "id": "bDlUZURRNUU%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
     "title": "大谷翔平選手がニューバランスと生涯契約：スポーツ選手のブランド価値戦略",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONE5ydlZEZ0FpR192QTAwR012b0dQckxJc0U1STkxSjJCS0x6ZnVGWXlJX3BkeTFURjFGeW1KZmo5SEd5eUozQVFwLXAwUjc3OV9MX2xkZXUxamMxckFOYVNSRjU3Ni10NWFGNHp1TjAxTTAwTWt6MjVuOTBUbk5EbGtaZG1lS0XSAX5BVV95cUxNQzFzcjFpYWU3dHUxajEtSkNPQzFaRFg3R2NtTDUySThzN1NSNFF2M2E1ZndxTVhqeDUtRjJSajVMWWZ5aHhzTWk2b0tUa3BFY2pPMEh0VlpxZ3Vaekd1MHo4akpYSFVlOTRrMlJLc1U2MUZWaXh5bTBrVC1kdkE?oc=5",
     "importance": "A",
@@ -3807,96 +3898,5 @@
     ],
     "date": "2026-10-29 03:07",
     "id": "eVBfZW5EZkU%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "グローバル覇権の変遷：イギリス・米国から中国へ、世界の未来予測",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84Q0oyaS1uZHNsVFFSMExsQVhGLU1RYkNlVVZmd2ZLRWxJSURtY3FrNmFGanM3cmFFRURYREE5al9xaDNrOV9VaW5ldFY1Y0FvcXdxSUhkUmZsY3M?oc=5",
-    "importance": "S",
-    "summary": [
-      "世界の覇権がイギリスからアメリカへ、そして今後は中国へと移行する可能性が議論されており、これは長期的な国際秩序の変動を意味する。",
-      "覇権交代は経済、軍事、技術、文化など多岐にわたる影響を及ぼし、企業は地政学リスクとビジネスチャンスの両面で備える必要がある。",
-      "企業は、国際情勢の大きな潮流を理解し、サプライチェーンの再構築、市場戦略の見直し、政治・外交リスクへの対応策を策定すべきである。"
-    ],
-    "date": "2026-10-29 03:07",
-    "id": "SUhkUmZsY3M%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "次世代LLMの技術革新：トランスフォーマーを超える4つの新アプローチ",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBvQjN5enZORVVaZjdVZU40TDE3UFRTTTIyODVXODJtM3pmWm5PU1NveTR6SXRHWVJqaW9MZVJzY1FKOEdJWXZEZnJoYTU4Z3QzSURvTHZ5aFVoRWZBYWFlaF9ZOVRfYm9YbEVfT1dmNmpDNnBIQnlwak9hVlBhQXhOSmhnN3N5bEFfSFVMVGw2MHYwUTBIZXVwSQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "大規模言語モデル(LLM)の基盤であるトランスフォーマーモデルに限界が見え始め、新たな技術アプローチが注目されている。",
-      "次世代LLMは、より効率的な学習、長文理解能力の向上、そして省エネルギー化を実現することを目指す。",
-      "企業はこれらの技術トレンドを早期に把握し、将来のAIシステム開発や競争力維持のための戦略に組み込むべきである。"
-    ],
-    "date": "2026-10-29 03:07",
-    "id": "wUTBIZXVwSQ%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "世界の覇権交代予測：英米中から読み解く未来の国際情勢",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84Q0oyaS1uZHNsVFFSMExsQVhGLU1RYkNlVVZmd2ZLRWxJSURtY3FrNmFGanM3cmFFZURYREE5al9xaDNrOV9VaW5ldFY1Y0FvcXdxSUhkUmZsY3M?oc=5",
-    "importance": "S",
-    "summary": [
-      "イギリスからアメリカ、そして中国へと移り変わる覇権交代の歴史から世界の未来を予測。",
-      "国際政治学者が世界戦争勃発や思想崩壊の可能性を示唆し、地政学的リスクの高まりを警告。",
-      "企業は、グローバルなサプライチェーンや投資戦略にこれらのリスクを織り込む必要がある。"
-    ],
-    "date": "2026-10-28 18:28",
-    "id": "SUhkUmZsY3M%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "日経BP「未来調査2026-2030」：全産業を網羅する中長期予測",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdWpnZzY0ZDlMack5Y0VwdXg1LVBKMzhxMWZmb1k3VVZMOWE4WnB5dW5LTS1fZnBmTlJXZnF4dW5mYk9SNE85MjJ4bU5wR25lQ3RZamc4R2ZSUXcw?oc=5",
-    "importance": "S",
-    "summary": [
-      "日経BPが2026年から2030年までの全産業を対象とした詳細な未来調査を発表。",
-      "技術革新、社会構造の変化、市場動向など多角的な視点から産業の未来像を提示。",
-      "企業は中長期的な事業計画や投資戦略を策定する上で、この予測を重要な指針とすべき。"
-    ],
-    "date": "2026-10-28 18:28",
-    "id": "mc4R2ZSUXcw%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "エムバペの政治的発言、中国市場での契約打ち切りで示すアスリートのビジネスリスク",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0pLS1phM0tlN2lydWJjcVNIUDZrMU93d0NVZ1UxZGRXaldaZTRMQWd3c3hZOWlXekR5cmFoaGxJNW9yNkdLR09LQ2NUMWM1aWhxallkRG1tcTYzVG9hUXQ4cE1LeWg2MnEzZDFOTDRNYTE1X3ZnZDhvclFsWVRPMUVrUVROUGRqdGFlTEt4dVBnajEtWmtCWnladzMtRzVCYlAySi1DVzl0R1kwZDlScU1lY2pOUnZJT1dMbWVjQ1hXcWdvRWs2TnZpRGjSAXxBVV95cUxNcl9uMHN5YnMybGdnMUM4QzFxeEdtS185djk3a2duaDluWl9ibmY4RHFmNnRqUzg5Uy1BRFVCT0hJNkFkeHdQVUhKdlFMQklDUGVaWXFsdEwxQzlFb3ZLd3F5TW9oMlQxWjItWmJHUWpjMUpWMkpvOGdxR3Z2?oc=5",
-    "importance": "S",
-    "summary": [
-      "フランス代表FWエムバペ選手の毛沢東に関する発言が中国で批判を浴び、大手企業2社が契約打ち切りを発表しました。",
-      "これは、トップアスリートの個人的発言が、スポンサー企業と巨大市場とのビジネス関係に甚大な影響を及ぼすことを示しています。",
-      "グローバル展開する企業は、契約アスリートの言動リスク管理を強化し、地政学的な文化・政治的配慮の重要性を再認識する必要があります。"
-    ],
-    "date": "2026-10-28 02:44",
-    "id": "kpvOGdxR3Z2%3Foc%3D5"
-  },
-  {
-    "category": "스포츠",
-    "title": "大谷翔平に次ぐインスタフォロワー842万の日本人男性アスリートが持つブランド力",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMk1qMk8zNUV4WUNkLWNydV9STWItWGVvT2Jra1U1aldza01OcDhJY3hzY2gzR3pNU2tINGY3WDkxeTNrU0M1X003bGRzZlAtUmNTeDlkTHhxU2pOZUlucUxXYm5yWWpsNkxSM05EZm9mTjV6Vmc5M3J1NWRuc09ZNQ?oc=5",
-    "importance": "B",
-    "summary": [
-      "大谷翔平選手に次ぐインスタグラムフォロワー842万を誇る日本人男性アスリートのブランド力と影響力が注目されている。",
-      "スポーツ選手のSNS影響力は、広告やスポンサーシップ獲得において重要な資産であり、企業のマーケティング戦略にも直結する。",
-      "アスリートの国際的な人気は、日本の文化や商品のグローバル展開を後押しする可能性を秘めている。"
-    ],
-    "date": "2026-10-27 17:47",
-    "id": "1NWRuc09ZNQ%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "スポーツ市場の「深化と二極化」に見る8,743億円の観戦市場動向",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTW5SNlE2YW95cmhwUkFuRE5iSkt4SFZITWN1dVdUMjNwa2tKczd4ZFZSXzI0T09PM2xVQk9uUDFEQzBCZ0NWSEJCYkRFMXZFQVk3VW9GeS1kLU43TDJPaEFzeEhoUQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本のスポーツ観戦市場は8,743億円規模に達し、「深化と二極化」という特徴が顕著になっている。",
-      "一部のプロスポーツや人気選手への注目が集中する一方で、ニッチなスポーツや地域密着型イベントも独自のファン層を確立。",
-      "スポーツ関連企業は、多様化するファンのニーズを捉え、デジタル技術を活用した新たな観戦体験の提供や、地域コミュニティとの連携強化が求められる。"
-    ],
-    "date": "2026-10-27 17:47",
-    "id": "PaEFzeEhoUQ%3Foc%3D5"
   }
 ]
