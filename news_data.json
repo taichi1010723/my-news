@@ -1,5 +1,83 @@
 [
   {
+    "category": "スポーツ",
+    "title": "電通「スポーツ総合調査2025」：スポーツ市場の最新トレンドと消費者動向を分析",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HejZqVlF1aHAxYTByY2lVLW8tNjhGREhRTDVMYXZqbTZZOUpIOERYNnVidjRoMVY4cjh5WGFaNVNWZFpLOTlvT3VUeDc2MlFUUXFYanZfczA5WFh1ZXE3S0lMY2ZGbHhkQm9J?oc=5",
+    "importance": "A",
+    "summary": [
+      "電通による「スポーツ総合調査2025」が、日本のスポーツ市場の現状と将来を詳細に分析。",
+      "消費者のスポーツへの関与度、メディア接触、消費行動の変化を明らかにする。",
+      "スポーツコンテンツホルダーや関連企業にとって、今後のビジネス戦略立案に不可欠な基礎データを提供。"
+    ],
+    "date": "2026-11-24 22:26",
+    "id": "2ZGbHhkQm9J%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "クアルコムが日本にロボティクスセンター設立：トヨタ・ソニーなど18社が支援",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY1g2TjJjUE1oenpuQkh4b2F1LWxLMnRyanVURjRYbnFKNXd2MzRZSHFuZlNLVXVaYU1ja0tkZ0c0OExBVzcxY21ublpCNnUyVDdnbFVlNm9QWGlDQ2hN?oc=5",
+    "importance": "S",
+    "summary": [
+      "クアルコムが日本にロボティクスセンターを設立し、日本の大手企業が支援。",
+      "日本がロボティクス技術開発のハブとなる可能性を示唆。",
+      "異業種連携によるイノベーション加速と産業エコシステムの強化が期待される。"
+    ],
+    "date": "2026-11-24 22:26",
+    "id": "m9QWGlDQ2hN%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均株価8万円の可能性を検証：市場の長期見通しと背景要因",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamVLUVh5ZHRlY0hwQnkzTkR1RWxmTUVUS1FTaVVRODJ2cUt6MGFVSTBSa2owandIaXZjM2tzdnNyT2hTTFREM1lTWDZPV3pTcG1XVi03TDlNZnAtd0d2cG1ldENBTWJMZnVpWHFKdzh0Nlc3WUJXdWhRM1g2aGJEcXpqY1F6Nko5RVdISDM1QWVHQQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "専門家が日経平均株価の8万円到達の可能性と背景にある要因を分析。",
+      "企業業績の改善や日本経済の構造改革が株価を押し上げる可能性。",
+      "長期的な市場の成長性を見極める上で重要な視点を提供。"
+    ],
+    "date": "2026-11-24 22:26",
+    "id": "ISDM1QWVHQQ%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "AI時代のマーケティング変革：P&Gから学ぶ本質的な戦略",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIWHZQeEtUVWtvaWtsaUdpdjNMQi1uLXRCTTJVSEF0TUJEd1hKLWJPblZBTnUwdDh3VS00aTFDS3BYVEpVNlZRTXFYWVU4N3JrUDFxVUh5S2I2UDY1TU04bG1HWWpOdw?oc=5",
+    "importance": "A",
+    "summary": [
+      "AIがマーケティングのあり方を根本的に変えつつある現代の状況を解説。",
+      "P&Gの事例を通じて、変化の時代に通用するマーケティングの本質を探求。",
+      "技術進化に対応しつつ、顧客理解とブランド価値創造に立ち返る重要性を強調。"
+    ],
+    "date": "2026-11-24 22:26",
+    "id": "4bG1HWWpOdw%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "生成AIの消費電力問題と「Green Micro AI」：持続可能なAI開発への新アプローチ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dlIzMThabFV0UlYzdXBiQWotbVRYLUtnTE5rT0tQSGJ5VDNBajMtelNnTmstSGNOUThDVnlrcXdXTUNvb0VBb05jOTZ6ZERqY0Fyd250RlpVYVZxY2JB?oc=5",
+    "importance": "A",
+    "summary": [
+      "生成AIの普及に伴い、消費電力と環境負荷の増大が深刻な課題に。",
+      "「Green Micro AI」は、小型・高効率なAIモデルでこの課題解決を目指す。",
+      "持続可能なAIビジネスモデルの構築と、環境配慮型技術への投資の重要性が高まる。"
+    ],
+    "date": "2026-11-24 22:26",
+    "id": "lpVYVZxY2JB%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "フォルクスワーゲンが自動車にChatGPTを統合：産業界におけるAI活用事例",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HMFBWN2FMNWt5SkpxSVBYenNnVUx6bVRyeGtxc3Ytc0ZqRE5iZjNJZkM1MktfNXZLYXE2TThjQzd1OUlHTmo4VmNuOHE3OUd4ZkE?oc=5",
+    "importance": "A",
+    "summary": [
+      "自動車メーカーが生成AIを製品に統合し、ユーザー体験の向上を図る。",
+      "音声アシスタント機能の進化により、車内での情報アクセスや操作性が向上。",
+      "他産業へのAI活用拡大の波及効果を示唆し、新たなビジネス機会を創出。"
+    ],
+    "date": "2026-11-24 22:26",
+    "id": "OHE3OUd4ZkE%3Foc%3D5"
+  },
+  {
     "category": "世界情勢",
     "title": "EU、アメリカとの貿易協定承認を凍結：国際貿易関係への影響",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GWVItZkxnSzFVdmh0cnB2NEtSTndEQWVBaWlIZTNhTHhYaHgzNnhELU9GVEZ2U1dNUXBYOU1ETk9fQTdycVgxMGVUd0R6Vmw2MVNUSzJUZmZZd1FwS3g00gFkQVVfeXFMTk1wTFVxdzk2WVFOX0MxbkdSMzFjQ0xGZkRjbngwU1BPUUtvM2lybWZTTk83M2F0eGlSc1BkTUp3OGVxVU1xNGVGZU9Ga3BQOTdSUlV5NC1Db1Y2eGpEU2hvZl9fQw?oc=5",
@@ -3820,83 +3898,5 @@
     ],
     "date": "2026-11-01 09:49",
     "id": "nbDRmdUt1UQ%3Foc%3D5"
-  },
-  {
-    "category": "ビジネス",
-    "title": "日本の中小企業課題とベンチャー支援：データ活用と客員起業家制度",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2VUdCcENQWlRudHlNMnhTaFpTb1d2R0x5dHE3amxnYWNmUmQ3dEU1bm01LXFGV0NGTVczWVVLam1pTko5LUZsc0xhYTdEY3hISG1VcFJnYTF0MEdKTWdHdmR6UkdPNTB2RGc?oc=5",
-    "importance": "A",
-    "summary": [
-      "日本を支える中小企業が抱える課題が指摘され、社会的背景と共にその対策が求められている。",
-      "ビジネスにおけるデータ活用の重要性が増しており、特に中小企業にとっては競争力強化の鍵となる。",
-      "EIR（客員起業家）制度がベンチャー企業の経営者不足を救い、ディープテック領域のトレンドを牽引する可能性が示唆される。"
-    ],
-    "date": "2026-11-01 09:49",
-    "id": "UkdPNTB2RGc%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "AI時代のマーケティング本質論：P&Gから学ぶ変化とブランド戦略",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbHppNDExQ0I0cDlZUEhENHEySzVZaTNVcXdVc1FIaHIyM2o4S2F5S0xvcGN6OWlySkhCdUlGdWI3bG5yQUhsbjVaSTBObXhZUS1xTkNGWkMzU21vMmVwd091TlJCQQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "AIが進化する現代において、P&G出身マーケターらがマーケティングの変わらない本質と変化する要素について激論。",
-      "AIがデータ分析や効率化を担う一方で、消費者の深層心理や感情に訴えかけるブランド構築の重要性が増している。",
-      "AIを最大限に活用しつつ、人間中心のブランド戦略を再構築することが、ビジネス成長の鍵となる。"
-    ],
-    "date": "2026-11-01 09:49",
-    "id": "wd091TlJCQQ%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "国産AIの戦略：小型・日本語特化でChatGPTを追わない独自路線",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16dGt6ZDNqNG92YVhGaG5VRjlFcWlfWFpTUEg3T2hOOVdyTWtiRFJtSVc3ZTE4MjVCalB5VlJROWs1WGVxVzlxaWtmWFhmX3A5Y3ludUFOOFJlVkRLejg5Tm5IMnhDUQ?oc=5",
-    "importance": "B",
-    "summary": [
-      "日本企業がChatGPTのような大規模AIを追わず、小型かつ日本語に特化した独自路線のAI開発を進めている。",
-      "この戦略は、国内市場のニーズに合わせたきめ細やかなサービス提供や、特定の産業分野での優位性構築を目指すもの。",
-      "グローバルAIとの差別化を図り、日本独自の技術的強みを活かすことで、新たなビジネス機会が生まれる可能性を秘める。"
-    ],
-    "date": "2026-11-01 09:49",
-    "id": "5Tm5IMnhDUQ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "2026年、経営者全員が日経平均の最高値更新を予測",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mTHZlT2kwa1lmbVVSSm94VnFzclF1QkstejBSTV92Q0JCbWJpNFNFc2NHcExvaUpkR0pRVjBtQnFxV0FRUENYZENFWDBHaFc2QktnRUVCeXBOejVlQWdFeVhzMmk5cEh0TDd1Qg?oc=5",
-    "importance": "A",
-    "summary": [
-      "経営者20人全員が、2026年に日経平均株価が最高値を更新すると予測していることが判明。",
-      "企業の積極的な投資や事業拡大への意欲が高まり、経済全体に好循環をもたらす可能性。",
-      "経営者の前向きな見方が、市場心理の改善や消費・投資の活性化を促す。"
-    ],
-    "date": "2026-11-01 02:02",
-    "id": "5cEh0TDd1Qg%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "2026年日本株見通し、日経平均55,000円のメインシナリオ",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZaHNpYnhLWEItb1M4OFZOdTNWZGxicUc5SEE2enVsQ0ZhSVdwMjYxSmwtajV1WEVhQ0ZkQVltTlU4bVFxU1FIT2tzMjZteDFMajQSUGZUd0dPOUNjemRn?oc=5",
-    "importance": "S",
-    "summary": [
-      "野村證券のストラテジストが、2026年末の日経平均株価が55,000円に達するというメインシナリオを提示。",
-      "企業業績の堅調さやグローバル経済の回復が株価上昇の主な要因とされている。",
-      "投資家や企業は、この強気な市場見通しを基に戦略的な資産運用や事業計画を検討する必要がある。"
-    ],
-    "date": "2026-11-01 02:02",
-    "id": "0dPOUNjemRn%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "覇権交代の歴史が示す世界の未来：英国から米国、そして中国へ",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84Q0oyaS1uZHNsVFFSMExsQVhGLU1RYkNlVVZmd2ZLRWxJSURtY3FrNmFGanM3cmFFdURYREE5al9xaDNrOV9VaW5ldFY1Y0FvcXdxSUhkUmZsY3M?oc=5",
-    "importance": "S",
-    "summary": [
-      "世界経済と政治の覇権が英国から米国、そして中国へと変遷する歴史的サイクルが分析されている。",
-      "この覇権交代は、国際的な緊張の高まりや、新たな経済圏の台頭を伴う可能性が高い。",
-      "企業は、長期的な視点でグローバルな勢力図の変化を読み解き、事業の持続可能性と成長戦略を再考する必要がある。"
-    ],
-    "date": "2026-10-31 18:25",
-    "id": "SUhkUmZsY3M%3Foc%3D5"
   }
 ]
