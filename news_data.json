@@ -1,5 +1,122 @@
 [
   {
+    "category": "スポーツ",
+    "title": "少子化がスポーツ界に与える深刻な影響と未来への課題",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FcVNqR29DZlVxck1Kbk9oS2FBbGJlTlp6Nm5BSkJNNGlNVzk4dmQ0U0VfRXJyYmNMeWNMU3gyYkhSOFlDbWJaLWhQQXhUdk1OaWUtdFJwVEZCZGtPa1IyeHpIX0s0VlMwd1dlOW1SMEJ6djJmWDNDVmVBRzlpVTA?oc=5",
+    "importance": "S",
+    "summary": [
+      "日本の少子化がスポーツ界にも深刻な影響を及ぼし始めており、競技人口の減少が顕著になっている。",
+      "この傾向が続けば、将来的にスポーツイベントの規模縮小、プロリーグの存続危機、国際競争力の低下に繋がりかねない。",
+      "スポーツ振興には、子どもたちが多様なスポーツに触れる機会を増やし、地域全体で支える仕組みを構築することが急務となる。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "VmVBRzlpVTA%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "Coral Capitalが250億円ファンドで次世代ソニー・トヨタを育成",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aNm5EMldiZmVnRE84YzRrbFh6LVVmODY5RGczdGFrMkY4TU9wUzZOdm9iWXBPb0Y3ZDhxVWVJcW9RN1JhdHZTbnV1Mnl0RjFYUzRHNmZBZWxFOWpMcHBOZ1dlODh6QnM?oc=5",
+    "importance": "A",
+    "summary": [
+      "Coral Capitalが250億円規模の4号ファンドを組成完了し、「次世代のソニーやトヨタを生み出す」ことを目標に掲げた。",
+      "このファンドは、有望なスタートアップ企業への投資を通じて、日本の技術革新と新たな産業創出を支援する。",
+      "スタートアップエコシステムの活性化と、グローバルで競争力を持つ企業の育成に向けた動きとして注目される。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "Z1dlODh6QnM%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "ディープテックで日本の競争力強化：官民挙げて「第2のソニー」を創出",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41ZkNVOXhVb3Y0R3dza3YtZm5ad1ZBWlpZZHlWdTV2Tk9MWm1hWHU1Uk5xOUZkaUtLcjJQQ255U090VWtVYlBVNnRoUkdoSmRISk40?oc=5",
+    "importance": "S",
+    "summary": [
+      "日本政府と民間が連携し、ディープテック（深層技術）分野への投資を強化し、「第2のソニー」のような世界的な革新企業創出を目指している。",
+      "この取り組みは、日本の経済競争力を高め、新たな産業を育成することを目的として、研究開発やスタートアップ支援に注力。",
+      "次世代の技術革新を牽引するディープテックの育成は、日本の未来を左右する重要な国家戦略として位置づけられている。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "kdoSmRISk40%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "2026年、中小企業が知るべき税制環境と経営戦略のポイント",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWEF3NC10ME9aMFRRRTFNV3pDWlRRZnFNNlBnVENWREV4bDdZZUw3S0g0SHQwVEVzcHpfZUh4M3BBdDV3RmtReFd2bDZid2xmeWc3YmRmd0JhUUt2WkU0?oc=5",
+    "importance": "B",
+    "summary": [
+      "2026年に向けて、中小企業が知っておくべき税制環境の変化と、それに対応する経営戦略の重要性が指摘されている。",
+      "インボイス制度の定着や電子帳簿保存法の改正など、税務に関する法改正が経営に与える影響は大きい。",
+      "中小企業は、税務の専門家と連携し、適切な資金計画や投資戦略を立てることで、経営の安定化と成長を図る必要がある。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "0JhUUt2WkU0%3Foc%3D5"
+  },
+  {
+    "category": "ビジネス",
+    "title": "AIビジネスにおける企業戦略と未来像",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZTZRZ0VSY3dDY1AtTGJiUU91cmh0MHhrQW4tbWFJbGhibi12Mk91d01VbHQ0c2N1dUFFT3Ftd05KT1ltZGROODRJRFdtS1dJZVVfckFNaXVYUHFaVmF3?oc=5",
+    "importance": "A",
+    "summary": [
+      "AIビジネスが急速に拡大する中、企業はAIとどのように向き合い、どのような戦略を立てるべきかについて考察されている。",
+      "単なるAI技術の導入だけでなく、既存ビジネスとの融合、新たな価値創造、組織文化の変革が成功の鍵となる。",
+      "倫理的課題やデータプライバシーへの配慮も重要であり、持続可能なAIビジネスモデルの構築が求められる。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "XVYUHFaVmF3%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "ダイキン流ブランディング指標の設計法：想起率に至る苦悩と工夫",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2c0tCT1NsdlhjOVFZa3E5STlpME9uRzZJeWpNMjY3bFIwSDBodlY3dEVGaG94VFVlRnNiMm5rMVdYZkk1Y2Z1ZElIbzJnaUw0Y1lxNmxrS1EwakI5TkNmZnVPMTd5UQ?oc=5",
+    "importance": "B",
+    "summary": [
+      "ダイキン工業が、ブランド戦略の効果測定における「想起率」を重視し、その設計に苦悩と工夫を重ねてきた経緯が紹介されている。",
+      "単なる認知度だけでなく、顧客の購買意欲に繋がる質の高い想起を促すための指標設定や調査手法に注力。",
+      "ブランディング投資の成果を定量的に把握し、戦略の改善に繋げるための具体的な取り組みは、多くの企業にとって参考になる。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "mZnVPMTd5UQ%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "大企業におけるWeb広告の限界とPR戦略による大手開拓",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOURTcE91bEg1LUwxUnhSTDJZYVdTdUY4cVZkaFgtRUkxMlowZDV5SUFhYndQWVVyZFJVWkNmdXEwa3JIaFpMVF94eTJlUFJPRTYwWmNSZExaWk5jNnJmUGEzdEgzQQ?oc=5",
+    "importance": "B",
+    "summary": [
+      "ネットプロテクションズの事例から、Web広告だけでは大企業開拓に限界があることが示され、PR戦略の重要性が再認識されている。",
+      "Web広告がマス層に届きにくく、信頼性構築に課題がある一方で、PRはメディア露出を通じて企業の信頼性と認知度を高める。",
+      "BtoBビジネスにおいて、大手企業との関係構築には、認知度の高いメディア露出や専門性アピールが効果的な戦略となる。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "mUGEzdEgzQQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "国産AIの戦略：小型・日本語特化でChatGPTとの差別化を図る",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16dGt6ZDNqNG92YVhGaG5VRjlFcWlfWFpTUEg3T2hOOVdyTWtiRFJtSVc3ZTE4MjVCalB5VlJROWs1WGVxVzlxaWtmWFhmX3A5Y3ludEFOOFJlVkRLejg5Tm5IMnhDUQ?oc=5",
+    "importance": "A",
+    "summary": [
+      "国産AI開発が、ChatGPTのような汎用大規模モデルを直接追うのではなく、小型化と日本語特化という独自の戦略を進めている。",
+      "これにより、特定の産業や業務領域での高精度なAI活用を目指し、データセキュリティやカスタマイズ性での優位性を追求する。",
+      "日本市場のニーズに合わせたAI開発は、国内企業のDX推進や国際競争力強化に貢献する可能性を秘めている。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "5Tm5IMnhDUQ%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AI業界の主役は「生成AI」から「エージェント型AI」へ移行",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ocC1ndDVseG92NjJteGRUalVSbGFqZXgxN3JYbEJDRWRMUEdOYWF3NHkzbmJhMXhpNTcxVl92S0RGaUZYc0VqMDRJeE9KNng5dGhWSnE1RFEzUGZBMkVEOFlpQUJvemo2bGNIOEZheWVvN2h4X0V3?oc=5",
+    "importance": "S",
+    "summary": [
+      "AIブームの主役が、コンテンツ生成に強みを持つ「生成AI」から、自律的にタスクを遂行する「エージェント型AI」へとシフトしている。",
+      "エージェント型AIは、ユーザーの指示に基づいて複数のツールやシステムを連携させ、複雑な目標達成を支援する可能性を秘める。",
+      "このトレンドは、AIが単なる補助ツールから、より高度な意思決定と実行を担う存在へと進化することを示唆しており、ビジネスモデルに大きな変革を促す。"
+    ],
+    "date": "2026-11-26 06:23",
+    "id": "WVvN2h4X0V3%3Foc%3D5"
+  },
+  {
     "category": "株・経済",
     "title": "円高下でも日経平均堅調：良好な景気と企業業績が支え",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqanIyZC1DUVczVFVCU1Jya0JhVWhHUEtaYXVkbVowT0lrRDd1enNPdVBRZldiZDhZMExLRGVELWZJT1RQbUtEcFN3M0NObnpjS0duYVJlNnp3Zw?oc=5",
@@ -3781,122 +3898,5 @@
     ],
     "date": "2026-11-03 06:34",
     "id": "1ekdrM0NZeQ%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均が一時急落：米景気懸念と円高が市場に与える影響",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaTNLaTR2ZXluN3F1akZ1dFAwbnVRRU5mSEZxSk5Ha1pwd19jcEpCR3RPR2lOd0VwcnhySFdreGJCcXVlSFdnbXVlS2VMSF9BWkhJWkJRRlNjTmJaVGE0N0JmalljZTJwN05qSg?oc=5",
-    "importance": "S",
-    "summary": [
-      "日経平均株価が一時2600円安を記録し、市場に大きな動揺が走った。",
-      "背景には米国の景気後退懸念と急激な円高の進行があり、投資家のリスク回避姿勢が強まった。",
-      "グローバル経済の不確実性が高まる中、為替と主要国の経済動向が日本株に与える影響に注意が必要。"
-    ],
-    "date": "2026-11-03 06:34",
-    "id": "jZTJwN05qSg%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "総務省「情報通信白書」が示す、生成AIの進化と社会実装の現状",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWN2OW9EV2NpMzlKMXN6MkZvNTMwcVFhQS10QWVYLVQ2Y1NGeHBTMTdNb2EtUHQ0M0lVQ0RvQkN4VWZZVVlyMFJVT25DUlZuMGhmb01odUFWTk1kQWNzY050TnlXckJxclVUaVlsRUVIYi14Z241b0ZMcUJmTzhXcVN3?oc=5",
-    "importance": "A",
-    "summary": [
-      "総務省の令和6年版情報通信白書は、生成AIの急速な進化と社会経済への普及状況を分析している。",
-      "生成AIの利活用が広がる一方で、倫理的課題やセキュリティリスク、情報格差の拡大などの問題も指摘。",
-      "政策策定や企業の戦略立案において、AIのポジティブ・ネガティブ両側面を考慮したアプローチが不可欠となる。"
-    ],
-    "date": "2026-11-03 06:34",
-    "id": "UJmTzhXcVN3%3Foc%3D5"
-  },
-  {
-    "category": "スポーツ",
-    "title": "大谷翔平が青少年人気で4年連続1位、スポーツビジネスへの示唆",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcy1IMENfcktpb0Y1NENVN0djTlJsd0lzNXRLYWpndUEyeVRqdHktMFplSXFuc3gyNm4xdkZ3UV9kSDlEUjB1b1hhUDlFcVhST0NMRkI5VTdIZ3h0bW0xVE1XR0FIQnJoTk91ZV9qLWdscG1TTDBicF83WDRWLUVwVnFB?oc=5",
-    "importance": "S",
-    "summary": [
-      "笹川スポーツ財団の調査で、大谷翔平選手が2025年の青少年が好きなスポーツ選手ランキングで4年連続1位を獲得した。",
-      "この結果は、青少年層のスポーツ選手への関心度や憧れの対象を明確にし、今後のスポーツ関連ビジネスのマーケティング戦略に影響を与える。",
-      "大谷選手の圧倒的な人気は、グッズ販売、イベント、メディア露出など、多岐にわたるスポーツ市場の活性化に貢献すると予想される。"
-    ],
-    "date": "2026-11-02 19:43",
-    "id": "DRWLUVwVnFB%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "中国「一帯一路」構想の課題と習近平の新たな外交戦略",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xa0lRRlFSMnpsdGd3SXVBbVlkUjVZSUFNWGFyQlVpQUtDRE1zQ2l1UmRDTThCVWQ2LTZNSlJobmNHTzlkbkdZWTMyb2tPdElYVlNfZmdVS0NPYTg?oc=5",
-    "importance": "A",
-    "summary": [
-      "中国の巨大経済圏構想「一帯一路」がヨーロッパで停滞し、インドも距離を置くなど、課題が浮上している。",
-      "米中首脳会談を前に、習近平国家主席が外交を活発化させており、その次の一手が国際社会に注目されている。",
-      "この動向は、グローバルサプライチェーンや投資環境に影響を与え、企業の地域戦略にも影響を及ぼす可能性がある。"
-    ],
-    "date": "2026-11-02 10:22",
-    "id": "ZmdVS0NPYTg%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "仏マクロン大統領、米中へのAI依存脱却を呼びかけ：新たな協力枠組み構築へ",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqVlNqa3EtbklHZ3lpeDlkVm9rdFQwQzNSdmI1dW1hNlhjeGl5OU9OSzVMM3ZQMW9tTHFYZ1BUcUstV1Bxb0drQzNiSl8zbFA2WUNCcDhaTlJ2bjJhUUc4?oc=5",
-    "importance": "S",
-    "summary": [
-      "フランスのマクロン大統領が、米中へのAI技術依存からの脱却を目指し、国際的な協力枠組みを提唱した。",
-      "AI分野における技術主権の確立と、サプライチェーンのリスク分散が主要な目的とされている。",
-      "この動きは、欧州を中心としたAI開発・利用の新たなエコシステム形成を加速させ、グローバルな技術覇権争いに影響を与える。"
-    ],
-    "date": "2026-11-02 10:22",
-    "id": "lJ2bjJhUUc4%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "デジタル経済への課税強化：GAFAの24兆円負担回避問題",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xbXFqSmpWQ2doVXVnM2c2Vm1HNW1vUS0zQ1ktOFc5QUdxWjhQbGgzRWFUaTlVakwxTTNDVktieVcwSExUazMzU2pnY1VocnNLLWlj?oc=5",
-    "importance": "A",
-    "summary": [
-      "GAFAなどの巨大IT企業が年間24兆円もの税負担を回避していると指摘され、国際的なデジタル課税の議論が加速している。",
-      "各国は、公平な税負担と税収確保を目指し、デジタル経済に特化した新たな課税ルール構築を模索している。",
-      "この動きは、グローバルに事業展開するIT企業の税務戦略や収益構造に直接的な影響を与える可能性が高い。"
-    ],
-    "date": "2026-11-02 10:22",
-    "id": "1VocnNLLWlj%3Foc%3D5"
-  },
-  {
-    "category": "日本企業",
-    "title": "日本企業のアフリカ進出動向（2026年3月）：拠点数増加と多様な事業展開",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uWXFlNjZ0WHpsUGlNam8yVTNOX2dDZUZNT2Q4WC1XUllvMWpVQ2xES0FiTkJSa1plSGYwcUJwNE94T1phbnlSS3lLZ1JGRGpmT1c4LW1uYkJ3UnkxRlE?oc=5",
-    "importance": "B",
-    "summary": [
-      "2026年3月時点でのアフリカにおける日本企業の進出状況が報告され、拠点数が引き続き増加傾向にある。",
-      "資源開発だけでなく、インフラ、農業、ヘルスケアなど多様な産業分野での事業展開が見られる。",
-      "アフリカ市場の潜在的成長性とリスクを考慮した、より戦略的かつ持続可能なアプローチが企業に求められる。"
-    ],
-    "date": "2026-11-02 10:22",
-    "id": "YkJ3UnkxRlE%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価が急落：米景気懸念と円高が背景",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaTNLaTR2ZXluN3F1akZ1dFAwbnVRRU5mSEZxSk5Ha1pwd19jcEpCR3RPR2lOd0VwcnhySFddeGJCcXVlSFdnbXVlS2VMSF9BWkhJWkJRRlNjTmJaVGE0N0JmalljZTJwN05qSg?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価が一時2600円安を記録し、大幅な下落を見せた。これは市場に大きな動揺を与えている。",
-      "主な背景には、米国経済の景気後退への懸念と、急激な円高の進行がある。",
-      "グローバル経済の動向と為替市場の変動が日本株市場に与える影響の大きさを再確認し、リスク管理が重要となる。"
-    ],
-    "date": "2026-11-02 10:22",
-    "id": "jZTJwN05qSg%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価8万円の可能性？市場関係者の見方",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3N0bDhiMTlkM0hQRTY4eUlTQmoycVdPckIyS0tGUWphc2tYRkFCLW9ZWEN6dVpQbDRGN1ZZQXU4RXNRbXZlWWt2WlpKTU1pZHR6dHVjRlc2ZUZSbUY2anh4aHdpd0FPUlZiUU5WaFV3SVBCWGJvQXRVeUdHVVRrd1JmS2pCZEtudHV5OE1wWQ?oc=5",
-    "importance": "S",
-    "summary": [
-      "市場関係者の間で、日経平均株価が将来的に8万円に到達する可能性が議論されており、その背景が注目される。",
-      "好調な企業業績、円安傾向の持続、海外投資家からの資金流入などが株価上昇の要因として挙げられている。",
-      "投資家や企業は、今後の市場動向と経済成長の可能性を注視し、戦略的な意思決定が求められる。"
-    ],
-    "date": "2026-11-02 10:22",
-    "id": "udHV5OE1wWQ%3Foc%3D5"
   }
 ]
