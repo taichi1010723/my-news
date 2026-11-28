@@ -1,6 +1,97 @@
 [
   {
     "category": "スポーツ",
+    "title": "青少年の人気スポーツ選手ランキング：大谷翔平が4年連続首位",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcy1IMENfcktpb0Y1NENVN0djTlJsd0lzNXRLYWpndUEyeVRqdHktMFplSXFuc3gyNm4xdkZ3UV9kSDlEUjB1b1hhUDlFcVhST0NMRkI5VTdIZ3h0bW0xVE1XR0FIQnJoTk91ZV9qLWdscG1TTDBicF83WDRWLUVwVnFB?oc=5",
+    "importance": "B",
+    "summary": [
+      "笹川スポーツ財団が発表した「青少年の好きなスポーツ選手2025」で、大谷翔平選手が4年連続1位を獲得。",
+      "若年層の憧れの存在である大谷選手の影響力は、スポーツ用品、教育、エンターテイメント産業に波及。",
+      "この人気は、未来のスポーツ人口や消費トレンドを予測する上で、企業にとって重要なマーケティングデータとなる。"
+    ],
+    "date": "2026-11-28 12:47",
+    "id": "DRWLUVwVnFB%3Foc%3D5"
+  },
+  {
+    "category": "世界情勢",
+    "title": "覇権交代の歴史から読み解く世界の未来と地政学リスク",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84Q0oyaS1uZHNsVFFSMExsQVhGLU1RYkNlVVZmd2ZLRWxJSURtY3FrNmFGanM3cmFFZURYREE5al9xaDNrOV9VaW5ldFY1Y0FvcXdxSUhkUmZsY3M?oc=5",
+    "importance": "S",
+    "summary": [
+      "イギリスからアメリカ、そして中国へと続く世界の覇権交代の歴史を分析し、今後の国際情勢の展望を提示。",
+      "世界戦争の勃発や既存の思想・秩序の崩壊といった深刻なリスクが潜在している可能性を指摘。",
+      "企業の長期戦略やサプライチェーンの再構築において、地政学的リスクの評価と対応が極めて重要となる。"
+    ],
+    "date": "2026-11-28 12:47",
+    "id": "SUhkUmZsY3M%3Foc%3D5"
+  },
+  {
+    "category": "世界企業情勢",
+    "title": "巨大IT企業GAFAの「闇」：市場支配と社会への影響",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUdFBobE50MTJRX0N6aDN4bzMxdl9mRThGRThKRnVaeFNLdWNiMHJtMHA2dkw1bC0tVzByampXVmQxa1JqTW1xb3pZekVyeFRJVkxIWlZCUFdOZHJRajFzcXdRV2hBV2l3OGNN?oc=5",
+    "importance": "A",
+    "summary": [
+      "かつてはイノベーションの象徴とされたGAFAが、なぜ「邪悪」と批判されるようになったのかを深掘り。",
+      "プライバシー侵害、フェイクニュース拡散、市場の寡占化といった問題が社会的な懸念を増幅。",
+      "巨大IT企業の社会的責任と、健全なデジタルエコシステムを構築するためのガバナンス改革が喫緊の課題。"
+    ],
+    "date": "2026-11-28 12:47",
+    "id": "2hBV2l3OGNN%3Foc%3D5"
+  },
+  {
+    "category": "日本企業",
+    "title": "クアルコムが日本にロボティクスセンター設立、日本企業と連携強化",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY1g2TjJjUE1oenpuQkh4b2F1LWxLMnryanVURjRYbnFKNXd2MzRZSHFuZlNLVXVaYU1ja0tkZ0c0OExBVzcxY21ublpCNnUyVDdnbFVlNm9QWGlDQ2hN?oc=5",
+    "importance": "A",
+    "summary": [
+      "クアルコムが日本国内にロボティクス開発センターを設立し、トヨタやソニーなど18の企業・団体が支援。",
+      "日本のロボティクス技術と産業基盤を活用し、最先端AIロボット開発を加速させる狙い。",
+      "異業種間の連携が、次世代の自動化技術やスマートファクトリーの実現に向けた大きな一歩となる。"
+    ],
+    "date": "2026-11-28 12:47",
+    "id": "m9QWGlDQ2hN%3Foc%3D5"
+  },
+  {
+    "category": "株・経済",
+    "title": "日経平均が大幅反落：米景気と円高が市場に与える影響",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaTNLaTR2ZXluN3F1akZ1dFAwbnVRRU5mSEZxSk5Ha1pwd19jcEpCR3RPR2lOd0VwcnhySFdreGJCcXVlSFdnbXVlS2VMSF9BWkhJWkJRRlNjTmJaVGE0N0JmalljZTJwN05qSg?oc=5",
+    "importance": "A",
+    "summary": [
+      "日経平均株価が一時2600円を超える大幅な下落を記録し、市場に動揺が広がる。",
+      "米国の景気減速懸念と急速な円高進行が、売り圧力の主要因として指摘される。",
+      "国際経済情勢と為替の動向が日本株市場に与える影響の大きさを再認識させる結果となった。"
+    ],
+    "date": "2026-11-28 12:47",
+    "id": "jZTJwN05qSg%3Foc%3D5"
+  },
+  {
+    "category": "マーケティング",
+    "title": "AI時代の到来とP&Gに学ぶマーケティング戦略の進化",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIWHZQeEtUVWtvaWtsaUdpdjNMQi1uLXRCTTJVSEF0TUJEd1hKLWJPblZBTnUwdDh3VS00MSSFDS3BYVEpVNlZRTXFYWVU4N3JrUDFxVUh5S2I2UDY1TU04bG1HWWpOdw?oc=5",
+    "importance": "A",
+    "summary": [
+      "AIが市場環境と消費者の行動を大きく変える中で、伝統的なP&Gのマーケティングが再注目される理由を解説。",
+      "データ活用やパーソナライゼーションの重要性が増す中、ブランドの基本的な価値提供の再考が必要。",
+      "AIを最大限に活用しつつ、顧客との深い関係性を築くための新たなマーケティングフレームワークが求められる。"
+    ],
+    "date": "2026-11-28 12:47",
+    "id": "4bG1HWWpOdw%3Foc%3D5"
+  },
+  {
+    "category": "AI・テック",
+    "title": "AIブームの転換点：企業におけるAI導入の課題と現実",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXAzY0pRNTc5YTRJSHJqaGJ5UmdFeTc1ZlI5eV9CSkw2LVkybFpNUlFzRkllc2kyLXUtN0F6QlQ4RWVFSWZxcDlFaXFSdllRcWlDdXc4Tzh5eDVDVkNHS1Y5ZEZDS1F0OWlIU3hjNklRQzNQUFotOEg1X2ZjOFd2dzVwWGY?oc=5",
+    "importance": "S",
+    "summary": [
+      "最新のGPT-5ローンチが失敗し、企業がAIから実質的な成果を得られていない現状を指摘。",
+      "企業導入の95%が期待通りの成果を出せず、AIブームが「幻滅期」に突入した可能性を提示。",
+      "単なる導入だけでなく、AIを事業に深く統合し、具体的な価値を生み出す戦略の重要性が高まる。"
+    ],
+    "date": "2026-11-28 12:47",
+    "id": "OFd2dzVwWGY%3Foc%3D5"
+  },
+  {
+    "category": "スポーツ",
     "title": "セルジオ越後氏が分析：サッカー界に「大谷翔平級」選手不在の理由",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84SjVPU1dGR2pMaEYwTWgtUlJKczA3MUh4VHFtellNX2NuRXFoUUpjdmpxc0h4TDZKSFNNU3Z6Um9hS1V2emJ3aTdQSzlfeEdDMUxITi05anQ?oc=5",
     "importance": "B",
@@ -3807,96 +3898,5 @@
     ],
     "date": "2026-11-05 19:33",
     "id": "a2ZqYkRJWDA%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "EUが米国との貿易協定承認を凍結、米欧関係に新たな亀裂",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GWVItZkxnSzFVdmh0cnB2NEtSTndEQWVBaWlIZTNhTHhYaHgzNnhELU9GVEZ2U1dNUXBYOU1ETk9fQTdycVgxMGVUd0R6Vmw2MVNUSK2JGVFUdEU5lYw?oc=5",
-    "importance": "A",
-    "summary": [
-      "EUが米国との貿易協定承認を凍結し、両地域の経済関係に緊張が高まる。",
-      "貿易摩擦は、グローバルサプライチェーンや多国籍企業の事業展開に影響。",
-      "企業は、主要経済圏間の政策動向を注視し、貿易政策の変更に備える必要がある。"
-    ],
-    "date": "2026-11-05 19:33",
-    "id": "GVFUdEU5lYw%3Foc%3D5"
-  },
-  {
-    "category": "世界情勢",
-    "title": "世界の防衛支出が過去最高410兆円、トランプ政権政策転換で急変か",
-    "url": "https://news.google.com/rss/articles/CBMidEFVV3lxTE9ZamdRcEZMX3lqQ0ZodjFSZG9oWm1DbUNCb3BpQlA1VkF1dUN3YzdQbTVCdVZKcHNRS1kzWXhTdEFFU1RpVFhMRXN6ZFBJeWc5Qm9Rcnl2MmlOQnNSR000cU82blVHVWtaT1ROVzEzanA4ZGUx?oc=5",
-    "importance": "S",
-    "summary": [
-      "世界の防衛支出が過去最高の410兆円に達し、国際安全保障環境の緊迫化を反映。",
-      "特にトランプ政権の政策転換が、世界の防衛情勢を急変させる可能性が指摘される。",
-      "防衛産業や関連サプライチェーンへの影響、地政学リスクの増大に警戒が必要。"
-    ],
-    "date": "2026-11-05 19:33",
-    "id": "zEzanA4ZGUx%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "巨大IT企業の「邪悪化」と社会への影響：規制強化の背景",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUdFBobE50MTJRX0N6aDN4bzMxdl9mRThGRThKRnVaeFNLdWNiMHJtMHA2dkw1bC0tVzByampXVmQxa1JqTW1xb3pZekVyeFRJVkxIWlZCUFdOZHJRaj1zcXdRV2hBV2l3OGNN?oc=5",
-    "importance": "A",
-    "summary": [
-      "GAFAなど巨大IT企業が、プライバシー侵害や独占行為で「邪悪化」と批判される背景。",
-      "社会的な信頼低下と規制強化の動きは、企業の持続可能性に大きな影響を与える。",
-      "企業は、社会倫理やガバナンスを重視し、透明性のある経営が求められる。"
-    ],
-    "date": "2026-11-05 19:33",
-    "id": "2hBV2l3OGNN%3Foc%3D5"
-  },
-  {
-    "category": "世界企業情勢",
-    "title": "アマゾンが売上40兆円規模で37.6%成長を達成できた理由",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVjRIcXZUTkh3Z3NUWkRQOWV2N2tZQzFJVXhnNWZJYWJsSm13ckNQdUYzbDBkVHN6QnNhOGxLQXVCTk92aWN5NF9WcTI?oc=5",
-    "importance": "A",
-    "summary": [
-      "アマゾンが売上高40兆円超の規模ながら37.6%という高成長を維持。",
-      "クラウド事業（AWS）の好調、Eコマースの効率化、新規事業への投資が成長を牽引。",
-      "巨大企業が成長を続けるための戦略やビジネスモデルの進化は、他企業にとっても参考となる。"
-    ],
-    "date": "2026-11-05 19:33",
-    "id": "aWN5NF9WcTI%3Foc%3D5"
-  },
-  {
-    "category": "株・経済",
-    "title": "日経平均株価の主要変動要因：米景気と為替が9000円の差を生む",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VENPTEV2NFJoQ3hlekNTNmdmekQ4SFBGbDlwZ2Z6NGhjejktYjhaY1BvMExDZWdadzI0MGtac0ZUeGRteWtrNWFfVDdVRnUtdi1hTkVLUUY3UUpacWRqUHB1cTZ1ekdrM0NZeQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "日経平均株価は、米国景気と為替の動向によって最大9000円もの変動幅が生じると分析。",
-      "特に、円安は輸出企業の業績を押し上げ、株価を支援する主要因となる。",
-      "企業はこれらの外部要因を継続的にモニタリングし、柔軟な経営戦略を構築する必要がある。"
-    ],
-    "date": "2026-11-05 19:33",
-    "id": "1ekdrM0NZeQ%3Foc%3D5"
-  },
-  {
-    "category": "マーケティング",
-    "title": "「刈り取り型マーケティング」の限界と「想起」が未来の売上を創るメカニズム",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ady0yamxyUW0tYnZzS2NESy14TXhmTl8yYVhtTVZTVGV1ZTh2cjBaWndzc3JzcXg1S2k0MkQzNlhoWHdKZlZ3U2VjRkFTMkI0UjBRdFRvdnZXMkZzUThzRTVwdmgtdw?oc=5",
-    "importance": "S",
-    "summary": [
-      "短期的な成果を追求する「刈り取り型マーケティング」では、長期的な成長が困難に。",
-      "顧客の心に深く刻まれる「想起」のメカニズムが、未来の売上を創造する鍵となる。",
-      "ブランド価値を高め、顧客との持続的な関係構築を目指す戦略への転換が急務。"
-    ],
-    "date": "2026-11-05 19:33",
-    "id": "zRTVwdmgtdw%3Foc%3D5"
-  },
-  {
-    "category": "AI・テック",
-    "title": "大規模言語モデルの限界：Meta科学者が犬の知性にも達していないと指摘",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rQnRISEl4UlIxSVFyVmdVQjVlank4Mm1SeFFGWlhYRm1xMEJ3YkktZHEyczlGMk5Dd3lPRTN6UGF0MjBfeGQtUldUOHA5U3kxU3FN?oc=5",
-    "importance": "A",
-    "summary": [
-      "MetaのAI科学者ルカン氏が、大規模言語モデルが犬の知性レベルにも達していないと指摘。",
-      "LLMの性能を過大評価せず、現実的な能力と限界を理解することの重要性を強調。",
-      "AIのさらなる進化には、現在のパラダイムを超える新たなアプローチが必要である。"
-    ],
-    "date": "2026-11-05 19:33",
-    "id": "HA5U3kxU3FN%3Foc%3D5"
   }
 ]
